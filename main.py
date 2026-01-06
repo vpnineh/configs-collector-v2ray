@@ -78,9 +78,9 @@ class AppConfig:
     CONNECTIVITY_TEST_TIMEOUT = 4
     MAX_CONNECTIVITY_TESTS = 250
 
-    ADD_SIGNATURES = True
-    ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
-    DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
+    ADD_SIGNATURES = False
+    ADV_SIGNATURE = ""
+    DNT_SIGNATURE = ""
     DEV_SIGNATURE = "</> Collector v5.1.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
