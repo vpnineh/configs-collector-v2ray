@@ -1,4 +1,4 @@
-vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 31.14.135.127
 vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 93.186.254.141
+vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 31.14.135.127
+vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?type=grpc&security=reality&sni=stackoverflow.com&fp=chrome&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&sid=86ba053c74aaba8e#IT 🇮🇹 ┇ VLESS-GRPC-RLT - Aruba S.p.A. ┇ 80.211.139.106
 vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@cdi.chekino.ir:20811?type=tcp&security=reality&sni=gameup.ir&fp=chrome&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&sid=22b2598a025a3fde#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 80.211.136.126
-vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 80.211.139.106
