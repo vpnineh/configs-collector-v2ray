@@ -1,5 +1,2 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
-vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?type=ws&security=none&path=/#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.4
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@5.180.55.116:443?type=tcp&security=reality&sni=vk.cc&fp=chrome&flow=xtls-rprx-vision&pbk=mEWXdgJN7KySRfEqezqGc_ThW7QI3KVDJuQa7OV5ulo&sid=82eb685b#SK 🇸🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 5.180.55.116
-vless://e51aa02e-6358-4ade-963e-1c3ef2ed0d50@45.89.54.240:443?type=tcp&security=reality#SK 🇸🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.89.54.240
-vless://a54c3b5a-5f44-4411-8c1e-7bf52a567d7f@sk3.node.ibst.me:7079?type=tcp&security=none#SK 🇸🇰 ┇ VLESS-TCP-NTLS - eServer s.r.o. ┇ 185.112.249.142
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.0

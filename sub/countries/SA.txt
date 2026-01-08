@@ -1,4 +1,2 @@
 vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?type=tcp&security=none#SA 🇸🇦 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.118.198
-vless://98895157-4ded-4eeb-a22c-058ed62bdac3@213.165.60.36:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.60.36
-vless://2fb40048-c812-43ad-ba1a-3e442c92d632@213.165.56.10:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.10
-vless://843a1bd1-d63b-4b54-ba31-4803ac40f527@213.165.63.67:443?type=tcp&security=reality#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.63.67
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#SA 🇸🇦 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.207.11
