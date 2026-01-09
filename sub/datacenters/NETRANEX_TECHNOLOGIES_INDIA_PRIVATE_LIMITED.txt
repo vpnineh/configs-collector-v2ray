@@ -1,4 +1,2 @@
-trojan://5a2c16f9@45.88.183.130:443?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.130
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.156
-vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@45.89.105.24:4443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#IN 🇮🇳 ┇ VLESS-TCP-RLT - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.89.105.24
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?type=tcp&security=reality#IN 🇮🇳 ┇ VLESS-TCP-RLT - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.100

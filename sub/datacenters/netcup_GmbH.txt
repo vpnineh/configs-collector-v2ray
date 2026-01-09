@@ -1,4 +1,5 @@
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.49.144
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 37.120.186.241
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.51.29
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 37.120.184.180
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@89.58.26.101:2005?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳@WangCai2&sni=sni.111000.de5.net&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - netcup GmbH ┇ 89.58.26.101
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 37.120.186.241
+vless://4974a3b2-ba08-47e0-806b-85fb45d038a0@facelessvoid.fonixapp.org:443?type=tcp&security=reality&sni=mesu.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=WXPq4NT1gqVRO7IUJGU3tv0NDe8gxEVN2WGa1dwjiCk&sid=1b89#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 37.120.171.194
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 37.120.164.120
