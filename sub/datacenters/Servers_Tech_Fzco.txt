@@ -6,5 +6,5 @@ vless://ac825282-e2bc-45b1-a7ee-aa8f5effc4d7@62.84.102.162:443?type=tcp&security
 vless://1f8494d3-51a3-420e-8b51-494851573741@5.35.34.181:443?type=tcp&security=reality&sni=web.max.ru&fp=chrome&pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&sid=48a458b7e7cb52ae#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 5.35.34.181
 vless://osVPN_3111052@146.103.105.233:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&flow=xtls-rprx-vision&pbk=Z8A8Q4ZzljW2121vwEHNV6qVMnF9Z_FLULGozMOiGTE&sid=ffffffffff#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 146.103.105.233
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv2.outlinekeys.com:8443?type=xhttp&security=reality&path=/&sni=cdn.tbank.ru&fp=chrome&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Servers Tech Fzco ┇ 77.246.100.169
-vless://a307515b-bfac-4dfb-a5ac-0dd5596e76f2@midorinote.online:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 89.110.83.153
 vless://1ef15939-7ec4-427f-9d47-eed9ced4c96f@91.84.107.75:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 91.84.107.75
+vless://a307515b-bfac-4dfb-a5ac-0dd5596e76f2@midorinote.online:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.34.137.193
