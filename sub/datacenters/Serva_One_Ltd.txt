@@ -1,1 +1,2 @@
 vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Serva One Ltd ┇ 45.85.93.204
+vless://e258977b-e413-4718-a3af-02d75492c349@45.158.127.48:443?type=ws&security=tls&path=/?ed=2560&sni=ww20.allxniu.qzz.io#US 🇺🇸 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 45.158.127.48
