@@ -12,5 +12,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 5.199.169.208
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.25.200
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.191.215
-vless://3ce3dcd6-1829-4848-9fdc-92c82303aa92@84.32.188.6:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=XVQkuSxnSVxaPGYOBdXZMQK02O34dAJoq1j_qlJUjQI&sid=6604800c#NL 🇳🇱 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 84.32.188.6
 vless://983aaabb-27e2-4e15-bbef-b553f23ec8cf@84.32.188.1:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=RCV3ZwtxG18Koo5AOj_wD7aefYG4bRnyqRBtiqrqtzE&sid=c38076aa#NL 🇳🇱 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 84.32.188.1
+vless://3ce3dcd6-1829-4848-9fdc-92c82303aa92@84.32.188.6:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=XVQkuSxnSVxaPGYOBdXZMQK02O34dAJoq1j_qlJUjQI&sid=6604800c#NL 🇳🇱 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 84.32.188.6
