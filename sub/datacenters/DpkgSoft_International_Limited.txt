@@ -1,1 +1,3 @@
-vless://669eb841-7860-4c64-a174-10be72bcb8ef@91.108.245.133:12223?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=GmrCQ9MT3KiP4JQFCwpCfNlcGvzlie-MTmRTCWx70jM&sid=7510dbec#DE 🇩🇪 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 91.108.245.133
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DpkgSoft International Limited ┇ 94.141.161.83
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@193.233.85.244:2584?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - DpkgSoft International Limited ┇ 193.233.85.244
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@212.113.109.101:2584?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - DpkgSoft International Limited ┇ 212.113.109.101
