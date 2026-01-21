@@ -1,2 +1,1 @@
-vless://35a44601-69f4-4f80-a287-c9f2f4d6df16@iranserver.com:8080?type=ws&security=none&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080#IR 🇮🇷 ┇ VLESS-WS-NTLS - Green Web Samaneh Novin PJSC ┇ 185.116.161.5
-vless://a152871a-a332-4930-a1f8-57d457844363@dorc.digitall-tm.ir:21355?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 185.4.31.202
+vless://07865379-86dd-4ca6-ad22-81255519c482@iranserver.com:2083?type=grpc&security=tls&sni=vipv2rey.mamare.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Green Web Samaneh Novin PJSC ┇ 185.116.161.5
