@@ -1,3 +1,4 @@
-trojan://DPaEhASbrF@8.6.112.0:8443?sni=de01.u3er1.ir&peer=de01.u3er1.ir&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
-vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?type=httpupgrade&security=none&path=/?ed=2095TELEGRAM-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-#AT 🇦🇹 ┇ VLESS-HTTPUPGRADE-NTLS - LEVEL3 ┇ 8.6.112.80
+ss://bm9uZTphNDkxYTc0Mi01NTUzLTQ0NWItODI5Zi04ZjZhMjI5MjFkNDY@8.6.112.0:443#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - LEVEL3 ┇ 8.6.112.0
+vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?type=tcp&security=none&path=/?ed=2095#AT 🇦🇹 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.6.112.36
+vless://a24b5351-bfbc-410d-a0f1-3cff35a0e090@8.6.112.11:2087?type=ws&security=tls&path=/Nama?ed=2048&sni=cdn.giftcard-shop.ir&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.11
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.0

@@ -1,1 +1,2 @@
-vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&sid=84ba23f147ad6a56#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.177.238.18
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.144:2083?type=grpc&security=reality&sni=apple.com&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#US 🇺🇸 ┇ VLESS-GRPC-RLT - SIA GOOD ┇ 185.177.238.144
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.18:2083?type=grpc&security=reality&sni=apple.com&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#US 🇺🇸 ┇ VLESS-GRPC-RLT - SIA GOOD ┇ 185.177.238.18
