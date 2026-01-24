@@ -1,2 +1,4 @@
-vless://00830129-33b3-46fa-ad94-365929cc369f@kingn.1mrsub.site:6002?type=ws&security=none&path=/#SA 🇸🇦 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.55.234
+vless://7a774290-5dcc-4bf6-87fe-f6380d8cd765@95.85.232.131:30023?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.232.131
+vless://84d6d574-face-4300-bd27-0eaf3d2942e1@ee1.jugploer.icu:443?type=tcp&security=reality&sni=ee1.jugploer.icu&flow=xtls-rprx-vision&pbk=9wRwCPBEaK7rRCHLzkYLrcyg1d7vo2MaC-BifgNNGmc#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.245.179
 vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@193.187.132.145:587?type=tcp&security=reality&sni=excoino.com&fp=chrome&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02#TR 🇹🇷 ┇ VLESS-TCP-RLT - IPXO ┇ 193.187.132.145
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@143.20.213.40:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳+@WangCai2&sni=sni.111000.de5.net#US 🇺🇸 ┇ VLESS-WS-TLS - IPXO ┇ 143.20.213.40

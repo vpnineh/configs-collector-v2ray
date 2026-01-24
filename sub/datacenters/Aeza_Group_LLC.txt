@@ -1,4 +1,4 @@
 vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 103.71.22.160
 vless://924a17e7-4e9d-4055-bf2e-6f8edfdee786@194.113.106.197:104?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 194.113.106.197
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@77.239.125.99:443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.239.125.99
-vless://493d5565-9c06-4d2f-a252-cbd9d2be3516@77.239.125.6:443?type=tcp&security=reality&sni=www.vk.com&fp=chrome&pbk=-JG4SeIwmtWW0WiLhtmI_7OxCfccenm1LLcBXmkcq08&sid=5c835824f579#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.239.125.6
+vless://449a95b6-8ab1-4fe3-a59b-64b3341f2d12@194.113.106.4:443?type=xhttp&security=reality&path=/&sni=www.latimes.com&fp=chrome&pbk=8uk8XVdF-qfDOzVWh48vLRfsOymBGjGYijAShazk91A&sid=a1cfd3930332#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Aeza Group LLC ┇ 194.113.106.4
+vless://5c4a6750-4eb8-4e58-b1a2-d286f88be331@77.221.151.210:5051?type=tcp&security=reality&sni=digg.com&fp=chrome&flow=xtls-rprx-vision&pbk=Zrk7y7YzcSb_s5H2qkcwPqj-CY6POtrcq-JFPuTTA1A&sid=335a995332bad133#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.221.151.210

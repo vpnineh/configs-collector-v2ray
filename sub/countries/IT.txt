@@ -1,17 +1,24 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&peer=api.avito.ru&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.238.229.254
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.238.229.254
+vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.192.163:8880?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.192.163
 vless://0041e43e-b888-47ab-a6ce-4906631cffa4@it-animalzoo-love.redmak.ir:8447?type=xhttp&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#IT 🇮🇹 ┇ VLESS-XHTTP-RLT - Akamai Connected Cloud ┇ 172.232.206.56
+vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@italy.aparat-movies-download.ir:42538?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.39.207
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?type=ws&security=none&path=/#IT 🇮🇹 ┇ VLESS-WS-NTLS - Aruba S.p.A. ┇ 31.14.135.127
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 176.126.83.158
+vless://39802a7f-3d9f-496f-9baa-59c09a126ade@italy.instasup.ir:1002?type=tcp&security=reality&sni=jetbrains.com&fp=firefox&pbk=uWdy-05745pCUMEKq0ybaRCVBtQB8JrhyWCkHfv2I0U&sid=14cf6857b8741cbf#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 80.211.141.87
+vless://39802a7f-3d9f-496f-9baa-59c09a126ade@italy2.instasup.ir:1002?type=tcp&security=reality&sni=jetbrains.com&fp=firefox&pbk=uWdy-05745pCUMEKq0ybaRCVBtQB8JrhyWCkHfv2I0U&sid=14cf6857b8741cbf#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 80.211.141.133
+vless://66c67c20-f8e8-4f42-9376-a7a9111421a0@it.digitstocks.ir:6030?type=tcp&security=reality&sni=utilecasa.it&fp=firefox&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 80.211.141.105
+vless://1fa85b0b-c76a-43ba-9158-35c12a143411@content.darkhoursehome.com:9341?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 195.231.39.254
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 176.126.83.158
 vless://eda2c296-a990-4d41-bbdf-f9c96b9579cd@84.17.58.152:8443?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#IT 🇮🇹 ┇ VLESS-TCP-RLT - Datacamp Limited ┇ 84.17.58.152
-vless://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.242
+vless://TELEGRAM-CONFiGLiNE-86@ip.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.242
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.195.193
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.92
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.195.193
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNTguMTgwLjIyOC4yMjYiLCJhZGQiOiIxNTguMTgwLjIyOC4yMjYiLCJwb3J0Ijo0NDMsImlkIjoiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vless://88ce0e00-3483-4628-acf2-6137629b9d44@5.253.43.181:443?type=ws&security=tls&path=/ws&sni=zula.ir&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 5.253.43.181
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - SEEWEB s.r.l. ┇ 95.174.23.218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 95.141.37.111
+vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?type=tcp&security=reality&sni=aws.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#IT 🇮🇹 ┇ VLESS-TCP-RLT - Seflow s.r.l. ┇ 83.136.107.171

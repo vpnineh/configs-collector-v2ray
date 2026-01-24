@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzZUSWk0QzNOSDZPbG4zVGRHeWpn@fl3.cowjuice.me:9443#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - H2nexus Ltd ┇ 45.144.53.69
-trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443?sni=fi2.nnvpn.io&peer=fi2.nnvpn.io&security=tls#FI 🇫🇮 ┇ TROJAN-TCP-TLS - H2nexus Ltd ┇ 85.192.49.171
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls&sni=ficdn1.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50
+trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443?security=tls#FI 🇫🇮 ┇ TROJAN-TCP-TLS - H2nexus Ltd ┇ 85.192.49.171
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn2.suio.me:443?type=tcp&security=tls&sni=ficdn2.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.52.229
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443?type=tcp&security=tls&sni=ficdn10.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.156
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?type=grpc&security=reality&sni=hel1.hitori.cloud&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&sid=e9d19fd1ca5ca23c#FI 🇫🇮 ┇ VLESS-GRPC-RLT - H2nexus Ltd ┇ 45.144.53.166
