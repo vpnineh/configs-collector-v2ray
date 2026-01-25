@@ -8,5 +8,6 @@ trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#CZ 🇨🇿 ┇ TROJAN-
 vless://57c9276d-db7a-49ef-ac20-32368a78a769@cz-vip-pronkmsco.hpflashsdwriter.ir:80?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Host-Telecom.com s.r.o. ┇ 188.130.208.51
 vless://7338a824-7335-486b-b05c-8d8962239350@194.182.79.218:19608?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.218
 vless://378d5714-5101-4740-85eb-f42b59ee763d@194.182.79.46:14888?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.46
-vless://7a774290-5dcc-4bf6-87fe-f6380d8cd765@95.85.232.131:30023?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.232.131
-vless://84d6d574-face-4300-bd27-0eaf3d2942e1@ee1.jugploer.icu:443?type=tcp&security=reality&sni=ee1.jugploer.icu&flow=xtls-rprx-vision&pbk=9wRwCPBEaK7rRCHLzkYLrcyg1d7vo2MaC-BifgNNGmc#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.245.179
+vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.232.131
+vless://f6c517ec-1df3-4386-bc29-e7e285954f11@ftppanel.lux-cabin.ir:2052?type=ws&security=none&path=/nikatelshop#CZ 🇨🇿 ┇ VLESS-WS-NTLS - IPXO ┇ 95.85.232.232
+vless://d658f6b3-717c-4d29-ba28-5a68666bd6ec@fast.mohamadtx.ir:3445?type=tcp&security=reality&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net&fp=firefox&flow=xtls-rprx-vision&pbk=7ur6xyf6x_433ooiu2muTIX_TbTtNa5zY2xvRpsPiBs#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.231.83

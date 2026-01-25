@@ -1,7 +1,10 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODUuMTMzLjIwNC4yNDUiLCJhZGQiOiJkbDA1Lm1pemJhbmNvcmUuaXIiLCJwb3J0IjoxMzMzLCJpZCI6ImQ5NmMzYjVlLWFmY2MtNGNmOC1iOGQyLTkyMWFhYzVlYjc2ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://7f54f54b-74d4-402e-a42a-953ecd33ef00@85.133.204.89:57070?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.89
+vless://e28ed329-bee3-421a-92f4-683c9293c4f6@ger-ny2.digitalcity1.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.182
+vless://c20d3ad4-e8b8-4429-a9e2-9875eb053997@85.133.204.143:8080?type=ws&security=none&path=/abc?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.143
+vless://c20d3ad4-e8b8-4429-a9e2-9875eb053997@85.133.204.146:8080?type=ws&security=none&path=/abc?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.146
+vless://a4d823b6-d26b-4611-866f-4d8c7d15b895@85.133.204.50:3031?type=xhttp&security=none&path=/ws#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.50
+vless://2ebc8374-8e30-49c9-be13-c11533387a06@85.133.204.89:1919?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.89
+vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@niimb.aparat-movies-download.ir:42555?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.137
+vless://d9738de2-1b25-407f-9096-fcb6ddc0aa86@85.133.204.132:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.132
 vless://e8ec9972-fd55-4508-885a-739be724921e@85.133.204.186:5757?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.186
 vless://260225a1-8f2c-4302-a7de-1250f334e566@nimba.aparat-movies-download.ir:42535?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.188
-vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@niimb.aparat-movies-download.ir:42555?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.137
-vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@62.60.193.40:85?type=ws&security=none&path=/preply#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.40
-vless://709bb7c8-583f-419c-9cf0-f2ce45fc833d@fin.zerosulution.com:2000?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.59
