@@ -1,3 +1,2 @@
-vless://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.185
 vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222?type=tcp&security=tls&sni=tcp1.speedx3net.ir&fp=firefox#BE 🇧🇪 ┇ VLESS-TCP-TLS - Dyjix SAS ┇ 45.154.96.51
-vless://29bfdb97-fb3e-4418-9ab1-827e2235e7f5@fr.motorbazan.com:8443?type=tcp&security=reality&sni=test.steampowered.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#FR 🇫🇷 ┇ VLESS-TCP-RLT - Dyjix SAS ┇ 45.13.119.77
+vless://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan3.rtpxc.com:3414?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.185

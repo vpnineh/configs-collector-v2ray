@@ -57,10 +57,10 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVT
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.59.101:2053?type=ws&security=tls&path=/&sni=dl1-uk-cdn.easy-upload.org#CY 🇨🇾 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 195.85.59.101
 vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:8080?type=ws&security=none&path=/?ed=2560#CY 🇨🇾 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 195.85.59.161
 vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082?type=ws&security=none&path=/#CY 🇨🇾 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 195.85.59.95
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&security=tls&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&sni=simorgh.hpcode.ir&fp=firefox#CY 🇨🇾 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.92.9.46
 vless://12d6cf82-9eee-4b01-b1bb-e1c1a437a162@195.85.59.155:80?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 195.85.59.155
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#CY 🇨🇾 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 134.255.210.49
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989#CY 🇨🇾 ┇ SHADOWSOCKS-TCP-NTLS - Logosnet Services Limited ┇ 213.169.137.214
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&security=tls&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&sni=simorgh.hpcode.ir&fp=firefox#CY 🇨🇾 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.92.9.46
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.221:989#CY 🇨🇾 ┇ SHADOWSOCKS-TCP-NTLS - Logosnet Services Limited ┇ 213.169.137.221
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989#CY 🇨🇾 ┇ SHADOWSOCKS-TCP-NTLS - Logosnet Services Limited ┇ 213.169.137.214
+vless://1d315e16-0c12-41cb-869e-ec47b601b44b@185.177.73.56:443?type=tcp&security=reality&sni=cy.kickvpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ub9J4LHE03BkRGnQBumiZvntwgFIagUk8vjsc5hLf2I&sid=9c2378562188c3cb#CY 🇨🇾 ┇ VLESS-TCP-RLT - MVPS LTD ┇ 185.177.73.56
 vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAxNzEuMjIuMTM0LjEyIiwiYWRkIjoiMTcxLjIyLjEzNC4xMiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwidGxzIjoidGxzIn0
 vless://f788e136-b245-4617-9d41-b505c7f41ef9@deu196.unboundaccess.org:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#CY 🇨🇾 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.86.70.82

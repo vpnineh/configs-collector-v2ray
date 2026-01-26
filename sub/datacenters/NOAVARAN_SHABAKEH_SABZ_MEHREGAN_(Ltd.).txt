@@ -1,2 +1,3 @@
-vless://1f0f89f6-08c8-6472-b849-691b963362ea@5.144.132.36:3307?type=ws&security=tls&sni=cdn5.tehrancloud.net#IR 🇮🇷 ┇ VLESS-WS-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 5.144.132.36
-vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@62.60.206.61:80?type=ws&security=none&path=/preply#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.206.61
+vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@62.60.164.192:927?type=ws&security=none&path=/Poshtiban#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.164.192
+vless://82c91f31-470c-4ea7-8602-27e3d916d62b@62.60.212.142:8580?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.212.142
+vless://40d28513-d1c3-4346-a480-27601b0650f4@62.60.206.61:80?type=ws&security=none&path=/classgap#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.206.61

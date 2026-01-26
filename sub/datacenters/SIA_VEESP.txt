@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 216.173.70.187
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
-vless://e929f51d-5a95-5432-b66f-cfe725ea1f61@188.253.26.39:442?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&sid=6ac998b514#NL 🇳🇱 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 188.253.26.39
+vless://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?type=grpc&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM#LV 🇱🇻 ┇ VLESS-GRPC-RLT - SIA VEESP ┇ 185.145.245.31
 vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?type=grpc&security=none#SI 🇸🇮 ┇ VLESS-GRPC-NTLS - SIA VEESP ┇ 62.182.192.232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 178.173.250.47

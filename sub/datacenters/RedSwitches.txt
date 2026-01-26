@@ -1,2 +1,3 @@
-vless://036cd7ae-68c2-4532-8b3c-5b2f0864b6c6@43.250.54.175:443?type=tcp&security=reality&sni=fonts.gstatic.com&fp=chrome&pbk=DbZWMfQTZQQrOJDgnWetu1ChTlXISZWKt4Kn_G0YyUI#AU 🇦🇺 ┇ VLESS-TCP-RLT - RedSwitches ┇ 43.250.54.175
+vless://d0cf4a4b-4676-414d-ba94-3ca791a65f05@43.250.54.205:1651?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - RedSwitches ┇ 43.250.54.205
 vless://160e9c18-c548-42bf-9c00-905aed8ef96f@subscribe.getvlessvpn.com:49000?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&sid=170f8a2036#AU 🇦🇺 ┇ VLESS-GRPC-RLT - RedSwitches ┇ 43.250.54.155
+vless://3de376d0-f942-4b25-b9f7-3589c7995a26@usmir.team-pluss.com:3449?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - RedSwitches ┇ 62.50.146.224

@@ -1,3 +1,3 @@
 vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@sv20.farsdataco.top:7426?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 83.97.79.180
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 213.109.147.242
-vless://5dd5d72b-1965-44f3-b342-5e96bcb921cb@185.28.119.14:443?type=tcp&security=reality&sni=sberbank.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8Y-wG0HpnevxydnNcN0iqGgToTjq9gZ44V2sdPmmsi4&sid=94f01bc9c864dcbb#US 🇺🇸 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 185.28.119.14
+vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM#SG 🇸🇬 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 91.242.241.45
