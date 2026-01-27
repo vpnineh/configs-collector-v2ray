@@ -1,3 +1,4 @@
+vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 195.15.240.204
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.230.175:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.230.175
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.227.226:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.227.226
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.13:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.13
@@ -6,10 +7,6 @@ vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.177:8880?type=tcp&securit
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.125:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.125
 vless://bf93341f-602c-4e71-bd33-dedecc620d96@dchns1.vertalist.ir:9090?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.46.142
 vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?type=ws&security=none&path=/vip#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.9
-vless://2df9d13f-207d-4889-af62-c9e57fa8a8ae@query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top:443?type=ws&security=none&path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.227.202
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.98
+vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&security=none#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.98
 vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 195.15.202.129
-vless://9598ddca-ff1e-4f6f-a86e-152513f661ae@tcp3.asdasdqasd.ir:2052?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.225.86
-vless://431dfd3c-728c-41f2-9c8f-cf0d3a75a008@03030.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=safari&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.197.108
-vless://ed10686c-77dc-4e32-b87f-b03abc89141e@pok.servervi1p.ir:8022?type=xhttp&security=reality&path=/poker23&sni=google.com&fp=chrome&pbk=WkZxEYF9-f6OHexwJwClC8De-o3SjPExwfYN2VspVy8&sid=51b6bcfc134b36#CH 🇨🇭 ┇ VLESS-XHTTP-RLT - Infomaniak Network SA ┇ 84.234.29.213
-vless://a1757f91-8a5e-4579-98ca-771ab945298e@hhhhh.rnj79.ir:8888?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=tiJswi8DXicykeLMZxYYUjUGj8zEbTbpvI7s_S1SWXU&sid=3947402f8b#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 37.156.46.65
+vless://431dfd3c-728c-41f2-9c8f-cf0d3a75a008@03030.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=safari&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.197.195
