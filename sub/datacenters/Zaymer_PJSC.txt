@@ -1,4 +1,3 @@
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cf3.danesh-bonyan.com:443?type=ws&security=tls&path=/45.76.183.217=49292&sni=delta090.qzz.io#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.233
-vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?type=httpupgrade&security=none#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Zaymer PJSC ┇ 45.67.215.227
-vless://3ae85f73-fdd1-4a88-aa42-9a7f09993568@45.67.215.53:443?type=ws&security=tls&path=/assets/vendor/bootstrap/css/bootstrap.min.css&sni=fastapi.halazzon.online&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.53
+vless://b5585686-fb26-4534-8f84-71ac40a3f462@fastly2.yasharmobile.com:8880?type=ws&security=none&path=/?ed=2080#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.233
+vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?type=httpupgrade&security=none&path=/?ed=2095#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Zaymer PJSC ┇ 45.67.215.227

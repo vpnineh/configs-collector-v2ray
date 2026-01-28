@@ -1,3 +1,4 @@
 vless://2128629e-8d7b-49be-906b-a79585ba1d63@namahdud4.gamepiu.com:2421?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 217.160.189.179
+vless://f46ad8d7-f22c-40fc-d0b2-5db602a6d815@82.165.77.122:2083?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 82.165.77.122
 vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?type=tcp&security=reality&sni=azure.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#DE 🇩🇪 ┇ VLESS-TCP-RLT - IONOS SE ┇ 217.160.189.116
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - IONOS SE ┇ 212.227.146.33
