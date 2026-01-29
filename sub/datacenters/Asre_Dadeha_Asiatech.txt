@@ -1,7 +1,3 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE1MS4yMTgiLCJhZGQiOiJzZXphcmxpbmsuc3Rvcm0xLmlyIiwicG9ydCI6ODA4MCwiaWQiOiIyNjljODcyOC1mMTExLTRhYmYtYjU0My05MjYyZjNjZGI3YTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://a5806e27-5166-445f-aad0-f5ed2cd5d196@de.hardgaming.top:7636?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.139.124
 vless://ffafdf75-2ccd-4277-b97a-b98e445e7036@trd3.vpirantop.top:55204?type=ws&security=tls&path=/&sni=trd3.vpirantop.top#IR 🇮🇷 ┇ VLESS-WS-TLS - Asre Dadeha Asiatech ┇ 193.151.133.20
-vless://69fb1a15-8593-4567-b2ae-ba4976c951bf@193.151.136.87:2096?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.87
-vless://ec79a214-37e5-43a4-b34c-75a387436466@s2.013official.cam:48043?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.151.70
-vless://62ba6427-4f3b-43ac-8f65-ddd4cd23b6b9@v2.oranicvip.ir:23412?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.106
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asre Dadeha Asiatech ┇ 193.151.135.21
+vless://5ec3b829-dd87-49b5-9b7f-b7aca7dd78d8@ge9.jet5.top:443?type=tcp&security=none&sni=skyroom.online,gharar.ir,igap.net&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.129.223
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?type=tcp&security=reality&sni=www.speedtest.net&flow=xtls-rprx-vision&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asre Dadeha Asiatech ┇ 193.151.135.21

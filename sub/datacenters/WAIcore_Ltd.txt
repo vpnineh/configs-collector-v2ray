@@ -1,5 +1,5 @@
 vless://be695a55-8ac5-40a1-92c2-cc864651360a@94.141.123.12:558?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&sid=4b8f669536c45c2b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.12
-vless://f3f6f19f-c68a-462c-a534-9b388663fffa@94.141.123.137:443?type=tcp&security=reality&sni=de2.mcqueenconnection.ru&fp=chrome&flow=xtls-rprx-vision&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&sid=f5390f7c74c4ea5c#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.137
-vless://fbe0d38f-5d9c-4d4e-9dbd-8f96584989e0@fair.iranis.art:8088?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - WAIcore Ltd ┇ 109.122.197.39
-vless://e9210b9f-4ce6-422e-90dc-cfe66e043098@109.122.197.172:443?type=ws&security=tls&path=/wp-admin.php?ed=2083&sni=MyAccount.McimikbeiServer.CoM#RU 🇷🇺 ┇ VLESS-WS-TLS - WAIcore Ltd ┇ 109.122.197.172
-vless://4d94fa33-9462-48b4-b7de-8a2863560d19@109.122.197.47:443?type=tcp&security=reality&sni=wikiportal.su&fp=chrome&flow=xtls-rprx-vision&pbk=UvKVWWtHdyyEdj7_QvPTi0SYENAp1PaMWpPuSJi1LTA&sid=8e344050e2537240#RU 🇷🇺 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 109.122.197.47
+vless://f3f6f19f-c68a-462c-a534-9b388663fffa@94.141.123.137:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.137
+vless://571e781a-79e4-4d79-bd84-76c0df5a2494@ge.p.sandis.space:8081?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - WAIcore Ltd ┇ 109.122.197.110
+vless://fbe0d38f-5d9c-4d4e-9dbd-8f96584989e0@109.122.198.223:8088?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - WAIcore Ltd ┇ 109.122.198.223
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@109.122.197.47:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 109.122.197.47

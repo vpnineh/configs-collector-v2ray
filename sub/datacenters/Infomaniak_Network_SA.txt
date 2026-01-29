@@ -1,10 +1,10 @@
-vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 195.15.240.204
+vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluZm9tYW5pYWsgTmV0d29yayBTQSBcdTI1MDcgODMuMjI4LjIyNi45NiIsImFkZCI6InoxMC5tb2JhdG8tbW9iaWxlLmNvbSIsInBvcnQiOjgwLCJpZCI6Ijg4ODcxNjk0LWUzMGQtNDM1Mi05ZDM4LTE3NDFlNjNjODllOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9oTjVKTmNTQ2kzb3o5NURROHRJUFBtVVhrN04ifQ
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.230.175:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.230.175
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.227.226:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.227.226
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.13:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.13
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.220:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.220
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.177:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.177
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.125:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.125
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.98
-vless://e82e3d3a-e9db-4b62-82df-157e5409e66a@83.228.226.13:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.226.13
-vless://431dfd3c-728c-41f2-9c8f-cf0d3a75a008@03030.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=safari&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.197.108
+vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 195.15.240.204
+vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&security=none#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.98
+vless://431dfd3c-728c-41f2-9c8f-cf0d3a75a008@03030.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=safari&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.197.143

@@ -1,5 +1,8 @@
+trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.110
 trojan://humanity@free1.aattaash.com:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.9
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@208.103.161.231:443?sni=gzjx.dpdns.org&peer=gzjx.dpdns.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.231
-trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.110
+vless://0cdab3ab-67dd-4342-a78f-710a32d0c3bb@cdn.torprospeed.ir:2087?type=ws&security=tls&path=/&sni=ww.sodogodping.ir#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.4
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.32
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.33
+vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?type=tcp&security=none&path=/?ed=2095#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.8
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.33
+vless://9591b889-87d1-404e-8430-b4b26bdb85be@208.103.161.52:443?type=ws&security=tls&path=/5.78.50.75=443&sni=afrcloud1.mmv.kr#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.52

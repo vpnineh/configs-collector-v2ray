@@ -1,5 +1,4 @@
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.232.131
 vless://d658f6b3-717c-4d29-ba28-5a68666bd6ec@fast.mohamadtx.ir:3445?type=tcp&security=reality&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net&fp=firefox&flow=xtls-rprx-vision&pbk=7ur6xyf6x_433ooiu2muTIX_TbTtNa5zY2xvRpsPiBs#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.231.83
-vless://18228710-dfd0-4bca-8425-4abff39843a4@kingn.1mrsub.site:6002?type=ws&security=none&path=/#SA 🇸🇦 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.55.234
+vless://f112586b-f397-475c-af83-0810e4312533@213.165.54.4:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.54.4
 vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@193.187.132.145:587?type=tcp&security=reality&sni=excoino.com&fp=chrome&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02#TR 🇹🇷 ┇ VLESS-TCP-RLT - IPXO ┇ 193.187.132.145
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@143.20.213.40:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳+@WangCai2&sni=sni.111000.de5.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IPXO ┇ 143.20.213.40
