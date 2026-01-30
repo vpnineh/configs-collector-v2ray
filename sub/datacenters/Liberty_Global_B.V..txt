@@ -1,3 +1,1 @@
-vless://98d80dd4-86bc-419c-8b3d-4d5f2423f4b1@64.188.73.65:20150?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Liberty Global B.V. ┇ 64.188.73.65
-vless://f736e161-03a3-4f5f-9487-6a5fccbae487@64.188.73.123:20150?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Liberty Global B.V. ┇ 64.188.73.123
-vless://f736e161-03a3-4f5f-9487-6a5fccbae487@64.188.73.116:20150?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Liberty Global B.V. ┇ 64.188.73.116
+vless://51d68902-063d-43c4-a29a-63b5561b4c96@64.188.105.202:443?type=tcp&security=reality&sni=de.gagtubelol.com&flow=xtls-rprx-vision&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&sid=f1a3d4b6de93aa3a#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.105.202

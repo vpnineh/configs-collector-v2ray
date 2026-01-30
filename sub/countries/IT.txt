@@ -1,15 +1,14 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.238.229.254
 vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@italy.aparat-movies-download.ir:42538?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.39.207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 176.126.83.158
+vless://34b9cd4c-4cc4-42c1-a006-593eccd22403@url.generalireon.com:5841?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.39.254
+vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@itw.love-speed.sbs:7567?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 80.211.141.210
+vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?type=tcp&security=reality&path=/&sni=stackoverflow.com&fp=chrome&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.149.184
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
-vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.242
-vless://telegram-turboo-server@146.75.55.82:80?type=ws&security=none&path=/ed=2056#IT 🇮🇹 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.55.82
-vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFzdHdlYiBcdTI1MDcgOTMuNDYuOC45MCIsImFkZCI6ImRhdGEtaGstdjIuc2h3amZrdy5jbiIsInBvcnQiOjUwMjA1LCJpZCI6ImIxNDc4ZTI0LTQ5MTYtM2FiZS04ZjE3LTE1OTMxMDEyZWNiZSIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
+vless://91f2e3fa-3047-4010-8c21-7ba9351602a5@dailyconfigs236xtls.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/DailyConfigs#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.242
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.195.193
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.92
 vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?type=ws&security=none&path=/vpnjantit#IT 🇮🇹 ┇ VLESS-WS-NTLS - Melbikomas UAB ┇ 91.201.65.220
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNTguMTgwLjIyOC4yMjYiLCJhZGQiOiIxNTguMTgwLjIyOC4yMjYiLCJwb3J0Ijo0NDMsImlkIjoiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
