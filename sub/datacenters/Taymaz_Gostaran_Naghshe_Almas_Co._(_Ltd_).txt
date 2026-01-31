@@ -1,7 +1,5 @@
-vless://4b522ebb-402d-46a7-a823-45da700e5fbf@panel-germany-2.subcenter.net:1002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.87
-vless://11003d58-cbb3-4ade-a70b-9e095e49d676@us.asreabi.ir:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 193.84.255.109
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRheW1heiBHb3N0YXJhbiBOYWdoc2hlIEFsbWFzIENvLiAoIEx0ZCApIFx1MjUwNyAxODUuMjM1LjE5Ny4zNCIsImFkZCI6IjE4NS4yMzUuMTk3LjM0IiwicG9ydCI6ODA4MiwiaWQiOiI5YjUxZTdhNC0zMDJmLTQ4NDItYWM3OS1jM2E4NzE2OWY1NTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.al.f2gate.ir:57790?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.67
-vless://cdfe55b0-50ce-4180-ba7a-45bf74b11d0f@bot3.bitnetpro.com:1903?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.15
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.in.f2zone.ir:23702?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.209
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.jp.f2gate.ir:45703?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.183
-vless://f0e7dbf3-f4d7-4633-90dd-213f7c06f3a3@panel-germany-5.subcenter.net:1005?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.98
+vless://4b522ebb-402d-46a7-a823-45da700e5fbf@panel-germany-2.subcenter.net:1002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.87
+vless://39986a5c-e266-40da-b13b-f16f5d821931@185.83.182.98:8075?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.98
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.sp.f2gate.ir:33563?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.211

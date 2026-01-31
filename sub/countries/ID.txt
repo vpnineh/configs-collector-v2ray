@@ -1,6 +1,6 @@
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - CV Atha Media Prima ┇ 41.216.177.41
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthb3B1IENsb3VkIEhLIExpbWl0ZWQgXHUyNTA3IDE1NC45MC40OS41NyIsImFkZCI6IjE1NC45MC40OS41NyIsInBvcnQiOjU4ODY4LCJpZCI6ImZiZmZlYjZiLWI1ZTUtNGY3Ny04ODg4LWM3OTE5ZmJlYjBhZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://32663838-6132-4561-b532-653431613036@ok.1eta.site:80?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 70.153.188.116
+vless://32663838-6132-4561-b532-653431613036@ok.1eta.site:80?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 70.153.57.45
 trojan://idc117okt@103.176.78.153:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.176.78.153
 trojan://idc117okt@103.226.139.201:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.226.139.201
 trojan://vvip-periantara@38.9.140.66:443?sni=id3tr.jagoan.vip&peer=id3tr.jagoan.vip&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT. Media Antar Nusa ┇ 38.9.140.66
