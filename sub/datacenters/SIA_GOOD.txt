@@ -1,6 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@77.83.245.98:2222#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - SIA GOOD ┇ 77.83.245.98
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@decdn10.suio.me:443?type=tcp&security=tls&sni=decdn10.suio.me#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.154
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@decdn11.suio.me:443?type=tcp&security=tls&sni=decdn11.suio.me#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.187
-vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-alb.privetnet.ru:443?type=tcp&security=reality&sni=cl6-alb.privetnet.ru&fp=chrome&flow=xtls-rprx-vision&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=89c32a29c1940178#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.177.238.131
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@decdn12.suio.me:443?type=tcp&security=tls&sni=decdn12.suio.me#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.198
+vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@185.177.238.131:443?type=tcp&security=reality&sni=cl6-alb.privetnet.ru&fp=chrome&flow=xtls-rprx-vision&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=89c32a29c1940178#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.177.238.131
+vless://c7f067ad-044c-407e-b1d2-711902903ac0@nider-t.sbrf-cdn342.ru:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.112.59.228
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.144:2083?type=grpc&security=reality&sni=apple.com&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#US 🇺🇸 ┇ VLESS-GRPC-RLT - SIA GOOD ┇ 185.177.238.144
-vless://c7f067ad-044c-407e-b1d2-711902903ac0@nider-t.sbrf-cdn342.ru:443?type=tcp&security=reality&sni=max.ru&flow=xtls-rprx-vision&pbk=IzCxPP6AbT5ncuSfj17EsHCyjnirVQ_LN62uIiQeQVA&sid=111111#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.112.59.229
