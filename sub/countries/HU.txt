@@ -1,5 +1,4 @@
-vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.77:8443?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#HU 🇭🇺 ┇ VLESS-TCP-RLT - Datacamp Limited ┇ 79.127.133.77
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - Magyar Telekom Plc. ┇ 194.71.130.160
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#HU 🇭🇺 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 5.182.38.91
-vless://030fa0bd-c76d-4b2e-9c49-fe4355bf1c04@api-r1.wiki-mobile-two.com:5443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&sid=5cae63084b3281f3#HU 🇭🇺 ┇ VLESS-TCP-RLT - Rackhost Zrt. ┇ 217.13.104.133
+vless://030fa0bd-c76d-4b2e-9c49-fe4355bf1c04@217.13.104.133:5443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&sid=5cae63084b3281f3#HU 🇭🇺 ┇ VLESS-TCP-RLT - Rackhost Zrt. ┇ 217.13.104.133
 vless://bbb7910f-3005-225f-3fe1-6cce2dff2d60@87.229.100.158:80?type=ws&security=none&path=/IVApi/US/0#HU 🇭🇺 ┇ VLESS-WS-NTLS - Seed Technologies LTD. ┇ 87.229.100.158

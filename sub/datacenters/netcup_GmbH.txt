@@ -1,7 +1,10 @@
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.130:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.49.130
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.48.237
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.130:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.49.130
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.50.126
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.51.24
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:22955?type=grpc&security=reality&path=/&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.48.224
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.33.43
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 37.120.184.180
-vless://8cc20be2-d310-4a21-ab91-949ed3f106f9@185.244.192.101:53?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - netcup GmbH ┇ 185.244.192.101
+vless://2dd15683-8497-4280-9d9d-3b6f2152a95d@185.244.192.101:53?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - netcup GmbH ┇ 185.244.192.101
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@37.120.172.115:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#DE 🇩🇪 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 37.120.172.115
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@37.120.175.246:22955?type=grpc&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#DE 🇩🇪 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 37.120.175.246

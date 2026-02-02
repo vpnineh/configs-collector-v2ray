@@ -1,11 +1,8 @@
 vless://ce9a5755-0300-49e2-9c2b-79305337cbeb@109.95.65.190:7060?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.65.190
-vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@37.152.175.93:2012?type=ws&security=none&path=/lklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwj?ed=4096#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 37.152.175.93
 vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.230
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.li.f2zone.ir:50334?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.7
-vless://67bad1be-8510-4703-91f2-b566d7213598@sh.beyondshop.pw:6877?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.136.135.227
-vless://3780c8bf-2f9b-436f-b4cf-2be3afe97bdd@tn.pingtools.net:2087?type=tcp&security=none&sni=3780c8bf-2f9b-436f-b4cf-2be3afe97bdd.skyroom.online#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.231
-vless://e10cbab2-0fbb-f2fa-e7e6-28aeb00385b1@fullnet.julan.info:531?type=tcp&security=none&path=/&sni=fullnet.julan.info#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.219.136
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.de.f2gate.ir:31665?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.110
 vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.kr.f2zone.ir:47880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.230
-vless://8607e54e-0b9a-4320-9cae-12701ee5d4f2@37.152.175.115:882?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 37.152.175.115
-vless://78640927-1b77-47d2-bb55-875861b824c4@india.multiapvps.ir:1512?type=tcp&security=reality&sni=docker.com&fp=firefox&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 62.60.138.49
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.de.f2gate.ir:31665?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.106
+vless://f1495173-f4b4-45c0-9116-63993f8ef0e6@37.152.175.119:810?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 37.152.175.119
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.li.f2zone.ir:50334?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.7
+vless://3780c8bf-2f9b-436f-b4cf-2be3afe97bdd@tn.pingtools.net:2087?type=tcp&security=none&sni=3780c8bf-2f9b-436f-b4cf-2be3afe97bdd.skyroom.online#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.234
+vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@37.152.175.93:8443?type=tcp&security=reality&sni=3650a4286bf867e9&fp=chrome&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 37.152.175.93
