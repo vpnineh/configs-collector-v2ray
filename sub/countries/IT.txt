@@ -1,11 +1,11 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.238.229.254
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&peer=api.avito.ru&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.238.229.254
 vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@italy.aparat-movies-download.ir:42538?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.39.207
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
-vless://8f2f9ad3-df75-464e-c542-cd80d61b57c4@usaa.fastlynew.hosting-ip.com:80?type=ws&security=none&path=/#IT 🇮🇹 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.241.242
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
+vless://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.242
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@itcdn1.suio.me:443?type=tcp&security=tls&sni=itcdn1.suio.me#IT 🇮🇹 ┇ VLESS-TCP-TLS - Global Connectivity Solutions Llp ┇ 185.247.184.59
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@itcdn1.suio.me:443?type=tcp&security=tls&path=/&sni=itcdn1.suio.me#IT 🇮🇹 ┇ VLESS-TCP-TLS - Global Connectivity Solutions Llp ┇ 185.247.184.59
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.92
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNTguMTgwLjIyOC4yMjYiLCJhZGQiOiIxNTguMTgwLjIyOC4yMjYiLCJwb3J0Ijo0NDMsImlkIjoiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
