@@ -1,3 +1,4 @@
 vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 103.71.22.160
 vless://924a17e7-4e9d-4055-bf2e-6f8edfdee786@194.113.106.197:104?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 194.113.106.197
-vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@79.137.192.51:8028?type=tcp&security=reality&sni=www.stackoverflow.com&fp=chrome&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 79.137.192.51
+vless://ca911bd2-e08f-42d8-aefb-3117494d3367@77.239.124.88:443?type=tcp&security=reality&path=/&sni=mskhost.outlinekeys.net&fp=chrome&flow=xtls-rprx-vision&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.239.124.88
+vless://30dd5974-780c-4743-b88a-12a4450bd2a3@spb.cdn.stun.su:443?type=tcp&security=reality&sni=spb.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=dfb584388d2927f7#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 83.147.255.45
