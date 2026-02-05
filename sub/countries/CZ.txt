@@ -10,6 +10,5 @@ trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#CZ 🇨🇿 ┇ TROJAN-
 vless://7338a824-7335-486b-b05c-8d8962239350@194.182.79.218:19608?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.218
 vless://378d5714-5101-4740-85eb-f42b59ee763d@194.182.79.46:14888?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.46
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.232.131
-vless://56d1d355-92c9-4a9c-91e4-327d29d9a82f@ge.rakslinevpn.su:443?type=tcp&security=reality&sni=ge.rakslinevpn.su&fp=chrome&flow=xtls-rprx-vision&pbk=RTiq5daK_aG5LQSByzhQevcZVfT18MvPpO1-5w3lkVw&sid=185b5686fe5b13ce#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.232.41
-vless://045ae46c-40c0-4191-b5d0-b2811d55c827@de-01.anotherboring.top:443?type=tcp&security=reality&path=/&sni=mail.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=C1nTKBKNuCc5B1iMqbNBodE9W9lQJovw--jF6yhE8DM&sid=9d21bea37f7da010#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.232.16
 vless://56d1d355-92c9-4a9c-91e4-327d29d9a82f@ee.rakslinevpn.su:443?type=tcp&security=reality&sni=ee.rakslinevpn.su&fp=chrome&flow=xtls-rprx-vision&pbk=9aVtkZr2s9qm1-oPsWJhOKSV2svk2s9vXnSnqAsXei8&sid=185b5686fe5b13ce#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.242.162
+vless://56d1d355-92c9-4a9c-91e4-327d29d9a82f@ge.rakslinevpn.su:443?type=tcp&security=reality&sni=ge.rakslinevpn.su&fp=chrome&flow=xtls-rprx-vision&pbk=RTiq5daK_aG5LQSByzhQevcZVfT18MvPpO1-5w3lkVw&sid=185b5686fe5b13ce#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.232.41
