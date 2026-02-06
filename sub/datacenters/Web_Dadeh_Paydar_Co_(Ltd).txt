@@ -1,2 +1,4 @@
-vless://2229c53f-49b4-4bdf-8d24-b188244b04eb@curt231.ctcurt.ir:2372?type=grpc&security=tls&sni=filimo.com#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Web Dadeh Paydar Co (Ltd) ┇ 91.216.217.134
-vless://1c03c39d-ed9c-4747-9d43-42936ea4531b@193.24.120.156:2052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.120.156
+vless://08f7caf5-73be-46b6-b37b-3e9715bb02a6@curt232.bestvxau.ir:2373?type=grpc&security=tls&sni=varzesh3.com#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Web Dadeh Paydar Co (Ltd) ┇ 91.216.217.134
+vless://5a279448-5c68-481c-a4c6-cb3b4b47d595@91.206.171.155:608?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.206.171.155
+vless://c2ec2137-b04c-49f2-99d8-209ba906ff57@tun.grootvip.eu:55808?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.206.171.126
+vless://870c8dd7-990b-489d-a4d5-725a63703676@free.lumanetwork.cloud:6969?type=tcp&security=reality&sni=www.oracle.com&fp=chrome&pbk=jvVIGcYV2B5eW_ofU2uAT5egxNrEy7QOhObT9Ljdkyg&sid=5ebebba2#IR 🇮🇷 ┇ VLESS-TCP-RLT - Web Dadeh Paydar Co (Ltd) ┇ 81.30.108.213

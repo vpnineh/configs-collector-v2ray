@@ -1,4 +1,3 @@
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@ficdn2.suio.me:443?type=tcp&security=tls&sni=ficdn2.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.52.229
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls&sni=ficdn1.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50
-vless://ced44d8d-1269-4558-adfd-1b456c543e8a@45.144.53.93:443?type=tcp&security=reality&path=/&sni=fi.oncloudvpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=1az_XYGwf1SX5RjaXXov8xBFqpbFlzYegZgFWULF1FY&sid=f106#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.93
-vless://a7e06f18-6888-5f11-ab39-38c027325112@85.192.49.169:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=PSIJLEgcFgnxzQSnercjnRQUPj5WRke1t3thpSQceko&sid=ffffffffff#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.169
+vless://ced44d8d-1269-4558-adfd-1b456c543e8a@45.144.53.93:443?type=tcp&security=reality&sni=fi.oncloudvpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=1az_XYGwf1SX5RjaXXov8xBFqpbFlzYegZgFWULF1FY&sid=f106#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.93
