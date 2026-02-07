@@ -1,4 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.123.246.15
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 92.118.149.85
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.180.231:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in#NL 🇳🇱 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 5.34.180.231
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@82.118.21.21:50004#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 82.118.21.21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
+vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 217.12.219.51
+vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 217.12.219.53
