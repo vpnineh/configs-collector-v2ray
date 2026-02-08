@@ -2,8 +2,10 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#E
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.216.114
+vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?type=ws&security=none&path=/#EE 🇪🇪 ┇ VLESS-WS-NTLS - Aktsiaselts WaveCom ┇ 37.252.4.176
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXN0cmVjIERhdGEgT1UgXHUyNTA3IDE3Ni4xMTIuMTQ2LjE5MCIsImFkZCI6IjE3Ni4xMTIuMTQ2LjE5MCIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.80.108.244:2096?type=ws&security=tls&sni=GeR14.SimAnSaNat.iR.&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.108.244
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?type=ws&security=tls&path=twitterfreecodes&sni=a.ssll.gay#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.241
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.88
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.80.108.30:2096?type=ws&security=tls&sni=De14.SiMaNsAnAt.Ir.&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.108.30
+vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&sid=c1765dd26b1e70#EE 🇪🇪 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 87.121.86.31
+ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.88
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
