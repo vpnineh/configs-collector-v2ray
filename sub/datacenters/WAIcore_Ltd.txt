@@ -1,1 +1,2 @@
-vless://be695a55-8ac5-40a1-92c2-cc864651360a@94.141.123.12:558?type=raw&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&sid=4b8f669536c45c2b#DE 🇩🇪 ┇ VLESS-RAW-RLT - WAIcore Ltd ┇ 94.141.123.12
+vless://be695a55-8ac5-40a1-92c2-cc864651360a@94.141.123.12:558?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.12
+vless://f3de5b41-e517-4b49-852e-4d0ee40d4a18@frankfurt.just-server.ru:4443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.13
