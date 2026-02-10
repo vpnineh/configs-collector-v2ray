@@ -1,7 +1,9 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.35
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdlbml1c01pbmQgUy5BLiBcdTI1MDcgODUuMTMzLjIxOS4zNyIsImFkZCI6InNwLndpbnRlcm5pZ2h0cy50b3AiLCJwb3J0IjoxOTA3NiwiaWQiOiJiNzlhMWJkMi1lMGU3LTQ3NGYtODBiYS01NmQ3NDgzNzlmMDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://8e0a328a-a336-c796-0222-5e15ed927949@srv-c0.netmaster.cam:8008?type=ws&security=none&sni=1#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 62.60.219.68
-vless://05ffa80c-4403-4fbd-8997-8de80e49fe02@zone.fia.fx2hub.ir:28643?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.106
-vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.136.135.133
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.kr.f2zone.ir:47880?type=tcp&security=none&path=/@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.7
-vless://f91d249e-90e2-1625-9211-180e4d18f948@srv-f0.netmaster.cam:8443?type=ws&security=none&sni=1#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 213.176.0.154
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.230
+vless://7401588b-237e-43f4-ab2f-fc6defc2d1c8@zone.fi.fx2hub.ir:28643?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.106
+vless://487f112f-91f3-552c-4a07-678ed12f4c9b@t1-srv.j-p-w-q-standalone.com:89?type=ws&security=none&sni=1#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 109.95.67.161
+vless://f91d249e-90e2-1625-9211-180e4d18f948@srv-f0.netmaster.cam:8443?type=ws&security=none&path=/&sni=1#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 213.176.0.154
+vless://5ac56553-18f7-4cb3-9646-baa406229e98@t-de-dynamic.zoverv.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.219.110
+vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.122
+vless://6abbe0fd-8d69-d806-6832-1d0aa5690f04@test-k0.freeiebio.com:8585?type=ws&security=none&sni=1#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 109.95.66.205
