@@ -1,1 +1,6 @@
-vless://622bcbb3-dd6c-4377-9c20-25e244a7988b@154.219.5.141:443?type=grpc&security=tls&sni=xn--mgbaasql3ledele.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.141
+vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.56:443?type=grpc&security=tls&sni=second.pinocchio1.ir.&fp=firefox#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.56
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?type=grpc&security=tls&sni=first.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.154
+vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.222:443?type=grpc&security=tls&sni=MOJ.Bklink.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.222
+vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.90:443?type=grpc&security=tls&sni=fourth.pinocchio1.ir&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.90
+vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.207:443?type=grpc&security=tls&sni=MOJ.Bklink.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.207
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.155:443?type=grpc&security=tls&sni=first.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.155

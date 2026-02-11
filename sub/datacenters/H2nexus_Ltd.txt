@@ -1,1 +1,2 @@
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls&sni=ficdn1.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50
+vless://d26dd01c-204a-4df2-8a78-86212ddf496d@45.144.52.222:443?type=grpc&security=reality&sni=moktana.digital&fp=chrome&pbk=SKLFy46QBhLBQDrgzxAp41Wy9cXDi_y0UJWnMQ3mfQM&sid=f9f735b99d38492b#FI 🇫🇮 ┇ VLESS-GRPC-RLT - H2nexus Ltd ┇ 45.144.52.222

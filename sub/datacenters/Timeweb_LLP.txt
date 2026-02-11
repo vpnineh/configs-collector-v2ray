@@ -1,1 +1,2 @@
-vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?type=httpupgrade&security=none#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Timeweb, LLP ┇ 77.73.132.193
+vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?type=httpupgrade&security=none&path=@CHANGE_IP1#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Timeweb, LLP ┇ 77.73.132.193
+vless://9897f9f0-ee1d-4428-8a97-4a248751d5c5@147.45.243.234:4443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#RU 🇷🇺 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.243.234
