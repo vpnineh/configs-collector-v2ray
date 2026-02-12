@@ -1,9 +1,14 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgOTIuMTE0LjUwLjEwNyIsImFkZCI6InYycmF5My5jb2xzdnBuLnRvcCIsInBvcnQiOjExNzU2LCJpZCI6Ijg5ZjcwNGRmLTE4ZGMtNGNjNi1iYmY3LTlmMGFkMTExYjFkMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWlyIEhvc2VpbiBNYWFyZWYgXHUyNTA3IDg1LjEzMy4yMzQuOTUiLCJhZGQiOiJ0ZWhyYW4tc21zLnh5eiIsInBvcnQiOjQ0MywiaWQiOiI3ZjAzNGUwYi0wZDNmLTQ5NjEtOTJkNi0xYjRiZGJmM2NiMTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoicGtnYnVpbGQub3JnIiwicGF0aCI6Ii9jb25uZWN0L2RlLz9lZD0xMDI0Lz9KT0tFUlJWUE4iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwa2didWlsZC5vcmcifQ
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWlyIEhvc2VpbiBNYWFyZWYgXHUyNTA3IDg1LjEzMy4yMzQuMTAyIiwiYWRkIjoidGVocmFuLXNtcy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiN2YwMzRlMGItMGQzZi00OTYxLTkyZDYtMWI0YmRiZjNjYjE3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InBrZ2J1aWxkLm9yZyIsInBhdGgiOiIvY29ubmVjdC9kZS8/ZWQ9MTAyNC8/Sk9LRVJSVlBOIiwidGxzIjoidGxzIiwic25pIjoicGtnYnVpbGQub3JnIn0
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.236.19
+vless://00548df1-f4e4-4467-8de3-2bb37a41d8b7@92.114.50.193:47255?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.193
+vless://7e122c32-d550-4b5d-9188-037a12cf0b88@89.47.201.169:2375?type=grpc&security=tls&sni=varzesh3.com#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Amir Hosein Maaref ┇ 89.47.201.169
+vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.216
 vless://f50407c6-f465-4a6b-8a28-bbef97c4b308@85.133.253.205:4558?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.205
 vless://4209e3a8-360d-4508-9ac6-1f381c7da47d@gold.btctim.com:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.112
-vless://80eb19fe-bfed-403d-bd98-cdb96f492245@89.47.202.192:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.192
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o2.tun.vortextun.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.20
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o3.tun.vortextun.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.216
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o5.tun.vortextun.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.146
 vless://6af19a20-48c6-4b3a-8e11-d4e700384580@ams.bestlive.ir:443?type=ws&security=none&path=/media.steampowered.com?ed=443#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amir Hosein Maaref ┇ 85.133.253.226
-vless://19cab0e7-f0b6-4e0d-b3eb-c7a717c12eb6@site.btctim.com:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.54
-vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.216
+vless://bed886d2-c4c1-41c5-8074-1cf08a303ab8@top.best-cloud.ir:443?type=grpc&security=tls&sni=top.daltoon.fun&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Amir Hosein Maaref ┇ 92.114.50.214
+vless://80eb19fe-bfed-403d-bd98-cdb96f492245@89.47.202.192:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.192

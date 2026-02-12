@@ -1,2 +1,1 @@
-vless://5968e384-9400-499a-be7f-569d95bc9cc0@62.50.146.11:6079?type=tcp&security=reality&sni=pcmag.com&fp=chrome&pbk=8r2fOsMWM6oDrXxMFTgTg6RXFJc18fsQeZM9F349U1U&sid=fb1375d6f59321bd#NL 🇳🇱 ┇ VLESS-TCP-RLT - RedSwitches ┇ 62.50.146.11
-vless://67fc444c-b363-455f-8ff0-c2822e731cef@62.50.146.12:6079?type=tcp&security=reality&sni=pcmag.com&fp=chrome&flow=xtls-rprx-vision&pbk=8r2fOsMWM6oDrXxMFTgTg6RXFJc18fsQeZM9F349U1U&sid=fb1375d6f59321bd#NL 🇳🇱 ┇ VLESS-TCP-RLT - RedSwitches ┇ 62.50.146.12
+vless://67fc444c-b363-455f-8ff0-c2822e731cef@62.50.146.12:6079?type=tcp&security=reality&path=/&sni=pcmag.com&fp=chrome&flow=xtls-rprx-vision&pbk=8r2fOsMWM6oDrXxMFTgTg6RXFJc18fsQeZM9F349U1U&sid=fb1375d6f59321bd#NL 🇳🇱 ┇ VLESS-TCP-RLT - RedSwitches ┇ 62.50.146.12

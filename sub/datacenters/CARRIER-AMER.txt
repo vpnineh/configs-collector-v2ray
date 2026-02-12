@@ -1,1 +1,1 @@
-vless://9f0d6a8a-4a41-4295-8fa4-32957ccc59fa@georgewashington.elterido.ir:2083?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CARRIER-AMER ┇ 161.145.150.132
+vless://9f0d6a8a-4a41-4295-8fa4-32957ccc59fa@georgewashington.elterido.ir:2083?type=ws&security=tls&path=/api03&sni=de.elterido.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - CARRIER-AMER ┇ 161.145.150.132
