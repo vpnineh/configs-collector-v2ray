@@ -1,2 +1,2 @@
-vless://643ea714-3410-4476-a3b1-f71789886b2c@64.188.73.65:20150?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Liberty Global B.V. ┇ 64.188.73.65
+vless://6b5aa1e0-0bde-41b4-9c68-084a83a99759@fi4.srv.cdnopl.link:6443?type=tcp&security=reality&sni=debug.resolvertest.doh.umbrella.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.74.220
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.104.168

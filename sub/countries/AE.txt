@@ -1,50 +1,50 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 217.60.249.112
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?sni=web.max.ru&peer=web.max.ru&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 167.17.185.172
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?sni=ozon.ru&peer=ozon.ru&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 167.17.185.152
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?sni=ya.ru&peer=ya.ru&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 167.17.185.169
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?sni=ozon.ru&peer=ozon.ru&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 167.17.185.152
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?sni=web.max&peer=web.max&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 167.17.185.228
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.39.10:443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳@WangCai2&sni=sni.111000.dynv6.net&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.39.10
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.56.146.127:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.v6.navy&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 31.56.146.127
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.136.248:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 31.59.136.248
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.56.146.127:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 31.56.146.127
-vless://376a4421-e443-48ba-ba16-01b8dc6a8f40@217.60.255.205:9090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 217.60.255.205
+vless://540345a8-e6b5-49a2-b4dd-1cf348cea8b2@hi6.afraseda.ir:2053?type=xhttp&security=tls&path=/?ed=2048&sni=affipr.afraseda.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS ┇ 192.144.19.99
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@192.144.19.55:8443?type=ws&security=tls&path=/?ed=2560&sni=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 192.144.19.55
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@fr.cdn.stun.su:443?type=tcp&security=reality&sni=fr.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=8LWgKu6h8cXgOAixKaKPdGponKkAeQaq-IszDEQ4ojM&sid=3bdec72a5a0ffd84#AE 🇦🇪 ┇ VLESS-TCP-RLT ┇ 31.56.146.203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 51.112.118.115
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.0.182:990#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.0.182
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.37.196:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.v6.navy&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.37.196
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.120.161:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.120.161
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.188:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.188
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.39:443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.39
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.37.196:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.37.196
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.227:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.227
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.36.58:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.36.58
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.155:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.155
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.36.183:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.36.183
 vless://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?type=ws&security=tls&path=/eyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.1
-vless://37aa544d-c729-4dd8-bebf-376311d3c2cf@cfip2.mamady.ir:8443?type=ws&security=tls&path=/&sni=fr1.mamady.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.0
-vless://509132bc-0d4a-43bd-b951-df3058987bbb@ip1.neoservers.ir:8443?type=ws&security=tls&path=/&sni=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 181.214.1.99
-vless://06a2f75b-2ab3-4356-aa5e-18729e71c449@ip3.kakeroo.ir:80?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.65.127
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@146.75.66.136:80?type=ws&security=none&path=/?ed=#AE 🇦🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.66.136
-vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 217.195.200.233
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.99:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.99
+vless://37aa544d-c729-4dd8-bebf-376311d3c2cf@cfip2.mamady.ir:8443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.0
+vless://44c8ceaf-0da3-435a-9c64-f08c7f733fbc@sv22.v2bit.com:2087?type=ws&security=tls&path=/&sni=sadjkg32jhgjhasd.chgfa.site&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.74
+vless://5ca6e49d-d15e-400e-9e9e-4fddcc4d8e41@ip3.kakeroo.ir:80?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.65.127
+vless://bf9931be-a7fd-46b3-9919-b858299e9f65@poland-meow.nethcloud.top:8443?type=tcp&security=reality&sni=wikihow.com&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4#AE 🇦🇪 ┇ VLESS-TCP-RLT - FyfeWeb Ltd ┇ 212.192.11.36
 vless://a08141af-6dcc-415f-bb86-b90455cc3ab8@v2shop-dubai1.bing-net.com:3038?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.22
-vless://e719bf78-4ea9-41f4-a709-fb672375dc8a@ua.sepserver.de:7021?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=TmD2tgPqVKs9s4FiP6qgaRR1vE03_l30_PKlljwkJiQ&sid=7fec3adb0c3aee58#AE 🇦🇪 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 109.61.42.20
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 217.195.200.233
+vless://1676cdfe-d73d-7883-d852-5a4379eee4af@germany.socialxxmedia.online:48305?type=tcp&security=none&sni=germany.socialxxmedia.online#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 217.60.243.122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVhPMEZuallIZzZaS0pBUG9oQlZX@185.253.116.95:16673#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.95
-vless://88210b4d-b356-4eaf-f7d7-edeacbd63a11@185.45.194.29:32108?type=tcp&security=reality&sni=www.speedtest.org&fp=chrome&flow=xtls-rprx-vision&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU#AE 🇦🇪 ┇ VLESS-TCP-RLT - Host Sailor Ltd ┇ 185.45.194.29
+vless://507d5567-1c19-485c-e481-2361a89615dc@185.45.194.29:39571?type=tcp&security=reality&sni=www.digikala.com&fp=chrome&flow=xtls-rprx-vision&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4#AE 🇦🇪 ┇ VLESS-TCP-RLT - Host Sailor Ltd ┇ 185.45.194.29
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGtleSBCLnYuIFx1MjUwNyAzMS41OC44Ny45OSIsImFkZCI6IjMxLjU4Ljg3Ljk5IiwicG9ydCI6MzY5ODksImlkIjoiZDkwYmVmMTUtMTQwMy00ZTc5LTkyY2MtOTBmNmNjNjk3NjAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
 vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.144
 vless://2dafc3ec-b609-4173-bf29-4bd833d43b09@217.60.236.240:8443?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.240
 vless://d48f09a4-a7c5-4cba-ae65-768ef312b501@cart.ankernamad.ir:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.18
 ss://cmM0LW1kNTpiMTNjNGMwMjFjZWMyYzBi@154.90.55.15:11201#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.55.15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.10:810#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
-ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
+ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE0yNDcgRXVyb3BlIFNSTCBcdTI1MDcgODkuMzEuMTIwLjE5MiIsImFkZCI6Ijg5LjMxLjEyMC4xOTIiLCJwb3J0Ijo0NDMsImlkIjoiNDQ1Mzc1OTUtOWNjYy00YjgzLTg5MzYtNWY5YWQzMjI5MDE5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI#AE 🇦🇪 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 38.180.27.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA@95.174.68.33:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 95.174.68.33
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vb24gRGMgXHUyNTA3IDIxNy42MC4yNDcuMTA4IiwiYWRkIjoiMjE3LjYwLjI0Ny4xMDgiLCJwb3J0Ijo4MDgwLCJpZCI6IjRhYjBlNDk2LTNlZjUtNDNmZC05ODg2LTEyNDM0NTQxZmE0MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:8880?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.102
+vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:77?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.124
 vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:85?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.143
 vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.128
-vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:8586?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.224
-vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:77?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.124
+vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:123?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.224
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:3030?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.123
+vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:3030?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.102
+vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@de2.fluxorvpn.net:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&sid=d7e1a2bb#AE 🇦🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 89.39.121.210

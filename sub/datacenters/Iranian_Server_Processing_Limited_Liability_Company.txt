@@ -2,4 +2,3 @@ vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&se
 vless://2dafc3ec-b609-4173-bf29-4bd833d43b09@217.60.236.240:8443?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.240
 vless://d48f09a4-a7c5-4cba-ae65-768ef312b501@cart.ankernamad.ir:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.18
 vless://a9bdffe4-76ad-4b20-a68a-c5fef3485b97@194.145.119.119:3717?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 194.145.119.119
-vless://c825deab-9252-42d4-8b4c-b00c69af5b13@dflight102.accesspolo.top:55959?type=tcp&security=reality&sni=cloudflare.com&pbk=mIcUYIt2iAR5DTf4NZdtz4ddWfaVdVWVQuUHMquswVg&sid=80065736#IR 🇮🇷 ┇ VLESS-TCP-RLT - Iranian Server Processing Limited Liability Company ┇ 5.160.132.12

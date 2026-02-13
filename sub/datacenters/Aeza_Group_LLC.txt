@@ -1,7 +1,5 @@
-vless://429fc264-6f74-466d-aef1-3c8313b8bf7b@109.120.152.169:48001?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.152.169
 vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 103.71.22.160
-vless://30713a3e-a491-44ab-9679-92ad615e70d8@dl-ru-cdn.upload-center.org:2082?type=ws&security=none&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-NTLS - Aeza Group LLC ┇ 77.221.151.81
 vless://924a17e7-4e9d-4055-bf2e-6f8edfdee786@194.113.106.197:104?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 194.113.106.197
-vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@77.239.125.99:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.239.125.99
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@77.239.125.99:443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.239.125.99
 vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@spb.connectv.net:443?type=tcp&security=reality&sni=spb.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 83.147.255.170
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@mskhost.outlinekeys.net:443?type=tcp&security=reality&sni=mskhost.outlinekeys.net&fp=chrome&flow=xtls-rprx-vision&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.239.124.88
