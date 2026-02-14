@@ -2,10 +2,10 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#E
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 vless://f40e5c9d-ea87-4881-8b45-3194cc4d6612@194.156.26.121:8080?type=ws&security=none&path=/wp-admin.php?ed=2052#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 194.156.26.121
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
+vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?type=ws&security=none&path=/#EE 🇪🇪 ┇ VLESS-WS-NTLS - Aktsiaselts WaveCom ┇ 37.252.4.176
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXN0cmVjIERhdGEgT1UgXHUyNTA3IDE3Ni4xMTIuMTQ2LjE5MCIsImFkZCI6IjE3Ni4xMTIuMTQ2LjE5MCIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vless://e35dd2de-7a4c-4af4-b671-1592e286a040@ee01.keyinvest.org:443?type=grpc&security=reality&sni=keyinvest.org&fp=chrome&pbk=G39Eg-wogA8ErCPDN0SOwh-9QHJ-PrIIs_EKVvPeeAY#EE 🇪🇪 ┇ VLESS-GRPC-RLT - Baykov Ilya Sergeevich ┇ 138.124.4.203
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.217:2053?type=ws&security=tls&path=twitterfreecodes&sni=a.ssll.gay#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.217
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80?type=ws&security=none&path=Twitterfreecodes#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.80.110.19
-vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 87.121.86.31
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
+vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&sid=c1765dd26b1e70#EE 🇪🇪 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 87.121.86.31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.88
+vless://4604876a-0652-4835-88bd-4421ea5c40da@est01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.155.96.154
