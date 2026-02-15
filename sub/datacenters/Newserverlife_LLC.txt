@@ -1,8 +1,6 @@
-vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MvIn0
 vless://3f2e4f68-bced-4794-9aeb-bbfd6bebab54@kz.catconnect.ru:8443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw&sid=9c9e61aa#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 91.224.74.214
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbzJiRGp6WXVLY1Eza2Y5QnR3eHgw@45.43.137.202:3908#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.43.137.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.48.63
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbzJiRGp6WXVLY1Eza2Y5QnR3eHgw@45.43.137.202:3908#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.43.137.202
 vless://9f51682b-487d-4912-9418-c659cbe8f4ed@zen-core.megaconfig.com:1198?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=J4od8RrAV4Us8mO38jkKdaW6yb-8TqISgE0ttrtPoV4&sid=908833730613ddfb#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.50.41
-vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@pol.fasti.win:443?type=tcp&security=reality&sni=pl.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.51.99
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.167.197.86:8443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.86
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.167.197.86:8443?type=ws&security=tls&path=/&sni=sni.111000.v6.navy&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Newserverlife LLC ┇ 104.167.197.86
 vless://080c676a-c43f-4e73-aed9-db90ece9d4fb@usa.fastexte.pro:443?type=tcp&security=reality&sni=usa.fastexte.pro&fp=chrome&flow=xtls-rprx-vision&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8#US 🇺🇸 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 104.167.196.107

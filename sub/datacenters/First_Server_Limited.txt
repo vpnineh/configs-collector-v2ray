@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.179.17:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.navy#SG 🇸🇬 ┇ VLESS-WS-TLS - First Server Limited ┇ 194.36.179.17
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.179.17:2053?type=ws&security=tls&path=/&sni=sni.111000.v6.navy&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - First Server Limited ┇ 194.36.179.17
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.118.10.56:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - First Server Limited ┇ 92.118.10.56
