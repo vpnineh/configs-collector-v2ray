@@ -1,2 +1,4 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.220:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in#US 🇺🇸 ┇ VLESS-WS-TLS - USG-PROD-WEST01 ┇ 135.84.73.220
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.42:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.navy#US 🇺🇸 ┇ VLESS-WS-TLS - USG-PROD-WEST01 ┇ 135.84.73.42
-vless://9432e607-70c7-4e3d-a1e3-b303b7276666@dnser3.puremoblile.ir:443?type=xhttp&security=tls&path=/?ed=2560&sni=pure.puremoblile.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - USG-PROD-WEST01 ┇ 135.84.74.58
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.139:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.navy#US 🇺🇸 ┇ VLESS-WS-TLS - USG-PROD-WEST01 ┇ 135.84.75.139
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.69:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.73.69

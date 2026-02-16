@@ -1,2 +1,5 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.178.227:8443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - H2nexus Ltd ┇ 192.124.178.227
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls&sni=ficdn1.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50
-vless://fa-397456379-1771011735892097@85.192.49.232:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.232
+vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.77:8104?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.77
+vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.156:8104?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.156
+vless://fa-397456379-1771011735892097@85.192.49.232:443?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&sid=d1d42381ba35#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.232
