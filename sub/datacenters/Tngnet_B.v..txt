@@ -1,1 +1,2 @@
-vless://65d8bfbf-f625-4d35-9a1c-2b19a55e58e2@82.25.145.95:38666?type=ws&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-FALSE - Tngnet B.v. ┇ 82.25.145.95
+vless://65d8bfbf-f625-4d35-9a1c-2b19a55e58e2@82.25.145.95:38666?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - Tngnet B.v. ┇ 82.25.145.95
+vless://6e44b298-a091-4433-af5e-c89afd438c98@us-4.hwowst.ru:443?type=tcp&security=reality&sni=www.samsung.com&flow=xtls-rprx-vision&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE#GB 🇬🇧 ┇ VLESS-TCP-RLT - Tngnet B.v. ┇ 82.21.72.179
