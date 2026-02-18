@@ -1,2 +1,3 @@
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?type=grpc&security=reality&sni=ads.x5.ru&fp=chrome&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a#BG 🇧🇬 ┇ VLESS-GRPC-RLT - Play2go International Limited ┇ 31.13.208.89
-vless://9357d31a-97f5-492b-9a9d-24dcb3449fb9@94.156.115.109:443?type=tcp&security=reality#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 94.156.115.109
+vless://9357d31a-97f5-492b-9a9d-24dcb3449fb9@94.156.115.109:443?type=tcp&security=reality&sni=tunnel.vk-apps.com&fp=chrome&flow=xtls-rprx-vision&pbk=2XHOm5oJ92noxYHfahYv6dABkpp-bdehIA5grPB1X2c&sid=beba4237#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 94.156.115.109
+vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@87.121.105.127:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 87.121.105.127

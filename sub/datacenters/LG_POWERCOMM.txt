@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.44.53.251:12126?type=ws&security=none&path=/?ed=2560#KR 🇰🇷 ┇ VLESS-WS-NTLS - LG POWERCOMM ┇ 116.44.53.251
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.44.53.251:12126?type=ws&security=tls&path=/&sni=sni.111000.indevs.in&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - LG POWERCOMM ┇ 116.44.53.251
