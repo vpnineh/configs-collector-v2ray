@@ -1,3 +1,4 @@
+vless://a5f55350-22fc-4dd1-8f03-0a4eebe9f294@84.32.104.91:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1Fmm4PKKgErxMtaql9guUFc77Bacyh5G5_jMlV49exI&sid=79dacfa7#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.104.91
 vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.151.60
+vless://762ac78b-0d9d-4d3e-aee5-e2597e7f3f6d@us01-vlr01-gmn03.tcp-reset-club.net:18443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.60.36
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.206:8443?type=ws&security=tls&path=/?ed&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IPXO ┇ 143.20.213.206
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.218:8443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.navy#US 🇺🇸 ┇ VLESS-WS-TLS - IPXO ┇ 143.20.213.218

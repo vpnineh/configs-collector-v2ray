@@ -1,40 +1,37 @@
 ss://YWVzLTI1Ni1nY206cHpvTmRQYmhxVDFYZDdXUw@149.28.164.55:443#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 149.28.164.55
+vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgNDUuNzYuMTI3LjE4OSIsImFkZCI6IjQ1Ljc2LjEyNy4xODkiLCJwb3J0Ijo0NDMsImlkIjoiN2ZjNjc2NGEtNmNiYS00NTk5LTk1ZDctYWM3NjE3YjdkYjBhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcmF5IiwidGxzIjoidGxzIn0
 vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?type=xhttp&security=none&path=/@bitnetvpn#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 77.81.81.17
 vless://6fe620b4-2525-41b0-a23b-684fdd18eeb2@149.248.62.163:9131?type=xhttp&security=reality&path=/api/stream&sni=mdundo.com&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#CA 🇨🇦 ┇ VLESS-XHTTP-RLT - AS-VULTR ┇ 149.248.62.163
-trojan://mainssh-ddoejfv14@140.82.38.103:443?sni=frtgrpc.mainssh.xyz&peer=frtgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 140.82.38.103
-trojan://mainssh-ddoejfv14@95.179.254.136:443?sni=frtgrpc.mainssh.xyz&peer=frtgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.254.136
 trojan://Cl150MQWlG@209.250.236.93:443?sni=irancell-ir-4.mmdruby13.store&peer=irancell-ir-4.mmdruby13.store&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 209.250.236.93
-trojan://mainssh-niwrhf87@95.179.246.122:443?sni=getgrpc.mainssh.xyz&peer=getgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.246.122
-trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?sni=asia.oceis.net&peer=asia.oceis.net&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.255.171
-trojan://mainssh-niwrhf87@140.82.32.17:443?sni=getgrpc.mainssh.xyz&peer=getgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 140.82.32.17
 trojan://mainssh-niwrhf87@108.61.171.167:443?sni=getgrpc.mainssh.xyz&peer=getgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 108.61.171.167
+trojan://mainssh-niwrhf87@95.179.246.122:443?sni=getgrpc.mainssh.xyz&peer=getgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.246.122
+trojan://mainssh-ddoejfv14@95.179.254.136:443?sni=frtgrpc.mainssh.xyz&peer=frtgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.254.136
+trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?sni=asia.oceis.net&peer=asia.oceis.net&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.255.171
+trojan://mainssh-ddoejfv14@140.82.38.103:443?sni=frtgrpc.mainssh.xyz&peer=frtgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 140.82.38.103
+trojan://mainssh-niwrhf87@140.82.32.17:443?sni=getgrpc.mainssh.xyz&peer=getgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 140.82.32.17
 trojan://mainssh-ddoejfv14@108.61.170.104:443?sni=frtgrpc.mainssh.xyz&peer=frtgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 108.61.170.104
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1Ljc2Ljg4LjM3IiwiYWRkIjoiNDUuNzYuODguMzciLCJwb3J0IjoyMDUzLCJpZCI6IjQxMzRlZmU3LWQ5MzUtNDE2Yy1jMmNjLTI0OTQzZTRhODBjYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgOTUuMTc5LjI1NC4yMCIsImFkZCI6Ijk1LjE3OS4yNTQuMjAiLCJwb3J0Ijo0NDMsImlkIjoiMDY4OTY0ZTAtMmUzNy0xMWVlLWI3MzMtMjA1YzZkNWY1ZDc4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvQGhvcGV2MnJheSIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgMTk5LjI0Ny4yMy4zMSIsImFkZCI6IjE5OS4yNDcuMjMuMzEiLCJwb3J0Ijo0NDMsImlkIjoiYzEzMjc3Y2UtY2RhNi00ZDAxLWNlZGMtMWUzNjA1YTBlYjcyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvMTI3OTY/ZWQ9MjA0OCIsInRscyI6InRscyJ9
-vless://5a0170ca-44ba-46a0-9d9b-2e4663b1f6a5@serverncyn.samanidempire.org:443?type=ws&security=tls&path=/b6e684a7#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.119.169
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.248.186.10:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳+@app_bedal&sni=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 192.248.186.10
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.250.236.123:8443?type=ws&security=tls&path=/?ed=2560&telegram🇨🇳+@wangcai2&sni=sni.111000.indevs.in&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 209.250.236.123
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.179.241.93:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 95.179.241.93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.247.23.140:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 199.247.23.140
-vless://0a6a9250-5007-4458-b2a7-f3d82ebb7374@45.63.116.176:27773?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.63.116.176
+vless://050630a4-5c3c-465e-b2be-7f396fb0bd8d@45.63.116.176:27773?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.63.116.176
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.247.23.140:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 199.247.23.140
+vless://5a0170ca-44ba-46a0-9d9b-2e4663b1f6a5@serverncyn.samanidempire.org:443?type=ws&security=tls&path=/b6e684a7#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.119.169
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?sni=nika2.hdfy2.foriran.trade&peer=nika2.hdfy2.foriran.trade&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.217.221
-vless://9f6ffb3c-de36-4a48-8cae-34d7e3ede5ea@bf.branly23.cloud:2087?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.76.45.225
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.63.114.83:443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.114.83
 vless://baadf496-921b-41b1-a7ae-fde0ddc6793d@140.82.54.120:443?type=tcp&security=reality&sni=*.zarairan.top&fp=firefox&flow=xtls-rprx-vision&pbk=0O2wxSFr76Y9Sp2y5Bc1shI5yA1rkp1zKHZbkKsOE3E&sid=28e21203#FR 🇫🇷 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 140.82.54.120
 vless://3d72057d-54c5-4d51-ade5-a872c1032b75@45.76.136.227:4403?type=grpc&security=reality&sni=www.foursquare.com&fp=chrome&pbk=y1hXOgI6F-rUsm6UvVmZpRxqZi1JbktKw7yr4k8lr2o&sid=c52a2c73#GB 🇬🇧 ┇ VLESS-GRPC-RLT - AS-VULTR ┇ 45.76.136.227
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw@103.125.147.48:51348#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 103.125.147.48
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.198.248:443?type=ws&security=none&path=/?ed=2560#JP 🇯🇵 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.198.248
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.77.25.6:48828?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in#JP 🇯🇵 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.77.25.6
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.179.87.9:443?type=ws&security=none&path=/?ed=2560#JP 🇯🇵 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 167.179.87.9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.107.78:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.navy&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.107.78
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.45.187
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.39.146:6697#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.39.146
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.205.87
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.45.187
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@158.247.213.230:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.213.230
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.205.87
+ss://YWVzLTI1Ni1nY206SmhCNWFkbzhlbkJoa2FPZQ@216.238.75.111:443#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 216.238.75.111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 136.244.100.113
 ss://YWVzLTI1Ni1nY206MjRvc0FmbFN4R1kxM0I2Zw@199.247.27.182:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 199.247.27.182
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDE5OS4yNDcuMzAuNDUiLCJhZGQiOiIxOTkuMjQ3LjMwLjQ1IiwicG9ydCI6ODA4MCwiaWQiOiJjYTgwNDUxZS03NjhhLTQ2OWYtOTkxMy01N2EyNzI2OGZkNzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyAxMzYuMjQ0LjEwNi41NCIsImFkZCI6IjEzNi4yNDQuMTA2LjU0IiwicG9ydCI6MjAzNSwiaWQiOiJhMTJkM2NlYS1iNTVhLTQwOTMtYmFkZS05ZDQxZTJiODFhNmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://17142adb-da1b-4c77-be43-c13d5e7434ab@95.179.153.157:7443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.153.157
 vless://telegram-id-qeshmserver@108.61.103.121:19297?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 108.61.103.121
 vless://3cac427f-306c-421b-a2a0-adf8f49e1f48@45.76.32.68:43144?type=tcp&security=reality&sni=ea.com&fp=chrome&flow=xtls-rprx-vision&pbk=iBm5uoc-I3ZPxcCYNLhV1nUL2eSKYt-lUsLocLrj3Sg&sid=5ed04739#NL 🇳🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.32.68
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=ipM5-HQ6sNBZhPGNLNpq8voqMvgxBeL9LDZY4sQ5Yyk&sid=d2bab77a#NL 🇳🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 95.179.138.190
@@ -42,14 +39,14 @@ vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 vless://6fe620b4-2525-41b0-a23b-684fdd18eeb2@70.34.201.158:9130?type=xhttp&security=reality&path=/api/stream&sni=mdundo.com&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#SE 🇸🇪 ┇ VLESS-XHTTP-RLT - AS-VULTR ┇ 70.34.201.158
 ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 45.77.253.107
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1Ljc2LjE4MS4yNDYiLCJhZGQiOiI0NS43Ni4xODEuMjQ2IiwicG9ydCI6MTIzNDUsImlkIjoiNTIyNjM5MDEtYjNjZi00ZDdkLWI0ZmQtYTEyZmUxNzhlZjJhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.188.229:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.navy&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.188.229
-vless://telegram-id-qeshmserver@139.180.146.164:2020?type=tcp&security=reality&sni=ea.com&fp=chrome&flow=xtls-rprx-vision&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&sid=05fb89d5#SG 🇸🇬 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.180.146.164
+vless://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?type=tcp&security=reality&sni=ea.com&fp=chrome&flow=xtls-rprx-vision&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&sid=05fb89d5#SG 🇸🇬 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.180.146.164
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@45.76.183.217:49292?type=tcp&security=reality&sni=example.com&fp=chrome&pbk=exampleKeyExampleKeyExampleKey&sid=abcd#SG 🇸🇬 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.183.217
 ss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg@64.176.215.70:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.215.70
 trojan://Gl123qwe@los2.playstone.info:23443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.60.28
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1Ljc2LjcxLjIzMyIsImFkZCI6IjQ1Ljc2LjcxLjIzMyIsInBvcnQiOjQ2OTgzLCJpZCI6IjY5MDk5MjU4LTE0NzYtNDZkZC1hNTFiLTg0ZTkxNWU5NDFiZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLzF0R0s4MmxVLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgNzIuMTEuMTM2LjIxMiIsImFkZCI6IjcyLjExLjEzNi4yMTIiLCJwb3J0Ijo0NDMsImlkIjoiNmIwMmI1MDQtZWFkNi00OTM5LWJhMWMtYWZhNWI5MmE2ZjZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcmF5IiwidGxzIjoidGxzIn0
+vless://9f6ffb3c-de36-4a48-8cae-34d7e3ede5ea@bf.branly23.cloud:2087?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 207.246.88.166
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.138.227.121:8443?type=ws&security=tls&path=/?ed=2560&telegram🇨🇳+@wangcai2&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-VULTR ┇ 155.138.227.121
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@207.246.97.82:443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-VULTR ┇ 207.246.97.82
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.128.140.253:26376?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-VULTR ┇ 216.128.140.253
-vless://725663f6-3871-4799-b9eb-be57fbbd5109@vim1.svhamrah.shop:4471?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.77.154.91
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.32.131.28:31001?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.32.131.28
+vless://725663f6-3871-4799-b9eb-be57fbbd5109@vim1.svhamrah.shop:4471?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.77.154.91
