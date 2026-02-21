@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.39.62.53:443?type=ws&security=tls&path=/?ed&sni=sni.111000.indevs.in&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.39.62.53
-trojan://M7v%w11Se*@qfdfsg.wsone.icu:443?sni=qfdfsg.wsone.icu&peer=qfdfsg.wsone.icu&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.101.126.150
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.155.19.30:2053?type=tcp&security=none&path=/?ed=2560#FR 🇫🇷 ┇ VLESS-TCP-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 34.155.19.30

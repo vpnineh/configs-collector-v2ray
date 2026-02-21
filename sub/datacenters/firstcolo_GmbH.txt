@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - firstcolo GmbH ┇ 212.224.125.154
-ss://YWVzLTI1Ni1nY206OTQ4YmRlNWItMzhkYy00ZjljLTgzYjktNDNiOTE5MDAzNzc4@84.200.91.158:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - firstcolo GmbH ┇ 84.200.91.158
-vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@79.133.57.246:443?type=tcp&security=reality&sni=www.nvidia.com&fp=firefox&flow=xtls-rprx-vision&pbk=5DAohRJhyu-EDGKzo1nMm1ez9lQS3hpPJRR6p3A0lEc&sid=63d80d5199a2bc#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 79.133.57.246
+ss://YWVzLTI1Ni1nY206NDJhMmM1NzktN2NmMS00ODE3LThhOWUtZTM2NTU4MTAzZjUw@84.200.91.158:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - firstcolo GmbH ┇ 84.200.91.158
+vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@79.133.57.246:443?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=5DAohRJhyu-EDGKzo1nMm1ez9lQS3hpPJRR6p3A0lEc&sid=63d80d5199a2bc#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 79.133.57.246
 vless://54aaf1d1-42bb-457a-be2e-c7f3ea583257@84.200.73.227:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 84.200.73.227
+vless://daac11cb-7acd-40fa-ae53-2af2d5993878@r.cdn-ir-prime.shop:8081?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=HBbnPv8rfgqmgXU9HbY_oli33BfAgVcDVBvKe04PXgg&sid=8a3c54384f92b7cd#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 84.200.154.173
