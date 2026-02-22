@@ -1,2 +1,4 @@
-vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@deu549.worldbypass.org:443?type=tcp&security=tls&sni=deu549.worldbypass.org&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 45.149.115.210
+vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?type=grpc&security=none#LU 🇱🇺 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 45.136.117.8
+vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@deu549.worldbypass.org:443?type=tcp&security=tls&sni=deu549.worldbypass.org&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 45.149.115.210
+vless://964582fa-d157-491e-9ce7-bb3e2df57625@85.209.155.9:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Fast Geo Hosting S.r.l. ┇ 85.209.155.9
 vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?type=tcp&security=reality&sni=msn.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 45.66.163.75
