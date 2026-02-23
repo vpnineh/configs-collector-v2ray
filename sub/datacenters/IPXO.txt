@@ -1,5 +1,2 @@
-vless://cb637e7c-6339-4d64-9782-148a43c57683@95.85.245.253:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=lOSr-9AoQwZVwhuonEZxeHvVxN9kHpdDIePpRoPAzkM&sid=84ba23f581ad7a15#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.245.253
-vless://a5f55350-22fc-4dd1-8f03-0a4eebe9f294@84.32.104.91:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1Fmm4PKKgErxMtaql9guUFc77Bacyh5G5_jMlV49exI&sid=79dacfa7#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.104.91
 vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.151.60
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.206:8443?type=ws&security=tls&path=/?ed&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IPXO ┇ 143.20.213.206
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.218:8443?type=ws&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - IPXO ┇ 143.20.213.218

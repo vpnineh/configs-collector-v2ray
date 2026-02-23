@@ -1,9 +1,11 @@
-vless://af710fe3-94ea-43af-9e7c-8c4fccebf228@85.133.228.75:8881?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.75
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiODUuMTMzLjIwNC42NyIsInBvcnQiOjgwLCJpZCI6Ijg5ZTI1NTYyLWQwZjEtNGY1NC04YWZiLTZlZTM3NGUzMGZiYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://42743a41-8d81-4e2e-896a-decc086b03fa@85.133.228.75:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.75
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiYWRlbG1lbGkuY29tIiwicG9ydCI6ODAsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIn0
 vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.179
+vless://8e979723-8528-4201-8e70-aa66c0bd7e10@b.khomain.org:8093?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.126
 vless://f5625566-9b18-44ed-8837-ddcba63fb6d6@89.44.240.116:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.240.116
-vless://0a58ada9-9876-48f6-b44f-f23d51beb152@85.133.201.53:2526?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.201.53
 vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.74
+vless://0a58ada9-9876-48f6-b44f-f23d51beb152@85.133.201.53:2526?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.201.53
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.br.flicknet.ir:40019?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.179
 vless://dc893677-ef29-43c8-ae2a-4788c5712a23@ger4.azadrah.drpingi.shop:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.47.197.97
-vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@62.60.185.163:6877?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.163
+vless://7d50ef82-081d-41ed-bd6a-0e7210277f9a@85.133.204.184:8080?type=ws&security=none&path=/hormozvpn#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.184
+vless://6700e0ad-3a1a-40e8-b95c-884bc11e9500@v2p.mhlovelykimia.ir:4002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.201.190

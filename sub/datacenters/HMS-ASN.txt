@@ -1,10 +1,8 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyAxOTguNjIuNjIuMTk5IiwiYWRkIjoiMTk4LjYyLjYyLjE5OSIsInBvcnQiOjQ0MywiaWQiOiJmMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoib3VzMy5kZWFuNTIudG9wIiwicGF0aCI6Ii9mMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvdXMzLmRlYW41Mi50b3AifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyA2OS44NC4xODIuMTYiLCJhZGQiOiI2OS44NC4xODIuMTYiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?type=xhttp&security=none&path=/pabloping#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - HMS-ASN ┇ 198.62.62.99
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.62.62.91:443?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.91
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?type=ws&security=tls&path=/youlingkaishi&sni=vbbc.ylks2024.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.1
 vless://da8a47cb-3cc6-425b-a4da-24abe9b2c332@69.84.182.13:443?type=ws&security=tls&path=/kbjc/jp1&sni=jp1-jp1.aiopen.sbs&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.13
-vless://9528078a-6ff0-403e-bc87-eb898c774a87@198.62.62.206:2087?type=ws&security=tls&sni=a10x.vslbsh.pro#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.206
-vless://b7c4e45e-ebf3-44b6-8cff-95e87a150adf@fast.allbigfilecollectionsonline.ir:2087?type=tcp&security=tls&path=/DL?ed=2096#US 🇺🇸 ┇ VLESS-TCP-TLS - HMS-ASN ┇ 198.62.62.207
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@198.62.62.99:2052?type=xhttp&security=none&path=/pabloping#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - HMS-ASN ┇ 198.62.62.99
+vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20
 vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.152:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.152
-vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20
