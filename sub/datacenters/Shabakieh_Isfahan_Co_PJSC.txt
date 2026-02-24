@@ -1,2 +1,4 @@
+vless://a8918b71-80c6-4ca6-ba11-64fd8e25b487@81.12.92.36:4433?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.36
+vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?type=ws&security=none&path=/v1/stream/trk#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.168
 vless://9d3676df-21c3-4338-909f-078067620114@81.12.92.70:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.70
-vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.168:8080?type=ws&security=none&path=/IVApi/NL/0#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.168
+vless://9671d66f-df56-6cf4-83ab-6606f9accbee@81.12.92.137:17819?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.137

@@ -1,11 +1,10 @@
-vless://0e6d4c0a-485b-86df-90d9-069807fcc559@animallzoo-love-zoo-nect.giggoopanel.ir:9091?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS ┇ 159.195.49.58
-vless://e07d05f1-4257-49b1-9468-c7bd83d99ae2@newatge.connect-iskra.ru:8443?type=tcp&security=reality&sni=fastsync.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c#DK 🇩🇰 ┇ VLESS-TCP-RLT ┇ 159.195.69.251
-vless://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.40.47:80?type=xhttp&security=none&path=/#DK 🇩🇰 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.40.47
+vless://6f89349c-d070-fdcf-b4b7-b529c10cb23a@animallzoo-love-zoo-nect.giggoopanel.ir:9091?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS ┇ 159.195.49.58
+vless://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.40.47:80?type=xhttp&security=none&path=/KingRazaPahlavi?ed=2048#DK 🇩🇰 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.40.47
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.94
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.116:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.116
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.79
-ss://YWVzLTI1Ni1nY206VHV3Nnp6Wk02SndXTlp5WUY5Y2tDNEpa@193.29.107.211:43963#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.211
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.179
+ss://YWVzLTI1Ni1nY206VHV3Nnp6Wk02SndXTlp5WUY5Y2tDNEpa@193.29.107.211:43963#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.211
 ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.197
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c#DK 🇩🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.85.109
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=false&path=/&fp=chrome#DK 🇩🇰 ┇ VLESS-WS-FALSE - Webdock.io ApS ┇ 45.148.31.0
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#DK 🇩🇰 ┇ VLESS-WS-NTLS - Webdock.io ApS ┇ 45.148.31.0

@@ -1,4 +1,3 @@
 vless://643ea714-3410-4476-a3b1-f71789886b2c@64.188.73.65:20150?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Liberty Global B.V. ┇ 64.188.73.65
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.104.168
 vless://99bd2791-8e27-435b-a1e2-c9b625101af9@64.188.73.12:443?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU&sid=d91248fbca#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.73.12
-vless://125316cf-31d1-4828-9cdd-3ac81fffcab7@fi.divinevpnconnect.ru:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=fygfmVgp2H6Y4ECbiDODx57Zz4CTNGFLYGtCqC31xiM&sid=1da66e71#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.73.17
