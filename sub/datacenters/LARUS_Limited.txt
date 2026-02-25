@@ -1,4 +1,5 @@
-vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.5:2083?type=ws&security=tls&path=/Proxy-MTM?ed=2056&sni=Z1.Zemestanil.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.5
+vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.113:2083?type=ws&security=tls&path=/Proxy-MTM?ed=2056&sni=Z1.Zemestanil.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.113
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.9:443?type=grpc&security=tls&sni=first.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.9
+vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.5:2083?type=tcp&security=tls#PE 🇵🇪 ┇ VLESS-TCP-TLS - LARUS Limited ┇ 154.219.5.5
 vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.59:443?type=grpc&security=tls&sni=second.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.59
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.88:443?type=grpc&security=tls&sni=third.pinocchio1.ir&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.88
-vless://0a8738e8-e705-4a83-8ac5-a1bdde4222b1@154.219.5.95:80?type=ws&security=none&path=/@Proxy_MTM-@Proxy_MTM-@Proxy_MTM-Proxy_@MTM?ed=2056#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.95
+vless://43c09824-e7fb-4b23-ae1e-8d26e6004de0@154.219.5.136:443?type=grpc&security=tls&sni=MOJ.Bklink.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.136
