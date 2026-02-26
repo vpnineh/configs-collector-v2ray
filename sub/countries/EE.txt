@@ -1,11 +1,10 @@
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.234
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 vless://bb0f3b3d-a3d1-429a-9b75-263bd9200b6f@92.61.70.38:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=jqOwroc2Ua1reEEybEQHxbPt4-Yyo3I5h9M4eZLZ2n0&sid=9e0d1218f82e3630#EE 🇪🇪 ┇ VLESS-TCP-RLT ┇ 92.61.70.38
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
 vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?type=ws&security=none&path=/#EE 🇪🇪 ┇ VLESS-WS-NTLS - Aktsiaselts WaveCom ┇ 37.252.4.176
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.180.10.150:443?type=ws&security=tls&path=/tg@zdyz2&sni=cfed.tgzdyz2.top#EE 🇪🇪 ┇ VLESS-WS-TLS - Aktsiaselts WaveCom ┇ 38.180.10.150
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXN0cmVjIERhdGEgT1UgXHUyNTA3IDE3Ni4xMTIuMTQ2LjE5MCIsImFkZCI6IjE3Ni4xMTIuMTQ2LjE5MCIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?type=ws&security=tls&path=/?ed=2560&sni=sni.jpmj.dev&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.238
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.138:2096?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=sni.111000.indevs.in#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 185.159.247.138
-vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s348.ccgfw.top:443?type=tcp&security=tls&path=/&sni=u708330u57e3s348.ccgfw.top&fp=chrome&flow=xtls-rprx-vision#EE 🇪🇪 ┇ VLESS-TCP-TLS - HostSlim B.V. ┇ 69.12.83.251
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@est01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.184.42
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@est01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.184.44

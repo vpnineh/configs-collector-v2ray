@@ -1,3 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRVZFTDMgXHUyNTA3IDguNi4xMTIuMCIsImFkZCI6IjguNi4xMTIuMCIsInBvcnQiOjIwODMsImlkIjoiZTYzOTVjMjAtNDU3MS00YjM0LWQ2YjEtNTVhNWQzNmU0OWVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJoZ3Ryb2phbi56YWJjLm5ldCIsInBhdGgiOiIvZTYzOTVjMjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoZ3Ryb2phbi56YWJjLm5ldCJ9
-vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?type=ws&security=none&path=/#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.4
+trojan://1111@8.35.211.134:443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&security=tls#MY 🇲🇾 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.35.211.134
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.238:2096?type=ws&security=tls&path=/?ed=2560&sni=sni.jpmj.dev#US 🇺🇸 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.34.146.238
 vless://d654ecf6-bef4-4088-81a9-d12e04da0236@8.39.125.170:443?type=ws&security=tls&path=/&sni=qa1.xiaotiyan.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.39.125.170
