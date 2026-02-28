@@ -1,3 +1,3 @@
 vless://8db31176-aed6-402d-aa1b-a8b04b5c3b48@193.242.125.18:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 193.242.125.18
+vless://501f51e6-468b-48d7-a458-929f45bb2d10@www.parspack.com:8880?type=httpupgrade&security=none&path=/SHHPROXY?ed=2048#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Pars Parva System LLC ┇ 45.139.11.243
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 194.5.205.229
-vless://4ef66207-75e9-4207-95ec-0833afa173a2@mobilemajid031.site:21754?type=tcp&security=tls&sni=mobilemajid031.site&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Pars Parva System LLC ┇ 45.139.11.195
