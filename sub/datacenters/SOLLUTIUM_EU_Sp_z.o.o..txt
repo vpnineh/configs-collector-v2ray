@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.180.157:2053?type=ws&security=tls&path=/?ed=2560&telegram🇨🇳 @wangcai2&sni=sni.111000.indevs.in#NL 🇳🇱 ┇ VLESS-WS-TLS - SOLLUTIUM EU Sp z.o.o. ┇ 45.135.180.157
-vless://932fbc77-4dff-4607-8b69-50d6580331a3@45.135.180.16:8443?type=tcp&security=reality&sni=ign.dev&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#NL 🇳🇱 ┇ VLESS-TCP-RLT - SOLLUTIUM EU Sp z.o.o. ┇ 45.135.180.16
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.180.157:2053?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - SOLLUTIUM EU Sp z.o.o. ┇ 45.135.180.157
