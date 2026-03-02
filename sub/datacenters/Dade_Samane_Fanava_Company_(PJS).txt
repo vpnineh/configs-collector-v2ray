@@ -1,14 +1,8 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgU2FtYW5lIEZhbmF2YSBDb21wYW55IChQSlMpIFx1MjUwNyA3OC4xNTcuNDAuMTAyIiwiYWRkIjoibWFjLnBrcG93ZXJraW5nLnh5eiIsInBvcnQiOjM0MDgyLCJpZCI6IjkxZGNlNTVlLTQ3YzctNDE3Ni1iZTYxLTIxYjExMjJkOWM0MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://589c0f96-7ab5-470b-8f1d-cb87e09d2138@germany.heliyadak.ir:52678?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.215
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?type=ws&security=none&path=/ALMAS4#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.141
-vless://a6d7c26a-7305-5e0d-8701-1dcfc4d49b2b@dl.salarcloud.ir:22548?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.209
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@de4.b761plus.shop:2019?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.125
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.62:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.47.62
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.43:2023?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.47.43
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.48:2022?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.47.48
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.58:2024?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.47.58
-vless://ed1db134-43dd-4b97-8863-fd64001ba5d2@78.157.47.245:8522?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.47.245
+vless://cc61d958-707a-4b18-ad33-128dae32a1cd@yas3.mizsky.org:27892?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.42.149
+vless://ce7331c5-a28c-4478-ae06-2a2c5b5416fe@ir.api.clothesshopping.ir:19163?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.37.186
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.62.185
+vless://a6d7c26a-7305-5e0d-8701-1dcfc4d49b2b@dl.salarcloud.ir:22548?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.209
 vless://ab065397-ac5e-46fc-9dab-296973f69704@tun.biostart.ir:10300?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.37.5
 vless://2b195252-b849-4250-b38d-0fa32b69b652@po.mi6bot.info:56987?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.53.57
 vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?type=tcp&security=none&sni=1#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.49.215

@@ -17,6 +17,7 @@ vless://2e626313-d0f1-4120-8481-bb6d9a4845c9@s2.starservice.cfd:443?type=ws&secu
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.138:2096?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in&fp=chrome#RO 🇷🇴 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.85.119.138
 vless://d2806dec-3915-4057-c5f1-cc57e014605e@45.85.118.20:443?type=grpc&security=tls&sni=misbon.enosjast.store#RO 🇷🇴 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 45.85.118.20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Dotro Telecom Srl ┇ 154.46.31.106
+trojan://af4b064a9c39472fb34ad8b113acdc6b@185.247.224.136:443?sni=185.247.224.136&peer=185.247.224.136&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - FlokiNET ehf ┇ 185.247.224.136
 vless://af5100bf-ffe6-43de-bee5-b16cf5a3528e@homie.lezzatone.ir:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7#RO 🇷🇴 ┇ VLESS-TCP-RLT - Freakhosting ┇ 45.13.151.22
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?type=tcp&security=none&path=/?ed=2560#RO 🇷🇴 ┇ VLESS-TCP-NTLS - HFM S.R.L ┇ 188.241.241.28
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.115:989#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.14.217.115

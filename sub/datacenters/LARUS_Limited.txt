@@ -1,11 +1,10 @@
-vless://dcca1cd9-08da-4756-9e47-ba6c47705fa1@154.219.5.99:2053?type=grpc&security=tls&sni=v2rayb.peymod.com&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.99
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.7:443?type=grpc&security=tls&sni=first.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.7
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.115:443?type=grpc&security=tls&sni=first.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.115
+vless://dcca1cd9-08da-4756-9e47-ba6c47705fa1@154.219.5.101:2053?type=grpc&security=tls&sni=v2rayb.peymod.com&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.101
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.114:443?type=grpc&security=tls&sni=first.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.114
 vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.59:443?type=grpc&security=tls&sni=second.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.59
 vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.57:443?type=grpc&security=tls&sni=second.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.57
-vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@154.219.5.125:443?type=grpc&security=tls&sni=fifth.pinocchio1.ir&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.125
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.113:443?type=grpc&security=tls&sni=first.pinocchio1.ir.&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.113
 vless://17565eb3-3535-4fc1-bbaa-e9fbd94b2f0c@154.219.5.16:2053?type=ws&security=tls&path=/&sni=fi1.v2vless.xyz#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.16
 vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.5:2083?type=ws&security=tls&path=/Proxy-MTM?ed=2056&sni=Z1.Zemestanil.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.5
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.81:443?type=grpc&security=tls&sni=third.pinocchio1.ir&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.81
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.84:443?type=grpc&security=tls&sni=third.pinocchio1.ir&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.84
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.85.99.37:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#US 🇺🇸 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.85.99.37
