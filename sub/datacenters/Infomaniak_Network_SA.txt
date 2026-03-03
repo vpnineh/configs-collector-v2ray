@@ -4,3 +4,4 @@ vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?type=ws&securit
 vless://monacoVPN@83.228.228.44:22?type=tcp&security=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.44
 vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.98
 vless://62ba6427-4f3b-43ac-8f65-ddd4cd23b6b9@84.234.28.177:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.177
+vless://e96b31ba-7120-45a0-abfc-c5611049af75@ae-rlt.hexo-music.ir:2087?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=7s9-nH4hYMtQH5vUCzUFEeyGsb6WCl2E4Qgk13R80A0&sid=f85554dfada636a4#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 84.234.29.143
