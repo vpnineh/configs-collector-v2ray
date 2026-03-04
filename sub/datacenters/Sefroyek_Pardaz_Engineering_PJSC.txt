@@ -1,9 +1,9 @@
-ss://YWVzLTI1Ni1nY206aDlSbDFsUGcyaw@sib.parsiplay.com:12604#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.141.134.55
-vless://6a72d0af-5e8a-474a-be26-004eb17c77da@srv3.hqspeed.shop:25749?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.233
+vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 78.110.121.252
 vless://589c0f96-7ab5-470b-8f1d-cb87e09d2138@germany.heliyadak.ir:52678?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.141.135.34
-vless://3aa73ad8-4824-46ce-8022-1ca9c0d9052f@srv7.digispeed.shop:30806?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.232
-vless://37d12b73-7315-4d9a-b6ac-bbebe1498945@m.kejar.ir:6002?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.19
-vless://1b4e2fd9-dcf1-48ca-82a2-521828fced48@n.masih1-ah.site:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 195.211.44.154
-vless://6ae155bc-ebf7-424a-b6df-77e2a760bf8d@top.best-cloud.ir:443?type=grpc&security=tls&sni=top.daltoon.fun&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Sefroyek Pardaz Engineering PJSC ┇ 185.58.241.45
-vless://00166eef-7e25-43a1-a832-203f7228b3e3@91.247.171.156:99?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.247.171.156
 vless://45913ab8-f6be-41f0-aca0-78b4fdcf1ce8@irfrance.tunelclub.top:48287?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.213.195.184
+vless://3aa73ad8-4824-46ce-8022-1ca9c0d9052f@srv7.digispeed.shop:30806?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.232
+vless://00166eef-7e25-43a1-a832-203f7228b3e3@91.247.171.156:99?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.247.171.156
+vless://20a4bcd2-b3a6-4e2c-b2eb-ba11462d8380@n.masih1-ah.site:9091?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 195.211.44.154
+vless://37d12b73-7315-4d9a-b6ac-bbebe1498945@m.kejar.ir:6002?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.19
+vless://6ae155bc-ebf7-424a-b6df-77e2a760bf8d@top.best-cloud.ir:443?type=grpc&security=tls&sni=top.daltoon.fun&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Sefroyek Pardaz Engineering PJSC ┇ 185.58.241.45
+vless://6a72d0af-5e8a-474a-be26-004eb17c77da@srv3.hqspeed.shop:25749?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.233

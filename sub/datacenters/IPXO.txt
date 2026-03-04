@@ -2,8 +2,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeDN2dTlEeEJaWWZnSzNnbWM0dnln@212.100.171.23
 vless://08441466-dcf2-4445-9f44-62bd5c51dd54@84.32.108.128:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=4DbBqJS710XxPuhKE2SRd1q_ZQDqduZdhTcvwIY_NF8&sid=0ab29580#DE 🇩🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.108.128
 vless://ed9a0afe-1f54-40af-8821-0995cef0225a@api6.maps-yandex.net:10970?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=_RCN3b8MUJE61ES111k45TLrvB_nUi1pywAO5sc0OF0&sid=cb8ba29900e2f68b#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.217.164
 vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.151.60
-vless://0929623b-c920-4687-9077-38185714725a@213.165.58.87:12345?type=tcp&security=none#SA 🇸🇦 ┇ VLESS-TCP-NTLS - IPXO ┇ 213.165.58.87
 vless://c48bd63d-f4a0-42d5-9569-6ccfe5c435ed@213.165.58.213:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=wYoaKmGm40vL6L1lg-2umg9nIXUIqzPfmvw57C1fwXU&sid=0c0ecbe84815#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.58.213
-vless://bde22ee6-cb5c-57b3-9219-c5de242241d3@143.20.236.93:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IPXO ┇ 143.20.236.93
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.206:8443?type=ws&security=tls&path=/?ed&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IPXO ┇ 143.20.213.206
+vless://Telegram@143.20.236.93:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#US 🇺🇸 ┇ VLESS-WS-TLS - IPXO ┇ 143.20.236.93
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 143.20.236.51
