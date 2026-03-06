@@ -5,7 +5,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHA
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.216.114
 vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?type=ws&security=none&path=/#EE 🇪🇪 ┇ VLESS-WS-NTLS - Aktsiaselts WaveCom ┇ 37.252.4.176
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXN0cmVjIERhdGEgT1UgXHUyNTA3IDE3Ni4xMTIuMTQ2LjE5MCIsImFkZCI6IjE3Ni4xMTIuMTQ2LjE5MCIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?type=ws&security=tls&path=/&sni=sni.jpmj.dev&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.238
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?type=ws&security=tls&path=twitterfreecodes&sni=a.ssll.gay#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.229
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?type=ws&security=tls&path=/?ed=2560&sni=sni.jpmj.dev&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.238
 vless://b15b627e-18d8-4d21-8409-cab0e8e17b7b@185.159.247.12:2082?type=ws&security=none&path=/#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.12
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
