@@ -1,2 +1,1 @@
-vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?type=tcp&security=tls&sni=de3.teleport.lat&flow=xtls-rprx-vision#ES 🇪🇸 ┇ VLESS-TCP-TLS - ZHOUYISAT-COMMUNICATIONS ┇ 185.236.26.58
-vless://26524cce-d514-4014-a426-365fb266a14d@193.46.217.173:2053?type=ws&security=tls&path=/danfengfp=random&sni=fqrf5tlc.chinav.eu.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ZHOUYISAT-COMMUNICATIONS ┇ 193.46.217.173
+vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?type=tcp&security=tls&sni=de3.teleport.lat&fp=chrome&flow=xtls-rprx-vision#ES 🇪🇸 ┇ VLESS-TCP-TLS - ZHOUYISAT-COMMUNICATIONS ┇ 185.236.26.58
