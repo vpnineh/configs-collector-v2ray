@@ -4,4 +4,3 @@ vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?type=tcp&securit
 vless://4a575337-7118-4867-9a3e-f30e20e5557d@s2.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.20
 vless://4a575337-7118-4867-9a3e-f30e20e5557d@s3.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.6
 vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?type=ws&security=none&path=@BluebberyNetWork#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amir Hosein Maaref ┇ 92.114.50.187
-vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@ov2.liiliil.ir:40301?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 45.81.19.105
