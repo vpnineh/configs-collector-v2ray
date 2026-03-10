@@ -1,5 +1,7 @@
 trojan://zp630tdUuD@194.150.166.151:52047?sni=aws.amazon.com&peer=aws.amazon.com&security=reality#IQ 🇮🇶 ┇ TROJAN-TCP-REALITY ┇ 194.150.166.151
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?type=tcp&security=tls&sni=deu549.worldbypass.org&flow=xtls-rprx-vision#IQ 🇮🇶 ┇ VLESS-TCP-TLS ┇ 93.94.51.210
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&sid=99de062f46387d3e#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.51.8
+vless://c1e66fa3-951b-436c-a95a-b2abbaecb195@93.94.51.11:53320?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=xrzsSwm-PkWv-DgyaFCVd_QELA6YFBtvaDOlQCd7Sj8&sid=e4656850eaed4e86#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.51.11
+vless://dc923edf-9962-4817-bd51-f43f696c5fbc@oodplkgju.vjdkem.mmejdus.ksmajww.cncjskwisuxjs.infinityofconnectedminds.com:3090?type=ws&security=none&path=/XIXVPN?ed#IQ 🇮🇶 ┇ VLESS-WS-NTLS - MADGEN-01 ┇ 178.17.52.160
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?type=tcp&security=reality&sni=www.ibm.com&fp=chrome&flow=xtls-rprx-vision&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=423bccc9c13fb509#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.59.73
 vless://a774f61d-a518-4c61-902f-807797da6caf@scvad1tel-ru.golden-cards.me:443?type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=whYmACpNNY4B3Yv8iBJ9AmxokZL2Tb7O210utmzvGSo&sid=6ba85179e30d4fc2#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.31.40
