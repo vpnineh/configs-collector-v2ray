@@ -1,9 +1,9 @@
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.234
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.130.46.42:443?type=tcp&security=none&path=/?ed=2560#EE 🇪🇪 ┇ VLESS-TCP-NTLS ┇ 178.130.46.42
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.130.46.42:443?type=ws&security=tls&path=/&sni=sni.111000.v6.navy&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS ┇ 178.130.46.42
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXN0cmVjIERhdGEgT1UgXHUyNTA3IDE3Ni4xMTIuMTQ2LjE5MCIsImFkZCI6IjE3Ni4xMTIuMTQ2LjE5MCIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ndt.fasti.win:443?type=tcp&security=reality&sni=ndt.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744#EE 🇪🇪 ┇ VLESS-TCP-RLT - Orion Network Limited ┇ 165.231.193.21
-vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@est.top.subtrust.ru:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af#EE 🇪🇪 ┇ VLESS-TCP-RLT - QWINS LTD ┇ 93.123.39.211
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.4.72.98:8443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - P.a.g.m. Ou ┇ 185.4.72.98
 vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.225:443?type=tcp&security=reality&path=/&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af#EE 🇪🇪 ┇ VLESS-TCP-RLT - QWINS LTD ┇ 93.123.39.225
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.211:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af#EE 🇪🇪 ┇ VLESS-TCP-RLT - QWINS LTD ┇ 93.123.39.211
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
