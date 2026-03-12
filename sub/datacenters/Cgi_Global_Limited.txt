@@ -2,6 +2,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.227:8443?type=ws&security
 vless://Telegram@203.18.98.197:2053?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#AU 🇦🇺 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 203.18.98.197
 vless://Telegram@109.248.163.191:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#CZ 🇨🇿 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 109.248.163.191
 vless://Telegram@109.248.163.226:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#CZ 🇨🇿 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 109.248.163.226
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.158:8443?type=ws&security=tls&path=/&sni=sni.111000.indevs.in&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 188.130.207.158
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@fr.darknet.run:443?type=tcp&security=reality&sni=fr.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=J3YIUVka1vOcvmG7tTVLbQrTTxWENj7iNuU84HfsLGE&sid=a1b223d4#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 194.116.217.43
 vless://26524cce-d514-4014-a426-365fb266a14d@31.15.18.26:2053?type=ws&security=tls&path=/danfeng?ed=2560&sni=WangCai.443888.xyz&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.15.18.26
 vless://f510adea-091b-4563-a54b-dc04e73fd952@46.8.64.147:41617?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.64.147

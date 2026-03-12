@@ -3,7 +3,7 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru&peer
 vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@64.188.64.63:8081?type=tcp&security=reality&sni=www.vk.com&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#PT 🇵🇹 ┇ VLESS-TCP-RLT - Almouroltec Servicos De Informatica E Internet Lda ┇ 64.188.64.63
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.231.233.112
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 91.250.240.148
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.78.198:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.v6.navy#PT 🇵🇹 ┇ VLESS-WS-TLS - OVH SAS ┇ 94.23.78.198
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.74.37:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.v6.navy#PT 🇵🇹 ┇ VLESS-WS-TLS - OVH SAS ┇ 94.23.74.37
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.74.37:8443?type=tcp&security=none&path=/?ed=2560#PT 🇵🇹 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 94.23.74.37
+vless://26524cce-d514-4014-a426-365fb266a14d@94.23.78.198:2053?type=ws&security=tls&path=/danfeng?ed=2560&sni=cyuxj212pnq.chinat.indevs.in&fp=chrome#PT 🇵🇹 ┇ VLESS-WS-TLS - OVH SAS ┇ 94.23.78.198
 vmess://eyJ2IjoiMiIsInBzIjoiUFQgXHVkODNjXHVkZGY1XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTQuMTMxLjEwLjUiLCJhZGQiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJwb3J0Ijo0NDMsImlkIjoiODhkNDc2YzEtNDhmNy00ZDNkLWEwZTYtYWNjY2JmZjAyZGI2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - Web Solutions, Lda ┇ 185.113.143.186
