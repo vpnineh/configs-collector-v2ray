@@ -1,2 +1,2 @@
-vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@31.57.56.213:8443?type=tcp&security=reality&sni=ign.dev&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#AE 🇦🇪 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 31.57.56.213
-vless://00000000-0000-4000-8000-000000000000@192.220.249.250:45230?type=ws&security=tls&path=/@Marisa_kristi&sni=ngrh5faw6tn78eudzbsmphdhkv.bpd67081tsq.ddns-ip.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 192.220.249.250
+vless://84b5a48a-4c69-493c-87cb-09cbdfa7a450@64.188.80.115:6443?type=tcp&security=reality&sni=debug.resolvertest.doh.umbrella.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.115
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@128.121.7.14:43111?type=ws&security=tls&path=/danfeng&sni=snippet.gfw.nn.kg&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 128.121.7.14

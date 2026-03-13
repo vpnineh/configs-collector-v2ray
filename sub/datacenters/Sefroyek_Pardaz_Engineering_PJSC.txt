@@ -1,6 +1,7 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlZnJveWVrIFBhcmRheiBFbmdpbmVlcmluZyBQSlNDIFx1MjUwNyAxODUuMTEyLjE1MS4yMjAiLCJhZGQiOiJibG9nMi5uZGY0Ni50b3AiLCJwb3J0IjoyNjE3OSwiaWQiOiJmYzIyYzc2MC1hMDEwLTQwMWUtYTg4ZC0wZWFiOTc5OWVhMDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://86a382d7-2622-4581-a455-599c70679d02@185.206.231.57:36522?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.206.231.57
-vless://0a63e301-2434-4b7c-8f31-a3c766d9ae8f@185.206.231.59:41057?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.206.231.59
+vless://c53041a9-fe39-474c-a61a-0a50513bc29a@glishway3.easyenglishway.ir:2053?type=xhttp&security=tls&path=/techbod?ed=250&sni=nrootame.benjem.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Sefroyek Pardaz Engineering PJSC ┇ 78.110.122.100
+vless://090e759d-0083-406a-a36d-fd1b15c25b9b@185.141.107.57:13648?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.141.107.57
 vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?type=ws&security=none&path=/?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 78.110.121.253
-vless://bef0a890-2109-4aa1-85be-a3d8998f9de0@185.206.231.62:44744?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.206.231.62
+vless://0a63e301-2434-4b7c-8f31-a3c766d9ae8f@185.206.231.59:41057?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.206.231.59
 vless://3aa73ad8-4824-46ce-8022-1ca9c0d9052f@srv7.digispeed.shop:30806?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.128.138.232
