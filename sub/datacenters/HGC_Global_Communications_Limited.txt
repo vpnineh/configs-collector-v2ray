@@ -1,2 +1,3 @@
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhHQyBHbG9iYWwgQ29tbXVuaWNhdGlvbnMgTGltaXRlZCBcdTI1MDcgMTUxLjI0MC4yOC43NiIsImFkZCI6ImFwaS1saXZlODU0MTkudmlkZW9zLmFjZnVuLmNuLmJpbGliaWxpLWNkbi51ayIsInBvcnQiOjMwMDA2LCJpZCI6Ijc0Njc1NmZhLTQwYTQtNDJjNy1hZWY5LWUwOWRjZmY3MjVmZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HGC Global Communications Limited ┇ 210.0.158.220
-vless://f62095b5-6e82-43b1-8d79-1358bbeffc62@155.117.5.181:443?type=ws&security=false&path=/@FeriVP/@FeriVP/@FeriVP&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-FALSE - HGC Global Communications Limited ┇ 155.117.5.181
+vless://f62095b5-6e82-43b1-8d79-1358bbeffc62@155.117.5.181:443?type=ws&security=none&path=/@FeriVP/@FeriVP/@FeriVP#HK 🇭🇰 ┇ VLESS-WS-NTLS - HGC Global Communications Limited ┇ 155.117.5.181
