@@ -1,1 +1,2 @@
-vless://54c36460-4710-4c4d-8b58-0be7da081331@at.darknet.run:443?type=tcp&security=reality&sni=at.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=LsbG1DAxJgRuFiho56Me3zx0oWeUlNJWiYTc6yEasCE&sid=a1b223d4#AT 🇦🇹 ┇ VLESS-TCP-RLT - Hohl IT e.U. ┇ 46.102.157.179
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.138.55.120:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 83.138.55.120
+vless://3a28fe96-6870-e419-1038-d6eae40d286d@::ffff:5eb1:81f:101?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ ::ffff:5eb1:81f

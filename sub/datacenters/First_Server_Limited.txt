@@ -1,2 +1,4 @@
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.117.119.93:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.cc.cd&fp=random#FI 🇫🇮 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.117.119.93
 vless://Telegram@185.233.82.86:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#FI 🇫🇮 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.233.82.86
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.233.203.6:587?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.cc.cd&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.233.203.6
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.178.36:2053?type=ws&security=none&path=/?ed=2560#SG 🇸🇬 ┇ VLESS-WS-NTLS - First Server Limited ┇ 194.36.178.36
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.179.17:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.navy#SG 🇸🇬 ┇ VLESS-WS-TLS - First Server Limited ┇ 194.36.179.17

@@ -1,2 +1,1 @@
-vless://1e752044-48c1-4208-a394-1403f721735e@178.17.53.233:503?type=tcp&security=reality&sni=www.amd.com&fp=random&flow=xtls-rprx-vision&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.53.233
-vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?type=tcp&security=reality&sni=www.ibm.com&fp=chrome&flow=xtls-rprx-vision&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=423bccc9c13fb509#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.59.73
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@decdn4.suio.me:443?type=tcp&security=tls&sni=decdn4.suio.me#IQ 🇮🇶 ┇ VLESS-TCP-TLS - MADGEN-01 ┇ 178.17.57.235
