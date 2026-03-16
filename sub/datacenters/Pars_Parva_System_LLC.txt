@@ -1,1 +1,3 @@
-vless://4adc1f75-b16c-4fd6-a650-17c375e23ced@endtr.pashobeshin.xyz:2086?type=tcp&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Pars Parva System LLC ┇ 130.185.76.11
+vless://cc83d674-a2fb-45c9-8dad-b5a2088319bd@edvard.mh.mygoldiran.com:10?type=ws&security=none&path=/wp-content/uploads/user/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 130.185.77.90
+vless://d83068c1-3176-4f54-8552-15417cb01dea@45.139.11.195:23758?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 45.139.11.195
+vless://501f51e6-468b-48d7-a458-929f45bb2d10@www.parspack.com:8880?type=httpupgrade&security=none&path=/SHHPROXY?ed=2048#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Pars Parva System LLC ┇ 45.139.11.243
