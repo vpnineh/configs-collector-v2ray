@@ -1,1 +1,2 @@
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443?sni=www.bilibili.com&peer=www.bilibili.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VMISS ┇ 38.207.160.35
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.47.125.85:443?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2&sni=ylnhh.cc.cd&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - VMISS ┇ 38.47.125.85
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.244.62.45:10001?type=ws&security=tls&path=/danfeng&sni=snippet.danfeng.casacam.net#US 🇺🇸 ┇ VLESS-WS-TLS - VMISS ┇ 38.244.62.45

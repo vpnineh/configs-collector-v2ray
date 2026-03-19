@@ -1,53 +1,61 @@
+vless://c7521622-6841-4ea7-85b3-6c7b801bcaa2@al1.persik.host:443?type=tcp&security=reality&sni=al1.persik.host&fp=chrome&flow=xtls-rprx-vision&pbk=Wussb3Mki1IqtlASsx19TawQ9P2qHZL6M8sVxps6xx4&sid=3f6a3ab281699a9d#SE 🇸🇪 ┇ VLESS-TCP-RLT ┇ 45.82.13.27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpweWRRSUxoMDZBdko@13.49.241.14:27092#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.49.241.14
+trojan://telegram-id-privatevpns@13.48.202.26:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.48.202.26
+trojan://telegram-id-privatevpns@16.171.58.121:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 16.171.58.121
+trojan://telegram-id-privatevpns@13.50.16.231:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.50.16.231
+trojan://telegram-id-privatevpns@13.49.46.49:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.49.46.49
 trojan://telegram-id-directvpn@13.49.224.224:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.49.224.224
 trojan://telegram-id-privatevpns@13.48.45.205:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.48.45.205
-trojan://telegram-id-privatevpns@16.171.58.121:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 16.171.58.121
-trojan://telegram-id-privatevpns@13.49.46.49:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.49.46.49
-trojan://telegram-id-privatevpns@13.50.16.231:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.50.16.231
-trojan://telegram-id-privatevpns@13.48.202.26:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.48.202.26
 trojan://telegram-id-directvpn@13.48.105.114:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.48.105.114
-trojan://telegram-id-privatevpns@13.50.135.27:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.50.135.27
 trojan://telegram-id-privatevpns@13.53.149.14:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.53.149.14
-trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.21.95.150
 trojan://telegram-id-privatevpns@13.51.244.148:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.51.244.148
+trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.21.95.150
+trojan://telegram-id-privatevpns@13.50.135.27:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.50.135.27
 trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.21.138.5
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxMy41MC4xNTMuMjMwIiwiYWRkIjoiMTMuNTAuMTUzLjIzMCIsInBvcnQiOjI1Mjg5LCJpZCI6ImZlMmJkNzdkLTMxMmUtNGFjMC1kZWZlLWFmZGIyNzk1MjhhMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vless://3c3ec255-f81d-4436-ba1d-26863f36fb2c@13.60.185.51:31186?type=xhttp&security=none&path=/gggg#SE 🇸🇪 ┇ VLESS-XHTTP-NTLS - AMAZON-02 ┇ 13.60.185.51
 vless://fd2c95b1-f48e-4d44-9b53-f5560f2eaae4@16.170.148.222:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 16.170.148.222
+vless://9d67ed3c-4ad0-4eee-87a0-544d13fd619e@ap.panel.iran-rom.ir:2085?type=xhttp&security=reality&sni=azaronline.com,tgju.org&fp=chrome&pbk=AV0O-Ok7u6XmPUq_8mYIaOsRFx7n5_CPvW7WAwB9OwQ&sid=abab4bcf8b11294e#SE 🇸🇪 ┇ VLESS-XHTTP-RLT - AMAZON-02 ┇ 16.16.241.173
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.205.58
+vless://a5694222-f90c-4423-ae93-434bcb4ece38@70.34.201.158:9130?type=xhttp&security=reality&path=/api/stream&sni=mdundo.com&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#SE 🇸🇪 ┇ VLESS-XHTTP-RLT - AS-VULTR ┇ 70.34.201.158
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 89.22.234.121
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.22.233.162:2053?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2&sni=ylnhh.cc.cd#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 89.22.233.162
 vless://dfb7970f-34db-4f57-9078-c19a452a2ace@vip.bitanick.ir:5040?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 185.197.74.239
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.91.86.85:443?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2&sni=ylnhh.cc.cd&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 77.91.86.85
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.33.230:443?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2&sni=ylnhh.cc.cd&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 89.169.33.230
 vless://8b70357d-b654-4a29-85de-e5fef1afefbd@se.connectv.net:443?type=tcp&security=reality&path=/XIXVPN?ed=2560&sni=se.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 185.197.74.225
 vless://14818654-7689-453a-9a1f-4c72f89782d5@77.239.103.29:2040?type=tcp&security=reality&sni=tradingview.com&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.239.103.29
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.73.22:10965?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.73.22
 vless://f7f18360-fbdf-45b5-93f4-4e47a29e595b@sub.himikvpn.online:8443?type=tcp&security=reality&sni=pimg.mycdn.me&fp=chrome&flow=xtls-rprx-vision&pbk=qJHmudCfwVqVt8M5g3JHxeI_IKUUIrfb0PIVFG_NJU4&sid=60e0c27fcabb#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.110.97.10
-vless://59c2ceb7-8261-4744-baa1-1852d041574b@212.192.246.57:2087?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&sid=36#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alex Group LLC ┇ 212.192.246.57
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.58:10965?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.83.58
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.155:10121?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.83.155
+vless://3dcd6767-ec3e-4eeb-9fa6-c70b8661072f@212.192.246.57:2087?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&sid=e004#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alex Group LLC ┇ 212.192.246.57
 vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@se.scroogethebest.com:443?type=tcp&security=reality&sni=se.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 45.93.9.236
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTE9VREZMQVJFTkVUIFx1MjUwNyAxODUuMTQ2LjE3My4xMjkiLCJhZGQiOiIxODUuMTQ2LjE3My4xMjkiLCJwb3J0Ijo0NDMsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJudC1oYXplLTdkYWQucm9nYXAxNjg3NS53b3JrZXJzLmRldiIsInBhdGgiOiIvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enovbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoibnQtaGF6ZS03ZGFkLnJvZ2FwMTY4NzUud29ya2Vycy5kZXYifQ
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTE9VREZMQVJFTkVUIFx1MjUwNyAxODUuMTQ2LjE3My4xNTgiLCJhZGQiOiIxODUuMTQ2LjE3My4xNTgiLCJwb3J0Ijo0NDMsImlkIjoiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6ImphaGZramhhLmNmZCJ9
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTE9VREZMQVJFTkVUIFx1MjUwNyAxODUuMTQ2LjE3My4xMjkiLCJhZGQiOiIxODUuMTQ2LjE3My4xMjkiLCJwb3J0Ijo0NDMsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJudC1oYXplLTdkYWQucm9nYXAxNjg3NS53b3JrZXJzLmRldiIsInBhdGgiOiIvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enovbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoibnQtaGF6ZS03ZGFkLnJvZ2FwMTY4NzUud29ya2Vycy5kZXYifQ
 vless://Parsashonam-254@185.146.173.39:8880?type=httpupgrade&security=none&path=/#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 185.146.173.39
-vless://23adc6b0-dcf7-4bef-8136-72d2c566b1c5@185.146.173.58:8080?type=ws&security=none&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048#SE 🇸🇪 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 185.146.173.58
+vless://d9c4d8a1-f6a6-4cb8-b0b5-31d218ec3bce@185.146.173.58:8080?type=ws&security=none#SE 🇸🇪 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 185.146.173.58
 vless://fa2406f0-e820-4954-b24e-df52012ef4a6@185.146.173.206:2095?type=httpupgrade&security=none&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 185.146.173.206
-vless://db5a8d71-b3f3-4e5c-a2a9-e7f78c9d141c@185.146.173.185:2095?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.185
-vless://-DIGIV2RAY-@185.146.173.68:2095?type=ws&security=none#SE 🇸🇪 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 185.146.173.68
-vless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?type=tcp&security=none&path=/Tel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_Configs#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.24
-vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.42
-vless://50858d39-fb35-452c-96af-9d4f028dd631@185.146.173.37:2095?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.37
-vless://telegram-id-ArV2ray@185.146.173.237:80?type=tcp&security=none&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.237
 vless://telegram-deli-servers@185.146.173.59:80?type=tcp&security=none&path=/tel : deli_servers tel : deli_servers tel : deli_servers tel : deli_servers tel : deli_servers tel : deli_servers?ed=2048#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.59
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.212:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.222.212
+vless://-DIGIV2RAY-@185.146.173.68:2095?type=ws&security=none#SE 🇸🇪 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 185.146.173.68
+vless://50858d39-fb35-452c-96af-9d4f028dd631@185.146.173.37:2095?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.37
+vless://db5a8d71-b3f3-4e5c-a2a9-e7f78c9d141c@185.146.173.185:2095?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.185
+vless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?type=tcp&security=none&path=/Tel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_Configs#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.24
+vless://telegram-id-ArV2ray@185.146.173.237:80?type=tcp&security=none&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.237
+vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 185.146.173.42
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 121.127.46.147
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.214:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.222.214
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.213:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.222.213
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.212:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.222.212
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.211:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.222.211
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Sjc1NGVlNklUanlmRHlzaTc4dXFK@194.68.225.52:65232#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 194.68.225.52
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.225.104:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 194.68.225.104
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.173.212:80?type=xhttp&security=none&path=/-AzV2ry?ed=2056#SE 🇸🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.173.212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.97.140
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR2xlU1lTIEFCIFx1MjUwNyA0Ni4yNDYuMTI2LjE1NCIsImFkZCI6IjQ2LjI0Ni4xMjYuMTU0IiwicG9ydCI6NDQzLCJpZCI6ImYyZmQwNzg2LTEwNTktNGY2NC1kNTRlLTNmM2E1NjhjNmM2OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR2xlU1lTIEFCIFx1MjUwNyA0Ni4yNDYuMTI2LjE1NCIsImFkZCI6IjQ2LjI0Ni4xMjYuMTU0IiwicG9ydCI6NDQzLCJpZCI6ImYyZmQwNzg2LTEwNTktNGY2NC1kNTRlLTNmM2E1NjhjNmM2OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vless://Telegram@193.53.40.219:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SE 🇸🇪 ┇ VLESS-WS-TLS - Hostup AB ┇ 193.53.40.219
 vless://Telegram@206.168.213.248:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SE 🇸🇪 ┇ VLESS-WS-TLS - Hostup AB ┇ 206.168.213.248
 vless://Telegram@185.139.228.126:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SE 🇸🇪 ┇ VLESS-WS-TLS - KAMATERA ┇ 185.139.228.126
 vless://Telegram@45.91.171.146:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SE 🇸🇪 ┇ VLESS-WS-TLS - KAMATERA ┇ 45.91.171.146
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.223.106.151
-vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Melbikomas UAB ┇ 109.122.201.62
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 90.230.249.89
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 78.73.3.152

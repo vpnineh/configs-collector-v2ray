@@ -7,4 +7,3 @@ vless://Telegram@62.182.192.49:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.q
 vless://Telegram@62.182.193.76:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SI 🇸🇮 ┇ VLESS-WS-TLS - SIA VEESP ┇ 62.182.193.76
 vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?type=tcp&security=reality&sni=readthedocs.org&fp=chrome&flow=xtls-rprx-vision&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&sid=a1590469acbe31#SI 🇸🇮 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 62.182.192.20
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?type=tcp&security=reality&sni=retn.net&fp=chrome&flow=xtls-rprx-vision&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e#SI 🇸🇮 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 62.182.195.78
-vless://a1f1933f-6152-4bf4-8cb1-742cade818c8@62.182.195.42:2012?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=SAAA12X48mYw2aoV_l8ep_vFpYxJZCKz5c-ps7xd7lU&sid=938015b35f161374#SI 🇸🇮 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 62.182.195.42
