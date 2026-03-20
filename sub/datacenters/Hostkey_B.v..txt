@@ -1,9 +1,7 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGtleSBCLnYuIFx1MjUwNyAzMS41OC44Ny45OSIsImFkZCI6IjMxLjU4Ljg3Ljk5IiwicG9ydCI6MzY5ODksImlkIjoiZDkwYmVmMTUtMTQwMy00ZTc5LTkyY2MtOTBmNmNjNjk3NjAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&sid=d239de8e#AE 🇦🇪 ┇ VLESS-GRPC-RLT - Hostkey B.v. ┇ 194.85.249.173
 vless://Telegram%3A%40Free_VPN_CH@195.26.231.93:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#DE 🇩🇪 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 195.26.231.93
 vless://Telegram@195.245.239.197:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#DE 🇩🇪 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 195.245.239.197
 vless://Telegram@66.151.40.245:4443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#DE 🇩🇪 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 66.151.40.245
-vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@de9.mediakit-ozon.ru:8443?type=tcp&security=reality&sni=stats.vk-portal.net&fp=chrome&flow=xtls-rprx-vision&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&sid=e21f2248d3f24140#DE 🇩🇪 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 195.26.231.40
 vless://Telegram@193.124.225.148:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#FI 🇫🇮 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 193.124.225.148
 vless://Telegram@194.164.235.8:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#FI 🇫🇮 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 194.164.235.8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE@185.5.38.111:55988#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 185.5.38.111
