@@ -1,12 +1,13 @@
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.5:2003#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.26.5
 trojan://trojan@118.34.36.61:10003?sni=jflsjlaf.pages.dev&peer=jflsjlaf.pages.dev&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 118.34.36.61
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.193.20.248
+trojan://trojan@220.92.22.170:11000?sni=jflsjlaf.pages.dev&peer=jflsjlaf.pages.dev&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 220.92.22.170
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.193.20.250
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.193.20.248
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLb3JlYSBUZWxlY29tIFx1MjUwNyAyMTEuMjQ4LjIxNi4xMTkiLCJhZGQiOiIyMTEuMjQ4LjIxNi4xMTkiLCJwb3J0IjoxNzQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwMjI1ODVhLTg2YTctNDIzMS1iM2EwLWVlZGExNGY3N2Y0ZC44ZjE4MjM3Yy04ZTVmLTRmZmItYTQzNC0xYjI5NDhjODdiZTMuZGRuc2ZyZWUuY29tIiwicGF0aCI6Ii9vYmRpaS5jZmQ6NDQzL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6IjIwMjI1ODVhLTg2YTctNDIzMS1iM2EwLWVlZGExNGY3N2Y0ZC44ZjE4MjM3Yy04ZTVmLTRmZmItYTQzNC0xYjI5NDhjODdiZTMuZGRuc2ZyZWUuY29tIn0
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLb3JlYSBUZWxlY29tIFx1MjUwNyAyMjAuMTIzLjQ4LjEyNCIsImFkZCI6IjIyMC4xMjMuNDguMTI0IiwicG9ydCI6MzAwMDIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIn0
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@220.88.3.5:12283?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 220.88.3.5
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@118.42.204.220:12281?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 118.42.204.220
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@119.195.168.105:10973?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.195.168.105
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@221.146.116.77:15284?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 221.146.116.77
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 59.3.3.161
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@211.48.77.114:22410?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.48.77.114
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@61.79.126.130:15018?type=ws&security=tls&path=/danfeng&sni=snippet.chinav.eu.cc&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 61.79.126.130
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.174.43.148:12345?type=ws&security=tls&path=/danfeng&sni=snippet.chinat.eu.cc&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.174.43.148
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@211.48.77.114:22410?type=ws&security=tls&path=/&sni=ylnhh.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.48.77.114
