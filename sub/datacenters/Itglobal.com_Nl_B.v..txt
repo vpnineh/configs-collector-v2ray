@@ -1,1 +1,4 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.14.50.95:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.navy#NL 🇳🇱 ┇ VLESS-WS-TLS - Itglobal.com Nl B.v. ┇ 45.14.50.95
+vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.154
+vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.71
+vless://53ee6aff-171a-48a0-9d1a-2153802a5626@109.207.171.107:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 109.207.171.107
+vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.137

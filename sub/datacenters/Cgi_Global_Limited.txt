@@ -1,4 +1,13 @@
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.227:8443?type=ws&security=tls&sni=sni.111000.indevs.in#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.227
+vless://Telegram@203.18.98.197:2053?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#AU 🇦🇺 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 203.18.98.197
+vless://Telegram@109.248.163.191:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#CZ 🇨🇿 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 109.248.163.191
+vless://Telegram@109.248.163.226:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#CZ 🇨🇿 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 109.248.163.226
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@188.130.207.158:2053?type=ws&security=tls&path=/danfeng&sni=danfeng.sylu.cc&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 188.130.207.158
+vless://31d974e9-6b16-4b29-a7d2-2fb7f4f2e8d5@194.116.214.187:888?type=tcp&security=reality&sni=fortune.com&fp=chrome&flow=xtls-rprx-vision&pbk=5lB0aSk6YmPH3EpVGeOtEt1glj8GI_V7SZfm6pZ9yEU&sid=c5010b9e#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 194.116.214.187
 vless://26524cce-d514-4014-a426-365fb266a14d@31.15.18.26:2053?type=ws&security=tls&path=/danfeng?ed=2560&sni=WangCai.443888.xyz&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.15.18.26
+vless://70d8e055-9062-4184-a224-fe7e60f2527e@46.8.231.197:3479?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 46.8.231.197
+vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:777?type=tcp&security=reality&sni=fortune.com&fp=chrome&flow=xtls-rprx-vision&pbk=brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU&sid=8cd6d3c4#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 193.176.190.40
+vless://6c877f5e-de88-487f-9c35-3158178a8fdd@45.156.25.214:777?type=tcp&security=reality&sni=www.z4car.com&fp=chrome&flow=xtls-rprx-vision&pbk=qWY8r82gxj_HTKHco58xRRz8FpyZHZqyDVXycgpuynY&sid=d4dbb8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.156.25.214
+vless://f510adea-091b-4563-a54b-dc04e73fd952@46.8.64.147:41617?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.64.147
+vless://2a788fe0-5da8-4273-dc31-f9fda406d252@45.152.86.95:777?type=tcp&security=reality&sni=www.z4car.com&fp=chrome&flow=xtls-rprx-vision&pbk=0_8pgv7PMoAh0MAFSttVsx8zqhqoocj26-jqB8MFT3I&sid=4e30f6#US 🇺🇸 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.152.86.95

@@ -1,2 +1,3 @@
 vless://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.33.52
 vless://406fd0aa-d08a-4099-a7d1-1549359461de@84.200.73.227:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 84.200.73.227
+vless://a774f61d-a518-4c61-902f-807797da6caf@84.201.4.191:443?type=tcp&security=reality&sni=cdn.uxfeedback.ru&fp=chrome&flow=xtls-rprx-vision&pbk=whYmACpNNY4B3Yv8iBJ9AmxokZL2Tb7O210utmzvGSo&sid=6ba85179e30d4fc2#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 84.201.4.191
