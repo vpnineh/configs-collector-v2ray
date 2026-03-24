@@ -3,3 +3,4 @@ vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?type=tcp&security=
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&sid=99de062f46387d3e#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.51.8
 vless://4f2ca3ab-7cd2-4257-871a-2536c20769a7@178.17.59.161:443?type=tcp&security=tls&sni=pl.chunkyvpn.shop&flow=xtls-rprx-vision#IQ 🇮🇶 ┇ VLESS-TCP-TLS - MADGEN-01 ┇ 178.17.59.161
 vless://44dc6ac1-6126-4627-b889-9792a8188012@81.90.29.39:2443?type=grpc&security=reality&sni=academy.nvidia.com&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&sid=a1b2c3d4#IQ 🇮🇶 ┇ VLESS-GRPC-RLT - TigrisNet ┇ 81.90.29.39
+vless://4bc7d558-1943-44de-bd82-56920bc9383e@balancer.spectrum.vu:443?type=tcp&security=reality&sni=balancer.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&pbk=8DS4J87rxpXmRUl1sQzWw5fnXVeMznCc_wswFgjFZxw&sid=0D1A2C1d4e1f#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.17.10

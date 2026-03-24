@@ -1,2 +1,4 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?type=ws&security=tls&path=/&sni=sni.111000.indevs.in#BG 🇧🇬 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 87.120.92.150
 vless://Telegram@193.148.59.145:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#BG 🇧🇬 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 193.148.59.145
+vless://8c666e02-e533-477f-b067-cfea1f6e83d0@87.120.92.105:443?type=tcp&security=reality&sni=de.moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=tjP0Ts1iwP7LsJYshkaxF7zTkiV8L81YshmjsHnQY3E&sid=f97962016784846a#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.92.105
+vless://TMG_7f36cec857e@138.124.80.238:443?type=xhttp&security=reality&path=/eqUejKNjFG2-DuX&sni=www.kinopoisk.ru&fp=firefox&pbk=Y2PlhXhQKh-r1-KaY1VimxWpIzQ7D0FqkDio14qrzxo&sid=3b7620837ebdb5#CH 🇨🇭 ┇ VLESS-XHTTP-RLT - Host Telecom Ltd ┇ 138.124.80.238
