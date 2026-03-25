@@ -1,3 +1,1 @@
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@94.156.154.88:8443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&sid=abc123#BG 🇧🇬 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 94.156.154.88
-vless://446879b9-710c-431b-94d0-f6b4c18a528a@91.196.32.225:7433?type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 91.196.32.225
-vless://8f353db6-64e2-4e6e-82b0-9288f10ce90c@ru.milas.click:443?type=tcp&security=reality&sni=ru.milas.click&fp=chrome&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 77.239.107.141
+vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@nl1.vpnjantit.com:10004?type=ws&security=none&path=/vpnjantit#BG 🇧🇬 ┇ VLESS-WS-NTLS - Serv.host Group Ltd ┇ 94.156.154.170

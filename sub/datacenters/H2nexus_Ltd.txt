@@ -1,6 +1,6 @@
 ss://YWVzLTI1Ni1nY206bW0y@45.144.53.13:443#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - H2nexus Ltd ┇ 45.144.53.13
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@85.192.48.132:443?type=tcp&security=tls&sni=ficdn6.dramatorg.net#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.132
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50
-vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&sid=c2#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.230
 vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.37:8104?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.37
 vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.156:8104?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.156
+vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&sid=c2#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.230
