@@ -1,2 +1,2 @@
-vless://aead6961-8924-417b-85af-b6ddc8bcdc0e@217.60.12.103:8443?type=tcp&security=reality&sni=apple.com&flow=xtls-rprx-vision&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.12.103
-vless://00000000-0000-4000-8000-000000000000@192.220.249.92:45230?type=ws&security=tls&path=/#US 🇺🇸 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 192.220.249.92
+vless://e0a446bc-5e87-4a54-ac72-48462a0ca233@217.60.12.105:8443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.12.105
+vless://e0a446bc-5e87-4a54-ac72-48462a0ca233@217.60.12.70:8443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.12.70
