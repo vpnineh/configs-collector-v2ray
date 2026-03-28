@@ -1,21 +1,17 @@
 vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?type=ws&security=tls&path=/&sni=sub.mot.ip-ddns.com&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-TLS ┇ 138.226.240.199
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1HTE9CQUxURUxFSE9TVCBcdTI1MDcgMTg2LjE5MC4yMTUuMzIiLCJhZGQiOiIxODYuMTkwLjIxNS4zMiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1HTE9CQUxURUxFSE9TVCBcdTI1MDcgMTg2LjE5MC4yMTUuNzUiLCJhZGQiOiIxODYuMTkwLjIxNS43NSIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMifQ
-trojan://humanity@185.18.250.245:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 185.18.250.245
-trojan://humanity@185.18.250.252:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 185.18.250.252
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTguMjUwLjcwIiwiYWRkIjoiMTg1LjE4LjI1MC43MCIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.162:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.162
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.62.160:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.160
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@185.126.116.125:9098#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 185.126.116.125
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.62.160:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.160
 vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Digitale Suisse AG ┇ 185.227.149.123
-vless://1df7d8db-4150-4dfc-90a9-7f1f65af3574@138.124.79.182:443?type=tcp&security=reality&sni=m.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=0wYb31D0y_8-NWD8DJp-rWEe-K0TfzI5NZbnnpL-cRw&sid=5637ecf627e067c3#CH 🇨🇭 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 138.124.79.182
+vless://TMG_7f36cec857e@138.124.80.238:443?type=xhttp&security=reality&path=/eqUejKNjFG2-DuX&sni=www.kinopoisk.ru&fp=firefox&pbk=Y2PlhXhQKh-r1-KaY1VimxWpIzQ7D0FqkDio14qrzxo&sid=3b7620837ebdb5#CH 🇨🇭 ┇ VLESS-XHTTP-RLT - Host Telecom Ltd ┇ 138.124.80.238
 vless://e268f5bd-3319-4bfd-bc88-5bcde2e909f8@83.228.231.196:33279?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Infomaniak Network SA ┇ 83.228.231.196
 vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&security=none#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.225.98
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@37.120.213.230:50004#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.213.230
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.71.149
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNDAuMjM4LjIxMi45NSIsImFkZCI6IjE0MC4yMzguMjEyLjk1IiwicG9ydCI6NDQzLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-vless://28a6ce90-7fd8-4aff-99b1-726083fcd5dc@138.124.32.50:2443?type=tcp&security=reality&sni=use.typekit.net&fp=chrome&flow=xtls-rprx-vision&pbk=jyAmrIladACAoSP0EEcUhxvYUNj0ftL132BFqhtcK2Q&sid=0ec0e06a8bb19bc1#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.32.50
-vless://bf026898-1c13-465e-ae62-2128f6f5126e@138.124.100.125:8443?type=tcp&security=reality&sni=sun6-22.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=mAAUq-FTkfw2HOWITaQBSJ1oUdhfEZ5FfBsdBjqgiSo&sid=ad7dab462a323b#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.100.125
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@138.124.104.221:443?type=tcp&security=reality&path=/&sni=pol2.frostbot.ru&fp=chrome&flow=xtls-rprx-vision&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=e043995937#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.104.221
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Private Layer INC ┇ 38.180.161.123
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - ServerBase AG ┇ 212.237.210.158
 vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-RLT - Serverd SAS ┇ 193.168.144.46
