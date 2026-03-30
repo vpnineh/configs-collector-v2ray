@@ -1,5 +1,5 @@
-trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.81.85.238:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.81.85.238
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?sni=sbank.ir&peer=sbank.ir&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.173.255.21
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.173.255.234
+trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?sni=sbank.ir&peer=sbank.ir&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.173.255.21
+trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.81.85.238:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.81.85.238
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?sni=sbank.ir&peer=sbank.ir&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.173.255.127
-vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?type=tcp&security=tls#VN 🇻🇳 ┇ VLESS-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.81.86.158
+vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?type=grpc&security=tls&sni=u710297u3374s249.okgfw.top&fp=ios#VN 🇻🇳 ┇ VLESS-GRPC-TLS - Thien Quang Digital technology joint stock company ┇ 103.81.86.158
