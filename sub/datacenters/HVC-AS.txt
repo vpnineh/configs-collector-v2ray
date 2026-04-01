@@ -1,5 +1,4 @@
 vless://d9600d11-9b5b-4b25-88b0-851df319a218@192.166.82.182:48915?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HVC-AS ┇ 192.166.82.182
 vless://29417656-42ee-430e-bd15-e95d6a7195cd@192.166.82.29:59050?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HVC-AS ┇ 192.166.82.29
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@199.241.138.38:25631?type=tcp&security=none&path=/Telegram🇨🇳+@WangCai2#SG 🇸🇬 ┇ VLESS-TCP-NTLS - HVC-AS ┇ 199.241.138.38
-vless://63499873-e7bb-4c2c-a22c-36b462773aa5@38.180.142.181:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - HVC-AS ┇ 38.180.142.181
 vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&sid=6553e6d9#US 🇺🇸 ┇ VLESS-TCP-RLT - HVC-AS ┇ 38.180.204.189
