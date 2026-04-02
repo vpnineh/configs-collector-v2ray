@@ -1,2 +1,1 @@
-vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?type=ws&security=tls&path=/&sni=static.operator.mail.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Global Cloud Network LLC ┇ 37.18.14.192
-vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?type=tcp&security=tls&sni=bitva.mail.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Global Cloud Network LLC ┇ 37.18.14.103
+vless://f0586d14-aa79-4cab-a456-a52d9f3c6dd5@78.159.247.58:5444?type=tcp&security=reality&sni=max.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Cloud Network LLC ┇ 78.159.247.58

@@ -1,6 +1,7 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDc5LjE3NS4xNTEuMTM0IiwiYWRkIjoidHVuLnAycDEuc2JzIiwicG9ydCI6MjAxMywiaWQiOiI1OWIxMDJiMS05Y2U2LTQ0YjQtYTlhNi1mMWVlMGUwMDM2ZWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://65e0671a-3a42-4f6d-9cd5-3e0d4c6bc43f@40.rexg.ir:11001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.151.93
-vless://5ed92f6b-a45e-0196-9ab9-b54bdf05fb95@tunn.vpsino.com:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.244
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDc5LjE3NS4xNTEuMTM0IiwiYWRkIjoidHVuLnAycDEuc2JzIiwicG9ydCI6MjAyMCwiaWQiOiI0OTc4NjhlMi0wYjEyLTQyNDQtYTA0NC0zYWQwYTk0Y2I0NmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.196
+vless://7bed5d53-f043-4fa4-f20b-32e7d1f5a052@p-2-0-2-turk.turkabr.ir:39792?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.45.125
+vless://c7834148-21a6-454f-a2b9-339c73249f9c@79.175.149.236:1555?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.149.236
+vless://5ed92f6b-a45e-0196-9ab9-b54bdf05fb95@tunn.vpsino.com:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.243
 vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.189.150
-vless://4408dcae-2bdf-4185-84d0-38556d79f27e@srv2-germany.hajimamadcloud.com.tr:1992?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.143
-vless://7e0a6414-cf0d-4cef-9e91-e63841dc2b9c@node1.aerova.space:2439?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 46.102.130.37
+vless://e1a9ff20-1111-4f5a-a395-123456789abc@79.175.177.239:443?type=tcp&security=reality&sni=www.aparat.com&fp=chrome&flow=xtls-rprx-vision&pbk=h5qv72RabKBmp7LFCI8y_CcqpUzRYi_W9tWTdKnzTUI&sid=a1b2c3d4#IR 🇮🇷 ┇ VLESS-TCP-RLT - Afranet ┇ 79.175.177.239
