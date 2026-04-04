@@ -1,4 +1,5 @@
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@2.144.4.185:80?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Cell Service and Communication Company ┇ 2.144.4.185
+vless://0e3ba424-fdf9-4168-997c-534bfee951df@new.idbedam.com:1000?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Iran Cell Service and Communication Company ┇ 2.144.22.145
+vless://228aa0d5-0bad-4452-b9d3-db323dca0033@uncl.atlasc.ir:54635?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.2.88
 vless://e70d6fe1-6f19-4953-8f46-cc0c491f44fb@blog3.gelatocabana.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.33
-vless://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.22.84
 vless://408563da-f597-4e07-8cfd-92bffd821543@2.144.7.223:1981?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.7.223
+vless://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.22.84
