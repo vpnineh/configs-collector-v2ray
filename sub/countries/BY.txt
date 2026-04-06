@@ -1,2 +1,1 @@
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@178.172.212.105:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#BY 🇧🇾 ┇ VLESS-TCP-RLT - DataHata Ltd ┇ 178.172.212.105
-vless://924a17e7-4e9d-4055-bf2e-6f8edfdee786@95.128.71.135:104?type=tcp&security=none#BY 🇧🇾 ┇ VLESS-TCP-NTLS - Private services Unitary Enterprise Vash Internet ┇ 95.128.71.135
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@178.172.212.105:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#BY 🇧🇾 ┇ TROJAN-TCP-TLS - DataHata Ltd ┇ 178.172.212.105
