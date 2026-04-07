@@ -1,4 +1,3 @@
-vless://f3a1017d-1ebf-11f1-8cae-c3845d39d2de@202.155.11.137:8443?type=tcp&security=reality&path=/&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=a1b2c3d4e5f6#ID 🇮🇩 ┇ VLESS-TCP-RLT ┇ 202.155.11.137
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.248.242
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - CV Atha Media Prima ┇ 41.216.177.41
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.171.254:990#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.171.254
