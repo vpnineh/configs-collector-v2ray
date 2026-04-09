@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.185:2053?type=ws&security=tls&path=/?ed=2560&telegram🇨🇳@wangcai2&sni=sni.111000.v6.navy&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Sia Nano IT ┇ 185.82.126.185
-vless://a2b431d9-d5d3-41c8-ad5b-8f95aa5a6712@185.72.86.38:59999?type=tcp&security=reality&sni=yastatic.net&fp=chrome&flow=xtls-rprx-vision&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=a1b2c3d4#LV 🇱🇻 ┇ VLESS-TCP-RLT - Sia Nano IT ┇ 185.72.86.38
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.247:2053?type=tcp&security=none&path=/?ed=2560#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Sia Nano IT ┇ 185.82.126.247
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.185:2053?type=ws&security=tls&path=/&sni=sni.111000.v6.navy&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Sia Nano IT ┇ 185.82.126.185

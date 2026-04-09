@@ -1,18 +1,19 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.191
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdlbml1c01pbmQgUy5BLiBcdTI1MDcgNjIuNjAuMjE5Ljc5IiwiYWRkIjoiczEuaGFtaXNoZS5jbG91ZCIsInBvcnQiOjExMCwiaWQiOiIzZGI5MmNlZi1lZDdmLTRlNGEtODU0Zi0zNzI4NGE5MzYyZGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.183
+vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 45.11.184.82
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.219.193
-vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 45.11.184.72
 vless://424b84b4-cd57-42eb-b1e0-5b618ffcb822@109.95.67.200:25443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.200
 vless://b1e54079-188b-4715-9488-2bce140ee9e3@afk.mrsf.ir:37542?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.136.135.202
 vless://b9b1c1a7-8e56-46da-8291-532c8a97addd@ir3.reata1.ir:40003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 37.152.175.203
 vless://c17682e5-0b20-4e6d-b58d-8a0f753f3513@109.95.65.242:8032?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.65.242
+vless://cbe94ed6-0628-6343-4332-a565fce5483f@srv-s0.netmaster.cam:802?type=ws&security=none&sni=1#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 45.11.184.158
 vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.136.135.172
-vless://3d5e111b-7347-49a9-a74f-c68d05c1fc48@194.50.169.169:58202?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 194.50.169.169
-vless://541de3b2-5b5f-4e27-b671-f32b28b811af@185.136.135.164:8086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.136.135.164
+vless://d5ba8104-07dc-4029-ae9a-c316f32ac3ce@185.136.135.148:8700?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.136.135.148
+vless://3d5e111b-7347-49a9-a74f-c68d05c1fc48@194.50.169.169:58202?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 194.50.169.169
+vless://e3e6e7a6-eebc-4c66-a16f-7aab5d695e39@109.95.70.232:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.70.232
 vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 37.152.175.18
 vless://f2f17144-6b9a-494d-a1cd-dc146514a719@37.152.175.201:40001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 37.152.175.201
-vless://3eb9f34d-56a9-3660-52ec-f9fcdb17a0f5@srv-s0.netmaster.cam:802?type=ws&security=none&sni=1#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 45.11.184.158
-vless://e3e6e7a6-eebc-4c66-a16f-7aab5d695e39@109.95.70.232:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.70.232
-vless://70f7934d-c54a-4294-a00d-0908ac9f3068@www.tomandjery.eu:1003?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&sid=6ba85179e30d4fc2#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 194.50.169.165
+vless://541de3b2-5b5f-4e27-b671-f32b28b811af@185.136.135.164:8086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.136.135.164
+vless://9208edb9-83c9-433f-bc56-90ffa33800e8@www.tomandjery.eu:1003?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&sid=6ba85179e30d4fc2#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 194.50.169.165
 vless://70f7934d-c54a-4294-a00d-0908ac9f3068@beta.tomandjery.eu:1002?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 194.50.169.174
