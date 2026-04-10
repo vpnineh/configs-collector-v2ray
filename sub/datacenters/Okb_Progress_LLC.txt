@@ -1,3 +1,4 @@
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?type=tcp&security=reality&sni=www.fh-aachen.de&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#GB 🇬🇧 ┇ VLESS-TCP-RLT - Okb Progress LLC ┇ 138.124.186.80
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?type=tcp&security=reality&sni=www.fh-aachen.de&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#GB 🇬🇧 ┇ VLESS-TCP-RLT - Okb Progress LLC ┇ 138.124.186.202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@87.251.69.71:8388#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Okb Progress LLC ┇ 87.251.69.71
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.251.69.71:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Okb Progress LLC ┇ 87.251.69.71
+vless://0642ee71-53ad-403b-a210-97782ed3d94c@at.pfvpn.cfd:1443?type=grpc&security=reality&sni=yandex.ru&fp=chrome&pbk=asw-c8jLA8GT6tydb7teY46doPq-silOzQUFUkERxh0&sid=80e0#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Okb Progress LLC ┇ 87.251.69.93
