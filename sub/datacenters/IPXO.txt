@@ -1,4 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@95.85.239.225:8388#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - IPXO ┇ 95.85.239.225
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.243.216
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@in-nl-1c.ray-balance.space:443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=1Hr3vZv1JC7PuvH8iGfA7LyMHi2afnvp9y_q507I0Ew#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.226.165
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@in-nl-1c.ray-balance.space:443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=1Hr3vZv1JC7PuvH8iGfA7LyMHi2afnvp9y_q507I0Ew#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.226.168
 vless://a02f6161-ed4a-4b27-afa8-d2cbf34d69b4@213.165.39.93:44217?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - IPXO ┇ 213.165.39.93
+vless://73c8f578-2e1c-4c32-8352-a6eec82338dd@xca.soonteam.top:443?type=xhttp&security=tls&path=/Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam&sni=xca.soonteam.top&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - IPXO ┇ 188.227.197.3

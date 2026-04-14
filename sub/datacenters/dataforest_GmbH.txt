@@ -1,2 +1,3 @@
 vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?type=ws&security=tls&path=/&sni=sub.mot.ip-ddns.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 185.94.29.156
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?type=ws&security=tls&path=/&sni=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 176.96.138.17
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?type=ws&security=tls&sni=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 176.96.138.17
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.9.6.73:555?type=ws&security=tls&path=/?Telegram🇨🇳 @WangCai2=&sni=sni.111000.dynv6.net#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 194.9.6.73
