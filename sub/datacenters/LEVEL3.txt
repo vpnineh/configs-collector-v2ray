@@ -1,5 +1,7 @@
 trojan://humanity@8.6.112.6:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
-trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
-vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@8.35.211.18:2087?type=ws&security=tls&path=/&sni=xqkxw.ccwu.cc#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.18
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@8.35.211.15:2087?type=ws&security=tls&path=/?ed=2560&sni=l.ayovo.netlib.re#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.15
+trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
+vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.140:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.140
+vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.1:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.1
+vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.64:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.64
+vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.71:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.71
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.238:2096?type=ws&security=tls&sni=sni.jpmj.dev#US 🇺🇸 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.34.146.238
