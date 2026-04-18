@@ -1,8 +1,9 @@
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#BE 🇧🇪 ┇ TROJAN-TCP-TLS - ASNET ┇ 194.87.240.185
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.58.46.132:443?type=ws&security=tls&path=/danfeng&sni=snippet.sheilabelinda.ndjp.net&fp=random#CZ 🇨🇿 ┇ VLESS-WS-TLS - ASNET ┇ 194.58.46.132
-ss://YWVzLTI1Ni1nY206UkkwVWNHdklrSURv@212.192.12.137:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 212.192.12.137
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.209:19081#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 212.192.15.209
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@86.107.100.13:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - ASNET ┇ 86.107.100.13
-ss://YWVzLTI1Ni1nY206b1hHT3ltR00xSUUx@192.124.176.153:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 192.124.176.153
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@212.192.214.215:443?type=ws&security=tls&path=/&sni=3-93f.pages.dev&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - ASNET ┇ 212.192.214.215
+ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.158:30312#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 185.141.219.158
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click&peer=sgp9.node-resource.click&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ASNET ┇ 194.87.10.31
-vless://26524cce-d514-4014-a426-365fb266a14d@194.87.10.241:443?type=ws&security=tls&path=/danfeng&sni=snippet.danfeng.rr.kg&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ASNET ┇ 194.87.10.241
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@194.87.10.241:443?type=ws&security=tls&path=/&sni=sn1.skylee5.cloudns.ch&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ASNET ┇ 194.87.10.241
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?sni=sea9.firewallcontract.click&peer=sea9.firewallcontract.click&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ASNET ┇ 166.88.197.60
