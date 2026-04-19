@@ -6,6 +6,6 @@ vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&securit
 vless://00000000-0000-4000-8000-000000000000@147.45.68.252:8082?type=ws&security=tls&path=/@Marisa_kristi&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 147.45.68.252
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.152.21:443?type=ws&security=tls&path=/&sni=sni.111000.v6.navy&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 77.221.152.21
 vless://00000000-0000-4000-8000-000000000000@176.124.203.183:8082?type=ws&security=tls&path=/@Marisa_kristi&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me#NL 🇳🇱 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 176.124.203.183
-vless://b9dbc1ff-6364-4826-a973-71c0584116c4@ll0ll.vip:8443?type=tcp&security=reality&sni=dropbox.com&fp=safari&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NL 🇳🇱 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 138.124.113.64
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 89.22.234.121
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?type=ws&security=tls&path=/?Telegram🇨🇳+@WangCai2=&sni=sni.111000.v6.navy#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 109.120.132.6
+vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@77.110.114.1:443?type=tcp&security=reality&sni=srv27.outlinekeys.com&fp=chrome&flow=xtls-rprx-vision&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ#US 🇺🇸 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.110.114.1
