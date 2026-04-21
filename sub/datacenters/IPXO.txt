@@ -1,2 +1,3 @@
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.243.216
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@95.85.248.65:30086?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.248.65
+vless://758e5d79-df2b-4db6-aa2e-506bad730a1f@pl02.kubservice.icu:443?type=tcp&security=reality&sni=pl02.kubservice.icu&fp=chrome&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.253.198

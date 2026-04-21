@@ -1,2 +1,2 @@
 vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@193.42.11.94:54443?type=tcp&security=tls&sni=ads.x5.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - dataforest GmbH ┇ 193.42.11.94
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?type=ws&security=tls&path=/&sni=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 176.96.138.17
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.136.176:6593?type=ws&security=tls&sni=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 176.96.136.176
