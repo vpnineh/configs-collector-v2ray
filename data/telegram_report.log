@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-04-21 06:09:16
+Timestamp: 2026-04-22 06:07:43
 Total Channels: 91
-Successful Scrapes: 44
+Successful Scrapes: 45
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -15,11 +15,12 @@ Greenvpn2: 30 configs
 config_dooni: 30 configs
 GalaxyMVPN: 30 configs
 Farah_VPN: 20 configs
-skivpn: 19 configs
 antimeli: 18 configs
-Tweety_Proxy: 18 configs
+DALTON_PING: 18 configs
+dalton_ping: 18 configs
+v2ray_configs_pool: 18 configs
 WarV2Ray: 17 configs
-lexernet: 14 configs
+skivpn: 14 configs
 v2ray_god: 14 configs
 WedBaZtel: 13 configs
 expressvpn_420: 12 configs
@@ -27,27 +28,27 @@ confingv2raayng: 11 configs
 vistav2ray: 11 configs
 shadowproxy66: 10 configs
 ShadowProxy66: 10 configs
-v2ray_configs_pool: 9 configs
+v2ra_config: 10 configs
 mcv2rayng: 8 configs
+arv2ray: 6 configs
 evay_vpn: 6 configs
-arv2ray: 5 configs
-capoit: 5 configs
-ghalagyann: 5 configs
 vpnkanfik: 5 configs
-v2ra_config: 5 configs
 vpnod: 5 configs
-freev2rng: 4 configs
+lexernet: 4 configs
 spikevpn: 4 configs
-DALTON_PING: 3 configs
-dalton_ping: 3 configs
+Tweety_Proxy: 4 configs
+configx2ray: 3 configs
+ConfigX2ray: 3 configs
 v2ray_rolly: 2 configs
 v2raymelliii: 2 configs
+Movie_Centrall: 2 configs
 bored_vpn: 1 configs
-configx2ray: 1 configs
+capoit: 1 configs
 fnet00: 1 configs
+freev2rng: 1 configs
+ghalagyann: 1 configs
 ineronix: 1 configs
 proxystore11: 1 configs
 summertimeus: 1 configs
-ConfigX2ray: 1 configs
 
 --- Failed Channels ---

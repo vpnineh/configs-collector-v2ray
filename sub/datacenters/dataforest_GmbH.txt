@@ -1,2 +1,4 @@
-vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@193.42.11.94:54443?type=tcp&security=tls&sni=ads.x5.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - dataforest GmbH ┇ 193.42.11.94
+trojan://1234567890@185.219.84.221:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - dataforest GmbH ┇ 185.219.84.221
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?type=ws&security=tls&path=/&sni=sni.111000.indevs.in&fp=chrome@freev2configs#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 176.96.138.17
+vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?type=ws&security=tls&path=/&sni=sub.mot.ip-ddns.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 185.94.29.156
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.136.176:6593?type=ws&security=tls&sni=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 176.96.136.176

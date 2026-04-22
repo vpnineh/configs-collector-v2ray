@@ -1,1 +1,3 @@
-vless://eaadb4d9-8273-41bb-89f6-0f0504736b57@213.176.18.99:443?type=tcp&security=reality&sni=telegavpn.com&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#IR 🇮🇷 ┇ VLESS-TCP-RLT - E-Large HongKong ┇ 213.176.18.99
+trojan://1234567890@213.176.77.231:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - E-Large HongKong ┇ 213.176.77.231
+trojan://1234567890@213.176.77.30:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - E-Large HongKong ┇ 213.176.77.30
+trojan://1234567890@213.176.78.192:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - E-Large HongKong ┇ 213.176.78.192

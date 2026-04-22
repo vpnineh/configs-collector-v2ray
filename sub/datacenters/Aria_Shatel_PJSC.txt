@@ -1,11 +1,9 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4yNDEuMjMzIiwiYWRkIjoidmljdG9yeS5kZXZtYXR0LmlyIiwicG9ydCI6NDQzLCJpZCI6ImI4ZmI1OWZjLTBlZTUtNGIwMS04YzE3LWJjYzQ5M2IzMjRhZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4yNDEuMjMzIiwiYWRkIjoiOTQuMTgzLjI0MS4yMzMiLCJwb3J0Ijo0NDMsImlkIjoiYTc0OWYyNmMtNGQ4ZS00MDBjLWI3NjYtYzRiMmYxOWQ1OTVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.149.168
 vless://bec4a9bc-40bf-46cd-b6a5-4968ba30b831@94.183.180.86:50851?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.180.86
-vless://9982dda6-5d7c-4ff7-a068-a50f87ae30cb@94.183.176.168:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.176.168
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.171.3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.186.27:443?type=ws&security=tls&path=/?telegram🇨🇳@wangcai2=&sni=sni.111000.v6.navy#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.186.27
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.171.3
 vless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.180.70
-vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.103.8
-vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.241.82
-vless://bd5bcf92-5a9b-429f-998c-8e4115ed5357@94.183.241.159:22222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.241.159
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.186.27:443?type=ws&security=tls&path=/?telegram🇨🇳@wangcai2=&sni=sni.111000.v6.navy#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.186.27
+vless://bcb7fff4-3426-49a5-bee7-34222fb71ca8@aparatrat1.info:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.236.6
 vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@94.183.167.22:2027?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.167.22
+vless://22b6a22b-a88a-4e2c-ba84-6fcca907d8ee@wow2.preghost2.ir:1919?type=grpc&security=reality&sni=www.oracle.com&fp=chrome&pbk=EEQlgy7X7yrY9ya7kvb8axnj5r2aSIx97Vd-3PJKmwg&sid=3c8cd007c4aa#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Aria Shatel PJSC ┇ 94.183.170.139

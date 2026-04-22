@@ -1,9 +1,7 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0Ni4yMzIiLCJhZGQiOiIxOTMuMTUxLjE0Ni4yMzIiLCJwb3J0IjoxNzM1NiwiaWQiOiJmOTVjYjVhZS0xYjA2LTRhNTctYWJhMC0zMGFmZTEyZDIzZWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://06c7a413-6c2d-e356-d0df-d4ac594a24f1@meli2.ertebatgoostar.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.153.207
-vless://017aa9ea-a1d3-48e1-a14d-5e2ab4fddec9@193.151.134.247:51088?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.134.247
-vless://4ce367e8-89bf-43f7-a04d-d94bab948fc6@v10.atlax.ir:59680?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.132.64
-vless://b34c99c2-99e6-411f-9cfc-751f61a8c285@85.198.13.99:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.13.99
+vless://af5c1fa3-029f-43fc-a018-f81390f8fddf@p.ar-panelar.com:443?type=xhttp&security=tls&path=/&sni=p.ar-panelar.com&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Asre Dadeha Asiatech ┇ 85.198.9.38
 vless://e9d6b936-5164-40a0-9279-4b588ae1e29a@tamam-1.conf-tun.site:44441?type=tcp&security=none&path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.158.80
-vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?type=tcp&security=tls&sni=arz.radargame.site#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Dadeha Asiatech ┇ 193.151.135.9
 vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.154.34
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asre Dadeha Asiatech ┇ 193.151.135.21
+vless://017aa9ea-a1d3-48e1-a14d-5e2ab4fddec9@193.151.134.247:51088?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.134.247
+vless://b34c99c2-99e6-411f-9cfc-751f61a8c285@85.198.13.99:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.13.99
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?type=tcp&security=reality&sni=www.speedtest.net&flow=xtls-rprx-vision&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asre Dadeha Asiatech ┇ 193.151.135.21
