@@ -1,13 +1,10 @@
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.243.216
 trojan://1234567890@95.85.233.44:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.233.44
-trojan://1234567890@95.85.233.224:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.233.224
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.243.216
 trojan://1234567890@95.85.232.148:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.232.148
+trojan://1234567890@95.85.233.224:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.233.224
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@95.85.248.69:30086?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.248.69
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.234.9:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.latonyamadeline.ndjp.net&fp=chrome#CZ 🇨🇿 ┇ VLESS-WS-TLS - IPXO ┇ 95.85.234.9
-vless://758e5d79-df2b-4db6-aa2e-506bad730a1f@pl02.kubservice.icu:443?type=tcp&security=reality&sni=pl02.kubservice.icu&fp=chrome&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.253.198
 trojan://1234567890@213.165.39.142:2053?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - IPXO ┇ 213.165.39.142
-trojan://1234567890@213.165.38.108:2083?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - IPXO ┇ 213.165.38.108
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.37.101:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.v6.rocks&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - IPXO ┇ 213.165.37.101
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.38.161:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.v6.rocks&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - IPXO ┇ 213.165.38.161
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.58.57:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.v6.rocks&fp=chrome#SA 🇸🇦 ┇ VLESS-WS-TLS - IPXO ┇ 213.165.58.57
 trojan://1234567890@143.20.160.200:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IPXO ┇ 143.20.160.200
-trojan://1234567890@143.20.41.181:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IPXO ┇ 143.20.41.181
+trojan://1234567890@143.20.175.77:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IPXO ┇ 143.20.175.77

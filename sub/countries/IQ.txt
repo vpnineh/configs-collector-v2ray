@@ -1,5 +1,4 @@
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?type=tcp&security=tls#IQ 🇮🇶 ┇ VLESS-TCP-TLS ┇ 93.94.51.210
 trojan://1234567890@178.17.48.170:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - MADGEN-01 ┇ 178.17.48.170
 trojan://1234567890@178.17.48.78:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - MADGEN-01 ┇ 178.17.48.78
-vless://6d524f6e-deea-4f8a-a71d-f32a952e23e5@178.17.57.112:443?type=grpc&security=reality&sni=www.bing.com&pbk=Duxwa0WD9RhAy4EsGdWgo2ALlOUWGfZ2KCVLKEP_214&sid=6d1e4c8f#IQ 🇮🇶 ┇ VLESS-GRPC-RLT - MADGEN-01 ┇ 178.17.57.112
 trojan://1234567890@5.175.183.225:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - Super Cell Network For Internet Services Ltd ┇ 5.175.183.225
