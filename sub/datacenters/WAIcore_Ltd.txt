@@ -1,3 +1,4 @@
 trojan://1234567890@94.141.123.243:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - WAIcore Ltd ┇ 94.141.123.243
 trojan://1234567890@109.122.197.95:2053?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - WAIcore Ltd ┇ 109.122.197.95
-trojan://1234567890@109.122.198.72:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - WAIcore Ltd ┇ 109.122.198.72
+trojan://1234567890@109.122.198.64:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - WAIcore Ltd ┇ 109.122.198.64
+trojan://1234567890@109.122.198.230:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - WAIcore Ltd ┇ 109.122.198.230

@@ -1,4 +1,3 @@
-trojan://1234567890@150.241.105.243:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - u1host ltd ┇ 150.241.105.243
 trojan://1234567890@150.241.108.229:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - u1host ltd ┇ 150.241.108.229
-trojan://1234567890@64.188.97.153:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - u1host ltd ┇ 64.188.97.153
 trojan://1234567890@64.188.97.250:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - u1host ltd ┇ 64.188.97.250
+trojan://1234567890@64.188.97.153:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - u1host ltd ┇ 64.188.97.153

@@ -1,2 +1,1 @@
-trojan://1234567890@194.154.30.188:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FRONTIER-FRTR ┇ 194.154.30.188
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.154.30.150:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.latonyamadeline.ndjp.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FRONTIER-FRTR ┇ 194.154.30.150
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.154.30.150:443?type=ws&security=tls&path=/&sni=sni.latonyamadeline.ndjp.net#US 🇺🇸 ┇ VLESS-WS-TLS - FRONTIER-FRTR ┇ 194.154.30.150
