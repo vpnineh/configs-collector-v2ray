@@ -1,3 +1,9 @@
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 212.41.28.109
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.156.138
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.124.196
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 82.202.197.3
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&path=/&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 188.246.226.142
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 212.41.11.152
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 94.26.228.10
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 80.249.131.7
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv80.towersflowerss.com:443?type=tcp&security=reality&path=/&sni=srv80.towersflowerss.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 80.93.187.89

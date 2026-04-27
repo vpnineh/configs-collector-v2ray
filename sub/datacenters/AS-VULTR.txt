@@ -1,4 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ@149.28.255.6:816#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 149.28.255.6
+trojan://1234567890@45.77.141.166:2053?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.77.141.166
 trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?sni=asia.oceis.net&peer=asia.oceis.net&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.255.171
 trojan://mainssh-ddoejfv14@95.179.254.136:443?sni=frtgrpc.mainssh.xyz&peer=frtgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.254.136
 trojan://mainssh-niwrhf87@95.179.246.122:443?sni=getgrpc.mainssh.xyz&peer=getgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.246.122
@@ -7,16 +8,14 @@ trojan://mainssh-ddoejfv14@140.82.38.103:443?sni=frtgrpc.mainssh.xyz&peer=frtgrp
 trojan://mainssh-niwrhf87@140.82.32.17:443?sni=getgrpc.mainssh.xyz&peer=getgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 140.82.32.17
 trojan://mainssh-niwrhf87@108.61.171.167:443?sni=getgrpc.mainssh.xyz&peer=getgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 108.61.171.167
 trojan://mainssh-ddoejfv14@108.61.170.104:443?sni=frtgrpc.mainssh.xyz&peer=frtgrpc.mainssh.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 108.61.170.104
-trojan://1234567890@45.77.141.166:2053?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.77.141.166
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgOTUuMTc5LjI1NC4yMCIsImFkZCI6Ijk1LjE3OS4yNTQuMjAiLCJwb3J0Ijo0NDMsImlkIjoiMDY4OTY0ZTAtMmUzNy0xMWVlLWI3MzMtMjA1YzZkNWY1ZDc4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvQGhvcGV2MnJheSIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1Ljc2Ljg4LjM3IiwiYWRkIjoiNDUuNzYuODguMzciLCJwb3J0IjoyMDUzLCJpZCI6IjQxMzRlZmU3LWQ5MzUtNDE2Yy1jMmNjLTI0OTQzZTRhODBjYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgMTk5LjI0Ny4yMy4zMSIsImFkZCI6IjE5OS4yNDcuMjMuMzEiLCJwb3J0Ijo0NDMsImlkIjoiYzEzMjc3Y2UtY2RhNi00ZDAxLWNlZGMtMWUzNjA1YTBlYjcyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvMTI3OTY/ZWQ9MjA0OCIsInRscyI6InRscyJ9
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?sni=nika2.hdfy2.foriran.trade&peer=nika2.hdfy2.foriran.trade&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.217.221
-vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?type=tcp&security=reality&sni=www.vodafone.co.uk&fp=chrome&flow=xtls-rprx-vision&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&sid=41427aa565e28984#GB 🇬🇧 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 78.141.199.54
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw@103.125.147.48:51348#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 103.125.147.48
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.77.25.6:48828?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#JP 🇯🇵 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.77.25.6
 vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?type=tcp&security=reality&sni=www.muji.com&fp=chrome&flow=xtls-rprx-vision&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&sid=c906f73d3ba8211f#JP 🇯🇵 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 64.176.57.250
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.45.187
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.45.187
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.39.146:6697#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.39.146
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@158.247.205.87:5601#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.205.87
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@158.247.213.230:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 158.247.213.230
@@ -26,4 +25,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1Ljc2LjE4MS4yNDYiLCJhZGQiOiI0NS43Ni4xODEuMjQ2IiwicG9ydCI6MTIzNDUsImlkIjoiNTIyNjM5MDEtYjNjZi00ZDdkLWI0ZmQtYTEyZmUxNzhlZjJhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 trojan://Gl123qwe@los2.playstone.info:23443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.60.28
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1Ljc2LjcxLjIzMyIsImFkZCI6IjQ1Ljc2LjcxLjIzMyIsInBvcnQiOjQ2OTgzLCJpZCI6IjY5MDk5MjU4LTE0NzYtNDZkZC1hNTFiLTg0ZTkxNWU5NDFiZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLzF0R0s4MmxVLyJ9
-vless://26524cce-d514-4014-a426-365fb266a14d@45.76.66.145:443?type=ws&security=tls&path=/danfeng?ed=2560fp=chrome&sni=ynwta9.api-edge.fgfw.qzz.io&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.66.145
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDY2LjQyLjExMS41NSIsImFkZCI6IjY2LjQyLjExMS41NSIsInBvcnQiOjM1ODc0LCJpZCI6ImIwNjAyYjNlLWMzZTItMTFlYy05ZTRhLTU2MDAwM2Y2NWM1ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLzBCRks3aHpULyJ9
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&security=tls&path=/&sni=1-jk1.pages.dev&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-TLS - AS-VULTR ┇ 139.84.235.99
