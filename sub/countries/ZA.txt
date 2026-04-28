@@ -1,4 +1,4 @@
-vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?type=grpc&security=none#ZA 🇿🇦 ┇ VLESS-GRPC-NTLS ┇ 192.142.53.38
+vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?type=tcp&security=none#ZA 🇿🇦 ┇ VLESS-TCP-NTLS ┇ 192.142.53.38
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&security=tls&path=/&sni=1-jk1.pages.dev&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-TLS - AS-VULTR ┇ 139.84.235.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTEdWcEs5bnBLYUZxQkxIY251OQ@102.165.20.38:8389#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Hivelocity LLC ┇ 102.165.20.38
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@160.119.251.210:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Host-Africa-AS2 ┇ 160.119.251.210
