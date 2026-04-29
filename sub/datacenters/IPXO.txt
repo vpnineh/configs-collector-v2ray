@@ -1,3 +1,6 @@
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?sni=xo.e0f.cx&peer=xo.e0f.cx&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.243.216
+trojan://1234567890@95.85.234.43:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - IPXO ┇ 95.85.234.43
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.233.224:443?type=ws&security=tls&path=/?ed=2560&sni=sni.latonyamadeline.ndjp.net#CZ 🇨🇿 ┇ VLESS-WS-TLS - IPXO ┇ 95.85.233.224
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@95.85.248.69:30086?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.248.69
 trojan://1234567890@143.20.175.77:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IPXO ┇ 143.20.175.77
+trojan://1234567890@143.20.160.200:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IPXO ┇ 143.20.160.200

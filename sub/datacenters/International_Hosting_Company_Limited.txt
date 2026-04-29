@@ -1,3 +1,5 @@
-trojan://1234567890@109.237.97.197:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - International Hosting Company Limited ┇ 109.237.97.197
 trojan://1234567890@195.58.38.95:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - International Hosting Company Limited ┇ 195.58.38.95
+trojan://1234567890@109.237.97.197:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - International Hosting Company Limited ┇ 109.237.97.197
+vless://2fdd6b51-4fe2-4e2f-803a-3eb284bf038e@dex1.braidx.tech:443?type=tcp&security=reality&sni=dex1.braidx.tech&fp=chrome&flow=xtls-rprx-vision&pbk=2s97j3ehJylQb7OJnl-5aESG5L50_5RzDTRlBzFtwkE&sid=02b5e6bf16f08d2c#DE 🇩🇪 ┇ VLESS-TCP-RLT - International Hosting Company Limited ┇ 109.237.97.83
 trojan://1234567890@95.181.161.242:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - International Hosting Company Limited ┇ 95.181.161.242
+vless://bf263367-bb63-4663-b4a1-34946107a72e@gr-1.illusion-proxy.ru:443?type=tcp&security=reality&sni=gr-1.illusion-proxy.ru&fp=chrome&flow=xtls-rprx-vision&pbk=I-ltGSV73Fd08VfuP_XZ-mAAb2ZE3Ag4a_8ftaX0bz0&sid=fe28038a#US 🇺🇸 ┇ VLESS-TCP-RLT - International Hosting Company Limited ┇ 185.184.120.66

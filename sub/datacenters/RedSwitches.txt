@@ -1,2 +1,1 @@
-vless://160e9c18-c548-42bf-9c00-905aed8ef96f@43.250.54.155:49000?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&sid=170f8a2036#AU 🇦🇺 ┇ VLESS-GRPC-RLT - RedSwitches ┇ 43.250.54.155
-vless://67fc444c-b363-455f-8ff0-c2822e731cef@62.50.146.12:6079?type=tcp&security=reality&sni=pcmag.com&fp=chrome&flow=xtls-rprx-vision&pbk=8r2fOsMWM6oDrXxMFTgTg6RXFJc18fsQeZM9F349U1U&sid=fb1375d6f59321bd#NL 🇳🇱 ┇ VLESS-TCP-RLT - RedSwitches ┇ 62.50.146.12
+vless://be179768-b26a-4d3f-92c4-e81645fde3f4@43.250.54.33:443?type=tcp&security=reality&sni=www.microsoft.com&pbk=LCcIGVnAk4EclhY5Fb9EAKrMlJ9BRVA0WpYylqKgnD8#AU 🇦🇺 ┇ VLESS-TCP-RLT - RedSwitches ┇ 43.250.54.33
