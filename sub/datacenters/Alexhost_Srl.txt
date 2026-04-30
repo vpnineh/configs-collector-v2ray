@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
+vless://2e638d5f-dfe6-4bd8-ad9a-1a638db5ed6a@176.123.8.17:443?type=tcp&security=reality&sni=mold.memeplanet.net&fp=chrome&flow=xtls-rprx-vision&pbk=T58992iW3y2gNSo1bnEs4ZFBxljg9CFPACPwIErsu0w&sid=8ac90e6663622667#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 176.123.8.17
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?type=grpc&security=reality&sni=hcaptcha.com&fp=chrome&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw#MD 🇲🇩 ┇ VLESS-GRPC-RLT - Alexhost Srl ┇ 176.123.8.28
 vless://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.33.76:4354?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 85.239.33.76
