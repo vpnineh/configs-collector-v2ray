@@ -1,10 +1,7 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4yNDEuMjMzIiwiYWRkIjoiOTQuMTgzLjI0MS4yMzMiLCJwb3J0Ijo0NDMsImlkIjoiYTc0OWYyNmMtNGQ4ZS00MDBjLWI3NjYtYzRiMmYxOWQ1OTVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://04a0dd1a-e72b-44f3-a69b-ec9919d4f74d@iri.hosmci.ir:41473?type=ws&security=tls&path=/upload/?ed=2560&sni=ir.hosmci.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.160.209
 vless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.180.70
 vless://67b8f5e1-3769-4a36-9f08-f2896fd15987@vs2.zolinet.online:23609?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.150.10
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.98
 vless://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.241.26
 vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@94.183.167.22:2027?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.167.22
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.186.27:443?type=ws&security=tls&path=/?telegram🇨🇳@wangcai2=&sni=sni.111000.v6.navy#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.186.27
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@94.183.184.239:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳@WangCai2&sni=babayaga-6i7.pages.dev&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.184.239
-vless://31bdae38-ab95-499a-8105-2fe7c45a8240@hub1.wiziii.xyz:8085?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.83.83
+vless://bb570936-3901-4f35-9a3c-c282fc9c8be2@94.183.170.139:1010?type=grpc&security=reality&sni=www.aparat.com&fp=chrome&pbk=hSZltYfLnQPsweXs5xU0eQoBMwZ4O_qBrxj24mJXsxU&sid=937d68#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Aria Shatel PJSC ┇ 94.183.170.139

@@ -1,3 +1,1 @@
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?type=tcp&security=tls#IQ 🇮🇶 ┇ VLESS-TCP-TLS ┇ 93.94.51.210
-trojan://1234567890@178.17.48.78:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - MADGEN-01 ┇ 178.17.48.78
-trojan://1234567890@178.17.48.170:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - MADGEN-01 ┇ 178.17.48.170
