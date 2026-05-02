@@ -1,2 +1,1 @@
-trojan://1234567890@31.58.85.103:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - SEBEK sp. z o.o ┇ 31.58.85.103
-trojan://1234567890@148.253.208.19:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - SEBEK sp. z o.o ┇ 148.253.208.19
+vless://faed8940-ce1a-4613-a05b-65d833e3346b@148.253.208.98:20222?type=tcp&security=reality&path=/&sni=stats.vk-portal.net&fp=chrome&pbk=USzu7jEsyeyLjhJ_w8Wm76bd6bSXy8TciAojicQKAHk&sid=48e9a51281c1#GB 🇬🇧 ┇ VLESS-TCP-RLT - SEBEK sp. z o.o ┇ 148.253.208.98
