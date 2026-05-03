@@ -1,2 +1,1 @@
-trojan://1234567890@194.48.250.61:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - Oc Networks Limited ┇ 194.48.250.61
-vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=j07H9kYduVQkwjQw-7PW0um-0FUeCNe9J70oLv8I03I&sid=626617b8f5c8#FI 🇫🇮 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 83.219.97.166
+vless://85fecfeb-86b9-4fbb-96d1-723a64a9e0f7@185.252.177.190:2000?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM#EE 🇪🇪 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 185.252.177.190
