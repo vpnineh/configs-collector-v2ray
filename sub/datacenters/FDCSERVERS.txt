@@ -1,5 +1,4 @@
 vless://ac620fe6-eb1a-4f28-89c0-1e9f5d8edfb9@cf3.comecloud.ir:443?type=ws&security=tls&path=/test?ed=2560&sni=Clu.servert1op.ir&fp=chrome#IE 🇮🇪 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.5.85
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRENTRVJWRVJTIFx1MjUwNyAyMy4yMzcuMzMuMTA2IiwiYWRkIjoiMjMuMjM3LjMzLjEwNiIsInBvcnQiOjQ0MywiaWQiOiIxNzZiNTk4Zi00NDViLTQxYWMtOWQyYS00MzBjNWM0ZGYyNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6ImNsYXNoMS50cnVtcDIwMjMubmV0IiwicGF0aCI6Ii9kb25ndGFpd2FuZy5jb20iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjbGFzaDEudHJ1bXAyMDIzLm5ldCJ9
 vless://e8e1e1fc-83e6-4de3-9e08-7d77521e67b4@cf.comecloud.ir:443?type=ws&security=tls&path=/test?ed=2560&sni=Clu.servert1op.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.38
-vless://df6ee510-d01c-43d5-a6e8-e7a3eb49d544@50.7.85.35:443?type=xhttp&security=tls&path=/api&sni=letsencrypt.org&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FDCSERVERS ┇ 50.7.85.35
 vless://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?type=ws&security=tls&path=/?ed=2048&sni=kosesher2.nayase6031.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.221

@@ -1,2 +1,3 @@
-vless://10f46bd5-16fa-4206-9bee-0f71505d11c8@45.90.75.77:51364?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mizban Dade Pasargad LLC ┇ 45.90.75.77
+vless://f69cbb6a-ec8d-4633-8ecb-9a9c2261ed38@45.90.75.150:444?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 45.90.75.150
 vless://a91d6088-c444-47a1-a275-d8c43f10b64d@194.59.171.217:14774?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 194.59.171.217
+vless://e76cdeff-874f-472c-a078-655d5cc7c186@45.90.74.172:443?type=tcp&security=reality&sni=aparat.com&fp=chrome&pbk=hfWtgRA0ylK1Yh2lt5EnM7AAt1konMNBeTEv3LqecBQ&sid=b0e32dad#IR 🇮🇷 ┇ VLESS-TCP-RLT - Mizban Dade Pasargad LLC ┇ 45.90.74.172
