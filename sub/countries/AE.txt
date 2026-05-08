@@ -1,33 +1,27 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 217.60.249.112
 trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.252.48:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 217.60.252.48
-trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.248.94:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 217.60.248.94
-trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.38.182:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 217.60.38.182
-vless://0a542d0e-4d05-418f-97c2-94d0455005da@31.56.205.56:20553?type=ws&security=none&path=/upload#AE 🇦🇪 ┇ VLESS-WS-NTLS ┇ 31.56.205.56
-vless://7cc6922b-ebe3-5a02-0c95-64afc5f192a8@217.60.248.3:2053?type=ws&security=tls&path=/&sni=1.6.j.s.b.1.2.5.5.7.h.a.d.v.n.4.edus.xx.kg&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.248.3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.39.39:2053?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.39.39
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.39.240:8443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.39.240
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.38.113:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.38.113
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.39.42:2053?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.39.42
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.39.139:8443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.39.139
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.252.132:8443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.252.132
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.252.85:2053?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS ┇ 217.60.252.85
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.248.94:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 217.60.248.94
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.39.240:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 217.60.39.240
+vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?type=ws&security=none&path=/download#AE 🇦🇪 ┇ VLESS-WS-NTLS ┇ 31.56.205.56
+vless://cb464319-56c8-404c-b610-6b41d1951032@217.60.252.121:6710?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 217.60.252.121
+vless://e3bef281-40e6-4e5d-9e25-b1d861e6c043@217.60.238.167:8083?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 217.60.238.167
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.147.98:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#AE 🇦🇪 ┇ VLESS-TCP-RLT - AS393942 ┇ 151.242.147.98
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.0.182:990#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.0.182
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.120.161:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.59.120.161
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.227:8443?type=ws&security=tls&sni=sni.111000.indevs.in#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.227
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.36.164:8443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.36.164
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.37.35:2053?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.37.35
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
 trojan://bpb-trojan@94.140.0.1:443?sni=singbox.lu567890.us.kg&peer=singbox.lu567890.us.kg&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@181.214.1.231:443?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=babayaga-6i7.pages.dev#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 181.214.1.231
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@181.214.1.238:2096?type=ws&security=tls&path=/&sni=sni.jpmj.dev#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 181.214.1.238
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGtleSBCLnYuIFx1MjUwNyAzMS41OC44Ny45OSIsImFkZCI6IjMxLjU4Ljg3Ljk5IiwicG9ydCI6MzY5ODksImlkIjoiZDkwYmVmMTUtMTQwMy00ZTc5LTkyY2MtOTBmNmNjNjk3NjAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://b9dbc1ff-6364-4826-a973-71c0584116c4@ll0ll.vip:8443?type=tcp&security=reality&sni=dropbox.com&fp=safari&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#AE 🇦🇪 ┇ VLESS-TCP-RLT - Hostman LTD ┇ 212.192.3.194
+vless://b9dbc1ff-6364-4826-a973-71c0584116c4@ll0ll.vip:8443?type=tcp&security=reality&sni=dropbox.com&fp=safari&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#AE 🇦🇪 ┇ VLESS-TCP-RLT - Hostman LTD ┇ 212.192.3.105
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
 vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.144
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE0yNDcgRXVyb3BlIFNSTCBcdTI1MDcgODkuMzEuMTIwLjE5MiIsImFkZCI6Ijg5LjMxLjEyMC4xOTIiLCJwb3J0Ijo0NDMsImlkIjoiNDQ1Mzc1OTUtOWNjYy00YjgzLTg5MzYtNWY5YWQzMjI5MDE5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.11.15:443?type=ws&security=tls&path=/proxyip=ProxyIP.DE.owg.dpdns.org&sni=3-7v4.pages.dev&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - M247 Europe SRL ┇ 38.180.11.15
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?type=tcp&security=reality&sni=ae.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#AE 🇦🇪 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 176.97.78.3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.58.77.129:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.v6.rocks&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.58.77.129
-vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443?type=tcp&security=reality&sni=www.refersion.com&fp=random&flow=xtls-rprx-vision&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&sid=e164b85aec8a7422#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 91.132.51.160
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?type=tcp&security=reality&sni=ae.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#AE 🇦🇪 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 176.97.78.29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.108.242:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.108.242
+vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&sid=e164b85aec8a7422#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 91.132.51.160
