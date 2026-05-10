@@ -1,13 +1,14 @@
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.58.46.132:443?type=ws&security=tls&path=/danfeng&sni=snippet.sheilabelinda.ndjp.net&fp=random#CZ 🇨🇿 ┇ VLESS-WS-TLS - ASNET ┇ 194.58.46.132
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.28.96.83:8443?type=ws&security=tls&path=/&sni=sni.latonyamadeline.ndjp.net&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - ASNET ┇ 139.28.96.83
+vless://26524cce-d514-4014-a426-365fb266a14d@185.121.134.40:8443?type=ws&security=tls&path=/danfeng?ed=2560fp=firefox&sni=psp09.data.chinav.eu.org&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - ASNET ┇ 185.121.134.40
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.28.96.83:443?type=ws&security=tls&sni=sni.latonyamadeline.ndjp.net&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - ASNET ┇ 139.28.96.83
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.78:40210#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 212.192.15.78
+trojan://8r%3C%5B9%27l6hAO%238ZQi@212.192.15.182:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - ASNET ┇ 212.192.15.182
+vless://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@s306.okgg.top:443?type=tcp&security=tls&sni=e788s306.okgg.top&fp=chrome&flow=xtls-rprx-vision-udp443#HK 🇭🇰 ┇ VLESS-TCP-TLS - ASNET ┇ 212.192.12.76
 ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.21:30312#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 185.141.219.21
 ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.24:60981#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 203.32.26.24
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.64.142.210:8443?type=ws&security=tls&sni=sni.111000.dns.army#LV 🇱🇻 ┇ VLESS-WS-TLS - ASNET ┇ 188.64.142.210
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.22.249:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - ASNET ┇ 193.124.22.249
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.22.91:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - ASNET ┇ 193.124.22.91
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.49.246:2053?type=ws&security=tls&sni=sni.111000.dns.army#NL 🇳🇱 ┇ VLESS-WS-TLS - ASNET ┇ 193.124.49.246
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.64.142.210:8443?type=ws&security=tls&sni=sni.111000.dns.army#LV 🇱🇻 ┇ VLESS-WS-TLS - ASNET ┇ 188.64.142.210
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.49.35:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.dns.army&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - ASNET ┇ 193.124.49.35
-ss://YWVzLTI1Ni1nY206cmxudUszR2t3a2ZN@192.124.176.49:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 192.124.176.49
-trojan://8r%3C%5B9%27l6hAO%238ZQi@91.149.239.206:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ASNET ┇ 91.149.239.206
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.49.246:2053?type=ws&security=tls&sni=sni.111000.dns.army#NL 🇳🇱 ┇ VLESS-WS-TLS - ASNET ┇ 193.124.49.246
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBU05FVCBcdTI1MDcgOTEuMTQ5LjIzOS4xNjUiLCJhZGQiOiJjZzFjMTQud2FpbWFvamQuY29tIiwicG9ydCI6NDQzLCJpZCI6ImJlOGUzMTM2LWI4NzQtNDA4NS1iZDIzLWVjMzY5OTMwMDQ5MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwidGxzIjoidGxzIn0
