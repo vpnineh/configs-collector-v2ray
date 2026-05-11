@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.238:2096?type=ws&security=tls&path=/&sni=sni.jpmj.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.238
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.138:2096?type=ws&security=tls&path=/&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.138
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.238:2096?type=ws&security=tls&sni=sni.jpmj.dev#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.238
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.138:2096?type=ws&security=tls&path=/&sni=sni.111000.indevs.in#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.138

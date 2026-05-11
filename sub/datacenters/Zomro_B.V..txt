@@ -1,3 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.56.8.103:8443?type=ws&security=tls&path=/&sni=sni.111000.dns.army&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 193.56.8.103
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.87.3.224:8443?type=ws&security=tls&path=/?Telegram🇨🇳 @WangCai2=&sni=sni.111000.indevs.in#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 45.87.3.224
-vless://5a29d804-c01b-4007-a7c6-5e6fca2f3ea9@212.162.152.47:443?type=tcp&security=reality&sni=maps.apple.com&flow=xtls-rprx-vision&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I&sid=2da4299da566b7#NL 🇳🇱 ┇ VLESS-TCP-RLT - Zomro B.V. ┇ 212.162.152.47
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.56.8.103:8443?type=ws&security=tls&sni=sni.111000.dns.army#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 193.56.8.103
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.87.3.224:8443?type=ws&security=tls&path=/?Telegram🇨🇳+@WangCai2=&sni=sni.111000.indevs.in#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 45.87.3.224

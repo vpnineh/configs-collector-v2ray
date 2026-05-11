@@ -10,4 +10,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?type=grpc&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.51:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 185.150.117.51
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.25.200
 vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@188.214.129.172:443?type=tcp&security=reality&sni=flowwow.com&fp=chrome&flow=xtls-rprx-vision&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 188.214.129.172
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@84.32.129.194:8443?type=ws&security=tls&path=/&sni=1-aym.pages.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - UAB Cherry Servers ┇ 84.32.129.194
