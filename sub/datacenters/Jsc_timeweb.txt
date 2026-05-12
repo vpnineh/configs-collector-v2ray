@@ -1,6 +1,7 @@
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@82.97.243.225:443?type=tcp&security=reality&sni=spb.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb#AU 🇦🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 82.97.243.225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNalU5eUdjdWRxUWxWSDF5M0tpQThm@90.156.228.141:46717#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 90.156.228.141
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 94.198.220.183
 trojan://8r%3C%5B9%27l6hAO%238ZQi@82.97.249.34:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Jsc timeweb ┇ 82.97.249.34
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@95.140.154.101:8443?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=babayaga-6i7.pages.dev#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 95.140.154.101
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@95.140.154.101:2053?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=babayaga-6i7.pages.dev#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 95.140.154.101
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 109.73.206.90
 vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@46.149.66.90:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc#SG 🇸🇬 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 46.149.66.90
