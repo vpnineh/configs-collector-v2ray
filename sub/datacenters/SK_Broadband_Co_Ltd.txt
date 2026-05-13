@@ -1,6 +1,13 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 211.178.105.134
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 221.139.79.57
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 211.178.105.134
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
 trojan://8r%3C%5B9%27l6hAO%238ZQi@123.99.111.135:19461?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - SK Broadband Co Ltd ┇ 123.99.111.135
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSyBCcm9hZGJhbmQgQ28gTHRkIFx1MjUwNyAyMTEuMTc3LjQwLjIzNSIsImFkZCI6IjIxMS4xNzcuNDAuMjM1IiwicG9ydCI6MzAwMDEsImlkIjoiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtZmZmZmZmZmZmZmZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJwMy5jaGlndWEudGsiLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoidGxzIiwic25pIjoicDMuY2hpZ3VhLnRrIn0
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSyBCcm9hZGJhbmQgQ28gTHRkIFx1MjUwNyAxLjIzOC4xMDIuMjE0IiwiYWRkIjoiMS4yMzguMTAyLjIxNCIsInBvcnQiOjMwMDAxLCJpZCI6ImZmZmZmZmZmLWZmZmYtZmZmZi1mZmZmLWZmZmZmZmZmZmZmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoicDMuY2hpZ3VhLnRrIiwicGF0aCI6Ii92bWVzcyIsInRscyI6InRscyIsInNuaSI6InAzLmNoaWd1YS50ayJ9
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@61.98.237.169:14147?type=ws&security=tls&path=/torrent/redirect&sni=pagescm.freen24.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 61.98.237.169
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@123.212.221.182:50001?type=ws&security=tls&path=/redirect.php/files&sni=pagescm.freen33.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 123.212.221.182
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@1.236.186.119:16000?type=ws&security=tls&path=/videos/register&sni=pagescm.freen33.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 1.236.186.119
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@58.232.50.76:10003?type=ws&security=tls&path=/ajax/p&sni=pagescm.freen36.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 58.232.50.76
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@121.124.202.23:12345?type=ws&security=tls&path=/settings&sni=pagescm.freen12.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 121.124.202.23
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@223.222.177.202:35342?type=ws&security=tls&path=/jump.html/class/account&sni=pagescm.freen6.de5.net&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 223.222.177.202
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@39.125.197.52:25000?type=ws&security=tls&path=/torrent&sni=pagescm.freen30.cc.cd&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 39.125.197.52

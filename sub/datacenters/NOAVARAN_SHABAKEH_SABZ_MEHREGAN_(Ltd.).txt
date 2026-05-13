@@ -1,3 +1,6 @@
-vless://c9841f8b-9388-4142-9549-688c98d77d13@red.nahidapp.com:443?type=ws&security=tls&path=/red/&sni=red.nahidapp.com#IR 🇮🇷 ┇ VLESS-WS-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 213.176.28.100
+vless://6730bbec-a36c-4fb8-8509-d80cbd97d591@hi.nahidapp.com:443?type=ws&security=tls&path=/red/&sni=red.nahidapp.com#IR 🇮🇷 ┇ VLESS-WS-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 213.176.28.100
 vless://cac92bc3-e77f-4bbe-ac11-c68162727b6d@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.205.75
+vless://9d89bed0-143a-41d4-a582-8aaf2770cf43@185.208.79.188:25459?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.208.79.188
+vless://8823712c-9a8d-4c2a-b2a7-d5b3690d849a@185.83.113.134:54465?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.113.134
+vless://33db2153-058e-4030-b966-36c7ea27275d@trex.nahidapp.com:443?type=ws&security=tls&path=/vless-ws&sni=trex.nahidapp.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.129.242
 vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@62.60.164.192:927?type=ws&security=none&path=/Poshtiban#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.164.192
