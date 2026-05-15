@@ -1,6 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@84.38.181.97:8388#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - JSC Selectel ┇ 84.38.181.97
 trojan://8r%3C%5B9%27l6hAO%238ZQi@95.213.226.60:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - JSC Selectel ┇ 95.213.226.60
 trojan://8r%3C%5B9%27l6hAO%238ZQi@79.141.73.189:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - JSC Selectel ┇ 79.141.73.189
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?type=tcp&security=tls&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 82.202.197.2
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 212.41.11.152
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 94.26.228.10
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 80.249.131.7
