@@ -1,2 +1,2 @@
-trojan://1234567890@178.17.48.78:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - MADGEN-01 ┇ 178.17.48.78
-trojan://1234567890@178.17.48.170:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - MADGEN-01 ┇ 178.17.48.170
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@178.17.57.112:443?type=grpc&security=reality&sni=www.bing.com&pbk=Duxwa0WD9RhAy4EsGdWgo2ALlOUWGfZ2KCVLKEP_214&sid=6d1e4c8f#IQ 🇮🇶 ┇ VLESS-GRPC-RLT - MADGEN-01 ┇ 178.17.57.112
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@178.17.57.96:443?type=grpc&security=reality&sni=www.bing.com&pbk=Duxwa0WD9RhAy4EsGdWgo2ALlOUWGfZ2KCVLKEP_214&sid=1a7f3b9e2c40#IQ 🇮🇶 ┇ VLESS-GRPC-RLT - MADGEN-01 ┇ 178.17.57.96
