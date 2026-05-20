@@ -1,7 +1,7 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0@94.183.173.225:443#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.173.225
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.191.71:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.191.71
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.185.28:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.185.28
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4yNDEuMjMzIiwiYWRkIjoiOTQuMTgzLjI0MS4yMzMiLCJwb3J0Ijo0NDMsImlkIjoiYTc0OWYyNmMtNGQ4ZS00MDBjLWI3NjYtYzRiMmYxOWQ1OTVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://b21f0f4c-fd59-4342-a1eb-c7bf487642ed@yakhbandan.info:6402?type=ws&security=none&path=/conn.php#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.241.202
+vless://5611dcf4-cdae-4ad1-b2b2-777b3c4eb056@thany.tech:443?type=ws&security=tls&path=/&sni=cloudinohost.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.169.43
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.163.240
 vless://562f7466-3e8d-440a-b5f3-1856d98990a3@94.183.157.174:12196?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.157.174
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.171.3
@@ -15,5 +15,4 @@ vless://c6b02d5f-d685-4125-a813-a9f4d64a2fcb@jd2.deakhemashtiiirann.online:8091?
 vless://c6b02d5f-d685-4125-a813-a9f4d64a2fcb@newerf1.lagbatirannn.online:4030?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.94.239
 vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@94.183.167.22:2027?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.167.22
 vless://ea6d8aae-4ccb-4f9a-afdc-1abf53860930@94.183.149.237:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.237
-vless://f7559b56-fe33-41d0-b54e-8ebdfb491dbd@cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.169.43
 vless://b01631fa-502b-497f-b8ed-2fda669667ad@wp14.virgool.best:55014?type=tcp&security=reality&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.153.84
