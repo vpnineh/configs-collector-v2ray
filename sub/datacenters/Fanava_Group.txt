@@ -1,7 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSUhGRVhyc2V1eDhlSHRReVFnanRBTUZWREVTaU5iRm81UGRGZWd6WHE1TjFqU3Y@95.38.161.201:2086#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Fanava Group ┇ 95.38.161.201
-vless://1e42fc46-0155-496f-9633-59973ed5b81d@95.38.60.120:443?type=ws&security=tls&path=/3555&sni=payment.behtarinoo.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 95.38.60.120
-vless://3195de03-30b0-4a91-8b79-be6fb5de42b5@95.38.179.163:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.179.163
+vless://1a6c5fc3-cc05-464e-98b7-7458e611c6c3@95.38.60.120:443?type=ws&security=tls&path=/5456&sni=payment.behtarinoo.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 95.38.60.120
 vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?type=httpupgrade&security=none&path=/Tel:@Gap_Ip#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Fanava Group ┇ 95.38.164.158
 vless://68a17c07-4100-4799-8c23-a013f21989e2@95.38.186.106:6782?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.186.106
-vless://a1889a03-7acc-46fe-8cfb-3ce60ad2acb6@wazir.kingotiran.site:41355?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.161.78
-vless://c538d021-8d02-4e67-a6fc-1782d28a1f03@95.38.162.24:2083?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Fanava Group ┇ 95.38.162.24
+vless://75b11ec9-2b59-4512-85c4-54277e61235d@95.38.163.105:2096?type=ws&security=tls&path=/graphql&sni=api.mini-atlas.space&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 95.38.163.105

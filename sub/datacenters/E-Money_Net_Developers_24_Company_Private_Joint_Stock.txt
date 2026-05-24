@@ -1,2 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRS1Nb25leSBOZXQgRGV2ZWxvcGVycyAyNCBDb21wYW55IFByaXZhdGUgSm9pbnQgU3RvY2sgXHUyNTA3IDE4NS4yNC4yNTUuMjQiLCJhZGQiOiIxODUuMjQuMjU1LjI0IiwicG9ydCI6ODAsImlkIjoiODBhYmI5MDMtMjRlMC00ZGJkLTljMmYtYTU3ZTlhMjY3NTU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MifQ
-vless://c46dbe26-fe77-4653-b894-b6c8ec65f9df@185.24.252.99:3535?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - E-Money Net Developers 24 Company Private Joint Stock ┇ 185.24.252.99
+vless://508026bc-4476-499c-949a-805f83e8729e@185.24.255.69:29212?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - E-Money Net Developers 24 Company Private Joint Stock ┇ 185.24.255.69
+vless://8eec608b-4514-4e7c-b002-452d10d6e753@5.145.113.122:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - E-Money Net Developers 24 Company Private Joint Stock ┇ 5.145.113.122
+vless://64816677-ae4d-4770-9901-6f2c02d256e4@185.24.253.107:443?type=xhttp&security=tls&sni=cdn.gapfilm.org&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - E-Money Net Developers 24 Company Private Joint Stock ┇ 185.24.253.107
