@@ -1,8 +1,6 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWZyYW5ldCBcdTI1MDcgNDYuMTAyLjEzMC4yMTkiLCJhZGQiOiJtY2kubXlhbmRyb2lkcGx1czEuaXIiLCJwb3J0Ijo4MCwiaWQiOiJjMTIxNGMyNi1mMGZjLTJmMGEtODFiMC04NGQxMGY4ZDE0ZGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcGkifQ
 vless://092e5bb7-bbe3-44da-a46d-0bea017a9c14@srv2-germany.hajimamadcloud.com.tr:1992?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.143
-vless://5b7ca106-e277-45ee-a9d1-94381f9fd7f2@79.175.149.248:59216?type=xhttp&security=none&path=/arvinam#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Afranet ┇ 79.175.149.248
-vless://705f96ea-9a3f-9d89-4ed9-c1b8b6e802da@tunn.vpsino.com:2087?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.243
-vless://8bad9f6a-c450-4175-a1d1-6fadb9d37eb0@m4.blu20.fun:414?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.45.124
 vless://d9b788fd-c565-4c77-8bf7-f7319d099429@cb.onlinenet99.xyz:41283?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.162
+vless://6c8f637f-7436-435b-a456-cb3d787fc92e@79.175.176.111:443?type=ws&security=tls&path=/&sni=svtr1.aria-network.cloud#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 79.175.176.111
+vless://705f96ea-9a3f-9d89-4ed9-c1b8b6e802da@tunn.vpsino.com:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.244
 vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.196
-vless://fbc1777d-f73c-4804-8212-70c008b8fe5a@31.14.116.74:443?type=xhttp&security=reality&path=/&sni=aparat.com&fp=chrome&pbk=PJe8eZp_kumcwDXcR7j375o1K9K906tpEGhD0-GPCz8&sid=93#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Afranet ┇ 31.14.116.74

@@ -1,5 +1,5 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.52.69:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.v6.rocks#FI 🇫🇮 ┇ VLESS-WS-TLS - H2nexus Ltd ┇ 45.144.52.69
+vless://0c9c3d36-c93c-4d1b-bdff-8038c3ed78a2@fl-7-direct.djarbnet.ru:443?type=ws&security=tls&path=/getupdates&sni=fl-7-direct.djarbnet.ru&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - H2nexus Ltd ┇ 45.144.52.27
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50
-vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.156:8104?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.156
 vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.37:8104?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.37
-vless://696915f2-5ad4-452b-987c-d83d29d0503a@85.192.49.174:443?type=grpc&security=reality&sni=fi.moktana.app&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=dfe3b09582689d40#FI 🇫🇮 ┇ VLESS-GRPC-RLT - H2nexus Ltd ┇ 85.192.49.174
+vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.156:8104?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.156

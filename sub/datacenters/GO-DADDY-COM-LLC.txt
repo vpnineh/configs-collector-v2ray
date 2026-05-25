@@ -1,9 +1,7 @@
 trojan://8r%3C%5B9%27l6hAO%238ZQi@198.71.188.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 198.71.188.253
-trojan://8r%3C%5B9%27l6hAO%238ZQi@50.62.173.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 50.62.173.253
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.238.69.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 104.238.69.253
-trojan://8r%3C%5B9%27l6hAO%238ZQi@72.167.230.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 72.167.230.253
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.40.144.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 45.40.144.253
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.238.70.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - GO-DADDY-COM-LLC ┇ 104.238.70.253
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHTy1EQUREWS1DT00tTExDIFx1MjUwNyAxNjAuMTUzLjEuMTAwIiwiYWRkIjoiMTYwLjE1My4xLjEwMCIsInBvcnQiOjQ0MywiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.139:443?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 45.40.154.139
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.69.138:2096?type=ws&security=tls&sni=sni.111000.indevs.in#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 104.238.69.138
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.121:443?type=ws&security=tls&sni=sni.111000.indevs.in#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 160.153.1.121
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.211:443?type=ws&security=tls&sni=sni.111000.v6.navy#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 160.153.1.211
@@ -31,6 +29,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.191:2096?type=ws&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.150.238:2096?type=ws&security=tls&sni=sni.jpmj.dev#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 45.40.150.238
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.150.191:2096?type=ws&security=tls&sni=sni.my111000.tech#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 45.40.150.191
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.151.191:2096?type=ws&security=tls&sni=sni.my111000.tech#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 45.40.151.191
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.139:443?type=ws&security=tls&sni=sni.111000.dynv6.net#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 45.40.154.139
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.191:2096?type=ws&security=tls&sni=sni.my111000.tech#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 45.40.154.191
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.238:2096?type=ws&security=tls&sni=sni.jpmj.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 45.40.146.238
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.155.106:443?type=ws&security=tls&sni=sni.111000.dynv6.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GO-DADDY-COM-LLC ┇ 45.40.155.106
