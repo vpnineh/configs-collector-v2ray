@@ -1,6 +1,6 @@
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@185.175.47.238:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.175.47.238
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.156.138
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.124.196
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 212.41.11.152
-vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 94.26.228.10
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.156.138
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 80.249.131.7
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 212.41.11.152
+vless://6c36723b-75a3-4816-9c19-1ccd3fde83fe@5.188.115.153:443?type=grpc&security=reality&sni=ads.x5.ru&fp=chrome&pbk=FDrNbkUYPJS7uzUhgVsNuT8-TqXNeDm7bc24NgTM5GY&sid=846229eb47b3a5c9#RU 🇷🇺 ┇ VLESS-GRPC-RLT - JSC Selectel ┇ 5.188.115.153
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 94.26.228.10

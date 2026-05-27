@@ -1,1 +1,2 @@
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.206:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#DE 🇩🇪 ┇ VLESS-TCP-RLT - SYNLINQ ┇ 89.106.95.206
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?type=xhttp&security=tls&path=/kavir&sni=dey.lnmarketplace.net&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - SYNLINQ ┇ 89.144.30.104
+vless://5bbe7ae0-ee15-4ce3-9868-d177d5aa9933@103.252.88.167:52706?type=ws&security=tls&path=/&sni=mi.dr-infoo.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 103.252.88.167
