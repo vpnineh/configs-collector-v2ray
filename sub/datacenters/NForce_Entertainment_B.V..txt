@@ -1,4 +1,4 @@
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - NForce Entertainment B.V. ┇ 109.201.152.181
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgMTQxLjExLjE4Ny4zMCIsImFkZCI6IjE0MS4xMS4xODcuMzAiLCJwb3J0Ijo0NTgzNywiaWQiOiI3MTE2YzgxMy1mNjM1LTQ5ZmYtOGQyZi1kZTIyMDA4MDRmZmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjE0MS4xMS4xODcuMzAiLCJwYXRoIjoiLyIsInNuaSI6IjE0MS4xMS4xODcuMzAifQ
-vless://d6407d54-5043-4dfd-893a-fdfda97d969d@141.11.187.177:58692?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 141.11.187.177
-vless://a3c73019-2bb1-4963-b44a-4ded10e5259f@xz1.xspoofer.shop:8443?type=tcp&security=tls&sni=xz1.xspoofer.shop#NL 🇳🇱 ┇ VLESS-TCP-TLS - NForce Entertainment B.V. ┇ 141.11.187.219
+vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?type=ws&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-FALSE - NForce Entertainment B.V. ┇ 141.11.45.214
+vless://485615fc-3007-49fa-a56a-f6b34cc82da4@xz1.xspoofer.shop:8443?type=tcp&security=tls&sni=xz1.xspoofer.shop#NL 🇳🇱 ┇ VLESS-TCP-TLS - NForce Entertainment B.V. ┇ 141.11.187.219

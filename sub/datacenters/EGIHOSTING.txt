@@ -1,1 +1,2 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@142.252.220.13:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - EGIHOSTING ┇ 142.252.220.13
+vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 45.39.241.51
+vless://cf5de790-0e9f-4b2f-99bd-e599cb872c84@gamecenter.001-lab.space:8443?type=xhttp&security=reality&path=/&sni=www.oracle.com&fp=chrome&pbk=6yG2lq4uD9vNYMVmCeYMMPinp6784zUxacnKgH_v51I&sid=0be15dcae196#US 🇺🇸 ┇ VLESS-XHTTP-RLT - EGIHOSTING ┇ 104.252.89.31

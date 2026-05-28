@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?type=tcp&security=none&path=/?Telegram🇨🇳@WangCai2=#NZ 🇳🇿 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 114.129.43.238
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?type=ws&security=tls&sni=sni.jpmj.dev#NZ 🇳🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 114.129.43.238
+vless://ec1a975c-729f-4878-a7ee-2dbe006ae2a8@com6.hozheen.com:2096?type=ws&security=tls&path=/ws?ed=2560&sni=7dc9951e53a35a08.hozheen.ir#NZ 🇳🇿 ┇ VLESS-WS-TLS - Korea ┇ 103.68.110.74

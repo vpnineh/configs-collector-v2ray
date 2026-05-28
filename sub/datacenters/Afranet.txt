@@ -1,4 +1,2 @@
-vless://d226c04c-8391-00e4-4234-fc46d4416d15@79.175.134.212:40443?type=ws&security=tls&path=/true&sni=alabama-tigr.info&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 79.175.134.212
-vless://d9b788fd-c565-4c77-8bf7-f7319d099429@cb.onlinenet99.xyz:41283?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.162
 vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.196
-vless://2a4f165b-22f4-4acf-aabe-bf0d70114fdf@31.47.42.138:24694?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.42.138
+vless://5f178c42-5e2d-4e0d-b293-88ac74c19be6@forum.asarptk.com:443?type=tcp&security=tls&sni=forum.asarptk.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 79.175.176.122

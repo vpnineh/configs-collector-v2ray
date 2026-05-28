@@ -1,6 +1,9 @@
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@82.97.243.225:443?type=tcp&security=reality&sni=spb.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb#AU 🇦🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 82.97.243.225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNalU5eUdjdWRxUWxWSDF5M0tpQThm@90.156.228.141:46717#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 90.156.228.141
+trojan://vpn@45.82.14.144:2025?security=none#RU 🇷🇺 ┇ TROJAN-TCP-NTLS - Jsc timeweb ┇ 45.82.14.144
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@95.140.154.101:2053?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=babayaga-6i7.pages.dev#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 95.140.154.101
-vless://b315e508-a94f-44ab-867d-6308c40b5cdb@83.217.220.27:50571?type=tcp&security=reality&sni=api-maps.yandex.ru&flow=xtls-rprx-vision&pbk=mJ6nt7J46JkHJ71xiH4nXg1ZXKJZ0_OtU9iYeW6FgT0&sid=406a7918ce81c945#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 83.217.220.27
+vless://48608391-3169-445d-a143-f4613b2725d8@46.19.66.184:443?type=tcp&security=reality&sni=runr.save-node.com&fp=qq&flow=xtls-rprx-vision&pbk=id9-GS-Gv5xR6BEzdXKFieMcpfy6dTOgokEzNQOoBjo&sid=c31f9a0e7d4b52#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 46.19.66.184
+vless://48608391-3169-445d-a143-f4613b2725d8@ru.save-node.com:443?type=tcp&security=reality&sni=ru.save-node.com&fp=qq&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=5d8e1a9c4f72b3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 92.53.120.199
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 109.73.206.90
+vless://3c40e1d2-80d1-4fe2-82e6-064e38bdf7e5@85.193.91.14:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=cVCzyZ7hxqDXuv6uf4VDOmI2IOUdVVjoLGiclNiwuRc&sid=af0e#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 85.193.91.14
 vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@46.149.66.90:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc#SG 🇸🇬 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 46.149.66.90

@@ -1,44 +1,44 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 217.60.249.112
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.93.4:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 31.57.93.4
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.196.56:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 31.56.196.56
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.92.205:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 31.57.92.205
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.146.122:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 31.56.146.122
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.196.25:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 31.56.196.25
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.93.4:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 31.57.93.4
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.233:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS ┇ 31.56.205.233
-vless://af048307-527c-4178-8d56-271ac082870b@31.56.205.56:32480?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 31.56.205.56
-vless://02ca6335-4c91-412c-956f-f7f9e5630b6c@151.247.219.166:8443?type=raw&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=g3m27BDO4X4sUsRkm5PcrqNxEH1stxgrrCAuUdFKHHo&sid=e0251211bd#AE 🇦🇪 ┇ VLESS-RAW-RLT ┇ 151.247.219.166
+vless://cbb94bf1-02cc-46ba-bc01-061b5f38e0ac@31.56.205.56:13612?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS ┇ 31.56.205.56
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@192.144.19.55:8443?type=tcp&security=none&path=/?ed=#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 192.144.19.55
+vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 193.58.119.134
+vless://2adae697-6ae9-418b-add5-d515a6b4316c@vsl.kiaertebatatenovin.ir:2021?type=xhttp&security=reality&path=/&sni=www.aparat.com&fp=chrome&pbk=4l4-oHmaKgUrC32gqmFUw0EjRsGx1cNwlOFMhLQIHAg&sid=70#AE 🇦🇪 ┇ VLESS-XHTTP-RLT ┇ 217.60.255.149
+vless://2adae697-6ae9-418b-add5-d515a6b4316c@m2.rehan-wbdad.ir:2021?type=xhttp&security=reality&path=/&sni=aparat.com&fp=chrome&pbk=4l4-oHmaKgUrC32gqmFUw0EjRsGx1cNwlOFMhLQIHAg&sid=70#AE 🇦🇪 ┇ VLESS-XHTTP-RLT ┇ 217.60.255.154
+vless://22768339-9096-48aa-9109-ff28141145b9@roz2r.skystreamgame.com:8443?type=tcp&security=reality&sni=roz2r.skystreamgame.com&fp=chrome&flow=xtls-rprx-vision&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#AE 🇦🇪 ┇ VLESS-TCP-RLT - BAXET-GROUP ┇ 45.88.12.60
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.0.182:990#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.0.182
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.62.145:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.57.62.145
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.41.182:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.59.41.182
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.98
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.110:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.110
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.170.59:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.59.170.59
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.222.222:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.56.222.222
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.227.49:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.56.227.49
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.41.182:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.59.41.182
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.36:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.36
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.110:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.110
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.98
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.170.59:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.59.170.59
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.62.145:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.57.62.145
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@181.214.1.231:443?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=babayaga-6i7.pages.dev#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 181.214.1.231
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?type=ws&security=tls&path=/&sni=aza002.vaslbash.site#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.74
+vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi1.ketakhan.sbs:8443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.0
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@181.214.1.238:2096?type=ws&security=tls&path=/&sni=sni.jpmj.dev#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 181.214.1.238
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.226.196:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Hivelocity LLC ┇ 31.58.226.196
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@181.214.1.231:443?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=babayaga-6i7.pages.dev#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 181.214.1.231
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@185.225.195.72:443?type=ws&security=tls&path=/api/v1/stream&sni=sync.amordad.xyz#AE 🇦🇪 ┇ VLESS-WS-TLS - Emirates National Oil Co. Ltd. (ENOC) LLC ┇ 185.225.195.72
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGtleSBCLnYuIFx1MjUwNyAzMS41OC44Ny45OSIsImFkZCI6IjMxLjU4Ljg3Ljk5IiwicG9ydCI6MzY5ODksImlkIjoiZDkwYmVmMTUtMTQwMy00ZTc5LTkyY2MtOTBmNmNjNjk3NjAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://3275a667-4a67-4d43-b0ba-54da2d1145dd@us.gryaz-vpn.com:19131?type=raw&security=reality&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=yxRy8t-W5pCOglMeGNTeen8vQPK1SG0sM49vL6GLpjo&sid=0a8a84dcb5#AE 🇦🇪 ┇ VLESS-RAW-RLT - Hostkey B.v. ┇ 31.59.138.36
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:802#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
 vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.144
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE0yNDcgRXVyb3BlIFNSTCBcdTI1MDcgODkuMzEuMTIwLjE5MiIsImFkZCI6Ijg5LjMxLjEyMC4xOTIiLCJwb3J0Ijo0NDMsImlkIjoiNDQ1Mzc1OTUtOWNjYy00YjgzLTg5MzYtNWY5YWQzMjI5MDE5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.11.15:443?type=ws&security=tls&path=/proxyip=ProxyIP.DE.owg.dpdns.org&sni=3-7v4.pages.dev&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - M247 Europe SRL ┇ 38.180.11.15
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?type=tcp&security=reality&sni=ae.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#AE 🇦🇪 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 176.97.78.29
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?type=tcp&security=reality&sni=ae.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#AE 🇦🇪 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 176.97.78.3
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.26.194:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.26.194
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.242:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.105.242
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.27.73:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.27.73
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.109.126:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.109.126
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.27.233:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.27.233
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.108.242:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.108.242
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.39:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.105.39
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.76.27:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.58.76.27
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.78.246:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.58.78.246
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.76.50:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.58.76.50
 vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&sid=e164b85aec8a7422#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 91.132.51.160
+vless://874efcea-d7b6-41fd-8ce8-c07e3fd8ff67@45.137.153.32:17150?type=tcp&security=reality&sni=www.ya.ru&fp=firefox&pbk=ZUdwtucb8z3bwumEukh2eUMzei_kjjbs8iKNq2bzuww&sid=9dd0b33c#AE 🇦🇪 ┇ VLESS-TCP-RLT - Sbcloud LLC ┇ 45.137.153.32
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&sni=cdn.tracker.yandex.net&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
