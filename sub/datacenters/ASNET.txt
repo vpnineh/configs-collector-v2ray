@@ -1,6 +1,7 @@
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.58.46.132:443?type=ws&security=tls&path=/danfeng&sni=snippet.sheilabelinda.ndjp.net&fp=random#CZ 🇨🇿 ┇ VLESS-WS-TLS - ASNET ┇ 194.58.46.132
-ss://YWVzLTI1Ni1nY206VkRzTDRmcFppakQ0@103.136.150.202:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 103.136.150.202
-trojan://8r%3C%5B9%27l6hAO%238ZQi@212.192.15.182:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - ASNET ┇ 212.192.15.182
+ss://YWVzLTI1Ni1nY206ME9PNnREN2FDVnNT@103.115.18.142:8388#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 103.115.18.142
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.64.142.210:8443?type=ws&security=tls&sni=sni.111000.dns.army#LV 🇱🇻 ┇ VLESS-WS-TLS - ASNET ┇ 188.64.142.210
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.49.246:2053?type=ws&security=tls&sni=sni.111000.dns.army#NL 🇳🇱 ┇ VLESS-WS-TLS - ASNET ┇ 193.124.49.246
+vless://@Vaslbashi@pipi.runawaygablo.site:46104?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - ASNET ┇ 212.192.6.72
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.39.215:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#TR 🇹🇷 ┇ VLESS-TCP-RLT - ASNET ┇ 194.87.39.215
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBU05FVCBcdTI1MDcgOTEuMTQ5LjIzOS4xNjUiLCJhZGQiOiJjZzFjMTQud2FpbWFvamQuY29tIiwicG9ydCI6NDQzLCJpZCI6ImJlOGUzMTM2LWI4NzQtNDA4NS1iZDIzLWVjMzY5OTMwMDQ5MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwidGxzIjoidGxzIn0

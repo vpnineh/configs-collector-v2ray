@@ -1,9 +1,9 @@
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyAxOTguNjIuNjIuMTk5IiwiYWRkIjoiMTk4LjYyLjYyLjE5OSIsInBvcnQiOjQ0MywiaWQiOiJmMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoib3VzMy5kZWFuNTIudG9wIiwicGF0aCI6Ii9mMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvdXMzLmRlYW41Mi50b3AifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyA2OS44NC4xODIuMTYiLCJhZGQiOiI2OS44NC4xODIuMTYiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.21:443?type=ws&security=tls&path=/93.115.10.218=2053&sni=afrcloud4.c01.kr#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.21
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@198.62.62.22:443?type=ws&security=tls&path=/188.240.213.40:443&sni=afrcloud5.c01.kr#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.22
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?type=ws&security=tls&path=/&sni=jp.aniua.qzz.io#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.49
+vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20
+vless://55b0463c-e27f-455b-a25a-70123297b9f4@69.84.182.152:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.152
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@198.62.62.21:443?type=ws&security=tls&path=/188.240.213.98:2053&sni=afrcloud5.c01.kr#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.21
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.62:443?type=ws&security=tls&path=/2.56.204.183:443&sni=afrcloud2.c01.kr#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.62
-vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.152:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.152
-vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20
-vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - HMS-ASN ┇ 69.84.182.49
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@198.62.62.22:443?type=ws&security=tls&path=/188.240.213.40:443&sni=afrcloud5.c01.kr#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.22
+vless://v2raydia@198.62.62.229:443?type=ws&security=tls&path=/@v2raydia&sni=wIn.CcNnx.IR&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.229

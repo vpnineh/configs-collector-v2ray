@@ -1,7 +1,9 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UGE4b1dLc0wxOWduaStLelR3WExzZXRRVDBUbUxYbml2cW8vZzFnOVdOaz06aTF0TTJ1ZVV3dmoxRVNnQ0gxOEtQWHFYejllemdBZytiVWFWdk9hYmw2UT0@95.38.190.24:3375#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Fanava Group ┇ 95.38.190.24
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UGE4b1dLc0wxOWduaStLelR3WExzZXRRVDBUbUxYbml2cW8vZzFnOVdOaz06WkNMSWp2VkltRi9lc2FCTGNPU1NEMXdJNTZjZDRuSU8wTHlGR1pxeUt5dz0@95.38.190.24:3375#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Fanava Group ┇ 95.38.190.24
 trojan://humanity@95.38.189.135:40443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Fanava Group ┇ 95.38.189.135
 trojan://humanity@95.38.180.82:40443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Fanava Group ┇ 95.38.180.82
 trojan://humanity@95.38.189.169:40443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Fanava Group ┇ 95.38.189.169
-vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?type=httpupgrade&security=none&path=/Tel:@Gap_Ip#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Fanava Group ┇ 95.38.164.158
-vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?type=xhttp&security=tls&path=/34809/cfxhtp&sni=nl-srv.z3df1lter.uk&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Fanava Group ┇ 95.38.166.85
+vless://7f708445-b4a5-4b33-8dce-e1adb2ed3b92@95.38.166.85:40443?type=xhttp&security=tls&path=/34809/cfxhtp&sni=nl-srv.z3df1lter.uk&fp=random#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Fanava Group ┇ 95.38.166.85
+vless://884137ff-040f-49e2-9719-50abc0960115@vip.subrexo.com:10888?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanava Group ┇ 95.38.233.176
+vless://a218d810-736c-4941-af36-36ab482c2144@95.38.164.158:2026?type=httpupgrade&security=none&path=/Tel:@Gap_Ip#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Fanava Group ┇ 95.38.164.158
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@95.38.180.158:40443?type=ws&security=tls&path=/168.138.171.70=23280&sni=aquilacalyx.qzz.io#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 95.38.180.158
+vless://2ff659ca-cc97-455a-a417-1ada76cc863c@95.38.188.240:2053?type=tcp&security=tls&sni=a.mojio.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Fanava Group ┇ 95.38.188.240

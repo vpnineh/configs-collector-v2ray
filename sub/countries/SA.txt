@@ -1,1 +1,2 @@
-vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@fin.o4ka-internet.com:443?type=tcp&security=reality&sni=fin.o4ka-internet.com&flow=xtls-rprx-vision&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.57.210
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@91.209.253.225:2053?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=cdn.dns.xn--q9jyb4c#SA 🇸🇦 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 91.209.253.225
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#SA 🇸🇦 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.8.155
