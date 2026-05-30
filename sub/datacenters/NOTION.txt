@@ -1,9 +1,6 @@
 trojan://humanity@208.103.161.101:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.101
-trojan://mitivpn@208.103.161.91:443?sni=www.iranpoems.ir&peer=www.iranpoems.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.91
-trojan://mitivpn@208.103.161.188:443?sni=www.iranpoems.ir&peer=www.iranpoems.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.188
+trojan://Mitivpn@208.103.161.1:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.1
 trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.110
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@208.103.161.11:443?type=ws&security=tls&path=/139.45.214.126:443&sni=afrcloud2.c01.kr#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.11
-vless://v2raydia-tel@208.103.161.33:443?type=ws&security=tls&path=/@v2raydia&sni=v2raydia.cCnNx.IR&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.33
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?type=ws&security=tls&path=/play/settings#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=pagescm.freen32.cc.cd#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.4
-vless://v2raydia-tel@208.103.161.1:443?type=ws&security=tls&path=/@v2raydia&sni=v2raydia.cCnNx.IR&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.1
-vless://e234245f-b66e-4eef-b8cb-6298500221ba@208.103.161.32:443?type=xhttp&security=tls&path=/&sni=panel-free.emergency-service.org&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.32
+trojan://Mitivpn@208.103.161.33:443?sni=www.hitgram.ir&peer=www.hitgram.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.33
+vless://310506a7-75ad-4dd9-9667-0defa413fb1b@208.103.161.170:2083?type=grpc&security=tls&sni=de-gateway.iwantfun.ir#US 🇺🇸 ┇ VLESS-GRPC-TLS - NOTION ┇ 208.103.161.170
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?type=tcp&security=none&path=/play/settings#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.4
