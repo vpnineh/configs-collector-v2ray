@@ -1,5 +1,4 @@
-trojan://trojan@152.53.45.251:8888?security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.45.251
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.202:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.200.202
+trojan://trojan@152.53.45.251:8888?security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.45.251
 vless://eb625281-8908-43a6-b8a9-a604fa03b2e6@au.save-node.com:443?type=tcp&security=reality&sni=au.save-node.com&fp=qq&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.2.151
-trojan://8r%3C%5B9%27l6hAO%238ZQi@37.120.188.105:8443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 37.120.188.105
-vless://8f29e7a3-7eb0-49f4-8d2c-938e8acb155b@89.58.40.177:443?type=xhttp&security=tls&path=/de&sni=a.edia8499.dpdns.org&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - netcup GmbH ┇ 89.58.40.177
+vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@152.53.53.168:443?type=tcp&security=reality&sni=cloudrynth.com&fp=chrome&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.53.168

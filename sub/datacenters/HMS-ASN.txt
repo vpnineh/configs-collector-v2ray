@@ -1,8 +1,5 @@
-trojan://Mitivpn@198.62.62.8:443?sni=dash.hitgram.ir&peer=dash.hitgram.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 198.62.62.8
-trojan://Mitivpn@198.62.62.251:443?sni=dash.hitgram.ir&peer=dash.hitgram.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 198.62.62.251
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyA2OS44NC4xODIuMTYiLCJhZGQiOiI2OS44NC4xODIuMTYiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?type=ws&security=tls&path=/&sni=jp.aniua.qzz.io#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.49
 vless://06c209f6-d862-4615-828a-be7cba6ebb79@69.84.182.21:443?type=ws&security=tls&path=/wss?ed=2048&sni=hope.skydriftzone.sbs&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.21
 vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.152:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.152
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@198.62.62.22:443?type=ws&security=tls&path=/188.240.213.40:443&sni=afrcloud5.c01.kr#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.22
 vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20

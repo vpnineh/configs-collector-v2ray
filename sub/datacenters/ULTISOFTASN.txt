@@ -1,2 +1,4 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - ULTISOFTASN ┇ 135.84.67.42
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.66:443?type=tcp&security=none&path=/?Telegram🇨🇳@WangCai2=#US 🇺🇸 ┇ VLESS-TCP-NTLS - ULTISOFTASN ┇ 135.84.64.66
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.74:443?type=ws&security=tls&path=/&sni=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 135.84.67.74
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=sni.111000.dynv6.net#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 135.84.64.226

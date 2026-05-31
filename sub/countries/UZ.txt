@@ -1,1 +1,1 @@
-vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@193.22.229.35:2053?type=tcp&security=none#UZ 🇺🇿 ┇ VLESS-TCP-NTLS ┇ 193.22.229.35
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@193.22.229.35:2053?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=cdn.dns.xn--q9jyb4c#UZ 🇺🇿 ┇ VLESS-XHTTP-TLS ┇ 193.22.229.35
