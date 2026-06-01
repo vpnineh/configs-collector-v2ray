@@ -1,9 +1,7 @@
 vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.194
-vless://c5765da4-772f-4ff7-b96c-551ca7185529@95.85.233.234:8443?type=tcp&security=reality&sni=fastsync.xyz&flow=xtls-rprx-vision&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.233.234
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@95.85.234.126:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&sid=25425ff6fa#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.234.126
-vless://aa3e5c7c-3193-4f6d-b74a-2a0f562630d1@95.85.249.53:443?type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&flow=xtls-rprx-vision&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.249.53
-vless://d54cc968-08e7-476d-93b0-286d37c50707@germany1.kenargozar.com:59289?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=G_IWLkPQKnsof8Wawqfjz2HB_bjAeO1P8D7bp8KYoXo&sid=dcb1#GB 🇬🇧 ┇ VLESS-TCP-RLT - IPXO ┇ 217.179.5.207
+vless://f3368578-8389-458d-9aee-08dc350c5230@mzone.pl.3cloudhost.com:443?type=tcp&security=reality&sni=mzone.pl.3cloudhost.com&flow=xtls-rprx-vision&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.253.199
+vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@95.85.228.146:8443?type=tcp&security=reality&sni=io.ozone.ru&fp=chrome&flow=xtls-rprx-vision&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.146
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTlFjaWF0UFl5d3pNX01aMDNUeE9B@213.165.37.30:2443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - IPXO ┇ 213.165.37.30
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.165.38.7:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - IPXO ┇ 213.165.38.7
-vless://758ac7b5-bebf-4996-ba38-e8bde361e212@se.epsteinisland.site:2053?type=ws&security=none&path=/#HK 🇭🇰 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.33.58
-vless://a2115eb4-d354-46fe-94e6-92f001812ee2@213.165.40.158:1310?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - IPXO ┇ 213.165.40.158
+vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&sid=0a41bdaa#JP 🇯🇵 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.42.40
 vless://f6a42cad-0c68-4823-aa44-c574ab5e3022@net.irajapan.store:56956?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=8RWhTdOlxm04ZkEjTLxpNW0-Zm-Wp8J_bymTeHKOX1I&sid=08900d#JP 🇯🇵 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.42.58

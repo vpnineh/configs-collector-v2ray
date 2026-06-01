@@ -1,13 +1,8 @@
-ss://YWVzLTI1Ni1nY206N0xRZG12aSt4UnphZFhHaFFXdXRKejZlYnRTL1grZndoNmdrKzZkNm43WT0@94.183.218.26:2325#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.218.26
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.190.229:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.190.229
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.186.206:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.186.206
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.190.229:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.190.229
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.191.228:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.191.228
-vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.98
-vless://eac4c035-e42c-4e14-9043-82f9dc717978@94.183.241.73:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.241.73
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.171.3
+vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.98
 vless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.169.29
-vless://473b4ca4-b112-4bc5-a1f5-4e845662d446@94.183.231.80:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.231.80
-vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.153.83
 vless://b01631fa-502b-497f-b8ed-2fda669667ad@wp14.virgool.best:55014?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.153.84
-vless://fc6b93ca-94c3-4843-8139-311e7edd385b@94.183.229.160:443?type=tcp&security=reality&sni=smotri.sream-video.shop&flow=xtls-rprx-vision&pbk=1XWgVEjr256I1zbv93m4ziehF2uv0-JQgE4YHlb_7nw&sid=a1b2c3d4e5f6#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.229.160
-vless://d430e22c-99f6-4256-b5fa-061ebf28f42d@serv35.strettenvpn.com:443?type=tcp&security=reality&sni=sun6-21.userapi.com&flow=xtls-rprx-vision&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.170.215
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.153.83

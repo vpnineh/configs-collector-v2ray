@@ -1,5 +1,6 @@
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.5:2003#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.26.5
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@175.192.103.88:18080?sni=vpn.rnmcnm.com&peer=vpn.rnmcnm.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 175.192.103.88
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@121.191.33.84:30303?sni=vpn.rnmcnm.com&peer=vpn.rnmcnm.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.191.33.84
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@121.154.96.50:18000?sni=vpn.rnmcnm.com&peer=vpn.rnmcnm.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.154.96.50
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?sni=vpn1.rnmcnm.com&peer=vpn1.rnmcnm.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 121.178.83.161
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@59.21.203.65:10443?sni=vpn1.rnmcnm.com&peer=vpn1.rnmcnm.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.21.203.65
 trojan://433e785b-2077-47f7-a43d-985f63dd18d1@59.30.42.194:12345?sni=vpn.rnmcnm.com&peer=vpn.rnmcnm.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.30.42.194

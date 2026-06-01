@@ -1,2 +1,6 @@
 vless://c31000d2-0c0d-4e26-ac26-d168530ffe54@95.182.82.78:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.82.78
+vless://d02f9d1f-7e41-4e0b-8d11-439e0f719e74@95.182.85.120:80?type=xhttp&security=none&path=/MySecurePath123456789#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - First Digital TV Ltd ┇ 95.182.85.120
+vless://c52a3999-013b-45cd-abc6-6e2d40b7895b@95.182.85.175:2053?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.85.175
+vless://2288128b-99be-4167-88d4-fa1e5bdccfec@95.182.86.120:8080?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=BdYsTfKPz6mKH6gWajeT4V4YmqJqkDmzbH05JqpFfQY&sid=e14316cb#RU 🇷🇺 ┇ VLESS-TCP-RLT - First Digital TV Ltd ┇ 95.182.86.120
+vless://6f122bf8-65b5-43c5-a0be-5719cd842ff3@vip.starservices.lol:3082?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=QKTZSC0lg00iBLqnvSSmU8m5KaoOIcIsbMQtWwfTvkE&sid=b0725c69#RU 🇷🇺 ┇ VLESS-TCP-RLT - First Digital TV Ltd ┇ 95.182.85.84
 vless://c1e32c6c-9a14-4edf-95c7-b1236a55aa07@95.182.80.130:16146?type=grpc&security=reality&sni=www.samsung.com&fp=chrome&pbk=lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug&sid=e7eac240#RU 🇷🇺 ┇ VLESS-GRPC-RLT - First Digital TV Ltd ┇ 95.182.80.130

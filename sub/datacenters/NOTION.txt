@@ -1,5 +1,7 @@
 trojan://mitivpn@208.103.161.33:443?sni=ir-sub.ir&peer=ir-sub.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.33
+trojan://Mitivpn@208.103.161.1:443?sni=dash.hitgram.ir&peer=dash.hitgram.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.1
 trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.110
-vless://c728ee60-1dd9-49a8-a8df-f483b17018db@208.103.161.1:2096?type=ws&security=tls&path=/&sni=azol2.arvanabr.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.1
-vless://e234245f-b66e-4eef-b8cb-6298500221ba@208.103.161.32:443?type=xhttp&security=tls&path=/&sni=panel-free.emergency-service.org&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.32
+trojan://mitivpn@208.103.161.175:443?sni=cdn.iranpoems.ir&peer=cdn.iranpoems.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.175
+trojan://mitivpn@208.103.161.39:443?sni=cdn.iranpoems.ir&peer=cdn.iranpoems.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.39
 vless://Telegram-Parsashonam-2@208.103.161.101:443?type=xhttp&security=tls&path=/p4r34m&sni=p4r34m.hendevaneh.sbs&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.101
+vless://50659366-ce84-451b-8fab-9d694cd2700a@208.103.161.188:2096?type=ws&security=tls&path=/&sni=bozo.x-upload.org#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.188
