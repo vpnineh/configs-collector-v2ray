@@ -1,2 +1,1 @@
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.95.155
-vless://c5fe764a-92f9-4928-91c3-fea8a1dcc8ad@static.oneset.ir:3083?type=xhttp&security=reality&path=/api/v2/content&sni=yahoo.com&fp=chrome&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - Big Core LLC ┇ 185.226.95.238
+vless://fedbed70-4dcc-4780-badc-addca59b1736@tr3.mynethub99.top:2096?type=tcp&security=tls&sni=tr3.mynethub99.top&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - Big Core LLC ┇ 185.226.95.155

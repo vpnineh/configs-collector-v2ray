@@ -1,16 +1,14 @@
 trojan://ESYEIBhqTR@138.124.182.202:39141?sni=www.sony.com&peer=www.sony.com&security=reality#LV 🇱🇻 ┇ TROJAN-TCP-REALITY - Baykov Ilya Sergeevich ┇ 138.124.182.202
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@195.20.208.72:443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ndjp.net&fp=random#LV 🇱🇻 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 195.20.208.72
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@185.135.86.173:9037#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.86
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@185.135.86.173:9030#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.173
-vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 176.120.67.77
 vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 176.120.67.95
+vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 176.120.67.77
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.128.32.98:443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#LV 🇱🇻 ┇ VLESS-WS-TLS - RETN Limited ┇ 31.128.32.98
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 91.218.143.194
-vless://5b96be74-656d-4bb7-85c2-d2d8a3b7c2f3@90.156.254.164:19562?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=T66pm2f_PN4Hya_A_5K0X1HQb717SUCODyoUO7Gk3Ws&sid=9e#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 90.156.254.164
-vless://f2e9df1b-e0ba-4b37-a301-6aab8662c926@77.73.238.191:16622?type=tcp&security=reality&sni=yahoo.com&pbk=E5N_ckakvqgTOjiQ6Rmuwz1fchiT1-J3tH4cbzcH_GQ&sid=1c01d60ea915#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 77.73.238.191
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 37.233.82.140
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&sid=8c09fb78b12f#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 83.222.20.64
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA RixHost ┇ 46.183.217.204
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g6.steptofsvo.com:443?type=tcp&security=reality&sni=g6.steptofsvo.com&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.242.105.128
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g9.steptofsvo.com:443?type=tcp&security=reality&sni=g9.steptofsvo.com&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.242.105.138
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 91.218.143.194
+vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@195.135.253.240:8080?type=ws&security=none&path=/api/v3#LV 🇱🇻 ┇ VLESS-WS-NTLS - SIA VEESP ┇ 195.135.253.240
+vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@5.34.214.11:8080?type=ws&security=none&path=/api/v3#LV 🇱🇻 ┇ VLESS-WS-NTLS - SIA VEESP ┇ 5.34.214.11
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g1.steptofreedom.one:443?type=tcp&security=reality&sni=g1.steptofreedom.one&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.242.105.80
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g9.steptofsvo.com:443?type=tcp&security=reality&sni=g9.steptofsvo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.145.245.248
+vless://c359d107-c1b1-4b71-811d-5040b898f2a7@fvpn.me:443?type=ws&security=tls&path=/ws&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Sabiedriba ar ierobezotu atbildibu DELSKA Latvia ┇ 37.203.35.59

@@ -1,4 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWUF0ODVTRkdWNTY@185.77.217.217:443#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 185.77.217.217
 vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 193.233.23.121
-vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 193.233.23.196
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?type=tcp&security=none@kurdconfig#FI 🇫🇮 ┇ VLESS-TCP-NONE@KURDCONFIG - Oy Crea Nova Hosting Solution Ltd ┇ 193.233.23.196
 vless://731d5e57-4511-4abe-ab01-ec66eb52d6e9@81.29.156.195:443?type=tcp&security=reality&sni=www.microsoft.com&flow=xtls-rprx-vision&pbk=hikHYegxR1O_sGzFctGkQQEz5G8CZrdXxHSidEqSCh0&sid=a8cb02a2dffa#IT 🇮🇹 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 81.29.156.195
