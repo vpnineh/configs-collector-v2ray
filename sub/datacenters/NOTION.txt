@@ -1,10 +1,5 @@
-trojan://mitivpn@208.103.161.33:443?sni=ir-sub.ir&peer=ir-sub.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.33
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?sni=edu.ruangguru.com.cyylr.eu.cc&peer=edu.ruangguru.com.cyylr.eu.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.170
 trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.110
-vless://69faf88a-d9a5-4abc-9aeb-4caf9155061a@208.103.161.1:2096?type=ws&security=tls&path=/&sni=bozoAzYeralTi.x-upload.org#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.1
-vless://Telegram-Parsashonam-2@208.103.161.101:443?type=xhttp&security=tls&path=/p4r34m&sni=p4r34m.hendevaneh.sbs&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.101
-vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.159:443?type=xhttp&security=tls&path=/&sni=pump.lezzatcore.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.159
-vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.222:443?type=xhttp&security=tls&path=/&sni=pump.lezzatcore.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.222
-vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.23:443?type=xhttp&security=tls&path=/&sni=pump.lezzatcore.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.23
-vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.24:443?type=xhttp&security=tls&path=/&sni=pump.lezzatcore.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.24
-vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.88:443?type=xhttp&security=tls&path=/&sni=pump.lezzatcore.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.88
+trojan://mitivpn@208.103.161.33:443?sni=ir-sub.ir&peer=ir-sub.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.33
+vless://c3e3d86e-2a8c-4dcb-88fd-44b580790138@208.103.161.77:443?type=ws&security=tls&path=/cdn&sni=mz.rzng.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.77
+vless://ecd35e0a-941f-46a5-b76a-73551ba10925@208.103.161.101:2086?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - NOTION ┇ 208.103.161.101

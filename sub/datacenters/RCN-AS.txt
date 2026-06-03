@@ -1,2 +1,2 @@
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?sni=gh.01.naiun.bilibili.com&peer=gh.01.naiun.bilibili.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RCN-AS ┇ 155.117.198.82
-vless://2896b35d-1de4-4458-a5ff-340a7bc2ebbe@185.23.19.93:2053?type=tcp&security=reality&sni=www.gitlab.com&flow=xtls-rprx-vision&pbk=klqenfvPoePfiVDDeWb7GwcIB25cWF1bjuNVjVDc8BA&sid=17e9a4f3#US 🇺🇸 ┇ VLESS-TCP-RLT - RCN-AS ┇ 185.23.19.93
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:45619?sni=fr.01.naiun.bilibili.com&peer=fr.01.naiun.bilibili.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RCN-AS ┇ 155.117.198.83
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com&peer=az.01.naiun.bilibili.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RCN-AS ┇ 155.117.198.82

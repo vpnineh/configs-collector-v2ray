@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.34:443?type=tcp&security=none&path=/?Telegram🇨🇳+@WangCai2=#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.73.34
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:8443?type=tcp&security=none&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.74.190
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net#US 🇺🇸 ┇ VLESS-WS-TLS - USG-PROD-WEST01 ┇ 135.84.74.190

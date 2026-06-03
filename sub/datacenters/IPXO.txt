@@ -1,6 +1,5 @@
 vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.194
-vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?type=tcp&security=reality&sni=est.hatvpn.org&flow=xtls-rprx-vision&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&sid=5a7216aec1371894#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.212
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTlFjaWF0UFl5d3pNX01aMDNUeE9B@213.165.37.30:2443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - IPXO ┇ 213.165.37.30
+vless://3ae2fe58-7650-47f7-8759-772a9b8616e9@srv1.21ayar.ir:11000?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#GB 🇬🇧 ┇ VLESS-TCP-RLT - IPXO ┇ 217.179.221.18
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.165.38.7:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - IPXO ┇ 213.165.38.7
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&sid=0a41bdaa#JP 🇯🇵 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.42.40
 vless://24a0e9ff-04bf-4373-a06b-ef19745529b2@213.165.44.170:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=xj_l82KiPNHIb2Hp9Xuyt2AxGGHa-3ljQwlS1HJCJmY&sid=4d#JP 🇯🇵 ┇ VLESS-XHTTP-RLT - IPXO ┇ 213.165.44.170
