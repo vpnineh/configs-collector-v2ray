@@ -1,7 +1,5 @@
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.234
-vless://d9aff7cc-4e0f-4cd6-bb30-40f083974874@birch.gouher.one:443?type=xhttp&security=reality&path=/&sni=birch.gouher.one&fp=chrome&pbk=y_1jLoCup4gdKlQHsw6rj0FiPX0Mt6cyg2w1bIR9ris&sid=28e92c6d545c9c26#EE 🇪🇪 ┇ VLESS-XHTTP-RLT ┇ 178.130.46.91
-vless://d9aff7cc-4e0f-4cd6-bb30-40f083974874@ember.quietgarden.live:443?type=grpc&security=reality&sni=ember.quietgarden.live&fp=chrome&pbk=fzbtjP1MtR9JYN-pKDJQTWB9I-V_EPEgdteL76Ed5yA&sid=fd488ee90cc0b9eb#EE 🇪🇪 ┇ VLESS-GRPC-RLT ┇ 178.130.46.50
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXN0cmVjIERhdGEgT1UgXHUyNTA3IDE3Ni4xMTIuMTQ2LjE5MCIsImFkZCI6IjE3Ni4xMTIuMTQ2LjE5MCIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 trojan://8r%3C%5B9%27l6hAO%238ZQi@141.105.143.132:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Notbad Hosting Ltd ┇ 141.105.143.132

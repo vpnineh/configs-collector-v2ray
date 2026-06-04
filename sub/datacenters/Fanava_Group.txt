@@ -1,3 +1,5 @@
-vless://931e8012-bf23-4c0d-9732-829ee23f6cac@95.38.234.52:35439?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.234.52
-vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?type=httpupgrade&security=none&path=/Tel:@Gap_Ip#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Fanava Group ┇ 95.38.164.158
+ss://YWVzLTI1Ni1nY206TVRrMFpEZGhabVl5WkRWaVlqQTNOemd3T1RBNU1HTTJOMlV6TXpaaw@95.38.186.24:10110#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Fanava Group ┇ 95.38.186.24
+vless://e8b28c67-c240-4d06-b0e4-a692f7514194@95.38.188.68:12335?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.188.68
+vless://a5a05c8f-f06f-4d8a-9894-d4fbd106e3b0@moitx.novincalaxy.lol:8034?type=tcp&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Fanava Group ┇ 95.38.235.198
+vless://a218d810-736c-4941-af36-36ab482c2144@95.38.164.158:2026?type=httpupgrade&security=none&path=/Tel:@Gap_Ip#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Fanava Group ┇ 95.38.164.158
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.176.19
