@@ -1,5 +1,5 @@
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?sni=edu.ruangguru.com.cyylr.eu.cc&peer=edu.ruangguru.com.cyylr.eu.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.170
 trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.110
-trojan://Mitivpn@208.103.161.33:443?sni=www.hitgram.ir&peer=www.hitgram.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.33
 vless://258dc62e-e7fe-4993-9b73-3203b47998ea@208.103.161.1:2096?type=ws&security=tls&path=/&sni=bozoAzYeralTi.x-upload.org#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.1
 vless://Telegram-Parsashonam-2@208.103.161.101:443?type=xhttp&security=tls&path=/p4r34m&sni=p4r34m.hendevaneh.sbs&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.101
+vless://5e5608a2-9893-4eaa-b90a-e202bacef5b6@208.103.161.33:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.33

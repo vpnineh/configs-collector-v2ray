@@ -1,2 +1,2 @@
-vless://26394e0a-d291-414a-94e5-13e593b20d0a@185.215.234.175:443?type=ws&security=tls&path=/ed=2080&sni=cyrus.frtshop.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.175
-vless://7c8ac542-7e69-459a-9c99-25e68663b2b6@cloud.invadors.ir:8080?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.207.9
+vless://e2bb298a-3c77-4c42-a5b0-614ed0470491@185.215.234.175:443?type=ws&security=tls&path=/&sni=cyrus2.frtshop.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.175
+vless://2edd5a10-3acd-4e2d-9c42-928eb77e2936@ir.tiem.site:1230?type=tcp&security=none&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.41

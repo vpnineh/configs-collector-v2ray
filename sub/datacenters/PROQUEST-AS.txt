@@ -1,3 +1,2 @@
 trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROQUEST-AS ┇ 165.215.250.14
-vless://Telegram-Parsashonam-2@165.215.250.12:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - PROQUEST-AS ┇ 165.215.250.12
-vless://98bca91e-e8cc-4184-97e6-9cec0885da42@165.215.250.0:2087?type=xhttp&security=tls&path=/digikala.com/login/?ed=2560&sni=frws.silorano.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - PROQUEST-AS ┇ 165.215.250.0
+vless://8f16ca1e-815f-4b2f-af24-8c49c27afe3c@165.215.250.12:443?type=ws&security=tls&path=/25425/sha#US 🇺🇸 ┇ VLESS-WS-TLS - PROQUEST-AS ┇ 165.215.250.12

@@ -1,11 +1,7 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.190.229:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.190.229
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.191.228:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.191.228
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.190.229:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.190.229
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.186.206:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.186.206
-vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.98
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.191.228:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Aria Shatel PJSC ┇ 94.183.191.228
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.171.3
-vless://4497c7f4-f6ac-4608-aa26-6948586470c3@94.183.157.63:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.157.63
-vless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.169.201
-vless://14a59796-6db6-4c48-b4d5-2c7b875074c1@94.183.159.166:8443?type=tcp&security=reality&sni=vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=rFb2hsGZE0KGim0_MMIfeKMnYTjKH2llqtN4uDUaTj0&sid=4d05e319b074645b#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.159.166
+vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.98
+vless://f7559b56-fe33-41d0-b54e-8ebdfb491dbd@cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.169.201
 vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.153.85
-vless://ce21aa49-416b-4a93-9dd1-361ef93c0b6f@srv-7bb006.21freedom.net:443?type=xhttp&security=reality&path=/api/v1/f7c80c7f&sni=dl.google.com&fp=chrome&pbk=k1ON6obzDtbVNixn1gcqyyUYeV5RoW3mZWGp0ZbkC0c&sid=58961d3b8d47e342#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Aria Shatel PJSC ┇ 94.183.219.75
-vless://68788e2a-37d1-493e-94cc-0a8157438eb8@srv-5ed42b.21freedom.net:443?type=xhttp&security=reality&path=/api/v1/fcb547c5&sni=www.apple.com&fp=chrome&pbk=AwAzP1LonSu9HenmeAtgHWPvduL76FgSvsmz5TEbyUA&sid=15cefe9c1d14b12f#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Aria Shatel PJSC ┇ 94.183.219.218
