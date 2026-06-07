@@ -8,24 +8,25 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.170.59:8443?sni=Koma-YT.PAGeS.Dev&peer=K
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.41.182:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.59.41.182
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.110:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.110
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.227.49:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.56.227.49
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.36:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.36
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.98
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.62.145:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 31.57.62.145
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.36:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 188.215.31.36
-vless://7b1ede55-3331-4507-ada8-cd5ba4a2ab38@31.57.62.179:13280?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.62.179
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
-vless://Telegram-CNT-Cafe@31.56.227.217:8443?type=xhttp&security=reality&path=/cntcafe&sni=aws.amazon.com&fp=chrome&pbk=YTOMJLdO3m1Mj_v7hHx7vMTjB3lPAwKMjfUQs8LUCT8&sid=17b403064e#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - Cgi Global Limited ┇ 31.56.227.217
+vless://7b1ede55-3331-4507-ada8-cd5ba4a2ab38@31.57.62.179:13280?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.62.179
+vless://Telegram-CNT-Cafe@31.56.227.217:8443?type=xhttp&security=reality&path=/cntcafe&sni=aws.amazon.com&fp=chrome&pbk=YTOMJLdO3m1Mj_v7hHx7vMTjB3lPAwKMjfUQs8LUCT8&sid=07d905c3c6da34#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - Cgi Global Limited ┇ 31.56.227.217
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?type=ws&security=tls&path=/&sni=aza002.vaslbash.site#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.74
-vless://049f92ea-29a6-4170-905f-568e827ed295@94.140.0.0:443?type=xhttp&security=tls&path=/&sni=stage.dnseagle.com#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 94.140.0.0
 vless://a0d9d727-a3a8-43bd-bbaf-1b590e6f0143@185.253.116.18:8443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ#AE 🇦🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.116.18
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGtleSBCLnYuIFx1MjUwNyAzMS41OC44Ny45OSIsImFkZCI6IjMxLjU4Ljg3Ljk5IiwicG9ydCI6MzY5ODksImlkIjoiZDkwYmVmMTUtMTQwMy00ZTc5LTkyY2MtOTBmNmNjNjk3NjAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
 vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.144
-ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
+ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.108.242:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.108.242
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.39:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.105.39
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.26.194:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.26.194
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.27.73:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 31.57.27.73
+vless://f6280344-a6ee-4a29-94fd-fa6ae35c413f@31.57.107.190:443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=SU_52YJEZJchRH4KAgGMySws4CMl3_S0oFP7SpLcbGQ&sid=26fd#AE 🇦🇪 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 31.57.107.190
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.76.50:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.58.76.50
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.78.246:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.58.78.246
+vless://e0b84d4b-b41f-413e-bb08-64eba69ac77c@31.57.225.201:45645?type=ws&security=tls&path=/&sni=yahoo.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Weridata LLC ┇ 31.57.225.201

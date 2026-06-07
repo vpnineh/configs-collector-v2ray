@@ -1,3 +1,5 @@
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?type=grpc&security=tls&sni=ru-vk-2.1001notes.ru#RU 🇷🇺 ┇ VLESS-GRPC-TLS - JSC IOT ┇ 80.87.200.175
 vless://49aabf68-e986-4722-8fd1-1702ce996bb6@109.172.101.234:443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=5JkeRhrvxxdW7Y-jJNnvMUZ6W37yWegXl4-Ea-zl9BU&sid=89bee0f1e450d3cf#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 109.172.101.234
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.220.172.217:2096?type=grpc&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-GRPC-RLT - JSC IOT ┇ 83.220.172.217
+vless://ba2630d8-d6c4-49ff-b5d5-2c24330dd245@ss.l00l00.vip:2096?type=grpc&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-GRPC-RLT - JSC IOT ┇ 62.109.21.244
 vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.136.235.101:2096?type=grpc&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-GRPC-RLT - JSC IOT ┇ 83.136.235.101
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.220.172.217:2096?type=grpc&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-GRPC-RLT - JSC IOT ┇ 83.220.172.217

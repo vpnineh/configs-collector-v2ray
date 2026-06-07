@@ -57,10 +57,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVT
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.59.101:2053?type=ws&security=tls&path=/&sni=dl1-uk-cdn.easy-upload.org#CY 🇨🇾 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 195.85.59.101
 vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:8080?type=ws&security=none&path=/?ed=2560#CY 🇨🇾 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 195.85.59.161
 vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082?type=ws&security=none&path=/#CY 🇨🇾 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 195.85.59.95
-vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?type=tcp&security=reality&sni=backend.xwhiteness.site&flow=xtls-rprx-vision&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY#CY 🇨🇾 ┇ VLESS-TCP-RLT - LATITUDE-SH ┇ 103.27.157.157
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?type=tcp&security=reality&sni=backend.xwhiteness.site&fp=firefox&flow=xtls-rprx-vision&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY#CY 🇨🇾 ┇ VLESS-TCP-RLT - LATITUDE-SH ┇ 103.27.157.203
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.221:989#CY 🇨🇾 ┇ SHADOWSOCKS-TCP-NTLS - Logosnet Services Limited ┇ 213.169.137.221
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989#CY 🇨🇾 ┇ SHADOWSOCKS-TCP-NTLS - Logosnet Services Limited ┇ 213.169.137.214
 vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAxNzEuMjIuMTM0LjEyIiwiYWRkIjoiMTcxLjIyLjEzNC4xMiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwidGxzIjoidGxzIn0
-vless://0b0bd858-dc7f-425b-b026-e28224425058@171.22.136.84:443?type=ws&security=none&path=/path#CY 🇨🇾 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 171.22.136.84
 vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.15.152.73
-vless://180a65ce-f309-47ec-b8ee-2f7a9a8a0fe2@45.15.152.167:443?type=raw&security=reality&sni=yahoo.com&fp=chrome&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&sid=4b1b#CY 🇨🇾 ┇ VLESS-RAW-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.152.167
+vless://0b0bd858-dc7f-425b-b026-e28224425058@171.22.136.84:443?type=ws&security=none&path=/path#CY 🇨🇾 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 171.22.136.84

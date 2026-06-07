@@ -1,5 +1,4 @@
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.194
-vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@se.moktana.app:443?type=grpc&security=reality&sni=se.moktana.app&fp=chrome&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=9e2a6f4c3b7d1e8a#DE 🇩🇪 ┇ VLESS-GRPC-RLT - IPXO ┇ 84.32.49.93
-vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
+vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&sid=9891d7#BE 🇧🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 212.100.171.194
+vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@se.moktana.app:443?type=grpc&security=reality&sni=se.moktana.app&fp=chrome&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=9e2a6f4c3b7d1e8a#DE 🇩🇪 ┇ VLESS-GRPC-RLT - IPXO ┇ 84.32.49.229
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.165.38.7:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - IPXO ┇ 213.165.38.7
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&sid=0a41bdaa#JP 🇯🇵 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.42.40

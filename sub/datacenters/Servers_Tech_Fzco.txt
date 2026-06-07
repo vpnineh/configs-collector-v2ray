@@ -15,7 +15,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@77.238.252.237:2053?sni=Koma-YT.PAGeS.Dev&peer
 trojan://8r%3C%5B9%27l6hAO%238ZQi@62.84.97.56:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Servers Tech Fzco ┇ 62.84.97.56
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.110.127.51:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Servers Tech Fzco ┇ 89.110.127.51
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.103.114.206:8443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Servers Tech Fzco ┇ 146.103.114.206
-vless://25561511-bd38-4f28-966d-37a5d5bf931a@109.107.184.66:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 109.107.184.66
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?type=tcp&security=reality&sni=tradingview.com&fp=random&flow=xtls-rprx-vision&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.34.142.191
 vless://3ea468a2-1046-4dff-b56d-448c55a61a54@nid2.pink-perfect.ru:443?type=tcp&security=reality&sni=nid2.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 77.246.102.129
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?type=xhttp&security=reality&path=/&sni=vk.com&fp=chrome&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&sid=938f14cf6757a249#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Servers Tech Fzco ┇ 195.26.224.112
