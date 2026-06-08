@@ -1,3 +1,2 @@
-vless://tbxjthftff@tbxjthftff-1952313922-direct.irgame.co:443?type=tcp&security=tls&fp=randomized&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.39.22
-vless://1cbf4f65-eac1-4963-96cf-c3c8941e6c23@95.110.157.117:1006?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=2iijxUyJsanFAkX0ctH6H4RTW1N4mQYnIsaP8qrbbS8&sid=0c3a409c2ba7d083#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 95.110.157.117
-vless://478dd3f5-550c-4f3f-8848-fe75c21136db@it.n1etwork.prostosetup.org:443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=Nb99ZU29q7aI02rE_bSjlXAHj_U51NoLL0JEx6ohqjM&sid=bcb6b9117a1206c3#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 77.81.229.212
+vless://tbxjthftff@tbxjthftff-1952313922-direct.irgame.co:443?type=tcp&security=tls&sni=tbxjthftff-1952313922-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.39.22
+vless://eae0197b-8050-40e0-8c85-908e4c5340be@95.110.157.117:2003?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&sid=2418ed47b875e923#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 95.110.157.117

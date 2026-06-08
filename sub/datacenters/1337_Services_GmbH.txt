@@ -1,2 +1,1 @@
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.92.1.37:30086?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - 1337 Services GmbH ┇ 45.92.1.37
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.141.215.49:30086?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - 1337 Services GmbH ┇ 45.141.215.49
+vless://fdadca9a-ca00-4c6a-9110-1a7ad5b1b7ea@access.technocoms.com:8443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=uyjvrW-M2iVHCxS22JfglPGqBOiLezYEmKNkupilqmo&sid=73#NL 🇳🇱 ┇ VLESS-TCP-RLT - 1337 Services GmbH ┇ 45.154.98.68

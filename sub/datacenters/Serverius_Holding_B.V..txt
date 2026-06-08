@@ -1,2 +1,1 @@
-vless://3e809b21-e29b-49ec-a7fb-5301ec7c1cee@91.198.77.242:8443?type=ws&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-FALSE - Serverius Holding B.V. ┇ 91.198.77.242
-vless://14037bcc-1d1d-41dd-9ff6-be16926c44e2@dood.rostamiarp.ir:8443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Serverius Holding B.V. ┇ 91.198.77.149
+vless://0568c7d8-be37-44fa-a740-9fabc3e50981@46.175.150.23:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=Cd77a2MwzD46unl2zeLMK1Eq6UowXcl7lav_EophjG4&sid=fc9ebedf34#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serverius Holding B.V. ┇ 46.175.150.23
