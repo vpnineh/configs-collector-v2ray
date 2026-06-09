@@ -1,7 +1,5 @@
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 87.120.93.242
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 87.120.93.240
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 87.120.93.243
-vless://3ea468a2-1046-4dff-b56d-448c55a61a54@de.pink-perfect.ru:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#DE 🇩🇪 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 87.120.93.255
-vless://bae2fd3a-55fb-4094-99f6-c94e25d7d15d@87.120.93.184:585?type=grpc&security=reality&sni=flow-3983.atlanta-games.com&fp=chrome&pbk=h3X9wHgvXZeLAmsfCIyQdPJIaeaxwcqL_FDZuZL2IWE#DE 🇩🇪 ┇ VLESS-GRPC-RLT - H2nexus Ltd ┇ 87.120.93.184
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 87.120.93.242
+vless://bae2fd3a-55fb-4094-99f6-c94e25d7d15d@87.120.93.184:585?type=grpc&security=reality&sni=flow-3983.atlanta-games.com&fp=edge&pbk=h3X9wHgvXZeLAmsfCIyQdPJIaeaxwcqL_FDZuZL2IWE#DE 🇩🇪 ┇ VLESS-GRPC-RLT - H2nexus Ltd ┇ 87.120.93.184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTS11WWJUUzg0QXpCS2ZvU1N0WDBVNV9xNllKWHFIMw@85.192.49.149:51523#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - H2nexus Ltd ┇ 85.192.49.149
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50

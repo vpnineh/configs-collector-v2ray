@@ -1,8 +1,6 @@
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.234
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXN0cmVjIERhdGEgT1UgXHUyNTA3IDE3Ni4xMTIuMTQ2LjE5MCIsImFkZCI6IjE3Ni4xMTIuMTQ2LjE5MCIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-trojan://8r%3C%5B9%27l6hAO%238ZQi@141.105.143.132:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Notbad Hosting Ltd ┇ 141.105.143.132
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.252.177.115:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Oc Networks Limited ┇ 185.252.177.115
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.4.72.98:8443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#EE 🇪🇪 ┇ VLESS-WS-TLS - P.a.g.m. Ou ┇ 185.4.72.98
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?type=tcp&security=tls#EE 🇪🇪 ┇ VLESS-TCP-TLS - RJ Network OU ┇ 185.215.184.95

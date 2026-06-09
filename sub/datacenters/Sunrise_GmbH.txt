@@ -1,1 +1,3 @@
-vless://ada2c821-5c83-4dba-96ec-a5174e54ae4d@iranfuture.xyz:80?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=FMlzIKco2rBLro2OaFKjaKSC1PQnlvFRJBsiVJ_bB0s&sid=82d7#CH 🇨🇭 ┇ VLESS-TCP-RLT - Sunrise GmbH ┇ 178.83.45.134
+trojan://8riu8dtfqzk58yzp@84.75.220.183:443?sni=www.google.com&peer=www.google.com&security=reality#CH 🇨🇭 ┇ TROJAN-TCP-REALITY - Sunrise GmbH ┇ 84.75.220.183
+vless://16f2a9ed-9913-4dba-97ad-33e5748fa1d8@84.75.220.46:443?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 84.75.220.46
+vless://d34b2eb2-ce1c-4ef6-9541-a3c37df21705@84.75.220.221:443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=IM3rT4sO21jUKaY1oXWnPBC3h0zsV2sKsMP8LgEVPws&sid=1008de1a#CH 🇨🇭 ┇ VLESS-TCP-RLT - Sunrise GmbH ┇ 84.75.220.221

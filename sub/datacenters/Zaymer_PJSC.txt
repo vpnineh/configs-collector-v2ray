@@ -2,4 +2,3 @@ trojan://78defd88-d333-67a5-9c34-d3bcef5816eb@45.67.215.214:443?sni=tirex.sugarb
 trojan://78defd88-d333-67a5-9c34-d3bcef5816eb@45.67.215.249:443?sni=tirex.sugarbreaker1.workers.dev&peer=tirex.sugarbreaker1.workers.dev&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.249
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vless://55b0463c-e27f-455b-a25a-70123297b9f4@45.67.215.233:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-sg-1.pAriSa.dPdNs.oRg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.233
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.0:443?type=ws&security=tls&path=/?proxyip&sni=xs.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.0
