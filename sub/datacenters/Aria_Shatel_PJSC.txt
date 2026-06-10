@@ -1,6 +1,7 @@
+vless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.169.201
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.171.3
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.98
 vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Aria Shatel PJSC ┇ 94.183.241.105
-vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.169.203
-vless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.169.201
+vless://a365a98b-b655-4480-886f-fcaad4956b7d@dir3.webact.cc:1003?type=tcp&security=reality&sni=soft98.ir&fp=chrome&flow=xtls-rprx-vision&pbk=OyxvimJx2EPWwJv1nBGi0y60V6zM7q4t_zLOR991Xzc&sid=8d#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.240.225
+vless://91427003-38cb-473e-95f2-a4b500c91f7b@94.183.219.239:443?type=grpc&security=reality&sni=google.com&pbk=uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Aria Shatel PJSC ┇ 94.183.219.239
 vless://b01631fa-502b-497f-b8ed-2fda669667ad@wp14.virgool.best:55014?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.153.85
