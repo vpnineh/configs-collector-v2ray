@@ -1,8 +1,10 @@
-vless://40b33e55-6049-4fac-940e-7b38a3f5f270@159.195.69.251:8443?type=tcp&security=reality&sni=fastsync.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c#DK 🇩🇰 ┇ VLESS-TCP-RLT ┇ 159.195.69.251
+vless://c7166f8f-236b-4fa4-b99c-172813b24f73@de-fra-ncp-109.sssrvpn.pro:50051?type=grpc&security=reality&sni=jobinvest.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=cd1dd1e4a801f54b#DK 🇩🇰 ┇ VLESS-GRPC-RLT ┇ 159.195.149.157
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.79
 ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.197
 ss://YWVzLTI1Ni1nY206VHV3Nnp6Wk02SndXTlp5WUY5Y2tDNEpa@193.29.107.211:43963#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.211
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.179
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.79
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.94
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.116:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.116
+vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@dk.maximum-vpn.com:443?type=tcp&security=reality&sni=www.microsoft.com&fp=random&flow=xtls-rprx-vision&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg#DK 🇩🇰 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 38.180.72.2
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.28.236.192:8443?type=ws&security=tls&path=/programs&sni=linek.perry.us.kg#DK 🇩🇰 ┇ VLESS-WS-TLS - Webdock.io ApS ┇ 89.28.236.192
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#DK 🇩🇰 ┇ VLESS-WS-NTLS - Webdock.io ApS ┇ 45.148.31.0

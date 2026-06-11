@@ -1,20 +1,8 @@
 trojan://humanity@198.62.62.23:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 198.62.62.23
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyA2OS44NC4xODIuMTYiLCJhZGQiOiI2OS44NC4xODIuMTYiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.77:443?type=ws&security=tls&path=/blue&sni=ji.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.77
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.97:443?type=ws&security=tls&path=/blue&sni=hh.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.97
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.186:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - HMS-ASN ┇ 69.84.182.186
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.44:443?type=ws&security=tls&path=/blue&sni=ki.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.44
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.84:443?type=ws&security=tls&path=/blue&sni=hh.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.84
 vless://ace095c0-debd-46fd-903f-d29b9c8b4101@198.62.62.18:443?type=tcp&security=none&path=/ae-bo#US 🇺🇸 ┇ VLESS-TCP-NTLS - HMS-ASN ┇ 198.62.62.18
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.91:443?type=ws&security=tls&path=/?proxyip&sni=xi.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.91
-vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.10:443?type=ws&security=tls&path=/blue&sni=hi.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.10
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.53:443?type=ws&security=tls&path=/blue&sni=ki.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.53
 vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.152:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.152
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.47:443?type=ws&security=tls&path=/blue&sni=ki.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.47
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.213:443?type=ws&security=tls&path=/?proxyip&sni=yq.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.213
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.30:443?type=ws&security=tls&path=/blue&sni=hi.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.30
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.215:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - HMS-ASN ┇ 69.84.182.215
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.26:443?type=ws&security=tls&path=/blue&sni=ji.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.26
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.88:443?type=ws&security=tls&path=/blue&sni=ki.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.88
-vless://97105dc5-6b59-491f-8236-00b4ce85ebd9@www4.n.ahmadhamoumi.fun:443?type=xhttp&security=tls&path=/veroaspernaturrerumimpedit&sni=autodiscover.streamwebaero.blog&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - HMS-ASN ┇ 198.62.62.196
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?type=ws&security=tls&path=/blue&sni=hi.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.177
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.217:443?type=ws&security=tls&path=/blue&sni=xi.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.217
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.228:443?type=ws&security=tls&path=/blue&sni=hr.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.228
+vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20
