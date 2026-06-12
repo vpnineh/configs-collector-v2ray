@@ -1,8 +1,6 @@
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&sid=9891d7#BE 🇧🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 212.100.171.194
 vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@95.85.251.233:443?type=ws&security=none&path=/api#CZ 🇨🇿 ┇ VLESS-WS-NTLS - IPXO ┇ 95.85.251.233
-vless://ab268dc7-510f-4fb9-ace4-b7305a59c7bb@95.85.246.14.speed-storage.ru:573?type=grpc&security=tls&sni=95.85.246.14.speed-storage.ru&fp=chrome#CZ 🇨🇿 ┇ VLESS-GRPC-TLS - IPXO ┇ 95.85.246.14
-vless://9bc4a008-bc91-4ec2-aa3d-589584511965@95.85.228.80:443?type=tcp&security=reality&sni=nid1.hatvpn.org&flow=xtls-rprx-vision&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.80
+vless://9bc4a008-bc91-4ec2-aa3d-589584511965@95.85.228.80:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.80
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.42.40
-vless://1499877d-7cb4-4bc4-9876-4ec9ceb2e538@vm87675.vpsone.xyz:28680?type=tcp&security=reality&sni=www.vk.com&fp=chrome&pbk=F3ngCwDK5mA1G3g4J637DaMqPvC7BS1aiBTrJL3rLho&sid=5ffc6df6#RU 🇷🇺 ┇ VLESS-TCP-RLT - IPXO ┇ 45.151.70.66
-vless://0a12381a-e241-4b63-a03c-1a5a45a95977@213.165.56.102:443?type=tcp&security=reality&sni=freede.aiage.work&fp=chrome&flow=xtls-rprx-vision&pbk=A_bQLZE6D32TJUdAf9doQTPaTUXyJjPXLSklplG4V1g&sid=c8813f516bbb12c4#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.102
+vless://0a12381a-e241-4b63-a03c-1a5a45a95977@213.165.56.102:443?type=tcp&security=reality&sni=freede.aiage.work&flow=xtls-rprx-vision&pbk=A_bQLZE6D32TJUdAf9doQTPaTUXyJjPXLSklplG4V1g&sid=c8813f516bbb12c4#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.102

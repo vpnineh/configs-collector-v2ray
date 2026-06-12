@@ -1,18 +1,16 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqd05odWtRbVJSQWVjVXlabUlDS3Bt@212.113.106.76:61992#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.76
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.243
-vless://cddd70ac-525d-4c47-a2a5-df01acffde41@94.228.170.28:13148?type=tcp&security=none&path=/@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 94.228.170.28
-vless://e8c2596e-85ec-4fc4-8e8c-57aa7b307ebe@94.228.170.58:21194?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=S7pDW2rgKKyEiWE0l652dltQwSzWHnZn-6FaACTS-0g&sid=e708a76700#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 94.228.170.58
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.243
+vless://cf3b1537-ca17-49fe-b6eb-80bd273e32f1@94.228.170.28:13148?type=tcp&security=none&path=/@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray@Azaranv2ray#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 94.228.170.28
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click&peer=www.mesaly.click&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - BrainStorm Network, Inc ┇ 185.126.236.44
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 151.236.30.184
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.138.55.120:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 83.138.55.120
+trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
 trojan://humanity@8.6.112.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?type=ws&security=tls&path=/&sni=dev.qsaas.dev&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.0
 vless://a9d3f77943aeee7d4dc3fa073c1797d8@8.6.112.17:443?type=ws&security=tls&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.17
+vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?type=xhttp&security=tls&path=/&sni=ZaAcRoQu8.MiNiChIlI.InFo&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.223
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@146.70.28.93:43893#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.28.93
 trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.136
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@212.183.88.254:8880?type=ws&security=none&path=/&sni=Telegram-channel-WangCai2#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.254
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.103:443?type=ws&security=tls&path=/?proxyip&sni=xh.ylks.xyz#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
-trojan://trojan@152.53.45.251:8888?security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.45.251
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.200.89
+trojan://trojan@152.53.45.251:8888?security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.45.251

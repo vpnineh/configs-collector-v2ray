@@ -1,14 +1,14 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 217.60.249.112
 vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 193.58.119.134
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.137.129:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 51.112.137.129
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
-vless://Telegram-CNT-Cafe@31.56.227.217:8443?type=xhttp&security=reality&path=/cntcafe&sni=aws.amazon.com&fp=chrome&pbk=YTOMJLdO3m1Mj_v7hHx7vMTjB3lPAwKMjfUQs8LUCT8&sid=37#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - Cgi Global Limited ┇ 31.56.227.217
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?type=ws&security=tls&path=/&sni=aza002.vaslbash.site#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.74
 vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
 vless://a0d9d727-a3a8-43bd-bbaf-1b590e6f0143@185.253.116.18:8443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ#AE 🇦🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.116.18
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGtleSBCLnYuIFx1MjUwNyAzMS41OC44Ny45OSIsImFkZCI6IjMxLjU4Ljg3Ljk5IiwicG9ydCI6MzY5ODksImlkIjoiZDkwYmVmMTUtMTQwMy00ZTc5LTkyY2MtOTBmNmNjNjk3NjAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:806#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
 vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.144
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
 ss://YWVzLTI1Ni1nY206MVJSSVk2@31.56.113.147:1015#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - NTT-DATA-2914 ┇ 31.56.113.147

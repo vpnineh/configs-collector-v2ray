@@ -1,4 +1,8 @@
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
-vless://Telegram-CNT-Cafe@31.56.227.217:8443?type=xhttp&security=reality&path=/cntcafe&sni=aws.amazon.com&fp=chrome&pbk=YTOMJLdO3m1Mj_v7hHx7vMTjB3lPAwKMjfUQs8LUCT8&sid=37#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - Cgi Global Limited ┇ 31.56.227.217
+vless://e13de37c-58be-4258-af2e-46423e8b5c94@203.18.98.248:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=2TrPdiGqUxSvsACQN1GDLTS2lAiuUGicwNqH9Byqx1o&sid=47174804ee8a1dae#AU 🇦🇺 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 203.18.98.248
+vless://ff5e2768-bdeb-4c21-a7e3-53ae8edd923e@217.19.4.12:8445?type=xhttp&security=reality&path=/rxh&sni=chatgpt.com&fp=chrome&pbk=EgoasHJ41hgWSoAk7I3zEui-djdUucYxcazBqmZS_Ts&sid=e582f136735c2a1c#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Cgi Global Limited ┇ 217.19.4.12
+vless://199537c1-e19a-48a1-a5fd-604ce2062729@188.130.206.133:443?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.206.133
 vless://b8c80aa1-63b9-4a75-8276-5b080d166477@188.130.206.60:2086?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=7YzPmjCuTpavh7mObhGF8SMtZL7U-MDL_lG2IJkU6R0&sid=95eb9d54ffab#FI 🇫🇮 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 188.130.206.60
 ss://YWVzLTI1Ni1nY206VHUzUHhM@188.130.207.77:1018#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 188.130.207.77
+vless://9216b08c-8006-4894-a925-bb4d4f578fb8@de2.yariresanbot.ir:19686?type=tcp&security=reality&sni=snapp.ir&fp=chrome&pbk=HMmxDqD-vOkEaxHDEl_c9Ue8wKh4IiXXoQsx0VQCKUE&sid=ee#HK 🇭🇰 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.38.42.139
+vless://4e1bef9f-d655-4722-a7c3-41e7ca40df75@95.182.114.33:33636?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.33

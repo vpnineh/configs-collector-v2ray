@@ -1,6 +1,7 @@
+trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
 trojan://humanity@8.6.112.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?type=ws&security=tls&path=/&sni=dev.qsaas.dev&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.0
 vless://a9d3f77943aeee7d4dc3fa073c1797d8@8.6.112.17:443?type=ws&security=tls&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.17
+vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?type=xhttp&security=tls&path=/&sni=ZaAcRoQu8.MiNiChIlI.InFo&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.223
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
 vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.56
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
