@@ -1,3 +1,3 @@
-vless://b0d9918c-320d-4e76-ab89-1a12ff5e1fe2@panel.persianghost.sbs:49497?type=ws&security=tls&path=/&sni=s1.persianghost.sbs&fp=chrome#IQ 🇮🇶 ┇ VLESS-WS-TLS ┇ 194.150.166.23
-vless://7b241232-208d-4d36-857e-913f91b044f4@196.199.104.131:443?type=tcp&security=tls&sni=api-6a20f558.noooo.win&fp=chrome&flow=xtls-rprx-vision#IQ 🇮🇶 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 196.199.104.131
-vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?type=tcp&security=tls&sni=api-6a20f558.noooo.win&fp=chrome&flow=xtls-rprx-vision#IQ 🇮🇶 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 196.199.104.132
+vless://4e71d588-61af-4b58-b467-3eba16b5041b@178.17.58.122:443?type=tcp&security=reality&sni=shop.rtnode.site&flow=xtls-rprx-vision&pbk=l_yLFw5hgOA5-c6WGuFdIv4gnjBI3NOZ-Upj_eL0134&sid=b8b1aeed95b6e4f7#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.58.122
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.199.104.131:443?type=tcp&security=tls&sni=api-6a20f558.noooo.win&fp=edge&flow=xtls-rprx-vision#IQ 🇮🇶 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 196.199.104.131
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.199.104.132:443?type=tcp&security=tls&sni=api-6a20f558.noooo.win&fp=edge&flow=xtls-rprx-vision#IQ 🇮🇶 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 196.199.104.132
