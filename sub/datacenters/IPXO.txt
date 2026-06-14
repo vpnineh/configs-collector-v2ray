@@ -1,6 +1,4 @@
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&sid=9891d7#BE 🇧🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 212.100.171.194
-vless://9bc4a008-bc91-4ec2-aa3d-589584511965@95.85.228.80:443?type=tcp&security=reality&sni=nid1.hatvpn.org&fp=chrome&flow=xtls-rprx-vision&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.80
+vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?type=tcp&security=reality&sni=de.srv.anti-zapret.com&fp=chrome&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.235.142
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@uk.riotvpn.eu:6443?type=xhttp&security=reality&path=/&sni=avatars.mds.yandex.net&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#GB 🇬🇧 ┇ VLESS-XHTTP-RLT - IPXO ┇ 217.179.220.67
-vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.42.40
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@canada-1.pandaonline.org:443?type=tcp&security=reality&sni=canada-1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=E2WrtLdPasFBE6W9eMFwAK2cWV-QHmpFtBvjvI4Bmng#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 188.227.197.185
+vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality&sni=www.yahoo.com&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&sid=0a41bdaa#JP 🇯🇵 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.42.40

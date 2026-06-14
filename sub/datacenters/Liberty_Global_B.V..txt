@@ -1,1 +1,3 @@
-vless://99bd2791-8e27-435b-a1e2-c9b625101af9@64.188.73.12:443?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU&sid=d91248fbca#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.73.12
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.202:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Liberty Global B.V. ┇ 104.253.175.202
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Liberty Global B.V. ┇ 104.253.175.99
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Liberty Global B.V. ┇ 104.253.175.16
