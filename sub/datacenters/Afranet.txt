@@ -1,3 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWZyYW5ldCBcdTI1MDcgNDYuMTAyLjEzMC4yMTkiLCJhZGQiOiJzcnZmLm15YW5kcm9pZHBsdXMxLmlyIiwicG9ydCI6ODAsImlkIjoiZTdjZjJmNTgtODViMy1kM2RiLWE3NWMtNTVkZjRhOWVlODNhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.196
+vless://5cfbb53f-7fff-4fd7-a057-34e08f2170f7@z9.asamping.ir:2052?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 79.175.167.204
 vless://Telegram-Parsashonam-12@79.175.189.145:443?type=xhttp&security=tls&path=/p4r34m&sni=p4r34m.hendevaneh.sbs#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Afranet ┇ 79.175.189.145
+vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.196

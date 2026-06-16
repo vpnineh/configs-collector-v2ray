@@ -1,12 +1,8 @@
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
 vless://0080c59a-a11d-4788-90b9-7d1f4e8f3089@95.182.99.236:80?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 95.182.99.236
+vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.230.9
 vless://b8c80aa1-63b9-4a75-8276-5b080d166477@188.130.206.60:2086?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=7YzPmjCuTpavh7mObhGF8SMtZL7U-MDL_lG2IJkU6R0&sid=95eb9d54ffab#FI 🇫🇮 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 188.130.206.60
 ss://YWVzLTI1Ni1nY206VHUzUHhM@188.130.207.77:1018#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 188.130.207.77
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?sni=tjsp.hhxaf.cc.cd&peer=tjsp.hhxaf.cc.cd&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 46.8.226.197
-trojan://gx5fx0q4buwh4g4n@de2.yariresanbot.ir:26856?sni=de2.yariresanbot.ir&peer=de2.yariresanbot.ir&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 45.38.42.139
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.42.198:2053?sni=tjsp.hhxaf.cc.cd&peer=tjsp.hhxaf.cc.cd&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 45.38.42.198
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.108:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 46.8.226.108
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.42.156:2053?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 45.38.42.156
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.78.229:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 46.8.78.229
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.42.245:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 45.38.42.245
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.42.11:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 45.38.42.11
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDUuMzguNDIuMTM5IiwiYWRkIjoiZGUyLnlhcmlyZXNhbmJvdC5pciIsInBvcnQiOjUxNDE0LCJpZCI6IjM2OGM4NDBiLWY1ZGItNGRkYi04OGFjLTgxNDg5MDk4NjdmNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://1cd30bda-e748-4c4c-a24e-3d827db13034@m.datammr.ir:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 194.113.37.110
