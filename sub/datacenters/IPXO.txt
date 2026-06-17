@@ -1,6 +1,6 @@
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&sid=9891d7#BE 🇧🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 212.100.171.194
 vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.245.211:443?type=tcp&security=reality&sni=es.launch.tel&flow=xtls-rprx-vision&pbk=O94s7biQ2O5Q66OI3jlT4megGOIqwLbRw81-6S5t4Q8&sid=a1b2c3d4#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.245.211
+vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.226.56:443?type=tcp&security=reality&sni=nl03.launch.tel&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.226.56
+vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.246.173:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.246.173
 vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.246.136:443?type=tcp&security=reality&sni=pl02.launch.tel&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.246.136
-vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.246.173:443?type=tcp&security=reality&sni=pl05.launch.tel&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.246.173
-vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
-vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.42.40
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - IPXO ┇ 217.179.221.234
