@@ -1,7 +1,4 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.200.89
 trojan://trojan@152.53.45.251:8888?security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.45.251
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.44.148:443?type=tcp&security=reality&sni=at-c1.buycloud.app&flow=xtls-rprx-vision&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&sid=00b19310671e6fb2#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.44.148
+trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.200.89
 vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@152.53.111.14:444?type=grpc&security=reality&sni=web.max.ru&fp=chrome&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&sid=8614956789abcdef#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.111.14
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.45.123:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.45.123
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.47.24:443?type=tcp&security=reality&sni=at-c1.buycloud.app&fp=chrome&flow=xtls-rprx-vision&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&sid=42134e531ea5db75#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.47.24
-vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 185.244.192.101
+vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=xhttp&security=reality&path=/ping&sni=search.yahoo.com&fp=chrome&pbk=ugUk7zRVpcxM3XwWMXQI8X9UFuKPqQvuN2hGY3tFM3Q&sid=b1eb854b#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - netcup GmbH ┇ 185.244.192.101

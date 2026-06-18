@@ -1,4 +1,5 @@
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 87.120.93.242
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 87.120.93.240
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 87.120.93.242
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBQm9FcHhlVTlGYlFyN19KbjdLVTRzVXFEN1JLakJzMg@85.192.49.179:51523#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - H2nexus Ltd ┇ 85.192.49.179
+vless://6091db2d-1905-465a-9ce3-25c1c603865d@x.fl.vpnpplvpn.top:8008?type=xhttp&security=none&path=/upload#FI 🇫🇮 ┇ VLESS-XHTTP-NTLS - H2nexus Ltd ┇ 45.144.52.10
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50

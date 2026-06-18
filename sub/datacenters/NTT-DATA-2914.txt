@@ -1,4 +1,5 @@
-vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@64.188.83.220:443?type=tcp&security=reality&sni=de1c-01.launch.tel&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.83.220
 vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.14.24
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.78.17
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?sni=130.94.94.15&peer=130.94.94.15&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.94.15
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&peer=www.event-snapshot.click&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.3.146
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.94.15
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?sni=130.94.114.217&peer=130.94.114.217&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.114.217

@@ -1,10 +1,12 @@
 trojan://humanity@8.6.112.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
 trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
+trojan://humanity@8.6.112.139:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.139
+vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.34:443?type=ws&security=tls&path=/@mahdi_383ir&sni=website.yaroo383mardak.online&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.34
+vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?type=xhttp&security=tls&path=/&sni=GgAaQxYq9.MuChMuCk.oRg&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.223
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?type=ws&security=tls&path=/@mahdi_383ir&sni=website.yaroo383mardak.online&fp=firefox#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.232
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.59:443?type=ws&security=tls&path=/@mahdi_383ir&sni=website.yaroo383mardak.online&fp=firefox#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.59
-vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.34:443?type=ws&security=tls&path=/@mahdi_383ir&sni=website.yaroo383mardak.online&fp=firefox#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.34
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.126:443?type=ws&security=tls&path=/@mahdi_383ir&sni=website.yaroo383mardak.online&fp=firefox#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.126
-vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?type=xhttp&security=tls&path=/&sni=GgAaQxYq9.MuChMuCk.oRg&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.223
-vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.56
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
+vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?type=ws&security=tls&path=/&sni=dl-pack.motionbetter.ir&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.56
+vless://a039c938-0792-424a-8a8a-d0508c7fcab1@8.35.211.145:443?type=ws&security=tls&path=/&sni=sweet-art-a13d.5ejrdnfcv.workers.dev&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.145
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
