@@ -1,2 +1,3 @@
 vless://b1652445-fcee-4746-aa2b-8900265338c9@130.49.129.179:56293?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPITT-AS ┇ 130.49.129.179
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.187.97
+vless://ab13de1e-bd5a-459a-b885-7046641781d2@uk.ulanbatur.kelimanjaro.ir:8443?type=tcp&security=reality&sni=www.play.google.com&fp=chrome&pbk=fLgFSswI055gOoI-bebfZCHN8o5NTvdB_XfVR1dS2jw&sid=1391360a56fe4aa3#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.187.110
