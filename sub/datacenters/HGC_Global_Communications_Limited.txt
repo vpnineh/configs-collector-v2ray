@@ -1,2 +1,3 @@
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HGC Global Communications Limited ┇ 210.0.158.220
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@151.242.17.7:443?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=SFTi7o1Gpk9-0ARSKhY65CS3oAd-KNnObjewhVek1TY&sid=7fc148e8e3#HK 🇭🇰 ┇ VLESS-TCP-RLT - HGC Global Communications Limited ┇ 151.242.17.7
 vless://d20170f8-1468-4442-bba0-7bd6bc41267b@155.117.5.87:8443?type=xhttp&security=reality&path=/&sni=www.oracle.com&fp=chrome&pbk=r3hSWM_rXVFwnJveSUW-ABA-105Yb__Mb1ml9HYvtxc&sid=e712#HK 🇭🇰 ┇ VLESS-XHTTP-RLT - HGC Global Communications Limited ┇ 155.117.5.87

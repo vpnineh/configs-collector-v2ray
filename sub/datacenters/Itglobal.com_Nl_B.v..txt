@@ -1,4 +1,1 @@
-vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.154
-vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.71
-vless://53ee6aff-171a-48a0-9d1a-2153802a5626@109.207.171.107:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 109.207.171.107
-vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.137
+vless://8865dc72-9793-4157-a10c-9024aa47c2b8@92.246.129.157:443?type=tcp&security=reality&sni=br-gru-1.blook.network&fp=firefox&flow=xtls-rprx-vision&pbk=GYqQl8suX6lgrJZ27CkhMwtxmDGkd45QxKBJGaHUgQM&sid=7cc366b3#BR 🇧🇷 ┇ VLESS-TCP-RLT - Itglobal.com Nl B.v. ┇ 92.246.129.157
