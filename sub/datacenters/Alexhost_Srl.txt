@@ -1,5 +1,4 @@
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.90.97.132:443?type=tcp&security=reality&sni=fr.bvps.cloud&flow=xtls-rprx-vision&pbk=65T6l7e51lwKu1rzQ4FgqVPe-JyG43IqPLw6r9U2v10&sid=0befa76540b5db79#DE 🇩🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 45.90.97.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 193.233.202.7
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 193.233.202.1
 vless://31436faa-6794-46c6-82d4-09b0a95eae78@pl.mail-appstatus.net:23356?type=grpc&security=reality&sni=apple.com&fp=chrome&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Alexhost Srl ┇ 193.233.161.40
-vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@78.40.117.131:443?type=tcp&security=reality&sni=ikea.com&fp=chrome&flow=xtls-rprx-vision&pbk=Dgu9RaToLbQcM1NCf_pS3ezHj6LsBQSYu50zWs5A6Qk&sid=57cc65bfd5ef7465#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 78.40.117.131
+vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@78.40.117.131:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 78.40.117.131

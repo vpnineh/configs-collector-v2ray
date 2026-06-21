@@ -1,2 +1,1 @@
-vless://278f52f9-99fc-447c-94d0-ada8f9800703@us.usflycabinet.com:446?type=grpc&security=reality&sni=deepl.com&fp=chrome&pbk=7PkbVkGof8CXYV9XGWSvO8oBKxZ0tdJZP9UyFJp9CVc&sid=d7abeb515312dc2f#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Perviy TSOD LLC ┇ 46.16.34.211
-vless://96a59dc3-226d-475c-89c5-3ef74d7f84a7@185.212.117.62:443?type=tcp&security=reality&sni=lafibre.info&fp=chrome&flow=xtls-rprx-vision&pbk=6tucjTON2xAIZXUXUdjgHQQ9q154n49B-jTB8M9Wd2s#RU 🇷🇺 ┇ VLESS-TCP-RLT - Perviy TSOD LLC ┇ 185.212.117.62
+vless://278f52f9-99fc-447c-94d0-ada8f9800703@us.usflycabinet.com:446?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-RLT - Perviy TSOD LLC ┇ 46.16.34.211

@@ -1,3 +1,4 @@
-trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.110
-trojan://humanity@208.103.161.170:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.170
 trojan://humanity@208.103.161.101:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.101
+trojan://humanity@208.103.161.170:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.170
+trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NOTION ┇ 208.103.161.110
+vless://253edcf9-c970-4125-bde6-166119c103c9@208.103.161.1:443?type=xhttp&security=tls&path=/&sni=panel.fredomiran.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NOTION ┇ 208.103.161.1

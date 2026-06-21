@@ -1,4 +1,5 @@
 vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.101
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.93
+vless://52333a88-607c-4484-be97-451f625e6c50@dubai.gmax12.ir:42542?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.75
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.228.24:8443?type=tcp&security=tls&sni=bog-co-01.fromblancwithlove.com#CO 🇨🇴 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 169.150.228.24
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45
