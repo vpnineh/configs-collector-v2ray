@@ -1,5 +1,5 @@
 trojan://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?sni=r-production-260d.up.railway.app&peer=r-production-260d.up.railway.app&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RAILWAY ┇ 66.33.23.33
-vless://06795288-3b02-0c10-9b72-f26b7bdcd82e@66.33.23.63:443?type=ws&security=tls&path=/ws/06795288-3b02-0c10-9b72-f26b7bdcd82e&sni=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.23.63
+vless://dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79@66.33.23.63:443?type=ws&security=tls&path=/ws/dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79&sni=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.23.63
 vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.120:443?type=xhttp&security=tls&path=/api&sni=relay-production-9e5f.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - RAILWAY ┇ 66.33.23.120
 vless://389f9cea-9090-72e0-7b40-39ed3b11574f@66.33.23.75:443?type=ws&security=tls&path=/ws/389f9cea-9090-72e0-7b40-39ed3b11574f&sni=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.23.75
 vless://2e6d8e31-7261-4d5e-812d-eaffedeeec21@thomas.proxy.rlwy.net:31164?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=IT31PglBQpZdChah8ON53r7i-CzrylRjf41LY7-xHz0&sid=0123456789abcdef#US 🇺🇸 ┇ VLESS-TCP-RLT - RAILWAY ┇ 66.33.22.225

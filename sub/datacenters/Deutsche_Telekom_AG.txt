@@ -1,2 +1,3 @@
 vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@45.112.192.72:603?type=grpc&security=reality&sni=www.amd.com&fp=chrome&pbk=EVCTStQtIcHLJC4M-we-zB319grqHubJD9NvGSwS0AY&sid=e3b1c7a9d4f06285#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Deutsche Telekom AG ┇ 45.112.192.72
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?type=tcp&security=reality&sni=m.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&sid=5fe811ec9283ce51#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 92.119.165.43
+vless://dc29dcd0-1a03-4e14-a600-74f4fcc6cff4@89.34.90.156:9443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 89.34.90.156

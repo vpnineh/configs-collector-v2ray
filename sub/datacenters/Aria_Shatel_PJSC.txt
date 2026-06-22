@@ -1,8 +1,9 @@
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dUV1M3hRTXhCVEwwUFNNYk9tMERSOUVsRXVSY3ZWM3JhQzlsVmpXUDVuND0@net12.shaygan.site:2095#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.214.19
-vless://0e1a5e00-2c7b-40e3-8df5-7f6147f5ec6c@thany.tech:443?type=ws&security=tls&path=/&sni=cloudinohost.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.154.91
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.234.41
+vless://c564b39d-4775-4fbd-9d00-1f09032ad6fd@tun3.lesss.ir:19911?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Aria Shatel PJSC ┇ 94.183.210.20
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.171.3
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.98
-vless://c564b39d-4775-4fbd-9d00-1f09032ad6fd@tun3.lesss.ir:19911?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Aria Shatel PJSC ┇ 94.183.210.20
-vless://a365a98b-b655-4480-886f-fcaad4956b7d@94.183.240.225:1003?type=tcp&security=reality&sni=soft98.ir&fp=chrome&flow=xtls-rprx-vision&pbk=OyxvimJx2EPWwJv1nBGi0y60V6zM7q4t_zLOR991Xzc&sid=8d#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.240.225
-vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.217.49
+vless://0e1a5e00-2c7b-40e3-8df5-7f6147f5ec6c@thany.tech:443?type=ws&security=tls&path=/&sni=cloudinohost.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.154.91
+vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.217.47
 vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.162.131
+vless://a365a98b-b655-4480-886f-fcaad4956b7d@94.183.240.225:1003?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=OyxvimJx2EPWwJv1nBGi0y60V6zM7q4t_zLOR991Xzc&sid=8d#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.240.225
