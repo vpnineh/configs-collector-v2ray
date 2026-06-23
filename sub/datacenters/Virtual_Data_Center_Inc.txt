@@ -1,3 +1,3 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@91.239.23.10:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#LV 🇱🇻 ┇ TROJAN-TCP-TLS - Virtual Data Center Inc ┇ 91.239.23.10
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.84.236:2053?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#LV 🇱🇻 ┇ TROJAN-TCP-TLS - Virtual Data Center Inc ┇ 146.19.84.236
-trojan://162534@146.19.84.90:2053?sni=cchh2.pages.dev&peer=cchh2.pages.dev&security=tls#LV 🇱🇻 ┇ TROJAN-TCP-TLS - Virtual Data Center Inc ┇ 146.19.84.90
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?type=ws&security=tls&path=/sequre/ws?ed=2560&sni=213.21.222.28.speed-storage.ru&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 213.21.222.28
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.29.fwqfw783rg2dad.website:443?type=ws&security=tls&path=/sequre/ws&sni=213.21.222.29.fwqfw783rg2dad.website#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 213.21.222.29
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.33.vhubtest.ru:443?type=grpc&security=tls&sni=213.21.222.33.vhubtest.ru&fp=chrome#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Virtual Data Center Inc ┇ 213.21.222.33

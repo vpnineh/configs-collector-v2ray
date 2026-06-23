@@ -1,1 +1,5 @@
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?sni=hhcm.hhxaf.cc.cd&peer=hhcm.hhxaf.cc.cd&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AKILE LTD ┇ 156.231.113.141
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.83.95.129:443?type=ws&security=tls&path=/fp=chrome&sni=t1s1.rittbo.kdns.fr#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 154.83.95.129
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 151.242.165.136
+vless://0c986712-ccb1-4c8f-8e25-6a209db3c466@45.196.215.205:443?type=xhttp&security=reality&path=/xhttp-proxy&sni=5post-gate.x5.ru&fp=chrome&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6#MU 🇲🇺 ┇ VLESS-XHTTP-RLT - AKILE LTD ┇ 45.196.215.205
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@185.81.28.39:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr#SG 🇸🇬 ┇ VLESS-WS-TLS - AKILE LTD ┇ 185.81.28.39

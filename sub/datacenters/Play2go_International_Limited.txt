@@ -1,6 +1,5 @@
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@fin.oplatasite.ru:8443?type=tcp&security=tls&sni=vpn.oplatasite.ru&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 31.13.208.45
+vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:26093?type=grpc&security=none#BG 🇧🇬 ┇ VLESS-GRPC-NTLS - Play2go International Limited ┇ 185.216.71.193
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?type=tcp&security=tls&sni=vpn.oplatasite.ru&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.121.105.10
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?type=tcp&security=tls&sni=vpn.oplatasite.ru&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.120.166.118
 vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?type=tcp&security=reality&path=/&sni=eh.vk.com&fp=chrome&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&sid=478dc6#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 178.215.238.148
-vless://a9a91808-8e7a-4f8d-9658-ab1b94f199e8@87.121.105.33:443?type=tcp&security=reality&path=/&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=4HjtN0YBEbiECAB-A-arFQUHlozgxpSEZx5g4436fF4&sid=99cf4c707e103c1e#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 87.121.105.33
-vless://967064b5-3272-431e-8dce-9519acfb94be@94.156.179.71:443?type=tcp&security=reality&sni=de2.zestful.bond&flow=xtls-rprx-vision&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&sid=823257b7b9ab9d02#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 94.156.179.71
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 94.156.112.71

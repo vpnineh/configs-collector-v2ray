@@ -2,9 +2,8 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#E
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.237
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXN0cmVjIERhdGEgT1UgXHUyNTA3IDE3Ni4xMTIuMTQ2LjE5MCIsImFkZCI6IjE3Ni4xMTIuMTQ2LjE5MCIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?type=ws&security=tls&path=twitterfreecodessecurity&sni=a.ssll.gay#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.245
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@ee-1.coinbridge.nl:443?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d#EE 🇪🇪 ┇ VLESS-GRPC-RLT - Baykov Ilya Sergeevich ┇ 138.124.4.132
 vless://48ba1134-5f61-5d52-d902-195aec4a0191@45.80.108.236:443?type=ws&security=tls&path=/sync&sni=namystelf.awdadsaw1311321.workers.dev&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.108.236
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@45.80.110.21:2052?type=xhttp&security=none&path=/pabloping#EE 🇪🇪 ┇ VLESS-XHTTP-NTLS - Cloudflare London, LLC ┇ 45.80.110.21
-vless://208b2b41-4801-44f9-9f13-9149dd457da5@37.49.224.29:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - ESTOXY OU ┇ 37.49.224.29
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?type=ws&security=tls&path=twitterfreecodessecurity&sni=a.ssll.gay#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.245
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - GmhostGrupp OU ┇ 45.129.96.62
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.4.72.98:8443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#EE 🇪🇪 ┇ VLESS-WS-TLS - P.a.g.m. Ou ┇ 185.4.72.98
