@@ -1,1 +1,4 @@
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@209.33.160.242:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WINDSTREAM ┇ 209.33.160.242
+trojan://114514@209.33.160.242:443?sni=tjaaa.hhllfly.kdns.fr&peer=tjaaa.hhllfly.kdns.fr&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WINDSTREAM ┇ 209.33.160.242
+trojan://114514@209.33.166.199:443?sni=tjaaa.hhllfly.kdns.fr&peer=tjaaa.hhllfly.kdns.fr&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WINDSTREAM ┇ 209.33.166.199
+vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@217.9.12.58:443?type=grpc&security=reality&sni=www.microsoft.com&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&sid=7a3f9e2b1c8d4f6a#US 🇺🇸 ┇ VLESS-GRPC-RLT - WINDSTREAM ┇ 217.9.12.58
+vless://c381ed79-f3c9-4028-85ae-687795d89ece@de.ipsenter.org:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=4-ou3SyJYZ2ptF0vXFdc02yIRTF4VF8m2XcUKJPsUyQ&sid=1128da54b05ec30c#US 🇺🇸 ┇ VLESS-TCP-RLT - WINDSTREAM ┇ 216.236.30.225

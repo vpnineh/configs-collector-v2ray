@@ -1,2 +1,3 @@
-vless://3bfcfd60-11b7-4ffe-9b39-6df99981e8a3@178.83.45.83:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.83
-vless://90426bbb-6b39-45c1-9a89-8f3ae37cbf86@178.83.45.142:80?type=tcp&security=reality&sni=mail.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=nm_XWU_p2aKwh8sIJ5eeAgELgdg0Lw2zJ2ct3DaBdk0&sid=61a5#CH 🇨🇭 ┇ VLESS-TCP-RLT - Sunrise GmbH ┇ 178.83.45.142
+vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFN1bnJpc2UgR21iSCBcdTI1MDcgMTc4LjgzLjQ2LjE3MCIsImFkZCI6InNpbmF2aXAzLmNuYXZpcHBhbmVsLmNvbSIsInBvcnQiOjE1MTYsImlkIjoiMGFjYTM1ZWUtYjg0NS00NWQ3LTliNTItMzc5YTI5ODQzNzhhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://8f7a9509-561c-41b3-ae97-97793a74460e@sinavip5.cnavippanel.com:8091?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.170
+vless://90426bbb-6b39-45c1-9a89-8f3ae37cbf86@178.83.45.142:80?type=tcp&security=reality&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=nm_XWU_p2aKwh8sIJ5eeAgELgdg0Lw2zJ2ct3DaBdk0&sid=4f751ef7ca2688#CH 🇨🇭 ┇ VLESS-TCP-RLT - Sunrise GmbH ┇ 178.83.45.142
