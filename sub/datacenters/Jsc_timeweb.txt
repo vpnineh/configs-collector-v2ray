@@ -2,8 +2,6 @@ vless://33de2596-d95d-412b-a8c2-410be7060ca3@195.58.34.207:443?type=tcp&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNalU5eUdjdWRxUWxWSDF5M0tpQThm@90.156.228.141:46717#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 90.156.228.141
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 193.168.3.26
 vless://1bb79bd5-95ca-408b-804a-000f410a7d63@94.228.125.193:52649?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=0HtBxWKhB1yfpxPxbrtQllGPN888TY819Cp9mWPGIBs&sid=c90b#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 94.228.125.193
+vless://8f8a4b5f-2656-450e-95a6-6fb5e628bfb7@yandex.plan-vpn.ru:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 81.200.158.137
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@176.124.209.103:23346?type=tcp&security=reality&sni=zvuk.com&fp=chrome&flow=xtls-rprx-vision&pbk=SSVyNwsSA0BFp8HJWvqc-VQjwOtKrVnl6nDFJxpHU18&sid=4294bfc2#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 176.124.209.103
 vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&sid=e8d2a1b4c39f8877#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 37.77.104.182
-vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@194.87.131.56:443?type=tcp&security=reality&sni=aviasales.ru&flow=xtls-rprx-vision&pbk=MtmQRo_fBuvzEa7gFKDrTrJhtn0DcIq-IJNTupxZJSc&sid=9f#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 194.87.131.56
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.246.77:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 147.45.246.77
-vless://8f8a4b5f-2656-450e-95a6-6fb5e628bfb7@yandex.plan-vpn.ru:443?type=tcp&security=reality&sni=yandex.plan-vpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ICOdUjV4l0pQKechbg5GIDyo0mvDH373CR1dcWxXCXg&sid=7baebcace7b4d3a6#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 81.200.158.137

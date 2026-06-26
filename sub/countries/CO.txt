@@ -1,4 +1,4 @@
 vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.101
-vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@tr1.avenpulse.ir:2084?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.173
+vless://f99908f9-6d1e-4512-9aab-588fbd399485@tr1.avenpulse.ir:2084?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.173
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.93
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45
