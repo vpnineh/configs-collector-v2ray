@@ -1,5 +1,5 @@
+vless://06795288-3b02-0c10-9b72-f26b7bdcd82e@66.33.23.63:443?type=ws&security=tls&path=/ws/06795288-3b02-0c10-9b72-f26b7bdcd82e&sni=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.23.63
 vless://17d21ae6-4fb9-cc7d-757a-b11fb2ecc622@66.33.23.33:443?type=ws&security=tls&path=/ws/17d21ae6-4fb9-cc7d-757a-b11fb2ecc622&sni=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.23.33
+vless://2e129e7d-8c3e-4e85-a9d9-c27d6b09c628@66.33.22.225:30756?type=tcp&security=none&path=/@VPNine1#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.225
 vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.120:443?type=xhttp&security=tls&path=/api&sni=relay-production-9e5f.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - RAILWAY ┇ 66.33.23.120
-vless://4bb063ef-12db-26d5-57c4-0af616c5fb87@66.33.23.63:443?type=ws&security=tls&path=/ws/4bb063ef-12db-26d5-57c4-0af616c5fb87&sni=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.23.63
-vless://2e6d8e31-7261-4d5e-812d-eaffedeeec21@thomas.proxy.rlwy.net:31164?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=IT31PglBQpZdChah8ON53r7i-CzrylRjf41LY7-xHz0&sid=0123456789abcdef#US 🇺🇸 ┇ VLESS-TCP-RLT - RAILWAY ┇ 66.33.22.225
-vless://shanaam@nl.shanaam.ir:37915?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=tJVxffhqeRW-Bv5fUooDyighEWoiHv3QndPjbT8xCGQ&sid=a1e717ae2274#US 🇺🇸 ┇ VLESS-TCP-RLT - RAILWAY ┇ 66.33.22.224
+vless://@namedzadim@reseau.proxy.rlwy.net:56136?type=xhttp&security=reality&path=/&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=iPvBtl6QMlmqidzRzBvlCu-5RV72oWzHGcxtEUwDNE8&sid=810f42ea#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.224
