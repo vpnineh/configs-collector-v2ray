@@ -1,1 +1,4 @@
+trojan://MiTiVPN@151.101.223.223:80?security=none#CL 🇨🇱 ┇ TROJAN-TCP-NTLS - FASTLY ┇ 151.101.223.223
+trojan://MiTiVPN@151.101.221.242:443?sni=www.f6r.ir&peer=www.f6r.ir&security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.221.242
+trojan://MiTiVPN@151.101.222.222:80?security=none#CL 🇨🇱 ┇ TROJAN-TCP-NTLS - FASTLY ┇ 151.101.222.222
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112

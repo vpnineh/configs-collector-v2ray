@@ -1,12 +1,10 @@
 trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
 trojan://humanity@8.6.112.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
-vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=ProxyVPN11.dns.xn--q9jyb4c&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.121
-vless://36a41d68-7ee1-4eac-80de-76848f5879da@s2.meoshop.ir:2053?type=xhttp&security=tls&path=/&sni=server.meoshop.ir&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.62
-vless://be5ee63f-2537-4aee-bf7b-f416de371d1e@httppp.hexo-music.ir:2082?type=httpupgrade&security=none&path=/#AT 🇦🇹 ┇ VLESS-HTTPUPGRADE-NTLS - LEVEL3 ┇ 8.6.112.7
 vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?type=xhttp&security=tls&path=/&sni=GgAaQxYq9.MuChMuCk.oRg&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.223
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@8.34.70.140:80?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2#KR 🇰🇷 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.34.70.140
-vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?type=ws&security=tls&path=/&sni=dl-pack.motionbetter.ir&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.56
+vless://be5ee63f-2537-4aee-bf7b-f416de371d1e@httppp.hexo-music.ir:2082?type=httpupgrade&security=none&path=/#AT 🇦🇹 ┇ VLESS-HTTPUPGRADE-NTLS - LEVEL3 ┇ 8.6.112.7
+vless://36a41d68-7ee1-4eac-80de-76848f5879da@s2.meoshop.ir:2053?type=xhttp&security=tls&path=/&sni=server.meoshop.ir&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.62
+vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=ProxyVPN11.dns.xn--q9jyb4c&fp=chrome#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.6.112.121
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
+vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.56
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
-vless://1cabc570-66cf-4f9e-bead-8d3d055b5811@ns2.zabidat.ir:2086?type=httpupgrade&security=none&path=/#SK 🇸🇰 ┇ VLESS-HTTPUPGRADE-NTLS - LEVEL3 ┇ 8.47.69.6
-vless://615b457e-fb2a-4bb7-854b-99c0e2c16b2a@8.39.125.143:2087?type=ws&security=tls&path=/go/tags?ed=2560&sni=sd.cbb.j3.ink&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.39.125.143
+vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@8.39.125.122:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.39.125.122

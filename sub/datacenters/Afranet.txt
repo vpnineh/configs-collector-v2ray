@@ -1,1 +1,4 @@
+vless://208e18ac-ef98-433b-ac51-eeea3ac3acfa@tuns.textin.ir:2096?type=ws&security=tls&path=/cdn-sync&sni=tuns.textin.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 79.175.177.143
 vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.196
+vless://Telegram-Parsashonam-12@79.175.189.145:443?type=xhttp&security=tls&path=/p4r34m&sni=p4r34m.hendevaneh.sbs#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Afranet ┇ 79.175.189.145
+vless://74056a6c-5d51-40ce-9177-01f468b37cd9@edge.mcinet.live:443?type=tcp&security=reality&sni=telewebion.ir&fp=chrome&flow=xtls-rprx-vision&pbk=cF3Y4-bXsmD6TKJTETjCwsIesD3PoFE8YDprf-J67C8&sid=0123abcd#IR 🇮🇷 ┇ VLESS-TCP-RLT - Afranet ┇ 79.175.177.41
