@@ -1,3 +1,4 @@
-trojan://SoftNetConnect@194.5.193.58:42549?sni=www.speedtest.net&peer=www.speedtest.net&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.58
 trojan://SoftNetConnect@194.5.193.150:443?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#DE 🇩🇪 ┇ TROJAN-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 194.5.193.150
+trojan://SoftNetConnect@194.5.193.58:42549?sni=www.speedtest.net&peer=www.speedtest.net&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.58
+vless://6168d6be-941a-4559-8964-00ea67307d8d@b65a214cfd86088f.ravenlo.ir:1310?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.192.173
 vless://b596344c-9876-4901-a15a-5e6a7c415546@gl1.guardiansangel.cv:8080?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=pah0CTeqDGulRkfMAn_JLXQt765rwbpjQR-H2r_5aAs&sid=e7ec#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arvancloud Global Technologies L.L.C ┇ 194.5.192.239

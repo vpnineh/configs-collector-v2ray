@@ -1,10 +1,15 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
 trojan://zK=0KfL3IG+sNNZL-J7d0Nonu4wFBx8MOy@172.235.229.227:443?security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.235.229.227
 vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://2947e655-6da6-4f90-b983-4deb8b5bc539@italy.lizard2shop.com:2053?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#IT 🇮🇹 ┇ VLESS-GRPC-RLT - Aruba S.p.A. ┇ 95.110.158.39
+vless://0f06fd46-c14b-4962-9c9e-ba716c75e861@italy-seren.serendpiti.ir:1098?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=-Hc8DumzuU3vH_3mhQjpM1GjzFI7Sjrpw7KRIX_7VyE&sid=7bba64a7eb72a71b#IT 🇮🇹 ┇ VLESS-XHTTP-RLT - Aruba S.p.A. ┇ 80.211.133.241
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.110
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
+vless://21cfa4bf-f00f-4e8d-a3c0-3c023d8f38f6@v3.lunaparkmaku.ir:42542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - C1V ┇ 152.89.168.240
 trojan://Mitivpn@151.101.242.172:80?security=none#IT 🇮🇹 ┇ TROJAN-TCP-NTLS - FASTLY ┇ 151.101.242.172
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
+vless://d51524eb-ed6f-43c9-877d-90718d300e20@life4.forredeye.com:2714?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=-lbK7wR5gjTZp-hrWxMylfYhBAKASCgR9wIPCVzRAno&sid=6ba85179e30d4a27#IT 🇮🇹 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 45.92.70.127
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 103.241.66.76
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.92
