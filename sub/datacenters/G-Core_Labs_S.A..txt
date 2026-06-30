@@ -2,47 +2,37 @@ vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?type=tcp&securi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@146.185.248.22:989#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 146.185.248.22
 vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.152
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.120
-vless://t-me-V2RayyNGvpn@92.223.62.25:11858?type=tcp&security=none#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.62.25
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?type=ws&security=none&path=/#BG 🇧🇬 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 89.44.197.77
-vless://d51524eb-ed6f-43c9-877d-90718d300e20@life.forredeye.com:2710?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=-lbK7wR5gjTZp-hrWxMylfYhBAKASCgR9wIPCVzRAno&sid=6ba85179e30d4a27#BG 🇧🇬 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 89.44.197.205
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyA3OC4xMTEuMTAyLjIzMiIsImFkZCI6Ijc4LjExMS4xMDIuMjMyIiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6ImF1dG8ifQ
-vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
 vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?type=tcp&security=none&path=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.45.184.133
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.171.89:989#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.171.89
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@92.38.171.103:50004#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.171.103
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:804#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 95.85.90.181
-trojan://IL37892054@just-alpaca.rooster465.autos:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.244.208.52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:810#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 95.85.90.181
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.244.208.59
+trojan://IL37892054@just-alpaca.rooster465.autos:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.244.208.52
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgMTg1LjE0LjQ3LjI0MCIsImFkZCI6IjE4NS4xNC40Ny4yNDAiLCJwb3J0IjoyMDg2LCJpZCI6IjdhOGExOWVjLTk0ZjUtNDI2Mi1lZGJlLWEzMDhlMWQwYzY2ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2FyaWVzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAxODUuMjQ0LjIwOC4xOTYiLCJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
-vless://d51524eb-ed6f-43c9-877d-90718d300e20@life4.forredeye.com:2714?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=-lbK7wR5gjTZp-hrWxMylfYhBAKASCgR9wIPCVzRAno&sid=6ba85179e30d4a27#IT 🇮🇹 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 45.92.70.127
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.137.142
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyA0NS44Mi4zMS4xNjQiLCJhZGQiOiI0NS44Mi4zMS4xNjQiLCJwb3J0IjozMzg5LCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.163.53
 ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@92.223.105.40:50006#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.105.40
-vless://69f8627e-b222-48a9-b408-4696c0e66848@mci3.downbala.com:443?type=grpc&security=tls&sni=mci3.downbala.com&fp=chrome#LU 🇱🇺 ┇ VLESS-GRPC-TLS - G-Core Labs S.A. ┇ 93.114.56.114
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.77
-vless://46834b61-a623-42cd-9171-a94572ffe56c@79.133.126.199:31009?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 79.133.126.199
-vless://d51524eb-ed6f-43c9-877d-90718d300e20@life3.forredeye.com:2713?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=-lbK7wR5gjTZp-hrWxMylfYhBAKASCgR9wIPCVzRAno&sid=6ba85179e30d4a27#NL 🇳🇱 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 5.8.34.145
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.108.10:989#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.108.10
-vless://b21c558b-1ca1-4159-a140-868448e5b1a8@62.112.222.47:8080?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
-vless://d51524eb-ed6f-43c9-877d-90718d300e20@life6.forredeye.com:2710?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=-lbK7wR5gjTZp-hrWxMylfYhBAKASCgR9wIPCVzRAno&sid=6ba85179e30d4a27#PL 🇵🇱 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 94.156.99.39
+vless://73a2385a-66d6-49eb-8bc3-c33d3376af17@panel.karmatel.ir:8880?type=ws&security=tls&path=/&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 62.112.222.47
 ss://Y2hhY2hhMjA6djJrTkxZSkZ2YQ@5.188.36.6:4619#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.36.6
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAxMDMuMjE1LjIxOC4yMjIiLCJhZGQiOiIxMDMuMjE1LjIxOC4yMjIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAyMDIuNzguMTYyLjUiLCJhZGQiOiIyMDIuNzguMTYyLjUiLCJwb3J0Ijo0NDMsImlkIjoiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://c32cd91e-ea89-46e9-9cd7-83299060675a@myip.check.nonpath.ir:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.63
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
-vless://44061174-3cd9-415d-891d-070e22964114@sdeovbmttkl.dadashinet10.ir:2044?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.74
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@93.114.98.241:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=B_wBq5f4zAcNXK2nvrsOOV1Fz3Vb_I6VBV_VlNg7emA&sid=3026393990dbc6c9#TR 🇹🇷 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 93.114.98.241
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@turkey.shabtaban.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&sid=a796a1f52722b3a5#TR 🇹🇷 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 93.114.98.164
+vless://46882b9b-ef05-4655-a87d-47ce74d00939@213.156.152.151:2083?type=tcp&security=reality&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&sid=c5432bb8e5c0#TR 🇹🇷 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 213.156.152.151
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
-vless://d51524eb-ed6f-43c9-877d-90718d300e20@life2.forredeye.com:2712?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=-lbK7wR5gjTZp-hrWxMylfYhBAKASCgR9wIPCVzRAno&sid=6ba85179e30d4a27#UA 🇺🇦 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 91.239.65.47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@79.133.109.56:1036#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 79.133.109.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@5.188.0.151:800#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.0.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjM@5.188.111.182:826#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.111.182
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjM@92.38.169.196:826#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.169.196
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@92.38.176.81:811#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.176.81
-vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145
-vless://d51524eb-ed6f-43c9-877d-90718d300e20@life5.forredeye.com:2715?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=-lbK7wR5gjTZp-hrWxMylfYhBAKASCgR9wIPCVzRAno&sid=6ba85179e30d4a27#US 🇺🇸 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 5.45.185.84
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.161.101
