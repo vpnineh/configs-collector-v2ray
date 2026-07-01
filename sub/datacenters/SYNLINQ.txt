@@ -1,4 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU1lOTElOUSBcdTI1MDcgNS4xODAuMjUzLjMxIiwiYWRkIjoiNS4xODAuMjUzLjMxIiwicG9ydCI6MTc1MTEsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 37.114.48.146
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.30.104:443?type=xhttp&security=tls&path=/kavir&sni=dey.lnmarketplace.net&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - SYNLINQ ┇ 89.144.30.104
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?type=tcp&security=tls&sni=bero-3.bexum.fun&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 37.114.48.146
 vless://90b72c7b-6f16-462a-aaef-0a69c52cbe59@89.106.86.101:25130?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=UwQaEFtxHQWq3Hmtac-joTReqyfkmtfze27QCT8a5mk&sid=6b068f52fd77#DE 🇩🇪 ┇ VLESS-TCP-RLT - SYNLINQ ┇ 89.106.86.101

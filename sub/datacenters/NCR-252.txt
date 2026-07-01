@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxU0RfckpLdTNYYXpkYjR5YnZIdXB3@153.76.112.64:1080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NCR-252 ┇ 153.76.112.64
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.213.174
+vless://98144540-9699-42b2-bac7-e1c243310ae7@de1.codesystem.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.76.112.92
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU#US 🇺🇸 ┇ VLESS-GRPC-RLT - NCR-252 ┇ 132.243.65.121
-vless://c7ae13c4-eaf8-4512-b16d-4f79485c8d36@gerr1.greewebservices.ir:1040?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.167.192
-vless://Telegram%3ATurboConfigs@153.52.92.56:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.56

@@ -16,4 +16,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#NO 🇳🇴 ┇ SH
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.219:989#PR 🇵🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.255.219
 vless://253ded96-665e-420d-86fb-16d4b6701155@stockholm.wizard1.info:2045?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#SE 🇸🇪 ┇ VLESS-GRPC-RLT - BrainStorm Network, Inc ┇ 185.186.78.193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA@23.95.75.146:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 23.95.75.146
-vless://2947e655-6da6-4f90-b983-4deb8b5bc539@us.eorqen.ir:2050?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 23.95.75.124
+vless://2947e655-6da6-4f90-b983-4deb8b5bc539@us.eorqen.ir:2050?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=CnLETCV02SjuYQ_NIET-Um0iw2YHQ5Smrs4vdnHaMB8&sid=d2d1dad761fa733c#US 🇺🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 23.95.75.124
