@@ -1,11 +1,10 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.115
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.108.22
 vless://fedf7ff3-0bd2-45dd-ba36-b25cda318388@31.57.28.197:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=jWNzEE0kjuK_3n0XQHdG_eEime9kSQt-O01XK5C68Fo&sid=201f2fa0#AE 🇦🇪 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 31.57.28.197
-vless://2c0fe303-348c-4fa5-a8a8-c43c30aa5db8@lative-seren.serendpiti.ir:1098?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=-Hc8DumzuU3vH_3mhQjpM1GjzFI7Sjrpw7KRIX_7VyE&sid=7bba64a7eb72a71b#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - NTT-DATA-2914 ┇ 31.57.29.28
 vless://5c6ec644-1187-470d-82ed-ce01ac927109@64.188.80.58:443?type=tcp&security=reality&sni=x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=lJGBMgeSYrhJyK01eYOOfj-4v0Mie1ayZwbjQfm-SQI#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.58
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?type=tcp&security=reality&sni=www.wikihow.com&fp=firefox&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.250
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?sni=130.94.94.15&peer=130.94.94.15&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.94.15
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&peer=www.event-snapshot.click&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.3.146
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?sni=130.94.94.15&peer=130.94.94.15&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.94.15
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.114.217
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.78.17
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.1.144
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@e1.xjjxdjjahgsgkgdkah.garletshopino.com:20224?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.46.39
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.1.144

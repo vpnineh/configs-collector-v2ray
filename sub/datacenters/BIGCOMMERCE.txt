@@ -1,5 +1,5 @@
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?type=ws&security=tls&path=/api/v1/stream&sni=sync.amordad.xyz&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 192.200.160.252
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?type=tcp&security=none&path=/188.240.213.98:8443#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.45
+vless://8486b4db-0e97-4839-a132-5335bd85143f@cdn1.sokharivakilabad.ir:2086?type=ws&security=none&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&sni=ez-845bea.ezaccess191b3ef.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.111
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:8443?type=ws&security=tls&path=/uwHRX9vRmfxJ2eDm?ed&sni=US.xiAOEr.uS.kG&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.91
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?type=ws&security=tls&path=/?proxyip&sni=xe.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.219
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?type=tcp&security=none&path=/188.240.213.98:8443#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.45
 vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 192.200.160.20
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?type=ws&security=tls&path=/?proxyip&sni=xe.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.219
