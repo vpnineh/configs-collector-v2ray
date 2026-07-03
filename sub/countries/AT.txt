@@ -14,5 +14,5 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?type=ws&security
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?type=ws&security=tls&path=/?proxyip&sni=ve.ylkszy.eu.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.200.89
-vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@user321-21.riseservice.me:443?type=tcp&security=reality&path=/&sni=user321-21.riseservice.me&fp=chrome&flow=xtls-rprx-vision&pbk=lu91XgKjcTukX31kiSavOsTyhrkWsTp7a_VGnfTYy1g&sid=dd1f20d0be614703#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.229.255
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@152.53.200.72:8443?type=ws&security=tls&path=/&sni=vpn47.cc.cd#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.200.72
 vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?type=tcp&security=reality&sni=ads.x5.ru&flow=xtls-rprx-vision&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4&sid=19ffa83bd83eb32d#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.139.226
