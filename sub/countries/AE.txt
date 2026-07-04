@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 217.60.249.112
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 31.56.146.51
 vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 193.58.119.134
-vless://6194f73e-67de-445a-b83c-c963e42d5592@45.86.228.237:443?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#AE 🇦🇪 ┇ VLESS-GRPC-RLT - BlueVPS OU ┇ 45.86.228.237
+vless://8fccb509-683c-40b8-92b4-c618c75bab3d@t5.novatechlab.ir:2021?type=xhttp&security=reality&path=/&sni=aparat.com&fp=edge&pbk=4l4-oHmaKgUrC32gqmFUw0EjRsGx1cNwlOFMhLQIHAg&sid=70#AE 🇦🇪 ┇ VLESS-XHTTP-RLT ┇ 217.60.255.152
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
 trojan://MITIVPN@94.140.0.100:443?sni=95r.ir&peer=95r.ir&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.100
 trojan://MITIVPN@94.140.0.40:443?sni=Usa.App-Cloud.ir&peer=Usa.App-Cloud.ir&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.40
@@ -14,12 +13,13 @@ vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Infinity Information Technology ┇ 31.57.158.48
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
 vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.144
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.108.161:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.108.161
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.108.34
 vless://fedf7ff3-0bd2-45dd-ba36-b25cda318388@31.57.28.197:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=jWNzEE0kjuK_3n0XQHdG_eEime9kSQt-O01XK5C68Fo&sid=201f2fa0#AE 🇦🇪 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 31.57.28.197
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTkzLjEyMy44MS4yMzUiLCJhZGQiOiIxOTMuMTIzLjgxLjIzNSIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
-vless://f4ffe80b-7ab8-4962-96d3-199e67d0375f@217.60.23.156:443?type=tcp&security=reality&sni=www.uva.nl&flow=xtls-rprx-vision&pbk=FT06YL4eboMWW18rqHTicmV38Ai6uQ5i1B5qaA1Pkys&sid=15a2bd172f1dddb4#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 217.60.23.156
 vless://ece8760d-3b9b-4a78-9b4a-8c00758cc066@tr.motorbazan.com:2087?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Weridata LLC ┇ 31.57.225.245
 vless://71042309-68b3-4898-9134-6129b08f0bde@31.57.225.191:443?type=tcp&security=reality&sni=ibm.com&flow=xtls-rprx-vision&pbk=HjpECTwzhG94k3Mc2AOFw8dlsgjewFLqJg52VIV2Mzk&sid=c9f168ccbfc17af1#AE 🇦🇪 ┇ VLESS-TCP-RLT - Weridata LLC ┇ 31.57.225.191
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWkVOLUVDTiBcdTI1MDcgODUuMjM3LjIxMS4yMTkiLCJhZGQiOiJ1bC11YWUyLjA5dnBuLmNvbSIsInBvcnQiOjgwLCJpZCI6IjdmNTJiODFlLWJjOTYtNDc3Mi04MzU5LWI3ZGFjYjIxNmNhMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzLyJ9

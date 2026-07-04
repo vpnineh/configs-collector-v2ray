@@ -1,3 +1,5 @@
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.213.174
-vless://5adb89d1-471b-4cfb-b83d-71c2984ed264@153.75.235.64:2083?type=tcp&security=reality&sni=docker.com&fp=firefox&pbk=FiMM21acjDa_KaFNiOfE-wdvBZJQT9874mEh_TB21BE&sid=b4419779f8daeaaf#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.75.235.64
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@it-just.dataload-cdn.ru:443?type=tcp&security=reality&path=/&sni=www.sony.com&fp=chrome&pbk=lZf2K14GxiyyUM4zovDM20iuvkYQcGrXbPd18F3Jyzo&sid=1ab2#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.255.213
+vless://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&sid=abcd1234#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.254.58
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU#US 🇺🇸 ┇ VLESS-GRPC-RLT - NCR-252 ┇ 132.243.65.121
+vless://f1e24501-c905-4b91-a029-3a3370bc7312@fl-cdn.ru:443?type=tcp&security=reality&sni=fl-cdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=UVteEq1YeqUTm7WIGPDUwQ3pegxSSWR9CBCXglsVLAU&sid=7a3f9e2b1c8d4f6a#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.223.113
