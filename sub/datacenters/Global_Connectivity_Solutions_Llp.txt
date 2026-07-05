@@ -6,6 +6,6 @@ vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?type=tcp&secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJdDJOaUJic0h2dmhxVTVhR0VaMnBJ@5.253.59.156:32140#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 5.253.59.156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 89.23.103.21
 vless://588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?type=ws&security=tls&path=/websocket&sni=nl08.abvpn.ru#NL 🇳🇱 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 89.23.103.150
-vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?type=tcp&security=reality&sni=www.samsung.com&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&sid=16#NL 🇳🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 89.23.107.137
+vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 89.23.107.137
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.169
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@83.217.9.76:989#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.76

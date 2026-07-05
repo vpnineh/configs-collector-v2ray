@@ -1,6 +1,7 @@
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 152.53.200.89
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@152.53.200.72:8443?type=ws&security=tls&path=/&sni=vpn47.cc.cd#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.200.72
-vless://8b04b31b-6435-472e-a598-90705c575afc@au-n1.gsupport.support:443?type=tcp&security=reality&sni=au3.greenzone12.com&fp=firefox&flow=xtls-rprx-vision&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.44.105
 vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?type=tcp&security=reality&sni=ads.x5.ru&flow=xtls-rprx-vision&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4&sid=19ffa83bd83eb32d#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.139.226
+trojan://79ea3690-a658-4716-941e-164acabb7182@de-tr-122.cdn9.us:900?sni=DE-TR-122.cdn9.us&peer=DE-TR-122.cdn9.us&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - netcup GmbH ┇ 89.58.33.122
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.68.53.11:443?type=ws&security=tls&path=/&sni=vpn47.cc.cd&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - netcup GmbH ┇ 188.68.53.11
+vless://79ea3690-a658-4716-941e-164acabb7182@de248rx.fillmoo.pro:8443?type=xhttp&security=reality&path=/&sni=updates.cdn-apple.com&fp=chrome&pbk=syU0KiDaGsctHMtC1C8aOHg8YAdeR4axd5ci7Sj2kVs&sid=51c0a6c1c98ce4be#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - netcup GmbH ┇ 37.120.186.248
 vless://dbd258b1-1bd3-4cd8-8e5c-fb54fab08800@nl.ipsenter.org:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=x19FcTHLgg_eTYNTpwWKac46ilu-ZqarqkAxK3ahRxg&sid=d4b58110ca302ec5#NL 🇳🇱 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.107.196
