@@ -1,6 +1,2 @@
-vless://7fbdb340-6434-430b-8a0a-86363840acb9@myip.check.nonpath.ir:42542?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.126
-vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.128
-vless://ece8760d-3b9b-4a78-9b4a-8c00758cc066@tr.motorbazan.com:2087?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.53
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.93
-vless://a4376779-88a3-4752-9654-126bf55b6f08@87.120.106.210:443?type=tcp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=RfXhX5lUkxq1DZf0Bb-N2ijyPakixN01msTTL6Oy4QI&sid=b42a#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.210
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45
