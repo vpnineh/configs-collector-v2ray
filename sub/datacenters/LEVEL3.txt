@@ -1,6 +1,6 @@
 trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
 trojan://humanity@8.6.112.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&path=/rsedgws&sni=shegeftihaaa.net#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.0
-vless://da806925-524d-46e2-a48d-154c19e73288@8.39.125.216:8443?type=ws&security=tls&path=/?u=f10d2ec2b8&sni=ez-cdcc99.hamidreza908327.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.39.125.216
+vless://441da419-f2de-4ce8-87eb-f7c47545a7be@8.39.125.9:443?type=ws&security=tls&path=/&sni=nova-falcon-core-ec15.nova-52b887.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.39.125.9

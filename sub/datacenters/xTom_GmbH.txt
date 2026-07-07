@@ -1,8 +1,7 @@
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.66
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.64
-ss://YWVzLTI1Ni1nY206ODd4dlBQTDJXVlduS2NzZQ@c331s1.portablesubmarines.com:8505#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - xTom GmbH ┇ 65.49.151.89
+ss://YWVzLTI1Ni1nY206ODd4dlBQTDJXVlduS2NzZQ@c331s1.portablesubmarines.com:8505#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - xTom GmbH ┇ 65.49.151.141
 trojan://shenmegui@185.49.33.47:8461?sni=$jp.swiftfalcon.app&peer=$jp.swiftfalcon.app&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.49.33.47
-trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 194.124.216.192
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 194.124.216.109
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 194.124.216.187
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My4xMC4yIiwiYWRkIjoiYzg3czUucG9ydGFibGVzdWJtYXJpbmVzLmNvbSIsInBvcnQiOjE4MzM5LCJpZCI6IjNjZDkwNzdkLTc2ZjctNDEwNC1iZDgyLWViNjkxNmI4OWQ0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 194.124.216.109
+trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 194.124.216.192

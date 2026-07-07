@@ -1,4 +1,5 @@
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.213.174
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@it-just.dataload-cdn.ru:443?type=tcp&security=reality&sni=www.sony.com&fp=chrome&pbk=lZf2K14GxiyyUM4zovDM20iuvkYQcGrXbPd18F3Jyzo&sid=1ab2#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.255.213
+vless://38c81d66-bbf6-42aa-a293-7599126dfeab@fra.easyir.ir:35155?type=tcp&security=reality&sni=bpi.ir&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=f830f6#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.160.53
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU#US 🇺🇸 ┇ VLESS-GRPC-RLT - NCR-252 ┇ 132.243.65.121
 vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-02.fsulink.com:34355?type=tcp&security=reality&sni=aws.amazon.com&flow=xtls-rprx-vision&pbk=tHb4kAmJ4Vlcrlpmz3_pRQItLsy1cHuE0DwxEWDmZQg&sid=46627f094d#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.75.224.130

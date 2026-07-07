@@ -1,1 +1,3 @@
+vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@176.109.92.139:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#RU 🇷🇺 ┇ VLESS-TCP-RLT - MTS PJSC ┇ 176.109.92.139
+vless://86134fee-4c27-42e8-8660-e64b9c8150ad@176.109.88.217:33443?type=grpc&security=reality&sni=5post-gate.x5.ru&pbk=Jd_VsyCzLh-UHJoeazmppnwqBkVuzS-VaQNPu6_EpWM#RU 🇷🇺 ┇ VLESS-GRPC-RLT - MTS PJSC ┇ 176.109.88.217
 vless://9b026b23-81c5-420b-99c4-21a410c74c33@176.109.88.216:42005?type=grpc&security=reality&sni=5post-gate.x5.ru&pbk=8jSm3l2rscoT02YpYSbnsPdkMeipd4eow2MmpfQOen8#RU 🇷🇺 ┇ VLESS-GRPC-RLT - MTS PJSC ┇ 176.109.88.216
