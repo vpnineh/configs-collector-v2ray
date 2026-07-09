@@ -1,5 +1,7 @@
+vless://df3be4e6-d13a-490e-9ee7-1adf309b3301@87.120.106.52:8090?type=tcp&security=none&path=/@AZARANV2RAY@AZARANV2RAY@AZARANV2RAY@AZARANV2RAY@AZARANV2RAY@AZARANV2RAY@AZARANV2RAY@AZARANV2RAY@AZARANV2RAY@AZARANV2RAY#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.52
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.93
-vless://9464bf5d-1720-4bcd-bdd9-d60b8b298c4f@87.120.106.52:8090?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.52
-vless://94630b15-f7f5-4885-8713-e5a83ea091ee@myip.check.nonpath.ir:42542?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.126
+vless://d2c63087-efa0-4c7a-a35f-9ffdb47caae7@ger1.fastcodz.ir:52077?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&sid=c1fcab160b4c8bed#CO 🇨🇴 ┇ VLESS-GRPC-RLT ┇ 87.120.106.222
+vless://b31b6572-a9ec-4949-a5ee-af518a5a89d6@trsrv.azmoon361.ir:11000?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.163
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.32.9
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.223.16.41
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45
