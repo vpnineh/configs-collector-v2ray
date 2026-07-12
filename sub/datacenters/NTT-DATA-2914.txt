@@ -1,7 +1,4 @@
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.108.161:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.108.161
-vless://e7a475e2-58f8-43cc-b90a-4512b16cbeb6@t3.zeus40.ir:14519?type=tcp&security=none&path=/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 91.92.250.28
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?type=tcp&security=reality&sni=www.wikihow.com&fp=firefox&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.250
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNythdDJTbnk3ek9EeUhTMU9TNlFSZXBMOC01bWFOVUZG@130.94.0.150:21376#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.0.150
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&peer=www.event-snapshot.click&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.3.146
-vless://0bef99f1-1ab7-4949-8991-80914d9c7535@207.57.129.74:51864?type=tcp&security=reality&sni=dash.cloudflare.com&flow=xtls-rprx-vision&pbk=p8vKj6rINds1EgmeSIFOv6uds8IxnN8ypjIslksAYgA#US 🇺🇸 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 207.57.129.74
-vless://a0c1f44e-7260-4611-9a5d-e647722d08a7@207.57.131.128:55538?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=kSAhVaoRtsRLSWjEso6wOY9Op8m7CPh2qMGVBAG8MWc#US 🇺🇸 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 207.57.131.128
+vless://6e2c1d3c-4150-4c2d-b8b4-04907412fe59@om.corecloud.space:42268?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NTT-DATA-2914 ┇ 130.94.81.27

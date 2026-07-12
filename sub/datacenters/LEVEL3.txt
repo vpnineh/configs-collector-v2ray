@@ -1,7 +1,7 @@
 trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
 trojan://humanity@8.6.112.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
-vless://478553ef-4573-4459-9a8f-e3927a9aed03@8.6.112.8:443?type=ws&security=tls&sni=IfoRgeTHowthEweStwAswOn.FaIRIt.ir#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.8
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
+vless://2ff4cc47-286c-49a6-82be-8c51abf1e634@8.35.211.65:2083?type=ws&security=tls&path=/&sni=nova-coral-portal-e552.nova-765c7d.workers.dev&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.65
 vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@8.35.211.73:443?type=ws&security=tls&path=/glasspanel/guest000_0_5de14443985f/&sni=stx4x.gyvz.kj2.hh.hhyf.kdns.fr#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.73
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&path=/rsedgws&sni=shegeftihaaa.net#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.0

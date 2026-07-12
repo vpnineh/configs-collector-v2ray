@@ -2,4 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:513
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 92.118.149.85
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@195.20.208.72:443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ndjp.net&fp=random#LV 🇱🇻 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 195.20.208.72
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@82.118.21.21:50004#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 82.118.21.21
+vless://1c87aa46-693f-4070-8809-53c1124cc99c@portal.seysisi.ir:443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=itGRjgYQO-5Y74sh0r2xngsaVVTMwlxlQcEzH7rESTY&sid=78f403c15670ab55#RO 🇷🇴 ┇ VLESS-GRPC-RLT - Green Floid LLC ┇ 82.117.255.217
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
+vless://1c87aa46-693f-4070-8809-53c1124cc99c@3.seysisi.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=uavwmT5NFqZs45yG4eV0x_Id0Qmr7oU8CjZCyiU6LSs&sid=3df2abe8c93418a6#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.68.4
