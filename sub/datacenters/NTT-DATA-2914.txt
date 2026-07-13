@@ -1,4 +1,5 @@
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.108.161:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.108.161
+vless://3544b5fc-a5bc-4d03-89fb-c1787c8719cd@31.57.28.16:8080?type=xhttp&security=reality&path=/ws&sni=play.google.com&fp=chrome&pbk=opJtSOP5IDRUindFufbrBBdWVWnrNAyfIbPHGnaBW1Y&sid=3dc10c875cf37011#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - NTT-DATA-2914 ┇ 31.57.28.16
+vless://0c208adf-e5d0-44b1-abc6-0b1b50a8bee6@riga.jorzel.ir:19302?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=yr3q-vsj5zsbIOSDFaYlKNhGc-C4P2GrnpljVeaAblE&sid=86b5b1f40a5893e1#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - NTT-DATA-2914 ┇ 31.57.29.28
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?type=tcp&security=reality&sni=www.wikihow.com&fp=firefox&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.250
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&peer=www.event-snapshot.click&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.3.146
-vless://6e2c1d3c-4150-4c2d-b8b4-04907412fe59@om.corecloud.space:42268?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NTT-DATA-2914 ┇ 130.94.81.27

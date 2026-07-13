@@ -1,13 +1,11 @@
 vless://6beee13a-f356-4a51-8e65-75f776508e8f@78.159.131.5:443?type=tcp&security=reality&sni=al.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=8051d89749e0d400#AL 🇦🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 78.159.131.5
-vless://612c872d-1370-4109-8644-f0755f97e33f@85.208.139.100:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&sid=16#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.208.139.100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSFlyMm4wbGtQVHRlejdSRmpXSk9L@45.95.232.138:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.95.232.138
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMk5GbER0Uk5mWFpvZlhzRGowM0hk@194.87.45.189:40076#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.87.45.189
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@fr-po.pngv.top:4999?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.62.59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXTU5GRmpRcWRGTlg0b0RvMWIyTFZP@5.253.59.156:32140#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 5.253.59.156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 89.23.103.21
 vless://588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?type=ws&security=tls&path=/websocket&sni=nl08.abvpn.ru#NL 🇳🇱 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 89.23.103.150
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYkM0M1dlTnh1REFYZG1RWmRrd1Z4@62.133.63.222:48981#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.222
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowR0FLMmI5Z2txQmF0dXhpMmNzd21I@83.217.9.17:25232#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.169
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@83.217.9.76:989#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.76
 vless://fdebd2b4-4c8f-474a-851a-981082195643@turkgame.soltankabos.ir:22337?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.201
-vless://cde6db10-61db-418f-9ea1-52f7c13404a9@212.18.104.39:443?type=tcp&security=reality&sni=us-3.quillrook.com&fp=chrome&flow=xtls-rprx-vision&pbk=aUS8mT0VSLw8-Y-VyOWpf_gYQu6SIBipZL08CXsGXSk&sid=81b5b012#US 🇺🇸 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 212.18.104.39
+vless://cde6db10-61db-418f-9ea1-52f7c13404a9@212.18.104.39:443?type=tcp&security=reality&sni=us-3.quillrook.com&fp=firefox&flow=xtls-rprx-vision&pbk=aUS8mT0VSLw8-Y-VyOWpf_gYQu6SIBipZL08CXsGXSk&sid=81b5b012#US 🇺🇸 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 212.18.104.39
