@@ -1,3 +1,4 @@
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.103.114.206:8443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Servers Tech Fzco ┇ 146.103.114.206
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?type=ws&security=none&path=/ws#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 109.107.173.97
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?type=tcp&security=reality&sni=tradingview.com&fp=random&flow=xtls-rprx-vision&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.34.142.191
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?type=ws&security=none&path=/ws#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 62.84.98.106
+vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.34.142.191
