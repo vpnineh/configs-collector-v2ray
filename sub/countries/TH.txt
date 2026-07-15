@@ -1,7 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSA0NTMgTGFkcGxhY291dCBKb3Jha2hhZWJ1YSBcdTI1MDcgMTE5LjU5Ljk4LjM5IiwiYWRkIjoiMTE5LjU5Ljk4LjM5IiwicG9ydCI6MzAwMDEsImlkIjoiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIn0
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?type=ws&security=none&path=/ws#TH 🇹🇭 ┇ VLESS-WS-NTLS - Bangmod Enterprise Co., Ltd. ┇ 116.206.124.228
-vless://f4766125-c009-4f7a-bd4d-4a0d514ba966@ainet.sanaiehdasti.com:1323?type=tcp&security=none#TH 🇹🇭 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.189
 vless://ac767c97-53a0-447d-93e0-0d974fa150a9@mail.de.1249.moviechi.com:2053?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=ES8TdxvN00hhDJWVQHcIFUWAjlYXb0Si0yC7Fpta4iU&sid=a659c493e1156449#TH 🇹🇭 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 5.252.26.169
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@27.131.164.85:47121#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - KIRZ Service Provider ┇ 27.131.164.85
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - POPIDC powered by CSLoxinfo ┇ 43.254.132.220
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?type=ws&security=tls&path=/proxy&sni=43.164.0.59#TH 🇹🇭 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.164.0.59

@@ -1,10 +1,7 @@
-trojan://humanity@8.6.112.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
 trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.0
-vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@8.35.211.0:2096?type=ws&security=tls&path=/&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.0
+vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.87:2096?type=ws&security=tls&path=/fp=chromefp=chrome&sni=go.iranfree.de5.net&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.87
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
-vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@8.35.211.95:2083?type=ws&security=tls&path=/&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.95
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
-vless://e258977b-e413-4718-a3af-02d75492c349@8.47.69.6:443?type=tcp&security=tls#SK 🇸🇰 ┇ VLESS-TCP-TLS - LEVEL3 ┇ 8.47.69.6
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&path=/rsedgws&sni=shegeftihaaa.net#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.0
+vless://e258977b-e413-4718-a3af-02d75492c349@8.47.69.6:443?type=ws&security=tls&sni=ww1.aniuge.qzz.io&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.6
 vless://ac767c97-53a0-447d-93e0-0d974fa150a9@8.34.146.189:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEVEL3 ┇ 8.34.146.189
-vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@8.39.125.195:2096?type=ws&security=tls&path=/&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.39.125.195

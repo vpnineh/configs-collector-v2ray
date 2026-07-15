@@ -1,6 +1,5 @@
 vless://cb2e5fc3-c1bb-4cfc-b18c-69e450fbd017@84.201.172.164:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 84.201.172.164
-vless://596b215c-3743-4893-b24a-4e396c4ab80f@158.160.198.58:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=DQW3GuEvmRgUQnnKdHjSZhgaEDcu_07Ijuqibd72-0I&sid=ca7dd27a72c7c203#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.198.58
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.75:5443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 94.126.204.75
-vless://bcc39590-45d5-4e21-95d9-184c188dea3e@158.160.186.6:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.186.6
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.73:5443?type=xhttp&security=reality&path=/&sni=api-maps.yandex.ru&fp=chrome&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&sid=9c4d6cc74ba8968d#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 94.126.204.73
+vless://596b215c-3743-4893-b24a-4e396c4ab80f@158.160.198.58:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=DQW3GuEvmRgUQnnKdHjSZhgaEDcu_07Ijuqibd72-0I&sid=ca7dd27a72c7c203#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.198.58
 vless://647a1879-17e4-42f8-94a8-c04e336bec7a@158.160.223.194:6443?type=grpc&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=TNqg4w8G4ins8_dYps2Yi4bLcteAd8QlzHoPMJpA0mQ&sid=11223344#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Yandex.Cloud LLC ┇ 158.160.223.194
+vless://bcc39590-45d5-4e21-95d9-184c188dea3e@158.160.186.6:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.186.6
+vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.75:5443?type=xhttp&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&sid=9c4d6cc74ba8968d#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 94.126.204.75
