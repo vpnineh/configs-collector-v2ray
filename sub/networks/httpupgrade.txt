@@ -1,25 +1,19 @@
-vless://9cb9e5c0-dbc1-4b94-a0b3-14f805e375e9@aafc22.lizard2shop.com:2095?type=httpupgrade&security=none&path=/mammadali#AE 🇦🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 181.214.1.172
-vless://14400b5d-a218-4ed0-b4a9-d703a3501911@max-ep.443.erangle.ru:14368?type=httpupgrade&security=tls&path=/&sni=max-ep.443.erangle.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-TLS - Hetzner Online GmbH ┇ 138.201.246.240
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?type=httpupgrade&security=tls&path=/api&fp=chrome#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-TLS - Tfm Networks Limited ┇ 85.234.69.227
-vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?type=httpupgrade&security=none&path=/Tel:@Gap_Ip#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Fanava Group ┇ 95.38.164.158
-vless://526be552-290f-47b1-9a61-a13da8a0a43b@bmi.ir:80?type=httpupgrade&security=none&path=/#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.233.235
-vless://5361a986-91b9-4756-a78c-103261128d83@154.197.80.175:2082?type=httpupgrade&security=none&path=/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2082#JP 🇯🇵 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 154.197.80.175
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@160.153.0.183:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 160.153.0.183
-vless://06e811a4-8f6f-41fe-a44a-9052209c104c@135.84.73.161:8880?type=httpupgrade&security=none&path=/?ed=8880#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - USG-PROD-WEST01 ┇ 135.84.73.161
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS ┇ None
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?type=httpupgrade&security=none&path=/?ed=2080#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS ┇ None
-vless://2e622f08-444a-46d0-8dac-6f9709f4d172@soskeynets-host.net:8880?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS ┇ None
+vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?type=httpupgrade&security=none&path=/?ed=2080#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS ┇ None
 vless://12057eb0-5b11-47ed-b34b-0c8646b99864@104.24.38.200:8080?type=httpupgrade&security=none&path=/?ed=2056#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 104.24.38.200
 vless://12057eb0-5b11-47ed-b34b-0c8646b99864@cf.parsdev.eu:2052?type=httpupgrade&security=none&path=/?ed=2056#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 104.25.56.139
 vless://27345940-42d5-4508-a803-7c24da1c3080@173.245.59.132:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 173.245.59.132
+vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 172.67.163.103
+vless://612ebec7-9607-4946-b103-98927e69b438@172.67.193.36:8080?type=httpupgrade&security=none&path=/Daily_Configs-netmaster?ed=2048#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 172.67.193.36
+vless://7b53860a-3856-4cb7-b2a0-8b5d6f586abf@khar290.snappshp.com:443?type=httpupgrade&security=tls&sni=khar290.snappshp.com&fp=chrome#XX 🏳️ ┇ VLESS-HTTPUPGRADE-TLS - CLOUDFLARENET ┇ 172.67.223.125
+vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@172.66.213.11:8880?type=httpupgrade&security=none&path=/?ed=2082#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 172.66.213.11
+vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@cd3.postshup.ir:8880?type=httpupgrade&security=none&path=/?ed=2082#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 104.25.82.215
+vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@forallpanel.srtongston.ir:8880?type=httpupgrade&security=none&path=/?ed=2082#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 104.25.189.214
+vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 108.162.194.165
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@141.101.114.214:2086?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 141.101.114.214
 vless://c45ccb5a-d8a4-4f42-820e-d293702b3e86@172.66.43.66:8880?type=httpupgrade&security=none&path=/mahdi@1404-marz46wx-@simakade345z?ed=2560#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 172.66.43.66
 vless://a2e60452-9974-45a7-a32f-719a78ee21b0@172.67.141.236:8080?type=httpupgrade&security=none&path=/@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20?ed=2048#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 172.67.141.236
-vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@141.101.114.214:2086?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 141.101.114.214
-vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2052?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 104.25.189.214
-vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 104.21.74.214
-vless://7b53860a-3856-4cb7-b2a0-8b5d6f586abf@khar290.snappshp.com:443?type=httpupgrade&security=tls&sni=khar290.snappshp.com&fp=chrome#XX 🏳️ ┇ VLESS-HTTPUPGRADE-TLS - CLOUDFLARENET ┇ 172.67.223.125
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2095?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 104.18.1.125
-vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@172.66.213.11:8880?type=httpupgrade&security=none&path=/?ed=2082#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 172.66.213.11
-vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?type=httpupgrade&security=none&path=/#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 108.162.194.165
-vless://612ebec7-9607-4946-b103-98927e69b438@104.21.20.148:8080?type=httpupgrade&security=none&path=/Daily_Configs-netmaster?ed=2048#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 104.21.20.148
+vless://9ded88d1-ba1d-464f-9fc8-6a661fa90715@188.114.99.95:8880?type=httpupgrade&security=none&path=/TELEGRAM,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray?ed=2048#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 188.114.99.95
