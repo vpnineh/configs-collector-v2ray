@@ -1,3 +1,5 @@
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.93
+vless://9075494d-a949-4b3d-8f59-9073f32cba3f@helixgaming.ir:80?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.196
 vless://449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb@87.120.106.52:8081?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.52
+vless://75fade84-78cc-4877-bf93-8190c6bb9e12@pnl.speedmxm.space:443?type=tcp&security=reality&sni=www.sony.com&fp=chrome&pbk=1OulvsyhFTbv_GyUji256DWG4P2ncs0x-0tkVR3yYxU&sid=16#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.232
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45

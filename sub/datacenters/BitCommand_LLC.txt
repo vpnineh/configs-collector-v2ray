@@ -1,1 +1,3 @@
+vless://1d5eebb1-a520-4688-9ec1-c7405b8753f0@www.netipplus.ir:8022?type=tcp&security=reality&sni=www.netipplus.ir&fp=firefox&flow=xtls-rprx-vision&pbk=sAoXea8eA0uW8d0yPyuD0GJtvps5R4b_-mHXMKG8d0A&sid=f34484e7b6e6d0ce#NL 🇳🇱 ┇ VLESS-TCP-RLT - BitCommand LLC ┇ 156.241.0.62
 vless://e1a4109d-e0b2-4165-a7fa-b9ac32ea287b@turk.villy-tun.ir:443?type=ws&security=tls&path=/H?ed=2560&sni=turk.villy-tun.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 91.228.186.146
+vless://603000e8-d0c4-44a8-9b10-9a114e7bfd30@tr.mygoldiran.com:5432?type=xhttp&security=reality&path=/api&sni=www.chess.com&fp=chrome&pbk=_QQbh268O1EpZXPabgA33NhR77dM3Lw-VrX-GFpSiHs&sid=c884ecceb63910d9#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - BitCommand LLC ┇ 89.251.8.222
