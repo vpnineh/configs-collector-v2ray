@@ -1,4 +1,2 @@
-vless://1190b936-961a-44ee-a58d-72a195f8c7fc@153.75.89.76:443?type=tcp&security=reality&sni=login.ns.nl&flow=xtls-rprx-vision&pbk=_B0EXH15QH68LPWWM4xzPsn-NZbp2I1qYt4av-A1sWk&sid=b068c3e32befea68#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.75.89.76
-vless://44071682-0e02-49eb-9312-953613aaabbe@tr.qelmora.ir:443?type=tcp&security=reality&sni=cdn-apple.com&fp=chrome&pbk=adE4vkAtw-5ugiwo-f7nh-EivURRjYQONDay5q_L4Cc&sid=bfb3682cad08c9c7#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.231
 vless://55bb8b15-a9ca-47eb-9a01-a87cc6c7b783@135.106.142.63:443?type=tcp&security=reality&sni=sellflow.org&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 135.106.142.63
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU#US 🇺🇸 ┇ VLESS-GRPC-RLT - NCR-252 ┇ 132.243.65.121
