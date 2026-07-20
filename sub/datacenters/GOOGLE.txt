@@ -1,1 +1,1 @@
-vless://4822626d-60f2-4b41-80aa-34be590d8294@172.217.20.110:443?type=ws&security=tls&path=/&sni=server1-127012952871.europe-west1.run.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.217.20.110
+vless://b204bfe1-a97c-419e-b9ea-e3278db89b15@8.8.8.8:443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 8.8.8.8
