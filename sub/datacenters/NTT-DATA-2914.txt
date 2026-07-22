@@ -1,2 +1,4 @@
-vless://53e533f1-b46c-4d23-aaa3-9d50e8717efe@31.57.27.246:26721?type=tcp&security=none&path=/Join-us-@netprotects#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.246
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.105.133
+vless://23b48c50-613b-4dca-ba83-fc60a44116f0@31.57.27.246:34160?type=tcp&security=none&path=/Join-us-@netprotects#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.246
+vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?type=ws&security=false&path=/chunkycorp&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-FALSE - NTT-DATA-2914 ┇ 31.57.29.46
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&peer=www.event-snapshot.click&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NTT-DATA-2914 ┇ 130.94.3.146

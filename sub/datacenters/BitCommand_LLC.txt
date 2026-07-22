@@ -1,3 +1,3 @@
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.16.211
 vless://a56e597e-02cb-47f2-9b30-32d65a2fd749@185.110.189.52:8080?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Xuf1vFGP8iHHZ2VNbu37X8B4pnLurRqWkOW2vPx8lxQ&sid=0930#DE 🇩🇪 ┇ VLESS-TCP-RLT - BitCommand LLC ┇ 185.110.189.52
-vless://e1a4109d-e0b2-4165-a7fa-b9ac32ea287b@turk.villy-tun.ir:443?type=ws&security=tls&path=/H?ed=2560&sni=turk.villy-tun.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 91.228.186.146
+vless://6249321c-4457-4166-b040-3276f3b9c9b5@82.115.8.121:53437?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.8.121
