@@ -1,1 +1,3 @@
-vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@185.226.92.129:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.129
+vless://2587f65a-01fa-d6a4-3c8a-289bfdae6ee6@m2.hibb7.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.94.227
+vless://292d5d96-ca84-4387-bbf7-58963d40ecf7@dalo.salo.malo.khalo.shalo.teamunstable.shop:993?type=ws&security=tls&path=/ws&sni=dpi-s1-u2-c3-k4-s5.teamunstable.shop&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Big Core LLC ┇ 185.226.93.241
+vless://1ae6bff4-1516-44f3-b9da-87bcab5191b1@185.226.93.120:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=VQtNAOH-O0dwJVIx4gyBgi2VRD4HJh3qLKm6tpAvigA&sid=c6906dcafe931ef2#TR 🇹🇷 ┇ VLESS-TCP-RLT - Big Core LLC ┇ 185.226.93.120

@@ -1,3 +1,6 @@
-vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 192.200.160.20
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.103:443?type=ws&security=tls&path=/&sni=xa.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.103
+vless://2869afeb-f117-4206-9c29-2cdbeeb87f58@cn1.poefauscw.ir:8443?type=xhttp&security=tls&path=/&sni=hol.wplfhskr.ir.&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - BIGCOMMERCE ┇ 192.200.160.17
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@192.200.160.214:443?type=ws&security=tls&path=/?proxyip&sni=va.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 192.200.160.214
 vless://ff0d9e6c-6b4c-40c2-9254-f602b21aa836@63.141.128.22:80?type=tcp&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.22
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?type=tcp&security=none&path=/188.240.213.98:8443#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.45
+vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 192.200.160.20
