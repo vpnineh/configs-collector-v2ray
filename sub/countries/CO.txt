@@ -1,4 +1,5 @@
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.93
 vless://449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb@87.120.106.52:8081?type=tcp&security=none&path=/ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.52
-vless://95c5e125-c7b8-4aba-9b03-d02d3a0ae6db@myip.check.nonpath.ir:42542?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.41
+vless://a1760101-ec2b-46af-8a39-5ec8153a9f0b@87.120.106.189:8443?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=0Uv2IFSZJFPUoTdyiNBZSwnaJgNtqGkM5zqlrqkrxl4&sid=0bb1a21c5af3#CO 🇨🇴 ┇ VLESS-GRPC-RLT ┇ 87.120.106.189
+vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@turkey-naran.fizikade.ir:5039?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&sid=2e8424a2696cb606#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.125
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45

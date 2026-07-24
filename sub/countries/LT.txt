@@ -1,5 +1,4 @@
 trojan://MiTiVPN@89.116.250.135:443?sni=Win-Nll--l.App-Cloud.Ir&peer=Win-Nll--l.App-Cloud.Ir&security=tls#LT 🇱🇹 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 89.116.250.135
-vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@86.38.214.33:8080?type=xhttp&security=none&path=/?ed=2048#LT 🇱🇹 ┇ VLESS-XHTTP-NTLS - Cloudflare London, LLC ┇ 86.38.214.33
 vless://36ddcba8-5d7b-4243-8316-6adb4bfc6b88@88.216.67.230:443?type=ws&security=tls&path=/&sni=ez-c8f0f1.ezaccess1990eee.workers.dev&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 88.216.67.230
 vless://594b601b-b807-4998-a44e-9466f92ee4fa@193.111.117.8:1443?type=tcp&security=reality&sni=pls.snowfall.top&fp=chrome&flow=xtls-rprx-vision&pbk=jtEyL2mfSJ5rlvpMfYgkY6HaleCFRif0DnOOOXNHhxg&sid=0441f3e34348cb45#LT 🇱🇹 ┇ VLESS-TCP-RLT - Dedik Services Limited ┇ 193.111.117.8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.178
@@ -20,7 +19,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?type=grpc&security=n
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.24
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.51:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 185.150.117.51
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.25.200
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?type=tcp&security=reality&sni=statusdetector404.ru&fp=firefox&flow=xtls-rprx-vision&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 84.32.209.210
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?type=tcp&security=reality&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 5.199.170.105
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-2.concept7.ru:443?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=e29c9c180c62#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 5.199.170.70
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?type=tcp&security=reality&sni=statusdetector404.ru&fp=chrome&flow=xtls-rprx-vision&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 84.32.209.210
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?type=tcp&security=reality&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 5.199.170.105
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#LT 🇱🇹 ┇ TROJAN-TCP-TLS - UAB Interneto vizija ┇ 212.24.103.3
