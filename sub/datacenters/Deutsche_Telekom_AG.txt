@@ -1,3 +1,1 @@
-vless://1f2e690d-2a56-4f4c-90e1-b581886b3d26@81.31.211.172:2085?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Deutsche Telekom AG ┇ 81.31.211.172
-vless://2f03aff6-7774-4bdc-a04f-5feb5b3c21b0@81.31.211.170:2085?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Deutsche Telekom AG ┇ 81.31.211.170
 vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@t.avrilon.us:443?type=tcp&security=reality&sni=android.com&fp=chrome&flow=xtls-rprx-vision&pbk=wn5rNzAvTsOpmc6hHkw_woqwYGkFml8Uv2Klx9iydXI&sid=a1d0#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 82.26.198.131
