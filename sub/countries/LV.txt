@@ -2,7 +2,7 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@195.20.208.72:443?type=ws&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.86
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@185.135.86.173:9030#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.173
 vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 90.156.255.166
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.128.32.98:443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#LV 🇱🇻 ┇ VLESS-WS-TLS - RETN Limited ┇ 31.128.32.98
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 217.28.48.29
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 91.218.143.194
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.128.32.98:443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#LV 🇱🇻 ┇ VLESS-WS-TLS - RETN Limited ┇ 31.128.32.98
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 91.218.143.194
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
