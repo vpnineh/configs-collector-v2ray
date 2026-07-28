@@ -1,2 +1,5 @@
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HGC Global Communications Limited ┇ 210.0.158.220
-vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@82.23.163.53:443?type=tcp&security=reality#HK 🇭🇰 ┇ VLESS-TCP-RLT - HGC Global Communications Limited ┇ 82.23.163.53
+trojan://2774dfc7-6cb9-4802-81ee-306e85089744@210.0.158.220:28443?sni=download.windowsupdate.lol&peer=download.windowsupdate.lol&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HGC Global Communications Limited ┇ 210.0.158.220
+vless://93b99881-df03-4597-9146-0c11e46387f7@203.184.132.238:1520?type=ws&security=tls&path=/?ed&sni=cfv.cscfwoker.fun&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - HGC Global Communications Limited ┇ 203.184.132.238
+vless://93b99881-df03-4597-9146-0c11e46387f7@223.18.129.85:11524?type=ws&security=tls&path=/?ed&sni=cfv.cscfwoker.fun&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - HGC Global Communications Limited ┇ 223.18.129.85
+vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@82.23.163.53:443?type=tcp&security=reality&sni=xxl.orbit-escape.ru&flow=xtls-rprx-vision&pbk=HS4Gr-vMqAOKdxn1Qr2Kwvh3UCIgr3eYWOvUTvuhJh4&sid=89965a0c305affd3#HK 🇭🇰 ┇ VLESS-TCP-RLT - HGC Global Communications Limited ┇ 82.23.163.53
+vless://fc52dbb2-9633-421c-9056-211fe05d18f0@franc.ramcalshoping.ir:18018?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=FUd_Vgzgi7Qx_y3EJkTZ1Fl-UUY8bHlNcHa0CVbe9BU&sid=2b6870a9d83d2745#HK 🇭🇰 ┇ VLESS-TCP-RLT - HGC Global Communications Limited ┇ 155.117.5.151
