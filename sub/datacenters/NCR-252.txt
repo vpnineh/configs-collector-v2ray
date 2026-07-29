@@ -1,1 +1,2 @@
-vless://bcf838b2-d6ce-4215-ab66-bae3ba7ff49b@153.52.92.102:28291?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=mqzJamQC-fn_By7ZZ0r5OOq23fFEpbhRgNPzGnKfAT0&sid=f306#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.102
+trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&peer=153.75.250.171.sslip.io&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NCR-252 ┇ 153.75.250.171
+vless://308eceff-9850-488b-935a-8b01087d9aa7@153.75.85.140:443?type=xhttp&security=reality&path=/&sni=www.intel.com&fp=chrome&pbk=NG-LVc9Mz_YqtBRHFiehWdSp8B5NMKd57Wleryb4FkQ&sid=a56c397465#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NCR-252 ┇ 153.75.85.140

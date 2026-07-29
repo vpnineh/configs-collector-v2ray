@@ -1,1 +1,2 @@
-vless://4f4521d7-dd75-4e6d-a2ce-d2becedca103@194.135.33.137:443?type=tcp&security=reality&sni=azure.microsoft.com&flow=xtls-rprx-vision&pbk=Skur6XVRdm40cPRONWNMIGC4BIoNRgp9NACVTNhU5jc&sid=8d95d8#DE 🇩🇪 ┇ VLESS-TCP-RLT - Big Data Host LLC ┇ 194.135.33.137
+vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?type=ws&security=tls&path=/&sni=forfreeuse.sub-flow.online&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Big Data Host LLC ┇ 195.133.94.188
+vless://4f4521d7-dd75-4e6d-a2ce-d2becedca103@194.135.33.137:443?type=tcp&security=reality&sni=azure.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=Skur6XVRdm40cPRONWNMIGC4BIoNRgp9NACVTNhU5jc&sid=8d95d8#DE 🇩🇪 ┇ VLESS-TCP-RLT - Big Data Host LLC ┇ 194.135.33.137

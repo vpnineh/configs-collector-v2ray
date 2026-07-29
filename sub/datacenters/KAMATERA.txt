@@ -1,5 +1,5 @@
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?sni=vpn5.rnmcnm.com&peer=vpn5.rnmcnm.com&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - KAMATERA ┇ 103.45.245.208
-vless://93b99881-df03-4597-9146-0c11e46387f7@103.45.245.201:29016?type=ws&security=tls&path=/?ed&sni=cfv.cscfwoker.fun#ES 🇪🇸 ┇ VLESS-WS-TLS - KAMATERA ┇ 103.45.245.201
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@113.30.149.20:443?type=tcp&security=reality&sni=eu-west.cendora.ru&flow=xtls-rprx-vision&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22#ES 🇪🇸 ┇ VLESS-TCP-RLT - KAMATERA ┇ 113.30.149.20
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KAMATERA ┇ 103.125.216.18
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@45.151.152.28:443?type=tcp&security=reality&path=/&sni=asia.cendora.ru&fp=chrome&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077#JP 🇯🇵 ┇ VLESS-TCP-RLT - KAMATERA ┇ 45.151.152.28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 45.130.165.90
