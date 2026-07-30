@@ -1,2 +1,4 @@
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.93
+vless://21648f63-adde-4981-b01b-1c48dc1cdfde@87.120.106.226:29267?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=GVzsZqyVmjJbWvAsX9wF4X-VoiauPUFFipRb-ignYE4&sid=0674f822#CO 🇨🇴 ┇ VLESS-XHTTP-RLT ┇ 87.120.106.226
+vless://24a75c5e-fb88-48bf-b04e-7f9c43ce441d@trc.ramzshadi.ir:3020?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=P7wFD5xa4--5fTbjpH3lMtww2biZZwSyyT1Ra7mOFjE&sid=b2c93d301bb7fcd3#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.251
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45
