@@ -10,5 +10,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.53.62:1
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.244.132.14
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - M247 Europe SRL ┇ 185.246.131.170
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@213.183.63.221:9001#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 213.183.63.221
-vless://11113f77-b439-4911-a8dd-414d2ee36b59@defast.mifbot.pro:49000?type=tcp&security=reality&sni=git.sly.team&flow=xtls-rprx-vision&pbk=lKxU4TCjenarM3nQqOVPaVhaTo5QaDHmRlS40XdwzUk#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 178.215.236.116
 vless://11113f77-b439-4911-a8dd-414d2ee36b59@pl.mifbot.pro:49000?type=grpc&security=reality&sni=git.sly.team&pbk=s3Jvf-GOBZPGuU7E5WpKvzN70NuedRrT9714cr-jdjk#BG 🇧🇬 ┇ VLESS-GRPC-RLT - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 178.215.239.71

@@ -1,2 +1,3 @@
 trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.70
 trojan://3c4e10af98c30972@23.247.137.64:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.64
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@103.152.113.60:443?type=ws&security=tls&path=/?ed=2560&sni=mkvmh.alnm.a7e.hh.vavava.kdns.fr&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NATOLAB ┇ 103.152.113.60

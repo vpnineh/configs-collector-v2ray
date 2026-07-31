@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZ251OXRWQ3ZEWGM@64.90.7.12:47509#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - WINDSTREAM ┇ 64.90.7.12
+trojan://i99Cef@209.248.32.115:28101?sni=download.windowsupdate.com&peer=download.windowsupdate.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WINDSTREAM ┇ 209.248.32.115
+trojan://i99Cef@209.248.32.116:28101?sni=download.windowsupdate.com&peer=download.windowsupdate.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WINDSTREAM ┇ 209.248.32.116
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.pl.pngv.top:4999?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - WINDSTREAM ┇ 216.236.30.30
