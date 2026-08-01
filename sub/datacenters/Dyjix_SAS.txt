@@ -1,3 +1,4 @@
 vless://c7d405ef-5abd-41b2-9492-ce1679415a55@fra.musichubmel.ir:37371?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.184
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.13.119.219
-vless://85457383-b175-8f3f-fb29-4db891cd2127@fr.luxmoboleshop.com:8443?type=tcp&security=reality&sni=icloud.com&fp=chrome&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&sid=f49da53c#FR 🇫🇷 ┇ VLESS-TCP-RLT - Dyjix SAS ┇ 185.171.202.229
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?type=tcp&security=none&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.13.119.219
+vless://07ffa011-8dea-4ce7-8974-8319959fc705@psgfr.horlutr.ir:11458?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&sid=7de83d0e31eb75ef#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Dyjix SAS ┇ 45.13.119.249
+vless://9ce2c239-1301-c676-f9e6-d31a48854fa8@185.171.202.229:8443?type=xhttp&security=reality&sni=play.google.com&fp=chrome&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&sid=f49da53c#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Dyjix SAS ┇ 185.171.202.229

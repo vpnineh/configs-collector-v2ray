@@ -1,11 +1,10 @@
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&sid=9891d7#BE 🇧🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 212.100.171.194
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
 vless://9a88c105-9cb0-4092-acde-723eba07d762@95.85.252.202:31090?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.252.202
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.224.3
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.229.113:443?type=tcp&security=reality&sni=www.wikihow.com&fp=chrome&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.229.113
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.229.112:443?type=tcp&security=reality&sni=www.wikihow.com&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.229.112
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?type=tcp&security=reality&sni=www.wikihow.com&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.246.65
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@95.85.228.34:443?type=grpc&security=reality&sni=1vga81kaw013f-topology-gslb-yccdn.ru&fp=chrome&pbk=ibignrnL_bVupAb4hFM939eT22FtlzPvc1FZY_FDwnw&sid=5e3ab3ab228625#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - IPXO ┇ 95.85.228.34
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?type=tcp&security=reality&sni=www.wikihow.com&fp=chrome&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.246.65
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
+vless://@V2rayAMVip@217.179.5.62:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - IPXO ┇ 217.179.5.62
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 143.20.236.51
