@@ -1,2 +1,2 @@
+vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Tfm Networks Limited ┇ 85.234.69.247
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?type=httpupgrade&security=tls&path=/api&fp=chrome#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-TLS - Tfm Networks Limited ┇ 85.234.69.227
-vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@iwtvatesf68f.dopweed.com:5039?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&sid=2e8424a2696cb606#GB 🇬🇧 ┇ VLESS-TCP-RLT - Tfm Networks Limited ┇ 85.234.73.240

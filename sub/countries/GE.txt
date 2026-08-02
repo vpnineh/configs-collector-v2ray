@@ -1,2 +1,2 @@
-vless://8969ec35-2cf9-48f1-b6d1-adcdcfeee46e@217.11.164.92:37448?type=tcp&security=none#GE 🇬🇪 ┇ VLESS-TCP-NTLS ┇ 217.11.164.92
-vless://0c5853e1-a606-4aa2-bbfa-86a7b58d43b1@tu2.petshopcloud.ir:44217?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=a1VvM3k8ETY4UZVL_eUbKwFwpVveNqD0ObMZ1dtwLj0&sid=2adcb0c184d15c1a#GE 🇬🇪 ┇ VLESS-TCP-RLT ┇ 217.11.164.87
+vless://9c8ca673-4b85-48d5-bf31-82cada149c79@217.11.164.92:60206?type=tcp&security=none#GE 🇬🇪 ┇ VLESS-TCP-NTLS ┇ 217.11.164.92
+vless://32cbcd17-9e70-4545-802d-1e8eca03c665@s2.milaty.ir:5010?type=xhttp&security=reality&path=/api/v2/content&sni=add.my.yahoo.com&fp=chrome&pbk=uXEC7J7sw5T9Zj1v2dATCASCvg9b9aQh7wJOCIeAOwg&sid=a999eca7c33ab7#GE 🇬🇪 ┇ VLESS-XHTTP-RLT ┇ 217.11.164.68

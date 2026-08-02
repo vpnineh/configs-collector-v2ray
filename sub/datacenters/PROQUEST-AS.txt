@@ -1,1 +1,3 @@
-trojan://humanity@165.215.250.14:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROQUEST-AS ┇ 165.215.250.14
+trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROQUEST-AS ┇ 165.215.250.14
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.215.250.129:443?type=ws&security=tls&path=/?ed=2048&sni=sni.111000.indevs.in#US 🇺🇸 ┇ VLESS-WS-TLS - PROQUEST-AS ┇ 165.215.250.129
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.215.250.16:443?type=ws&security=tls&path=/?ed=2048&sni=sni.111000.dynv6.net#US 🇺🇸 ┇ VLESS-WS-TLS - PROQUEST-AS ┇ 165.215.250.16

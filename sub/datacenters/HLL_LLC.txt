@@ -1,1 +1,2 @@
-vless://3744b567-6e95-4eb9-a739-4461e6c093b8@178.248.238.133:10065?type=ws&security=tls&path=/live/stream?module=video-cdn&app_client_id=cc8c59b8-7c86-417b-a522-b0cc29fcc2f8&sni=stream-1.kinograd.online#RU 🇷🇺 ┇ VLESS-WS-TLS - HLL LLC ┇ 178.248.238.133
+vless://59de3f26-7010-486e-8856-8da17e0ce303@185.65.148.0:33443?type=raw&security=reality&sni=rutube.ru&fp=chrome&flow=xtls-rprx-vision&pbk=l5BAy8YGXVwan-YsjVbqPm3ePi0a1v_rvnSfy5RbDnw&sid=141cdd9be3b67ab8#RU 🇷🇺 ┇ VLESS-RAW-RLT - HLL LLC ┇ 185.65.148.0
+vless://e6ac4241-abbb-40a7-953a-4acc87f2ece1@178.248.235.173:28443?type=tcp&security=reality&sni=rutube.ru&fp=chrome&flow=xtls-rprx-vision&pbk=PmezavnEpH4TEbt8A4qlrESwZ0qJJ2X0_RHKu9Bqe1g&sid=11c8a9e2d47b03af#RU 🇷🇺 ┇ VLESS-TCP-RLT - HLL LLC ┇ 178.248.235.173
