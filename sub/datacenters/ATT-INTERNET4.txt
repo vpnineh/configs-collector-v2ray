@@ -1,3 +1,2 @@
-vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@82.22.47.50:25129?type=ws&security=none&path=/xray#US 🇺🇸 ┇ VLESS-WS-NTLS - ATT-INTERNET4 ┇ 82.22.47.50
-vless://7216b4e8-e935-4d68-b959-73d145accdee@154.83.246.50:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212#US 🇺🇸 ┇ VLESS-TCP-RLT - ATT-INTERNET4 ┇ 154.83.246.50
+vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?type=tcp&security=reality&sni=www.googletagmanager.com&fp=chrome&flow=xtls-rprx-vision&pbk=0B7XMJC-mBqvUkf_on0wPZeW1iVmZIbEPVyvz-V_jRI&sid=60d7a9bbacadc0fb#US 🇺🇸 ┇ VLESS-TCP-RLT - ATT-INTERNET4 ┇ 82.22.53.30
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?type=tcp&security=reality&sni=auto.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#US 🇺🇸 ┇ VLESS-TCP-RLT - ATT-INTERNET4 ┇ 185.93.33.7

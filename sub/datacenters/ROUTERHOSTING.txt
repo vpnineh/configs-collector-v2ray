@@ -1,6 +1,7 @@
-vless://ea1c5e6c-4c03-4e8b-9c8b-cee6e50ba8ac@107.189.22.49:443?type=xhttp&security=reality&path=/&sni=www.intel.com&fp=chrome&pbk=MmOHgwoJG-k3b7uWc33b64croB1KF68oQDrllKGJdT8&sid=e1e6c5#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - ROUTERHOSTING ┇ 107.189.22.49
+vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - ROUTERHOSTING ┇ 107.189.22.49
+vless://98a0a5cd-994d-49ca-8a64-e526afa8db28@107.189.20.41:9990?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=rOaA_Qh474Lv7B-_1uxOBScCcRjUVlz2aZXmhbFwlFY&sid=a114#NL 🇳🇱 ┇ VLESS-TCP-RLT - ROUTERHOSTING ┇ 107.189.20.41
 vless://03d349a6-2488-4fa0-8a3a-048806697ec2@107.189.20.143:443?type=xhttp&security=reality&path=/&sni=www.intel.com&fp=chrome&pbk=OVFJQoGkY7ZKEo37-8M8AelP_6v1T9ca-ZO9nc7z12c&sid=8a3865dc14651d#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - ROUTERHOSTING ┇ 107.189.20.143
-vless://6032f206-19e8-48a3-9a3d-cea70fb3518f@107.189.17.98:443?type=xhttp&security=reality&sni=www.intel.com&fp=chrome&pbk=L-L_FTcCfEUIlfTlkURUhyuZ1Nn8PnyQsflA3OuiOBw&sid=b282f3d71402#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - ROUTERHOSTING ┇ 107.189.17.98
+vless://ddfe43fe-7b67-4606-b0d4-4e5339abab5d@nd1.soundfiy.ir:57367?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=DN5-6pEo8XE3S7MzxzNFVCPPRk87KirDt8yUybpdmWE&sid=9fddc2f52909d4d3#NL 🇳🇱 ┇ VLESS-TCP-RLT - ROUTERHOSTING ┇ 107.189.19.232
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?type=ws&security=tls&path=تلگرام=https://t.me/V2rayGodVip_bot&sni=namasha.com#US 🇺🇸 ┇ VLESS-WS-TLS - ROUTERHOSTING ┇ 144.172.101.108
 vless://7f9ef902-2164-4c4e-b4bd-140d13cdba6e@ryanserver.ir:47347?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ROUTERHOSTING ┇ 45.61.148.12
-vless://c81f0504-2c7c-11f1-9ec5-baabcd4be2cd@172.86.91.58:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567#US 🇺🇸 ┇ VLESS-TCP-RLT - ROUTERHOSTING ┇ 172.86.91.58
+vless://c81f0504-2c7c-11f1-9ec5-baabcd4be2cd@172.86.91.58:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ROUTERHOSTING ┇ 172.86.91.58

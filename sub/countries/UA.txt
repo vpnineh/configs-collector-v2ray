@@ -1,4 +1,6 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
+vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@193.41.5.187:443?type=tcp&security=reality&sni=web.pomedor.ru&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#UA 🇺🇦 ┇ VLESS-TCP-RLT ┇ 193.41.5.187
+vless://15355fa6-97da-50ee-8194-3950e3b917a5@178.214.211.52:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1a2wyM1FELzNiPmJAYAx3Is4VN4UrefZbZhbMDZHt0U&sid=602c802a#UA 🇺🇦 ┇ VLESS-TCP-RLT ┇ 178.214.211.52
 trojan://521314@46.202.30.27:443?sni=hhtj.hhllfly.kdns.fr&peer=hhtj.hhllfly.kdns.fr&security=tls#UA 🇺🇦 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 46.202.30.27
 vless://Telegram@46.202.30.8:2096?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#UA 🇺🇦 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 46.202.30.8
 ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@156.146.50.102:50695#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.50.102
@@ -8,4 +10,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺�
 vless://59da5351-5151-417d-b2f7-6923848b717e@spain2.helper-internet.com:443?type=tcp&security=reality&sni=spain2.helper-internet.com&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.71.221
 trojan://d1960ba9f0f6353353994fa844cf817b@188.163.100.58:45744?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#UA 🇺🇦 ┇ TROJAN-TCP-TLS - Kyivstar PJSC ┇ 188.163.100.58
 ss://YWVzLTI1Ni1nY206TkJWSG9hTmVsV1JlTEh5dQ@45.153.229.146:3030#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.153.229.146
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Server.ua LLC ┇ 194.54.80.37
