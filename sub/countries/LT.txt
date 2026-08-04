@@ -1,28 +1,28 @@
-vless://78c6ed8f-fa0f-4ae4-80a8-68b080c4cd90@88.216.73.48:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=26_EC0jKyFwjkVBQmCJkIwlZwiNCC3Uzl5j6ur6QUwM&sid=d2e7fddd2450b86a#LT 🇱🇹 ┇ VLESS-TCP-RLT ┇ 88.216.73.48
 vless://ed9a0afe-1f54-40af-8821-0995cef0225a@api6.maps-yandex.net:10970?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=_RCN3b8MUJE61ES111k45TLrvB_nUi1pywAO5sc0OF0&sid=cb8ba29900e2f68b#LT 🇱🇹 ┇ VLESS-TCP-RLT ┇ 88.216.75.102
 trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#LT 🇱🇹 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 86.38.214.205
 trojan://MiTiVPN@89.116.250.135:443?sni=Win-Nll--l.App-Cloud.Ir&peer=Win-Nll--l.App-Cloud.Ir&security=tls#LT 🇱🇹 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 89.116.250.135
 vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?type=xhttp&security=none&path=/?ed=2048#LT 🇱🇹 ┇ VLESS-XHTTP-NTLS - Cloudflare London, LLC ┇ 86.38.214.33
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?type=ws&security=tls&path=/ws?ed=2560&sni=07e357aa7e747ca4.hOzHeEn.Ir#LT 🇱🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 88.216.67.236
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@ip.feywebsite.ir:2083?type=xhttp&security=tls&path=/api/v1/stream&sni=tr.feyland.ir&fp=chrome#LT 🇱🇹 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 88.216.67.236
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.199
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.192
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.178
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.199
-vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY1LjM2IiwiYWRkIjoiODUuMjA2LjE2NS4zNiIsInBvcnQiOjQ0MywiaWQiOiJiYTQ5YWIwNS03OGY4LTRiMGItOTQwMC0xODI2Y2MyZDNmNzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY4LjcxIiwiYWRkIjoiODUuMjA2LjE2OC43MSIsInBvcnQiOjMwMDAwLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
+ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw@195.238.126.84:9039#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 195.238.126.84
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTQuMTMxLjE0LjE3NyIsImFkZCI6Ijk0LjEzMS4xNC4xNzciLCJwb3J0IjoyMDgyLCJpZCI6IjJjNWZlZTEzLWYwOGItNGJhOC04NmRiLTI3ZGQ1MWNiOTc4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzIn0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.19
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?type=tcp&security=tls&sni=ddc-chr2.astralweb.tech&fp=chrome#LT 🇱🇹 ┇ VLESS-TCP-TLS - UAB Cherry Servers ┇ 93.115.25.139
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.8
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.18:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.18
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.24
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.228:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.228
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.204:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.204
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.25.200
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.230:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.230
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.104
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.134
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.18:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.18
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.230:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.230
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.19
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.228:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.228
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.104
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.204:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.204
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.24
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.51:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 185.150.117.51
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?type=tcp&security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox#LT 🇱🇹 ┇ VLESS-TCP-TLS - UAB Cherry Servers ┇ 93.115.25.139
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.25.200
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?type=tcp&security=reality&sni=statusdetector404.ru&fp=firefox&flow=xtls-rprx-vision&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 84.32.209.210
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?type=tcp&security=reality&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 5.199.170.105
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&sni=dartsearch-cn.net&fp=chrome&flow=xtls-rprx-vision&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 84.32.209.7
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#LT 🇱🇹 ┇ TROJAN-TCP-TLS - UAB Interneto vizija ┇ 212.24.103.3

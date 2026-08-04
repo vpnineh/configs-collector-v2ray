@@ -1,6 +1,5 @@
-vless://a68a61ce-84fb-44d0-a486-51023f228ac7@94.103.1.65:8443?type=tcp&security=tls&sni=n3.plus-abc.ru&fp=firefox&flow=xtls-rprx-vision#MD 🇲🇩 ┇ VLESS-TCP-TLS ┇ 94.103.1.65
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@176.123.2.210:443?type=tcp&security=reality&path=/&sni=rezerv23.yunus.guru&fp=chrome&flow=xtls-rprx-vision&pbk=zT7a-PnmIWP4c-G1EDUT3KZ7URi1kc8EppAWPr3h5lk&sid=afeed89ae23b36ed#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 176.123.2.210
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv23.yunus.guru:443?type=tcp&security=reality&path=/&sni=rezerv23.yunus.guru&fp=chrome&flow=xtls-rprx-vision&pbk=zT7a-PnmIWP4c-G1EDUT3KZ7URi1kc8EppAWPr3h5lk&sid=afeed89ae23b36ed#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 176.123.2.210
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@194.33.40.114:33992#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Inovare-Prim SRL ┇ 194.33.40.114
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 192.121.87.89
 vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmFiaWEgU1JMIFx1MjUwNyAxNzguMTc1LjEzNS4xNTUiLCJhZGQiOiIxNzguMTc1LjEzNS4xNTUiLCJwb3J0Ijo0NDMsImlkIjoiN2U0MjE5YWUtOGJmMS00Zjc5LTkwMmItNGYyNTljNjQ1MzNkIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIn0
