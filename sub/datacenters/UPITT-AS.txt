@@ -1,5 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUjVIbzh2VnFuRGFINDlXTGg5OE5j@130.49.189.158:10792#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - UPITT-AS ┇ 130.49.189.158
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?type=xhttp&security=reality&path=/&sni=download.nvidia.com&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM#US 🇺🇸 ┇ VLESS-XHTTP-RLT - UPITT-AS ┇ 130.49.77.3
-vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?type=tcp&security=reality&sni=site.rumedia-cdn.com&flow=xtls-rprx-vision&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&sid=808a7e8a2e32c697#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.185.196
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWU5YTGpJWGVxbWVka2VlMHRYMkdJ@130.49.189.158:10792#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - UPITT-AS ┇ 130.49.189.158
 vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?type=tcp&security=reality&sni=sun6-22.userapi.com&flow=xtls-rprx-vision&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&sid=f5e89824#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.219.126
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?type=xhttp&security=reality&path=/&sni=download.nvidia.com&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM#US 🇺🇸 ┇ VLESS-XHTTP-RLT - UPITT-AS ┇ 130.49.77.3
+vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.185.196
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.187.97
+vless://9dada88d-f8f8-459d-8a4f-4df2c973fe43@130.49.218.26:47222?type=xhttp&security=reality&path=/&sni=sempre.moscow&fp=chrome&pbk=ku2hvIz-V3sudUB9Dy6eojXKwkandc2PN12Bb6Z380c&sid=6789f9d3#US 🇺🇸 ┇ VLESS-XHTTP-RLT - UPITT-AS ┇ 130.49.218.26

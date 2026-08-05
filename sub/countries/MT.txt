@@ -1,1 +1,2 @@
-vless://d06911e3-e8a8-4f70-83e8-8f0311cdc3cf@193.227.99.54:8880?type=httpupgrade&security=none&path=/250e#MT 🇲🇹 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 193.227.99.54
+vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@193.227.99.54:8880?type=httpupgrade&security=none&path=mmd#MT 🇲🇹 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 193.227.99.54
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@ai.tunnelpoint.space:443?type=tcp&security=reality&sni=ai.tunnelpoint.space&fp=chrome&flow=xtls-rprx-vision&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#MT 🇲🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 193.24.234.44
