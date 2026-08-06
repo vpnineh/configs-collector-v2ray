@@ -1,1 +1,2 @@
 vless://2fcfd331-8eb8-4fbe-88d7-1693797ac084@185.226.93.24:2083?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.24
+vless://bcbf9fe3-3e3a-4c27-a5f8-f5467d5ca191@185.226.93.80:443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=Ql_-7aY7i5IzGenDMAFq9hcgnCbZFnUJcCvBeSMbz3I&sid=69ccff79#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Big Core LLC ┇ 185.226.93.80

@@ -1,2 +1,3 @@
 vless://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.157.130
 vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?type=tcp&security=reality&sni=sellflow.org&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#CH 🇨🇭 ┇ VLESS-TCP-RLT - Sunrise GmbH ┇ 178.83.226.55
+vless://e292820a-75bd-4e16-81ca-d6ca05471890@us.degeris.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=LOatNFTcO1jWVAXmzxGDDYxZagWRa6UzqsNGLty5Ugk&sid=13bac42b5760#CH 🇨🇭 ┇ VLESS-TCP-RLT - Sunrise GmbH ┇ 84.75.220.191
