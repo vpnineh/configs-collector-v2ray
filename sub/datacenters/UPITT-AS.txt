@@ -1,4 +1,5 @@
 vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@130.49.219.126:8443?type=tcp&security=tls&sni=at16.fastlanehosting.ru&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - UPITT-AS ┇ 130.49.219.126
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?type=xhttp&security=reality&path=/&sni=download.nvidia.com&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM#US 🇺🇸 ┇ VLESS-XHTTP-RLT - UPITT-AS ┇ 130.49.77.3
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?type=xhttp&security=reality&sni=download.nvidia.com&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM#US 🇺🇸 ┇ VLESS-XHTTP-RLT - UPITT-AS ┇ 130.49.77.3
 vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?type=tcp&security=reality&sni=site.rumedia-cdn.com&flow=xtls-rprx-vision&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&sid=808a7e8a2e32c697#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.185.196
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.187.97
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@130.49.189.186:7443?type=xhttp&security=reality&path=/6adf79bf-0b72-415b-9fd5-2fdc19eed1a2&sni=www.samsung.com&fp=chrome&pbk=r5fXlf3JIbEssj00ctp4zOXcGsMgHSmEaxAWWybQzEQ&sid=04c702f0#US 🇺🇸 ┇ VLESS-XHTTP-RLT - UPITT-AS ┇ 130.49.189.186

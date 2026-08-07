@@ -1,3 +1,2 @@
 trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&peer=153.75.250.171.sslip.io&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NCR-252 ┇ 153.75.250.171
-vless://6e35e494-c95d-4c40-9787-f21698ad5360@153.76.117.89:443?type=tcp&security=reality&sni=musicboss.eu&fp=chrome&flow=xtls-rprx-vision&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.76.117.89
-vless://6e35e494-c95d-4c40-9787-f21698ad5360@153.76.117.99:443?type=tcp&security=reality&sni=musicboss.eu&fp=chrome&flow=xtls-rprx-vision&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.76.117.99
+vless://3a55aed6-4756-4b41-9dfa-116d32aeb8e5@bonus.ahora-65.ir:23590?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NCR-252 ┇ 153.52.92.118
