@@ -1,2 +1,3 @@
-vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@45.89.223.251:8484?type=ws&security=tls&path=live&sni=vip.dokhtaroune.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Moon Dc ┇ 45.89.223.251
+vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@45.89.223.251:8282?type=ws&security=tls&path=live&sni=vip.dokhtaroune.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Moon Dc ┇ 45.89.223.251
 vless://21128198-08ce-46e3-b2c0-c075c8ae1d7b@45.89.223.56:19101?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 45.89.223.56
+vless://b1d2a517-3ff2-4eb7-a9cd-2a42a2eb1c29@vl1.salar4040.ir:4040?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=H9OGLRos1CxS7C197U2G6vmAINTN6GMasevL3gX9uEI&sid=c57bcc26#IR 🇮🇷 ┇ VLESS-TCP-RLT - Moon Dc ┇ 45.89.223.139

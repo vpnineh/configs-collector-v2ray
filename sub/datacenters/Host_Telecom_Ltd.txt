@@ -1,4 +1,2 @@
 vless://Telegram@193.148.59.145:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#BG 🇧🇬 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 193.148.59.145
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?type=tcp&security=reality&sni=e-spectacular.ru&fp=chrome&flow=xtls-rprx-vision&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&sid=825d392c67e4#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.92.181
-vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@195.133.35.7:8765?type=tcp&security=reality&sni=www.gitlab.com&fp=chrome&flow=xtls-rprx-vision&pbk=5dh8zhGI2P-OXPhrOSYXysjsBsQ_gfZAZomOI5agano&sid=6a7c2332#CZ 🇨🇿 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 195.133.35.7
-vless://fd06c918-2a26-4bd1-90d2-0d86cdd09080@poland1.banovano.space:2053?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=FwJaukzhbpYHc1T1-RXf38WvI3lJetmPd5FLWJ6KKQA&sid=7dc7482c71#SG 🇸🇬 ┇ VLESS-GRPC-RLT - Host Telecom Ltd ┇ 94.125.102.21

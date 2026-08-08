@@ -1,2 +1,3 @@
-trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&peer=153.75.250.171.sslip.io&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NCR-252 ┇ 153.75.250.171
 vless://3a55aed6-4756-4b41-9dfa-116d32aeb8e5@bonus.ahora-65.ir:23590?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NCR-252 ┇ 153.52.92.118
+vless://96de8fe7-7b9b-4ba2-8f2d-54cd4f51c6f2@153.52.92.216:20000?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.216
+vless://d067adf8-9adc-4854-990d-f779875a855e@cdn-b305c2ba.glomedia-cdn.com:443?type=tcp&security=reality&sni=www.rumedia-cdn.com&fp=chrome&flow=xtls-rprx-vision&pbk=OevcHjcNd6P5915hkVd476stUNgpabD_XO9eWtArrls&sid=f5f36cfd792b1f65#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.56.135.59
