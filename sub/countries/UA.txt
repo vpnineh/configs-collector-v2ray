@@ -1,10 +1,10 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@46.202.30.8:443?type=ws&security=tls&path=/&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 46.202.30.8
+vless://Telegram@46.202.30.8:2096?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#UA 🇺🇦 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 46.202.30.8
 ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@156.146.50.102:50695#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.50.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
 vless://59da5351-5151-417d-b2f7-6923848b717e@spain2.helper-internet.com:443?type=tcp&security=reality&sni=spain2.helper-internet.com&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.71.221
 ss://YWVzLTI1Ni1nY206TkJWSG9hTmVsV1JlTEh5dQ@45.153.229.146:3030#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.153.229.146
-vless://411279b4-233f-4abe-950c-956b6ffc921b@87.76.154.18:16506?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.18
 vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.21
+vless://411279b4-233f-4abe-950c-956b6ffc921b@87.76.154.18:16506?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.18

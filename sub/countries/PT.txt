@@ -1,3 +1,4 @@
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 91.250.240.148
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&security=none#PT 🇵🇹 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 93.119.168.215
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&security=none&path=/#PT 🇵🇹 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 93.119.168.215
 vmess://eyJ2IjoiMiIsInBzIjoiUFQgXHVkODNjXHVkZGY1XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTQuMTMxLjEwLjUiLCJhZGQiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJwb3J0Ijo0NDMsImlkIjoiODhkNDc2YzEtNDhmNy00ZDNkLWEwZTYtYWNjY2JmZjAyZGI2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://42fef924-2cbc-4a41-9b95-0ea9b4ff850e@85.234.86.44:8443?type=tcp&security=reality&sni=max.ru&fp=qq&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=6ba85179e30d4fc2#PT 🇵🇹 ┇ VLESS-TCP-RLT - Tfm Networks Limited ┇ 85.234.86.44
