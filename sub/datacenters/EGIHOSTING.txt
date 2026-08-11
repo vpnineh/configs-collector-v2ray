@@ -1,5 +1,4 @@
 vless://Tel-NamedZadim@104.252.19.69:443?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.19.69
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.53.46
-vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@104.252.53.195:21948?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.53.195
+vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?type=ws&security=none&path=/arvan-tuel#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.89.183
 vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&sid=39a997621a3598c9#US 🇺🇸 ┇ VLESS-TCP-RLT - EGIHOSTING ┇ 142.111.244.75
-vless://488ab21c-577b-4dfb-8c78-91532294a352@104.253.18.250:8088?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&sid=2acf8977eb67ea0c#US 🇺🇸 ┇ VLESS-XHTTP-RLT - EGIHOSTING ┇ 104.253.18.250

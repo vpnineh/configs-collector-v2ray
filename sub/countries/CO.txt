@@ -1,6 +1,9 @@
-vless://6ffba3f2-66c6-4830-ab03-8df58e729bcc@gc2tr.mobleamiri10.ir:1090?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=RemCMPlF8coUeGn01E2KPkfxFCvIvlDmnbHb7QcvyQc&sid=6aa6b8d9309fce3c#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.63
+vless://e8e1f3b7-4b96-449e-ac39-4bebf4bfd6d7@87.120.106.182:3344?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.182
 vless://21648f63-adde-4981-b01b-1c48dc1cdfde@87.120.106.226:29267?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=GVzsZqyVmjJbWvAsX9wF4X-VoiauPUFFipRb-ignYE4&sid=0674f822#CO 🇨🇴 ┇ VLESS-XHTTP-RLT ┇ 87.120.106.226
+vless://6ffba3f2-66c6-4830-ab03-8df58e729bcc@gc2tr.mobleamiri10.ir:1090?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=RemCMPlF8coUeGn01E2KPkfxFCvIvlDmnbHb7QcvyQc&sid=6aa6b8d9309fce3c#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.63
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.223.16.96
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.116:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.162.116
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.166.237
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.184.51
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.126.107:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.247.126.107
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45
