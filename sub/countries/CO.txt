@@ -1,6 +1,5 @@
 vless://21648f63-adde-4981-b01b-1c48dc1cdfde@87.120.106.226:29267?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=GVzsZqyVmjJbWvAsX9wF4X-VoiauPUFFipRb-ignYE4&sid=0674f822#CO 🇨🇴 ┇ VLESS-XHTTP-RLT ┇ 87.120.106.226
 vless://6423193f-06ec-4ca6-b8a4-74e21dbb3970@tr2ri.mobleamiri10.ir:1050?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=W6rwa-_z6GYG3cmVxqVjOOn7LsvpAFllkbATsO-CnxU&sid=bc6d2d6095e5f634#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.63
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.223.16.96
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.125.162:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - ORACLE-BMC-31898 ┇ 158.247.125.162
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.116:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.162.116
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.189.106
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45
