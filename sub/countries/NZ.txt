@@ -1,3 +1,3 @@
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@103.68.110.42:443?type=tcp&security=tls&sni=pl1.fast-connect-service.site&fp=chrome&flow=xtls-rprx-vision#NZ 🇳🇿 ┇ VLESS-TCP-TLS - Korea ┇ 103.68.110.42
+vless://551955b3-46e9-5129-95c9-e7474c15ed6b@103.68.110.42:443?type=tcp&security=tls&sni=pl1.fast-connect-service.site&fp=firefox&flow=xtls-rprx-vision#NZ 🇳🇿 ┇ VLESS-TCP-TLS - Korea ┇ 103.68.110.42
 trojan://humanity@202.37.33.80:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#NZ 🇳🇿 ┇ TROJAN-TCP-TLS - Ministry of Education ┇ 202.37.33.80
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?type=ws&security=tls&path=/id-tksi&sni=m.udemy.com.cyylr.eu.cc&fp=chrome#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.81

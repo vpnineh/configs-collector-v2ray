@@ -1,4 +1,4 @@
-vless://c83ee688-8f37-4f4c-94a2-5d6384950b5d@64.188.64.141:8443?type=ws&security=none&path=/#PT 🇵🇹 ┇ VLESS-WS-NTLS - Almouroltec Servicos De Informatica E Internet Lda ┇ 64.188.64.141
+vless://c83ee688-8f37-4f4c-94a2-5d6384950b5d@64.188.64.141:8443?type=ws&security=false&path=/&fp=chrome#PT 🇵🇹 ┇ VLESS-WS-FALSE - Almouroltec Servicos De Informatica E Internet Lda ┇ 64.188.64.141
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 91.250.240.148
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&security=none&path=/#PT 🇵🇹 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 93.119.168.215
-vmess://eyJ2IjoiMiIsInBzIjoiUFQgXHVkODNjXHVkZGY1XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTQuMTMxLjEwLjUiLCJhZGQiOiI5NC4xMzEuMTAuNSIsInBvcnQiOjQ0MywiaWQiOiI4OGQ0NzZjMS00OGY3LTRkM2QtYTBlNi1hY2NjYmZmMDJkYjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&security=false&path=/&fp=chrome#PT 🇵🇹 ┇ VLESS-TCP-FALSE - Northern Data AG ┇ 93.119.168.215
+vmess://eyJ2IjoiMiIsInBzIjoiUFQgXHVkODNjXHVkZGY1XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTQuMTMxLjEwLjUiLCJhZGQiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJwb3J0Ijo0NDMsImlkIjoiODhkNDc2YzEtNDhmNy00ZDNkLWEwZTYtYWNjY2JmZjAyZGI2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
