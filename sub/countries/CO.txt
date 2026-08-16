@@ -1,2 +1,4 @@
-vless://a771a06c-3ddc-4f25-a0da-1bab830059b0@dashbourd.speedmizban.net:80?type=ws&security=none&path=/pgcfws-r4#CO 🇨🇴 ┇ VLESS-WS-NTLS ┇ 87.120.106.90
+vless://cbba582f-e000-4e08-bdb3-03ccc0caa979@tr2.orangesms.ir:16919?type=tcp&security=reality&sni=delivery.mp.microsoft.com&fp=chrome&pbk=f1p0D_C_e1cLy966eU7xcVU-gpn_YqIXH2hqEx6szhs&sid=3e6fab05a8104264#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.104
+vless://a5d5983d-7561-43e9-8339-c6bdbbe7ba4d@webmail.speedmizban.net:8443?type=tcp&security=reality&path=/&sni=hdprogressive.3dvisionlive.com&fp=chrome&flow=xtls-rprx-vision&pbk=naJ_-cLW8oiWcXB71iRLT-nX8L03sz2GYDGpg-zBFgk&sid=9d05150009719d5d#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.90
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.130:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.190.130
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45

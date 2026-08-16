@@ -1,1 +1,1 @@
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?type=tcp&security=none&path=/ws#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OOO Sovremennye setevye tekhnologii ┇ 46.235.186.50
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?type=ws&security=tls&path=/ws&sni=s28315.cdn.ngenix.net#RU 🇷🇺 ┇ VLESS-WS-TLS - OOO Sovremennye setevye tekhnologii ┇ 46.235.186.50
