@@ -1,4 +1,4 @@
-vless://22696950-587f-42c0-af24-c1ffab17d0cd@91.197.3.43:52463?type=tcp&security=reality&sni=yahoo.com&pbk=zOv4BhJVbINHdcULln0vQ_6sxKiGjJPj4uyMttX9pWo&sid=cdaed92e1d0c#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 91.197.3.43
+vless://22696950-587f-42c0-af24-c1ffab17d0cd@91.197.3.43:52463?type=tcp&security=reality&sni=yahoo.com&fp=random&pbk=zOv4BhJVbINHdcULln0vQ_6sxKiGjJPj4uyMttX9pWo&sid=cdaed92e1d0c#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 91.197.3.43
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?type=grpc&security=reality&sni=colorlib.com&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#LV 🇱🇻 ┇ VLESS-GRPC-RLT - SIA VEESP ┇ 216.173.71.79
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
 vless://8c00ea88-31f7-445a-8f74-f6e7f03a1553@82.115.6.93:443?type=ws&security=tls&path=/&sni=kuraakavaa-5l7.pages.dev&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - SIA VEESP ┇ 82.115.6.93

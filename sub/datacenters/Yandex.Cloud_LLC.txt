@@ -1,2 +1,1 @@
-vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?type=ws&security=tls&path=/api/v1/rooms/63368e3dbb/sync&sni=cdn.tracker.yandex.net&fp=qq#AE 🇦🇪 ┇ VLESS-WS-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
 vless://cb2e5fc3-c1bb-4cfc-b18c-69e450fbd017@84.201.172.164:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 84.201.172.164
