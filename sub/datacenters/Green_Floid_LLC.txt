@@ -5,9 +5,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:513
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 92.118.149.85
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@195.20.208.72:443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ndjp.net&fp=random#LV 🇱🇻 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 195.20.208.72
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@82.118.21.21:50004#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 82.118.21.21
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@85.90.196.38:443?type=ws&security=tls&path=/&sni=kjgdksgghre466.pages.dev&fp=chrome#RO 🇷🇴 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 85.90.196.38
 vless://b748a230-b157-4401-8423-f8e44df31b5e@82.117.255.87:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=1xxZM10W-A8nuj6MOXFd1kA9lS7bEy-5SO5j-jrd_Cg&sid=b70076439f4a1340#RO 🇷🇴 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 82.117.255.87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
-vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 193.238.153.15
-vless://1f999bcd-f85e-47c3-afd7-92b6dd6b14b0@195.211.99.45:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=U_LRWSRuJNqBS3kXxaXveMhC_D8c_WuqK3sglCGCnSo&sid=17a6cd20d21e4740#US 🇺🇸 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 195.211.99.45
-vless://7eed6d87-ecf6-467b-a8ca-52071fa84fca@195.211.99.49:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=VRrsZmyM-QD8YgLGgy2h3pMLbauIBCMoGN2pc8Xt5hE&sid=b605d4e8b7f453ab#US 🇺🇸 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 195.211.99.49
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?type=tcp&security=reality&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 5.34.182.23

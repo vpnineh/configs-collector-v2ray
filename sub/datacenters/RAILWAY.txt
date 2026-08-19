@@ -1,6 +1,5 @@
 trojan://TgTrWOUNeU@66.33.22.242:30797?sni=is1-ssl.mzstatic.com&peer=is1-ssl.mzstatic.com&security=reality#US 🇺🇸 ┇ TROJAN-TCP-REALITY - RAILWAY ┇ 66.33.22.242
-vless://9934e311-783e-4ae6-91e4-81247b2c3774@sakura.proxy.rlwy.net:53994?type=xhttp&security=none&path=/assets#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - RAILWAY ┇ 66.33.22.221
 vless://20700b40-8837-45d0-e449-e2095a9f5145@66.33.22.128:443?type=ws&security=tls&path=/ws/20700b40-8837-45d0-e449-e2095a9f5145&sni=daring-tenderness-production-4fba.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.128
-vless://3df74c50-e0f5-4b72-a826-4e845753aa9d@mainline.proxy.rlwy.net:23360?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.234
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
+vless://9934e311-783e-4ae6-91e4-81247b2c3774@sakura.proxy.rlwy.net:53994?type=xhttp&security=none&path=/assets#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - RAILWAY ┇ 66.33.22.221
 vless://183ee94c-771c-4960-8e8c-66ecc92e8537@66.33.22.231:55089?type=tcp&security=reality&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=PCHmeeMMm3NuigTrIFwOrir7K3nHd1hV28currvUvx0&sid=5a3ff5a13d#US 🇺🇸 ┇ VLESS-TCP-RLT - RAILWAY ┇ 66.33.22.231
