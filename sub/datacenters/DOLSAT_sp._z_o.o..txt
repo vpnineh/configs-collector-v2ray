@@ -1,1 +1,1 @@
-vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.206.227:2566?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&sid=b220cebe89a795#PL 🇵🇱 ┇ VLESS-TCP-RLT - DOLSAT sp. z o.o. ┇ 87.199.206.227
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@87.199.209.9:8444?type=ws&security=tls&path=/api/v1/devices/1e0f5220d9/telemetry&sni=stream.meshbeat.online&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - DOLSAT sp. z o.o. ┇ 87.199.209.9

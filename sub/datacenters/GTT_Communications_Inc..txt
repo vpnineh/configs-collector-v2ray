@@ -1,8 +1,6 @@
 vless://601e4ca5-df0a-43a1-97c2-0b1f5c0ae413@212.135.38.193:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=LQ4cJhrzBRuRu3Nb3xUaHEBkPEJ7P5Uca5bFAbMj0is&sid=b8e2ce6fc1d12895#GB 🇬🇧 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 212.135.38.193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GTT Communications Inc. ┇ 70.39.198.35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GTT Communications Inc. ┇ 70.39.178.204
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR1RUIENvbW11bmljYXRpb25zIEluYy4gXHUyNTA3IDY5LjYzLjIxMC4zNSIsImFkZCI6IjY5LjYzLjIxMC4zNSIsInBvcnQiOjI0OTQzLCJpZCI6ImE4OWZlZGE5LWVjMzAtNDhjMS1hZTZiLTFhNmY1YjU3M2Y2YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2E4OWZlZGE5LWVjMzAtNDhjMS1hZTZiLTFhNmY1YjU3M2Y2Yi12bSJ9
-vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?type=tcp&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-FALSE - GTT Communications Inc. ┇ 70.39.197.9
+vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 70.39.197.9
 vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 194.77.220.41
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.197.13:46197?type=tcp&security=reality&path=/&sni=updates.cdn-apple.com&fp=chrome&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&sid=f24c17bb7fc284#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 70.39.197.13
 vless://6fde6138-addb-4a90-801f-f1a1af01337e@media.arshia-nova.ir:443?type=tcp&security=reality&sni=api.semiconductor.samsung.cn&fp=chrome&pbk=2tvZWqBqORlWWsIY4sb1wti3vgyCWVi9EFjqlXiIOwY&sid=695ac4c4ba6a8c#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 194.77.220.236

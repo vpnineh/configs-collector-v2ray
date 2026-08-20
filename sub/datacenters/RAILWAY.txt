@@ -3,3 +3,4 @@ vless://20700b40-8837-45d0-e449-e2095a9f5145@66.33.22.128:443?type=ws&security=t
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
 vless://9934e311-783e-4ae6-91e4-81247b2c3774@sakura.proxy.rlwy.net:53994?type=xhttp&security=none&path=/assets#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - RAILWAY ┇ 66.33.22.221
 vless://183ee94c-771c-4960-8e8c-66ecc92e8537@66.33.22.231:55089?type=tcp&security=reality&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=PCHmeeMMm3NuigTrIFwOrir7K3nHd1hV28currvUvx0&sid=5a3ff5a13d#US 🇺🇸 ┇ VLESS-TCP-RLT - RAILWAY ┇ 66.33.22.231
+vless://413e6c13-71a9-43ed-be9c-378896bf9507@hayabusa.proxy.rlwy.net:13200?type=xhttp&security=reality&path=/&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=lXy75i2UwQfiDIrR68kShCV757ip_vPPSMc-7OJruFI&sid=1624a5#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.223

@@ -1,3 +1,4 @@
-vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16#GB 🇬🇧 ┇ VLESS-TCP-RLT - Contabo Asia Private Limited ┇ 46.250.240.80
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 84.247.155.196
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.233.65.67:989#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 194.233.65.67
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ29udGFibyBBc2lhIFByaXZhdGUgTGltaXRlZCBcdTI1MDcgMTA5LjEyMy4yMzcuNDEiLCJhZGQiOiIxMDkuMTIzLjIzNy40MSIsInBvcnQiOjgwLCJpZCI6IjAzYTc3MzYwLTgwOGQtMTFlZC1iNzM2LTIwNWM2ZDVmNWQ3OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
+vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@194.233.75.66:443?type=tcp&security=tls&path=/&sni=sahanwickramasinghevip.shop&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - Contabo Asia Private Limited ┇ 194.233.75.66
