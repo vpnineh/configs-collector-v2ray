@@ -1,9 +1,13 @@
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click&peer=www.mesaly.click&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - BrainStorm Network, Inc ┇ 185.126.236.44
 vless://45172ad2-bfb4-4403-a525-2b60b4e75985@185.126.236.181:2053?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - BrainStorm Network, Inc ┇ 185.126.236.181
+trojan://ID--KANAL--JKVPN--JKVPN@23.95.77.74:22019?security=none#CH 🇨🇭 ┇ TROJAN-TCP-NTLS - BrainStorm Network, Inc ┇ 23.95.77.74
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.226.172.8
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.129.230
 vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQnJhaW5TdG9ybSBOZXR3b3JrLCBJbmMgXHUyNTA3IDM3LjE0My4xMjkuMjM4IiwiYWRkIjoiMzcuMTQzLjEyOS4yMzgiLCJwb3J0Ijo2NjE2LCJpZCI6IjQ1OWQyM2Y0LWRjZmQtNGZlZi05YmEzLWVmMGFkMTBmYzMzNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 94.156.250.148
+trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?sni=185.126.238.84&peer=185.126.238.84&security=tls#GR 🇬🇷 ┇ TROJAN-TCP-TLS - BrainStorm Network, Inc ┇ 185.126.238.84
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
+vless://921db318-1694-4408-9cc7-c93df39f7f8e@185.213.20.133:443?type=tcp&security=reality&sni=it.monkora.org&fp=chrome&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#IT 🇮🇹 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.213.20.133
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.75.118.27:989#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 103.75.118.27
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - BrainStorm Network, Inc ┇ 103.75.118.144
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#JP 🇯🇵 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 103.75.118.228

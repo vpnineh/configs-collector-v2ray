@@ -1,3 +1,6 @@
-vless://cb1512c9-28d0-498a-ab4f-f69387cc83f3@38.60.247.169:35805?type=tcp&security=reality&sni=soft98.ir&fp=chrome&pbk=yiiAGHAa-fdUDA3723kDNJ49SxPb0OPeMg7BLVtH7HQ&sid=a557ec8c282bb6ed#BG 🇧🇬 ┇ VLESS-TCP-RLT - Kaopu Cloud HK Limited ┇ 38.60.247.169
-vless://50c8b5db-c138-4074-9eb5-9bb04c338eef@fr.hardvezoo.ir:2053?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Kaopu Cloud HK Limited ┇ 38.54.122.112
+trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?sni=38.60.136.156&peer=38.60.136.156&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.136.156
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.168.129
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNjAuMTc2LjgwIiwiYWRkIjoiMzguNjAuMTc2LjgwIiwicG9ydCI6NTI2MjAsImlkIjoiZDYwYzdhODktNDBkOS00ZjA5LWU4ZjgtNTkxOTMyY2U3OWVmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvODcwNGE0YWQifQ
+trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?sni=38.60.220.65&peer=38.60.220.65&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.220.65
+trojan://sQzlIC0sv5u-RM1C-bP_-KxVNhq38JBi@om.speederhub.ir:2083?security=none#OM 🇴🇲 ┇ TROJAN-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.116.31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.80.160
