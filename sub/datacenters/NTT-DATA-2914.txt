@@ -1,4 +1,5 @@
+vless://7836b28e-8451-4596-ad3e-e3601b2335ba@64.188.82.152:443?type=ws&security=tls&path=/websocket&sni=cloudflare.vhub.pro&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 64.188.82.152
 ss://YWVzLTEyOC1nY206d3JEQ3Y4TzB3b28zdzVoeE14eFl3cW5EZ0YxRFRsSkVFUUREaWtjOHc1UENzMFFBd3BnVndxOHp3N2Nw@192.220.32.7:54804#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NTT-DATA-2914 ┇ 192.220.32.7
-vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?type=ws&security=none&path=/5adeccb9#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 157.238.208.110
+vless://c7e9c591-2764-423a-afca-efbd010fd396@217.60.63.206:2053?type=ws&security=tls&path=/&sni=forfreeuse.rtqa.ru#US 🇺🇸 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 217.60.63.206
 vless://ad192c6d-c5ee-4a21-a6bf-85218caa4ef9@192.220.15.222:8443?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=lfOSEE80tv3mvi9fSBcj-oLKDJm2lmdj1PIMLvKwxRc&sid=69#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NTT-DATA-2914 ┇ 192.220.15.222
 vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&sid=f713561d#US 🇺🇸 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 207.56.137.51

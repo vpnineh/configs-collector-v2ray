@@ -1,3 +1,4 @@
-vless://bf885c93-bec5-4175-a17f-3b038a92f2e3@user.mizban-b.site:2044?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.90
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.155:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.189.155
+vless://57c5b970-5b7a-475a-83d3-c08cffc50c19@87.120.106.45:8080?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.45
+vless://f32b9470-4c85-4185-817a-b524ed94ffd9@vip.linux-panel.com:2044?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS ┇ 87.120.106.90
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.81:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.190.81
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45

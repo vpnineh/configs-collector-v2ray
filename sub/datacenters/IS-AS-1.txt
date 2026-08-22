@@ -1,2 +1,2 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?sni=de-1.hysteria.ltd&peer=de-1.hysteria.ltd&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - IS-AS-1 ┇ 94.103.173.70
+vless://bba38246-7a7b-4dc9-a421-d29219ff4fa6@cl.northbookway.shop:9090?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=MmgN7QjrLmvLBXvizo_j9va2vD_5Q4edahMmXAv6bRI&sid=2006495ca4229803#DE 🇩🇪 ┇ VLESS-GRPC-RLT - IS-AS-1 ┇ 94.249.244.12
 vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - IS-AS-1 ┇ 206.72.205.152
