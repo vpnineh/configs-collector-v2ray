@@ -1,1 +1,2 @@
-vless://3f805440-a0cb-456a-bd3e-91b48799e057@104.234.138.36:8456?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&pbk=9RoKb0HSu80wF_T9iURfSP3kyRxezopYFPGgC3tivGg#CA 🇨🇦 ┇ VLESS-TCP-RLT - AS-SPRIO ┇ 104.234.138.36
+vless://89fea982-f0c8-42e0-8331-193f7f6524db@ptserv.accuratenetworkchecker.ir:2053?type=grpc&security=tls&sni=fr.vipusers.accuratenetworkchecker.ir&fp=chrome#CA 🇨🇦 ┇ VLESS-GRPC-TLS - AS-SPRIO ┇ 104.234.138.106
+vless://3a3917e6-4e07-4f57-bf64-9ae87554a1ae@104.234.138.36:8457?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&pbk=9RoKb0HSu80wF_T9iURfSP3kyRxezopYFPGgC3tivGg#CA 🇨🇦 ┇ VLESS-TCP-RLT - AS-SPRIO ┇ 104.234.138.36

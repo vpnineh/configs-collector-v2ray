@@ -1,2 +1,2 @@
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?sni=t11.qifei.app&peer=t11.qifei.app&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - IDC Frontier Inc. ┇ 210.140.81.172
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - IDC Frontier Inc. ┇ 14.137.238.40
 vless://93cc16ff-60bd-4a48-8b4b-0ca1ce5f22ba@14.137.244.44:18233?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - IDC Frontier Inc. ┇ 14.137.244.44

@@ -1,5 +1,4 @@
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 151.242.165.136
-ss://YWVzLTEyOC1nY206OTI5YzVjZTgtMjIyYi00ZDkzLWE4MGYtOWVkNTgwZTJlOGMx@0ccenterhk-c.center-link.org:611#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.231.3.23
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.166.104:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.207.166.104
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.153.185:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.207.153.185
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@175.41.205.247:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 175.41.205.247
@@ -12,184 +11,55 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.206.219.140:443#JP 🇯🇵 ┇ SHADOWSO
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.112.193.151:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.112.193.151
 ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw@54.199.83.239:2333#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.199.83.239
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.83.221:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.207.83.221
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.95.207.148:8316#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.95.207.148
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.112.130.53
-trojan://AE62539071@13.114.122.131:443?sni=whole-grub.rooster465.autos&peer=whole-grub.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.114.122.131
-trojan://FH72359861@needed-gelding.rooster465.autos:443?sni=needed-gelding.rooster465.autos&peer=needed-gelding.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.150.234.233
-trojan://ND91608427@18.181.164.216:443?sni=upright-impala.rooster465.autos&peer=upright-impala.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.164.216
-trojan://AE62539071@54.250.97.109:443?sni=current-barnacle.rooster465.autos&peer=current-barnacle.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.250.97.109
-trojan://AE62539071@13.230.97.36:443?sni=known-albacore.rooster465.autos&peer=known-albacore.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.230.97.36
-trojan://ND91608427@57.180.27.225:443?sni=picked-guinea.rooster465.autos&peer=picked-guinea.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.180.27.225
-trojan://AE62539071@52.194.223.176:443?sni=clear-heron.rooster465.autos&peer=clear-heron.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.194.223.176
-trojan://ND91608427@18.181.194.227:443?sni=moral-buzzard.rooster465.autos&peer=moral-buzzard.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.194.227
-trojan://AE62539071@54.249.32.173:443?sni=eager-camel.rooster465.autos&peer=eager-camel.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.32.173
-trojan://AE62539071@54.64.255.224:443?sni=maximum-elk.rooster465.autos&peer=maximum-elk.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.64.255.224
-trojan://HC04361579@driven-doberman.rooster465.autos:443?sni=driven-doberman.rooster465.autos&peer=driven-doberman.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.199.176.141
-trojan://AE62539071@climbing-frog.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.181.88.104
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.199.77.180:8313#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.199.77.180
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.95.207.148:8316#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.95.207.148
 trojan://FH72359861@many-pangolin.rooster465.autos:443?sni=many-pangolin.rooster465.autos&peer=many-pangolin.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.225.156
-trojan://AE62539071@52.68.175.30:443?sni=on-roughy.rooster465.autos&peer=on-roughy.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.68.175.30
-trojan://AE62539071@13.231.24.177:443?sni=easy-barnacle.rooster465.autos&peer=easy-barnacle.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.24.177
-trojan://HC04361579@pet-albacore.rooster465.autos:443?sni=pet-albacore.rooster465.autos&peer=pet-albacore.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.198.235.67
-trojan://AE62539071@18.183.140.61:443?sni=harmless-imp.rooster465.autos&peer=harmless-imp.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.140.61
-trojan://ND91608427@3.112.15.214:443?sni=adjusted-labrador.rooster465.autos&peer=adjusted-labrador.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.15.214
-trojan://AE62539071@18.183.109.172:443?sni=well-jennet.rooster465.autos&peer=well-jennet.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.109.172
-trojan://PQ05174892@evolving-kangaroo.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.194.186.154
 trojan://ND91608427@3.112.238.99:443?sni=stunning-mite.rooster465.autos&peer=stunning-mite.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.238.99
+trojan://AE62539071@57.181.88.104:443?sni=climbing-frog.rooster465.autos&peer=climbing-frog.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.181.88.104
 trojan://AE62539071@3.113.21.187:443?sni=awaited-lark.rooster465.autos&peer=awaited-lark.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.113.21.187
-trojan://EQ30679154@57.180.56.235:443?sni=gentle-perch.rooster465.autos&peer=gentle-perch.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.180.56.235
 trojan://ND91608427@3.112.223.141:443?sni=internal-sunbird.rooster465.autos&peer=internal-sunbird.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.223.141
 trojan://ND91608427@18.178.132.111:443?sni=devoted-heron.rooster465.autos&peer=devoted-heron.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.178.132.111
 trojan://ND91608427@3.113.24.17:443?sni=nearby-egret.rooster465.autos&peer=nearby-egret.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.113.24.17
 trojan://ND91608427@57.180.13.78:443?sni=healthy-louse.rooster465.autos&peer=healthy-louse.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.180.13.78
 trojan://AE62539071@13.113.89.229:443?sni=coherent-newt.rooster465.autos&peer=coherent-newt.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.113.89.229
+trojan://ND91608427@3.112.15.214:443?sni=adjusted-labrador.rooster465.autos&peer=adjusted-labrador.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.15.214
 trojan://AE62539071@18.183.182.132:443?sni=exciting-grizzly.rooster465.autos&peer=exciting-grizzly.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.182.132
-trojan://FH72359861@magical-airedale.rooster465.autos:443?sni=magical-airedale.rooster465.autos&peer=magical-airedale.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.180.34.69
 trojan://AE62539071@18.183.178.158:443?sni=inviting-burro.rooster465.autos&peer=inviting-burro.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.178.158
 trojan://ND91608427@54.249.34.120:443?sni=social-mutt.rooster465.autos&peer=social-mutt.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.34.120
+trojan://AE62539071@18.183.140.61:443?sni=harmless-imp.rooster465.autos&peer=harmless-imp.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.140.61
 trojan://ND91608427@13.231.232.184:443?sni=better-molly.rooster465.autos&peer=better-molly.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.232.184
 trojan://AE62539071@54.95.128.248:443?sni=engaged-ram.rooster465.autos&peer=engaged-ram.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.95.128.248
+trojan://AE62539071@13.231.24.177:443?sni=easy-barnacle.rooster465.autos&peer=easy-barnacle.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.24.177
+trojan://AE62539071@52.68.175.30:443?sni=on-roughy.rooster465.autos&peer=on-roughy.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.68.175.30
+trojan://AE62539071@54.64.255.224:443?sni=maximum-elk.rooster465.autos&peer=maximum-elk.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.64.255.224
+trojan://AE62539071@54.249.32.173:443?sni=eager-camel.rooster465.autos&peer=eager-camel.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.32.173
+trojan://ND91608427@18.181.194.227:443?sni=moral-buzzard.rooster465.autos&peer=moral-buzzard.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.194.227
+trojan://AE62539071@52.194.223.176:443?sni=clear-heron.rooster465.autos&peer=clear-heron.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.194.223.176
+trojan://ND91608427@57.180.27.225:443?sni=picked-guinea.rooster465.autos&peer=picked-guinea.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.180.27.225
+trojan://AE62539071@13.230.97.36:443?sni=known-albacore.rooster465.autos&peer=known-albacore.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.230.97.36
+trojan://AE62539071@54.250.97.109:443?sni=current-barnacle.rooster465.autos&peer=current-barnacle.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.250.97.109
+trojan://ND91608427@18.181.164.216:443?sni=upright-impala.rooster465.autos&peer=upright-impala.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.164.216
+trojan://AE62539071@13.114.122.131:443?sni=whole-grub.rooster465.autos&peer=whole-grub.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.114.122.131
 trojan://0c6a3341e8d5ab17@f5465c4.pg.gladns.com:3389?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.196.144.61
 trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?sni=sunmoon02.abzoones.xyz&peer=sunmoon02.abzoones.xyz&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.206.67.76
 trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?sni=wel-usgt.optage.moe&peer=wel-usgt.optage.moe&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.168.28.231
+trojan://AE62539071@18.183.109.172:443?sni=well-jennet.rooster465.autos&peer=well-jennet.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.109.172
+trojan://EQ30679154@57.180.56.235:443?sni=gentle-perch.rooster465.autos&peer=gentle-perch.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.180.56.235
 trojan://f389ed926e512e15f382dc3804029474@54.249.53.157:921?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.53.157
-trojan://ND91608427@13.230.118.96:443?sni=real-werewolf.rooster465.autos&peer=real-werewolf.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.230.118.96
-trojan://ND91608427@18.181.175.120:443?sni=sure-humpback.rooster465.autos&peer=sure-humpback.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.175.120
-trojan://ND91608427@3.113.1.131:443?sni=perfect-slug.rooster465.autos&peer=perfect-slug.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.113.1.131
-trojan://ND91608427@52.196.121.8:443?sni=thankful-mustang.rooster465.autos&peer=thankful-mustang.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.196.121.8
-trojan://AE62539071@intimate-koi.rooster465.autos:443?sni=intimate-koi.rooster465.autos&peer=intimate-koi.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.192.234.223
-trojan://AE62539071@definite-hen.rooster465.autos:443?sni=definite-hen.rooster465.autos&peer=definite-hen.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.4.72
-trojan://AE62539071@whole-perch.rooster465.autos:443?sni=whole-perch.rooster465.autos&peer=whole-perch.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.176.210
-trojan://AE62539071@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.autos&peer=pure-kodiak.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.90.240
-trojan://AE62539071@52.198.25.180:443?sni=clear-snail.rooster465.autos&peer=clear-snail.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.198.25.180
-trojan://AE62539071@13.231.222.134:443?sni=grateful-crawdad.rooster465.autos&peer=grateful-crawdad.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.222.134
-trojan://AE62539071@3.112.29.46:443?sni=clear-killdeer.rooster465.autos&peer=clear-killdeer.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.29.46
-trojan://AE62539071@13.158.137.73:443?sni=novel-bat.rooster465.autos&peer=novel-bat.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.158.137.73
-trojan://AE62539071@52.192.243.203:443?sni=pet-antelope.rooster465.autos&peer=pet-antelope.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.192.243.203
-trojan://AE62539071@43.207.118.231:443?sni=joint-ewe.rooster465.autos&peer=joint-ewe.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.118.231
-trojan://AE62539071@54.238.196.238:443?sni=balanced-goat.rooster465.autos&peer=balanced-goat.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.196.238
-trojan://AE62539071@52.198.117.121:443?sni=relevant-cicada.rooster465.autos&peer=relevant-cicada.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.198.117.121
-trojan://AE62539071@13.115.54.131:443?sni=intense-wildcat.rooster465.autos&peer=intense-wildcat.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.115.54.131
-trojan://AE62539071@3.112.200.59:443?sni=new-eagle.rooster465.autos&peer=new-eagle.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.200.59
-trojan://AE62539071@52.199.134.162:443?sni=modest-pup.rooster465.autos&peer=modest-pup.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.199.134.162
-trojan://AE62539071@18.181.169.46:443?sni=fun-salmon.rooster465.autos&peer=fun-salmon.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.169.46
-trojan://AE62539071@18.183.82.51:443?sni=sweeping-parakeet.rooster465.autos&peer=sweeping-parakeet.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.82.51
-trojan://AE62539071@54.199.226.33:443?sni=pleased-pelican.rooster465.autos&peer=pleased-pelican.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.199.226.33
-trojan://AE62539071@18.181.195.212:443?sni=modern-bulldog.rooster465.autos&peer=modern-bulldog.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.195.212
-trojan://AE62539071@18.179.15.13:443?sni=shining-haddock.rooster465.autos&peer=shining-haddock.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.179.15.13
-trojan://AE62539071@13.115.158.235:443?sni=prepared-thrush.rooster465.autos&peer=prepared-thrush.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.115.158.235
-trojan://AE62539071@18.183.135.94:443?sni=central-jawfish.rooster465.autos&peer=central-jawfish.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.135.94
-trojan://AE62539071@13.113.43.109:443?sni=learning-ibex.rooster465.autos&peer=learning-ibex.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.113.43.109
-trojan://AE62539071@18.183.250.98:443?sni=together-mayfly.rooster465.autos&peer=together-mayfly.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.250.98
-trojan://AE62539071@18.183.216.49:443?sni=fun-poodle.rooster465.autos&peer=fun-poodle.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.216.49
-trojan://AE62539071@43.207.166.211:443?sni=proper-mouse.rooster465.autos&peer=proper-mouse.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.166.211
-trojan://AE62539071@54.168.18.107:443?sni=game-thrush.rooster465.autos&peer=game-thrush.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.168.18.107
-trojan://AE62539071@52.195.10.183:443?sni=improved-anteater.rooster465.autos&peer=improved-anteater.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.10.183
-trojan://AE62539071@52.195.215.182:443?sni=premium-perch.rooster465.autos&peer=premium-perch.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.215.182
-trojan://AE62539071@13.115.230.84:443?sni=polished-imp.rooster465.autos&peer=polished-imp.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.115.230.84
-trojan://AE62539071@43.207.140.98:443?sni=right-seahorse.rooster465.autos&peer=right-seahorse.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.140.98
-trojan://AE62539071@13.115.52.58:443?sni=wise-longhorn.rooster465.autos&peer=wise-longhorn.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.115.52.58
-trojan://AE62539071@54.249.33.71:443?sni=outgoing-ladybird.rooster465.autos&peer=outgoing-ladybird.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.33.71
-trojan://AE62539071@52.194.250.73:443?sni=frank-frog.rooster465.autos&peer=frank-frog.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.194.250.73
-trojan://AE62539071@18.181.118.40:443?sni=definite-panda.rooster465.autos&peer=definite-panda.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.118.40
-trojan://AE62539071@18.179.198.30:443?sni=glowing-iguana.rooster465.autos&peer=glowing-iguana.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.179.198.30
-trojan://AE62539071@35.72.10.188:443?sni=immortal-woodcock.rooster465.autos&peer=immortal-woodcock.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.72.10.188
-trojan://AE62539071@54.250.247.38:443?sni=premium-weevil.rooster465.autos&peer=premium-weevil.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.250.247.38
-trojan://AE62539071@18.183.92.88:443?sni=upward-yak.rooster465.autos&peer=upward-yak.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.92.88
-trojan://FH72359861@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&peer=steady-lemming.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.168.199.96
-trojan://FH72359861@stunning-mastodon.rooster465.autos:443?sni=stunning-mastodon.rooster465.autos&peer=stunning-mastodon.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.178.51.14
-trojan://FH72359861@united-sculpin.rooster465.autos:443?sni=united-sculpin.rooster465.autos&peer=united-sculpin.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.162.10
-trojan://AE62539071@13.158.135.118:443?sni=literate-cow.rooster465.autos&peer=literate-cow.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.158.135.118
-trojan://FH72359861@3.112.250.103:443?sni=flexible-pony.rooster465.autos&peer=flexible-pony.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.250.103
-trojan://FH72359861@18.179.9.194:443?sni=closing-falcon.rooster465.autos&peer=closing-falcon.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.179.9.194
-trojan://FH72359861@43.207.83.177:443?sni=settled-camel.rooster465.autos&peer=settled-camel.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.83.177
-trojan://FH72359861@54.64.38.110:443?sni=equal-labrador.rooster465.autos&peer=equal-labrador.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.64.38.110
-trojan://FH72359861@3.112.178.131:443?sni=brief-hare.rooster465.autos&peer=brief-hare.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.178.131
-trojan://FH72359861@13.113.121.174:443?sni=tight-fawn.rooster465.autos&peer=tight-fawn.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.113.121.174
-trojan://FH72359861@57.180.23.141:443?sni=engaged-lionfish.rooster465.autos&peer=engaged-lionfish.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.180.23.141
-trojan://FH72359861@18.183.245.11:443?sni=bright-buffalo.rooster465.autos&peer=bright-buffalo.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.245.11
-trojan://FH72359861@18.181.213.219:443?sni=lasting-jaguar.rooster465.autos&peer=lasting-jaguar.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.213.219
-trojan://FH72359861@54.250.156.204:443?sni=square-tortoise.rooster465.autos&peer=square-tortoise.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.250.156.204
-trojan://FH72359861@52.196.34.5:443?sni=welcome-owl.rooster465.autos&peer=welcome-owl.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.196.34.5
-trojan://FH72359861@13.159.22.208:443?sni=driven-bulldog.rooster465.autos&peer=driven-bulldog.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.159.22.208
-trojan://FH72359861@13.230.4.218:443?sni=content-rabbit.rooster465.autos&peer=content-rabbit.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.230.4.218
-trojan://FH72359861@18.183.226.106:443?sni=living-hagfish.rooster465.autos&peer=living-hagfish.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.226.106
-trojan://FH72359861@13.231.180.231:443?sni=set-gazelle.rooster465.autos&peer=set-gazelle.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.180.231
-trojan://FH72359861@13.231.237.228:443?sni=classic-pug.rooster465.autos&peer=classic-pug.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.237.228
-trojan://FH72359861@13.113.71.200:443?sni=trusting-elf.rooster465.autos&peer=trusting-elf.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.113.71.200
-trojan://FH72359861@43.207.86.70:443?sni=rich-gelding.rooster465.autos&peer=rich-gelding.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.86.70
-trojan://FH72359861@52.195.233.147:443?sni=touching-ostrich.rooster465.autos&peer=touching-ostrich.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.233.147
-trojan://FH72359861@54.249.17.79:443?sni=flying-swift.rooster465.autos&peer=flying-swift.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.17.79
-trojan://FH72359861@13.115.163.4:443?sni=devoted-zebra.rooster465.autos&peer=devoted-zebra.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.115.163.4
-trojan://FH72359861@18.177.139.241:443?sni=steady-prawn.rooster465.autos&peer=steady-prawn.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.177.139.241
-trojan://FH72359861@13.113.172.232:443?sni=sure-husky.rooster465.autos&peer=sure-husky.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.113.172.232
-trojan://FH72359861@52.68.147.250:443?sni=sterling-fowl.rooster465.autos&peer=sterling-fowl.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.68.147.250
-trojan://FH72359861@52.195.215.144:443?sni=great-wasp.rooster465.autos&peer=great-wasp.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.215.144
-trojan://FH72359861@18.177.142.108:443?sni=endless-kiwi.rooster465.autos&peer=endless-kiwi.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.177.142.108
-trojan://FH72359861@13.114.129.151:443?sni=actual-chicken.rooster465.autos&peer=actual-chicken.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.114.129.151
-trojan://FH72359861@43.207.87.43:443?sni=casual-stallion.rooster465.autos&peer=casual-stallion.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.87.43
-trojan://FH72359861@54.249.80.161:443?sni=deep-ringtail.rooster465.autos&peer=deep-ringtail.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.80.161
-trojan://FH72359861@13.231.123.71:443?sni=winning-shrimp.rooster465.autos&peer=winning-shrimp.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.123.71
-trojan://FH72359861@3.113.30.13:443?sni=loyal-killdeer.rooster465.autos&peer=loyal-killdeer.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.113.30.13
-trojan://FH72359861@13.114.140.183:443?sni=included-hedgehog.rooster465.autos&peer=included-hedgehog.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.114.140.183
-trojan://FH72359861@18.183.164.199:443?sni=helping-shark.rooster465.autos&peer=helping-shark.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.164.199
-trojan://FH72359861@43.207.171.97:443?sni=noted-cougar.rooster465.autos&peer=noted-cougar.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.171.97
-trojan://FH72359861@52.195.2.92:443?sni=adapted-quetzal.rooster465.autos&peer=adapted-quetzal.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.2.92
-trojan://FH72359861@54.248.168.53:443?sni=emerging-porpoise.rooster465.autos&peer=emerging-porpoise.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.248.168.53
-trojan://FH72359861@3.113.14.127:443?sni=bright-quagga.rooster465.autos&peer=bright-quagga.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.113.14.127
-trojan://FH72359861@18.181.167.254:443?sni=tough-gopher.rooster465.autos&peer=tough-gopher.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.167.254
-trojan://FH72359861@54.248.67.10:443?sni=funny-squid.rooster465.autos&peer=funny-squid.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.248.67.10
-trojan://FH72359861@13.114.84.244:443?sni=adapting-giraffe.rooster465.autos&peer=adapting-giraffe.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.114.84.244
-trojan://FH72359861@13.231.211.74:443?sni=star-cheetah.rooster465.autos&peer=star-cheetah.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.211.74
 trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&peer=unbiased-coyote.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.113.231.8
-trojan://FH72359861@54.168.45.85:443?sni=internal-mongoose.rooster465.autos&peer=internal-mongoose.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.168.45.85
-trojan://FH72359861@54.178.52.185:443?sni=pretty-adder.rooster465.autos&peer=pretty-adder.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.178.52.185
-trojan://PQ05174892@13.115.145.243:443?sni=smooth-cougar.rooster465.autos&peer=smooth-cougar.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.115.145.243
-trojan://PQ05174892@13.115.247.230:443?sni=ethical-raccoon.rooster465.autos&peer=ethical-raccoon.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.115.247.230
-trojan://PQ05174892@54.249.94.94:443?sni=inspired-hound.rooster465.autos&peer=inspired-hound.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.94.94
-trojan://PQ05174892@13.230.240.243:443?sni=ready-monarch.rooster465.autos&peer=ready-monarch.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.230.240.243
-trojan://PQ05174892@54.238.100.160:443?sni=witty-duckling.rooster465.autos&peer=witty-duckling.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.100.160
-trojan://PQ05174892@52.69.227.10:443?sni=aware-puma.rooster465.autos&peer=aware-puma.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.69.227.10
-trojan://PQ05174892@54.199.63.163:443?sni=musical-mouse.rooster465.autos&peer=musical-mouse.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.199.63.163
-trojan://PQ05174892@13.113.5.97:443?sni=champion-alien.rooster465.autos&peer=champion-alien.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.113.5.97
-trojan://PQ05174892@18.183.166.231:443?sni=flexible-titmouse.rooster465.autos&peer=flexible-titmouse.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.166.231
-trojan://PQ05174892@3.113.6.163:443?sni=together-amoeba.rooster465.autos&peer=together-amoeba.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.113.6.163
-trojan://PQ05174892@13.114.14.77:443?sni=pretty-rat.rooster465.autos&peer=pretty-rat.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.114.14.77
-trojan://PQ05174892@13.112.222.74:443?sni=free-tuna.rooster465.autos&peer=free-tuna.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.112.222.74
-trojan://PQ05174892@13.113.98.210:443?sni=mighty-lemming.rooster465.autos&peer=mighty-lemming.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.113.98.210
-trojan://PQ05174892@13.114.100.100:443?sni=pleased-sawfly.rooster465.autos&peer=pleased-sawfly.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.114.100.100
-trojan://PQ05174892@13.231.123.180:443?sni=fair-reptile.rooster465.autos&peer=fair-reptile.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.123.180
-trojan://PQ05174892@52.193.0.187:443?sni=humane-hawk.rooster465.autos&peer=humane-hawk.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.193.0.187
-trojan://PQ05174892@54.238.143.135:443?sni=resolved-gelding.rooster465.autos&peer=resolved-gelding.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.143.135
-trojan://PQ05174892@54.238.4.188:443?sni=pumped-clam.rooster465.autos&peer=pumped-clam.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.4.188
-trojan://PQ05174892@43.206.241.145:443?sni=concise-guinea.rooster465.autos&peer=concise-guinea.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.206.241.145
-trojan://PQ05174892@54.238.168.66:443?sni=diverse-hawk.rooster465.autos&peer=diverse-hawk.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.168.66
-trojan://PQ05174892@54.65.206.173:443?sni=major-duckling.rooster465.autos&peer=major-duckling.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.65.206.173
-trojan://PQ05174892@18.182.64.217:443?sni=moved-weasel.rooster465.autos&peer=moved-weasel.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.182.64.217
-trojan://PQ05174892@52.195.7.13:443?sni=intense-kid.rooster465.autos&peer=intense-kid.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.7.13
-trojan://PQ05174892@18.182.55.209:443?sni=prime-quail.rooster465.autos&peer=prime-quail.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.182.55.209
-trojan://PQ05174892@54.249.166.162:443?sni=merry-falcon.rooster465.autos&peer=merry-falcon.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.166.162
-trojan://PQ05174892@54.249.187.217:443?sni=modest-amoeba.rooster465.autos&peer=modest-amoeba.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.187.217
-trojan://PQ05174892@18.183.179.0:443?sni=key-sponge.rooster465.autos&peer=key-sponge.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.179.0
-trojan://PQ05174892@13.231.219.205:443?sni=famous-opossum.rooster465.autos&peer=famous-opossum.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.219.205
-trojan://PQ05174892@43.207.145.97:443?sni=engaged-antelope.rooster465.autos&peer=engaged-antelope.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.145.97
-trojan://PQ05174892@13.231.255.107:443?sni=humorous-starling.rooster465.autos&peer=humorous-starling.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.231.255.107
-trojan://PQ05174892@3.112.242.12:443?sni=intimate-hog.rooster465.autos&peer=intimate-hog.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.242.12
-trojan://PQ05174892@54.238.185.99:443?sni=glorious-hamster.rooster465.autos&peer=glorious-hamster.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.185.99
-trojan://PQ05174892@13.192.168.51:443?sni=learning-leopard.rooster465.autos&peer=learning-leopard.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.192.168.51
-trojan://PQ05174892@57.181.28.187:443?sni=thorough-elf.rooster465.autos&peer=thorough-elf.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.181.28.187
-trojan://PQ05174892@52.196.139.154:443?sni=sterling-vervet.rooster465.autos&peer=sterling-vervet.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.196.139.154
-trojan://PQ05174892@52.198.199.32:443?sni=main-dragon.rooster465.autos&peer=main-dragon.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.198.199.32
-trojan://PQ05174892@52.197.196.241:443?sni=logical-ram.rooster465.autos&peer=logical-ram.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.197.196.241
-trojan://PQ05174892@54.249.221.234:443?sni=open-caribou.rooster465.autos&peer=open-caribou.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.221.234
-trojan://EQ30679154@3.112.44.90:443?sni=brave-tomcat.rooster465.autos&peer=brave-tomcat.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.44.90
-trojan://EQ30679154@54.199.234.4:443?sni=liked-eft.rooster465.autos&peer=liked-eft.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.199.234.4
+trojan://AE62539071@18.183.135.94:443?sni=central-jawfish.rooster465.autos&peer=central-jawfish.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.183.135.94
+trojan://AE62539071@52.198.117.121:443?sni=relevant-cicada.rooster465.autos&peer=relevant-cicada.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.198.117.121
+trojan://FH72359861@13.159.22.208:443?sni=driven-bulldog.rooster465.autos&peer=driven-bulldog.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.159.22.208
 trojan://PQ05174892@13.159.17.90:443?sni=outgoing-cockatoo.rooster465.autos&peer=outgoing-cockatoo.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.159.17.90
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxMy4xMTMuMjUwLjIyOCIsImFkZCI6InN0LTEuZG5zcHJvLmljdSIsInBvcnQiOjkxMTEsImlkIjoiMTNlZjVmMmMtZDAwMi0zNmEyLTllOTYtYTEzZDVlM2FlMDNiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJoa3QwMi5kbnNwcm8uaWN1IiwicGF0aCI6Ii9pc28iLCJzbmkiOiJoa3QwMi5kbnNwcm8uaWN1In0
+trojan://PQ05174892@13.192.168.51:443?sni=learning-leopard.rooster465.autos&peer=learning-leopard.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.192.168.51
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxMy4xMTUuNjYuNjQiLCJhZGQiOiJzdGVhbS5kbnNwcm8uaWN1IiwicG9ydCI6NTAwMSwiaWQiOiJkNGM5MzQ2NS03MGYwLTMwZDUtYWI1Zi1hODg4MWYzZjQ5ZTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9pc28ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxMy4xMTUuMjUxLjI1MyIsImFkZCI6ImpwYXdzLmNjd2luay5waG90b3MiLCJwb3J0Ijo1MzIyNSwiaWQiOiJhMTU3YmI4NC1kZDg0LTRhZDgtODZiMC0wNjU2YmM3NmU0ZDEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJndy5hbGljZG4uY29tIiwidGxzIjoidGxzIiwic25pIjoiZ3cuYWxpY2RuLmNvbSJ9
 vless://72820b3c-b6a0-4e7c-8608-c37881f9a7d2@46.8.102.142:443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 46.8.102.142
-vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 15.168.173.144
 vless://b763436c-6d5d-408d-8a0e-ea1d358927e9@aws-jp02.ziyoufly.xyz:55555?type=tcp&security=reality&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&pbk=1XQ60qYOfBZJpcilNV9Fu7OSpuO5_6-zrNZIYhB_YU4&sid=af317506#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.113.193.126
-vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?type=tcp&security=none&path=/#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 139.180.198.220
+vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 15.168.173.144
+trojan://7f0dcf73-bc93-4038-b683-c4728f06e7d7@trojannmfan5.ripwallllc.com:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 104.238.160.138
+vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 139.180.198.220
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.77.25.6:48828?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#JP 🇯🇵 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.77.25.6
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@64.176.36.17:443?type=ws&security=tls&path=/&sni=zero.csmaster.ggff.net&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - AS-VULTR ┇ 64.176.36.17
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@172.104.123.158:8097#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.123.158
@@ -198,10 +68,14 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxMzkuMTYyLjExNy4xNzMiLCJhZGQiOiIxMzkuMTYyLjExNy4xNzMiLCJwb3J0Ijo0NDMsImlkIjoiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvY2hhdCIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA0Ljc4Ljk4IiwiYWRkIjoiMTcyLjEwNC43OC45OCIsInBvcnQiOjQ0MywiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA1LjIyMy4xMzYiLCJhZGQiOiIxNzIuMTA1LjIyMy4xMzYiLCJwb3J0Ijo0NDMsImlkIjoiODk2NGVhNzktMTQyMi00NjBlLWI2ZTItYTE2ZTgzYTIyYWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://71a162cc-7fad-409d-87fa-5ca9e13474fb@172.234.89.171:56702?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#JP 🇯🇵 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.234.89.171
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&peer=iepl.jpz2.cat.bilibili.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 5.34.222.4
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@202.84.53.85:30816?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#JP 🇯🇵 ┇ VLESS-WS-TLS - Azumino Network Community TV ┇ 202.84.53.85
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.75.118.27:989#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 103.75.118.27
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - BrainStorm Network, Inc ┇ 103.75.118.144
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - CTG Server Limited ┇ 134.122.202.244
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - CTG Server Limited ┇ 137.220.221.179
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@154.197.80.55:2096?type=ws&security=tls&sni=De15.SiMaNsAnAt.Ir.#JP 🇯🇵 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.197.80.55
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 84.247.155.196
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ29udGFibyBBc2lhIFByaXZhdGUgTGltaXRlZCBcdTI1MDcgMTA5LjEyMy4yMzAuMTU3IiwiYWRkIjoiMTA5LjEyMy4yMzAuMTU3IiwicG9ydCI6ODAsImlkIjoiNTk1MTdlMGItYWUxYy00MWQzLTljNDQtYzQ0Y2VhNmY3NTQ2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdGFrZXNoaS53aWtpIn0
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.204
@@ -214,31 +88,23 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.125.101:812#JP 🇯�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.160.24.217:805#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 185.160.24.217
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?type=tcp&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&flow=xtls-rprx-vision&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d#JP 🇯🇵 ┇ VLESS-TCP-RLT - Datacamp Limited ┇ 96.62.214.136
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Edgenap Ltd ┇ 93.93.246.88
-trojan://Mitivpn@151.101.110.219:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.110.219
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net#JP 🇯🇵 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.109.223
-trojan://AE62539071@one-quail.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 94.177.131.174
-trojan://FH72359861@correct-pony.rooster465.autos:443?sni=correct-pony.rooster465.autos&peer=correct-pony.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 85.234.83.27
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&peer=lucky-marmot.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 31.223.184.41
 trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 31.223.184.16
 trojan://QV31589740@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&peer=great-krill.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.94.206
-trojan://AE62539071@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&peer=chief-cricket.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 31.223.184.85
-trojan://FH72359861@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&peer=nearby-cod.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.94.149
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?sni=moral-dolphin.rooster465.autos&peer=moral-dolphin.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.94.176
-trojan://PQ05174892@humane-bird.rooster465.autos:443?sni=humane-bird.rooster465.autos&peer=humane-bird.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 85.234.83.7
-trojan://PQ05174892@firm-warthog.rooster465.autos:443?sni=firm-warthog.rooster465.autos&peer=firm-warthog.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 31.223.184.83
-trojan://PQ05174892@immune-earwig.rooster465.autos:443?sni=immune-earwig.rooster465.autos&peer=immune-earwig.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 94.177.131.162
-trojan://PQ05174892@musical-shrew.rooster465.autos:443?sni=musical-shrew.rooster465.autos&peer=musical-shrew.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 94.177.131.233
+trojan://PQ05174892@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&peer=lucky-marmot.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 31.223.184.41
+trojan://FH72359861@correct-pony.rooster465.autos:443?sni=correct-pony.rooster465.autos&peer=correct-pony.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 85.234.83.27
+trojan://AE62539071@one-quail.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 94.177.131.174
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.94.176
 vless://5dca393d-ddfe-464a-8055-4f8167c1f25b@31.223.184.168:443?type=tcp&security=reality&sni=www.goo.gl&fp=chrome&pbk=TBFdlGGrf0CijfaTk3ZWN983mzIqqrpvX0PjOeFCoV8&sid=c0d7#JP 🇯🇵 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 31.223.184.168
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR01PIEdsb2JhbFNpZ24gSG9sZGluZ3MgSy5LLiBcdTI1MDcgMTUzLjEyMi4xNzMuNTMiLCJhZGQiOiIxNTMuMTIyLjE3My41MyIsInBvcnQiOjMyNDA3LCJpZCI6IjI2YzVmZGM3LWIzYmUtMzQ4Mi05YTQ1LWQ5N2I5NThhODg5YSIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3YycmF5In0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR01PIEludGVybmV0IEdyb3VwLCBJbmMuIFx1MjUwNyAxNjAuMjUxLjY0LjgwIiwiYWRkIjoid3d3LmRhcmtyb29tLmxvbCIsInBvcnQiOjgwODAsImlkIjoiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@170.205.39.165:8443?type=ws&security=tls&path=/GOrbEh&sni=rubifen.adaspoloandco.com&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - HOSTHATCH ┇ 170.205.39.165
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?sni=t11.qifei.app&peer=t11.qifei.app&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - IDC Frontier Inc. ┇ 210.140.81.172
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - IDC Frontier Inc. ┇ 14.137.238.40
 vless://93cc16ff-60bd-4a48-8b4b-0ca1ce5f22ba@14.137.244.44:18233?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - IDC Frontier Inc. ┇ 14.137.244.44
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@23.106.142.106:51252?type=ws&security=tls&path=/?ed=2048&sni=dns68.putata.eu.org#JP 🇯🇵 ┇ VLESS-WS-TLS - IT7NET ┇ 23.106.142.106
+vless://6aacb276-9947-43e8-9ec6-7a6c67c0d931@213.165.44.101:34625?type=ws&security=none&path=/#JP 🇯🇵 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.44.101
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBKdSBMaW5rIFRlY2ggTGltaXRlZCBcdTI1MDcgMTYxLjEyOS4zNC4xMjYiLCJhZGQiOiIxNjEuMTI5LjM0LjEyNiIsInBvcnQiOjQ0MywiaWQiOiJhMGIxZmI2Ni1lZDQxLTQwNzctODZhOS1hNjFjMTQzZDM3NzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InBpY3MucXVpY2tseWZhc3QueHl6IiwicGF0aCI6Ii9hMGIxZmI2Ni1lZDQxLTQwNzctODZhOS1hNjFjMTQzZDM3NzciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwaWNzLnF1aWNrbHlmYXN0Lnh5eiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBKdSBMaW5rIFRlY2ggTGltaXRlZCBcdTI1MDcgMTYxLjEyOS4zNC4xMDIiLCJhZGQiOiIxNjEuMTI5LjM0LjEwMiIsInBvcnQiOjQ0MywiaWQiOiJlYzczNjQ4Mi0xNzNlLTNlZmYtOTExNC1iNDlkZjgwNTZlN2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.69
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTEFUSVRVREUtU0ggXHUyNTA3IDE3Mi4xMTEuMTQ2LjY0IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTEFUSVRVREUtU0ggXHUyNTA3IDE3Mi4xMTEuMTQ2LjY0IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii92bWVzcy8ifQ
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443?type=tcp&security=reality&sni=jp.servers.gracevpnbuy.com&fp=firefox&flow=xtls-rprx-vision&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039#JP 🇯🇵 ┇ VLESS-TCP-RLT - Leaseweb Japan K.K. ┇ 142.91.105.104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@45.66.134.176:806#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 45.66.134.176
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.97.73.215
@@ -249,7 +115,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - MIKU NETWORK LIMITED ┇ 157.254.193.251
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTUlLVSBORVRXT1JLIExJTUlURUQgXHUyNTA3IDE1Ny4yNTQuMTkzLjY4IiwiYWRkIjoiMTU3LjI1NC4xOTMuNjgiLCJwb3J0IjoxMDAyMCwiaWQiOiJmMWY0NTAwNS1mMDc0LTQzMGItYTRkYi03MTA5ZjUwYzNiY2UiLCJhaWQiOjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs09.bolab.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - NTT PC Communications, Inc. ┇ 140.227.54.4
-trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&peer=aa.ccmusic.jp&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - NTT PC Communications, Inc. ┇ 161.34.39.108
+trojan://tsuchiya@aa.ccmusic.jp:443?sni=aa.ccmusic.jp&peer=aa.ccmusic.jp&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - NTT PC Communications, Inc. ┇ 161.34.39.108
+vless://658f7138-93c2-414d-a6c2-f332c94d4034@217.60.24.57:8443?type=grpc&security=reality&sni=cdn.shopify.com&fp=chrome&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&sid=f747a7a5793b5714#JP 🇯🇵 ┇ VLESS-GRPC-RLT - NTT-DATA-2914 ┇ 217.60.24.57
 vless://6f339a8a-6c15-4104-a9ef-95f2082e8e53@103.76.85.207:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=wz7upg9oyxhWauuxq8wT0vwm-zwq2GlGqXPuRyjHVTs&sid=d243260730435fb4#JP 🇯🇵 ┇ VLESS-TCP-RLT - Nearoute Limited ┇ 103.76.85.207
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.44.176
 trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@138.2.45.89:44301?sni=osav101.jd0001.top&peer=osav101.jd0001.top&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.45.89
@@ -261,7 +128,6 @@ trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#JP
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@141.147.191.85:28443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 141.147.191.85
 trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?sni=www.tokyo2023.ga&peer=www.tokyo2023.ga&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 132.226.5.246
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?sni=www.seetheworldjp.ga&peer=www.seetheworldjp.ga&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 150.230.201.192
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNDAuODMuNTcuMjAiLCJhZGQiOiIxNDAuODMuNTcuMjAiLCJwb3J0IjoxMzExOCwiaWQiOiIxZjAxZTM4OS1mYmNiLTQ5NGMtZTQ2YS0yMTBlYzM2MzI5YzIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNjguMTM4LjIwMy4yMzIiLCJhZGQiOiJzdXpoaWhhbi5ldS5vcmciLCJwb3J0Ijo0NDMsImlkIjoiMGI4NzNjZmYtMTFhYi00NzE2LWM0MWEtMDRmODg2MTM1MDkxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJzdXpoaWhhbi5ldS5vcmciLCJwYXRoIjoiL3JvZXdlc3UiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzdXpoaWhhbi5ldS5vcmcifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjcwLjEwMy4xOTUiLCJhZGQiOiIxNTIuNzAuMTAzLjE5NSIsInBvcnQiOjM3MjA2LCJpZCI6ImZmM2ZkMDc4LTk5YjUtNDZiNi04Y2Q1LWQ0OGZmMjcxNzE5YSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTM4LjIuNTIuMTc2IiwiYWRkIjoiMTM4LjIuNTIuMTc2IiwicG9ydCI6MjQ0MjksImlkIjoiOGQ1Y2E1OWUtOGUzZS00YTEwLWUwMjMtNTNjZmNkODdhNzJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
@@ -274,8 +140,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY5LjE5My4yNDUiLCJhZGQiOiIxNTIuNjkuMTkzLjI0NSIsInBvcnQiOjgwLCJpZCI6IjY2OTc3NzZiLWQwMDktNDEzYi04NzA4LTgyMmVlMmUwMjUxNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUwLjIzMC4xOTcuMTQyIiwiYWRkIjoiMTUwLjIzMC4xOTcuMTQyIiwicG9ydCI6MjA1MiwiaWQiOiJjNzdlOWIzNS0wZmRjLTRiOGItZmU5MS1lOWJlNTIzNTg2ZGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9BIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxMzguMi41Mi4yNDQiLCJhZGQiOiIxMzguMi41Mi4yNDQiLCJwb3J0Ijo0NDMsImlkIjoiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJsZzMwLmNmY2RuMy54eXoiLCJwYXRoIjoiL3JheSIsInRscyI6InRscyIsInNuaSI6ImxnMzAuY2ZjZG4zLnh5eiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTQwLjgzLjUxLjE2MSIsImFkZCI6IjE0MC44My41MS4xNjEiLCJwb3J0IjoyNTY4NiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJ2bWVzcyIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTY4LjEzOC40My43NSIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0Ijo4MCwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ik5vbmUiLCJwYXRoIjoiL2NjdHYxMy5tM3U4Iiwic25pIjoiTm9uZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTQwLjgzLjUxLjE2MSIsImFkZCI6IjE0MC44My41MS4xNjEiLCJwb3J0IjoyNTY4NiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjE0MC44My41MS4xNjEiLCJwYXRoIjoiL2NjdHYxMy5tM3U4Iiwic25pIjoiMTQwLjgzLjUxLjE2MSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNDAuODMuNTcuMjAiLCJhZGQiOiIxNDAuODMuNTcuMjAiLCJwb3J0IjoxMzExOCwiaWQiOiIxZjAxZTM4OS1mYmNiLTQ5NGMtZTQ2YS0yMTBlYzM2MzI5YzIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTY4LjEzOC40My43NSIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0Ijo4MCwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjE2OC4xMzguNDMuNzUiLCJwYXRoIjoiL2NjdHYxMy5tM3U4Iiwic25pIjoiMTY4LjEzOC40My43NSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNjguMTM4LjE5OS4xODAiLCJhZGQiOiJ0b2t5bzAyLnpnam9rLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIzZmUxMTNmOS1lNTY0LTQxMTEtYjhjNy0xMWY1OTc2ODc2ODkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ0b2t5bzAyLnpnam9rLmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoidG9reW8wMi56Z2pvay5jb20ifQ
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@23.145.24.30:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - POLONETWORK LIMITED ┇ 23.145.24.30
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.125.55.109
