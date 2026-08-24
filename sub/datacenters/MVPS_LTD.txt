@@ -1,4 +1,3 @@
-vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@node2.onepanel123.ru:2087?type=ws&security=tls&path=/de-vless-ws&sni=node2.onepanel123.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - MVPS LTD ┇ 91.227.41.204
-vless://c7e9c591-2764-423a-afca-efbd010fd396@93.115.19.15:2053?type=ws&security=tls&path=/&sni=forfreeuse.rtqa.ru#DE 🇩🇪 ┇ VLESS-WS-TLS - MVPS LTD ┇ 93.115.19.15
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@91.227.41.204:2087?type=ws&security=tls&path=/de-vless-ws&sni=node2.onepanel123.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - MVPS LTD ┇ 91.227.41.204
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@95.169.201.169:13868?type=tcp&security=reality&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&sid=e852dc#DE 🇩🇪 ┇ VLESS-TCP-RLT - MVPS LTD ┇ 95.169.201.169
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@86.107.197.239:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - MVPS LTD ┇ 86.107.197.239
