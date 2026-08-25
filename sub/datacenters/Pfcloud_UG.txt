@@ -1,3 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBmY2xvdWQgVUcgXHUyNTA3IDE3Ni42NS4xNTEuNzYiLCJhZGQiOiJwbHVzLmFwYXJhdHJhdGluZm8uaXIiLCJwb3J0Ijo5NDQzLCJpZCI6IjQ5OWUzNmY0LWU3NWEtNDIxMC04NTNmLThjODQ5NzkwZDI1NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://55dea358-343a-42d4-8a8b-4ddb30a2ec82@176.65.151.52:19819?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.52
-vless://37310a6a-3e7e-4939-ae5e-d430eb9f8414@176.65.151.86:37430?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=2PoRqgcBLnDMICOg1UvlGRjuNTv4qhakrI2uyqRTaEI#NL 🇳🇱 ┇ VLESS-TCP-RLT - Pfcloud UG ┇ 176.65.151.86
+vless://14a0c04a-8d53-4dcb-a450-8770a0a1ed1b@176.65.151.52:54334?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.52
+vless://5abafe69-726f-4dba-b233-990368f96140@176.65.151.83:37430?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=SH-kDcAJqxHIyvtvSjt9DIiOy-5pscb8-Xdt8QxmG38#NL 🇳🇱 ┇ VLESS-TCP-RLT - Pfcloud UG ┇ 176.65.151.83
+vless://6f50f8c0-9b83-4efa-8333-b82b99b3cb1c@176.65.151.86:37430?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=2PoRqgcBLnDMICOg1UvlGRjuNTv4qhakrI2uyqRTaEI#NL 🇳🇱 ┇ VLESS-TCP-RLT - Pfcloud UG ┇ 176.65.151.86

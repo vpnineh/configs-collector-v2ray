@@ -1,1 +1,2 @@
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@212.23.221.62:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 212.23.221.62
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@103.246.146.239:8444?type=ws&security=tls&path=/api/v1/devices/4d1e7a9c02/telemetry&sni=nl1.meshbeat.online&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 103.246.146.239

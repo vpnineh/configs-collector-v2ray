@@ -3,6 +3,7 @@ vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?type=grpc&securi
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@188.253.26.128:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - SIA VEESP ┇ 188.253.26.128
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@82.115.6.21:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - SIA VEESP ┇ 82.115.6.21
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@swa.mythos-wargame.fun:443?type=grpc&security=tls&sni=swa.mythos-wargame.fun&fp=chrome#SE 🇸🇪 ┇ VLESS-GRPC-TLS - SIA VEESP ┇ 62.182.196.57
 vless://Telegram@62.182.192.35:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SI 🇸🇮 ┇ VLESS-WS-TLS - SIA VEESP ┇ 62.182.192.35
 vless://Telegram@62.182.192.49:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SI 🇸🇮 ┇ VLESS-WS-TLS - SIA VEESP ┇ 62.182.192.49
 vless://Telegram@62.182.193.76:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SI 🇸🇮 ┇ VLESS-WS-TLS - SIA VEESP ┇ 62.182.193.76
