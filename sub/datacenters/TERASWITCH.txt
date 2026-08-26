@@ -1,1 +1,2 @@
-vless://3ffe2ab7-5657-466f-ad71-75aa1717f51b@194.87.52.81:53844?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=24IQtal3G9sIlVqj2_fO-No3Oo6Sxofan80ivMLW_UY&sid=893dd72a6ccb9fd0#DE 🇩🇪 ┇ VLESS-TCP-RLT - TERASWITCH ┇ 194.87.52.81
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@202.8.9.27:28443?sni=www.download.windowsupdate1.com&peer=www.download.windowsupdate1.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - TERASWITCH ┇ 202.8.9.27
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@202.8.9.67:28443?sni=www.download.windowsupdate1.com&peer=www.download.windowsupdate1.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - TERASWITCH ┇ 202.8.9.67

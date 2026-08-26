@@ -2,9 +2,8 @@ vless://22696950-587f-42c0-af24-c1ffab17d0cd@91.197.3.43:52463?type=tcp&security
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?type=grpc&security=reality&sni=colorlib.com&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#LV 🇱🇻 ┇ VLESS-GRPC-RLT - SIA VEESP ┇ 216.173.71.79
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@188.253.26.128:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - SIA VEESP ┇ 188.253.26.128
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@82.115.6.21:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - SIA VEESP ┇ 82.115.6.21
-vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@swa.mythos-wargame.fun:443?type=grpc&security=tls&sni=swa.mythos-wargame.fun&fp=chrome#SE 🇸🇪 ┇ VLESS-GRPC-TLS - SIA VEESP ┇ 62.182.196.57
 vless://Telegram@62.182.192.35:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SI 🇸🇮 ┇ VLESS-WS-TLS - SIA VEESP ┇ 62.182.192.35
 vless://Telegram@62.182.192.49:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SI 🇸🇮 ┇ VLESS-WS-TLS - SIA VEESP ┇ 62.182.192.49
 vless://Telegram@62.182.193.76:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SI 🇸🇮 ┇ VLESS-WS-TLS - SIA VEESP ┇ 62.182.193.76
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@62.182.192.195:443?type=ws&security=tls&path=/pg/10086-dfc816f117c49173&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&fp=chrome#SI 🇸🇮 ┇ VLESS-WS-TLS - SIA VEESP ┇ 62.182.192.195
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?type=tcp&security=reality&sni=retn.net&fp=chrome&flow=xtls-rprx-vision&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e#SI 🇸🇮 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 62.182.195.78

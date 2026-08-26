@@ -1,3 +1,1 @@
-vless://6f339a8a-6c15-4104-a9ef-95f2082e8e53@103.76.85.207:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=wz7upg9oyxhWauuxq8wT0vwm-zwq2GlGqXPuRyjHVTs&sid=d243260730435fb4#JP 🇯🇵 ┇ VLESS-TCP-RLT - Nearoute Limited ┇ 103.76.85.207
-vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&sid=36ff988994b11357#JP 🇯🇵 ┇ VLESS-TCP-RLT - Nearoute Limited ┇ 103.76.85.82
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Nearoute Limited ┇ 157.254.38.210
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?sni=hk.catxstar.com&peer=hk.catxstar.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Nearoute Limited ┇ 157.254.38.210
