@@ -1,5 +1,5 @@
 vless://Telegram@193.148.59.145:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#BG 🇧🇬 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 193.148.59.145
 vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&sid=e3daad69#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 193.148.59.178
+vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@195.133.35.63:2096?type=xhttp&security=reality&path=/xh&sni=udemy.com&fp=chrome&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - Host Telecom Ltd ┇ 195.133.35.63
 vless://22419260-5475-49d8-a29c-01905c54d1b8@194.87.24.3:443?type=tcp&security=reality&sni=de1.de-cdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&sid=f7d0420b8ab26060#CZ 🇨🇿 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 194.87.24.3
-vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?type=ws&security=tls&path=/&sni=ww1.aniuge.qzz.io&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 94.125.102.52
 vless://10e2817c-9a84-4c42-9eff-a8cfd6ec9283@yt.nl.xanka.best:2761?type=tcp&security=reality&sni=nl.xanka.best&fp=chrome&flow=xtls-rprx-vision&pbk=d9ncsYIjJIiCaqLszDyLhZoZ9-XMYYhBrlHUyuHFxQo&sid=a4e1fd84#SG 🇸🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 94.125.103.77

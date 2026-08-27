@@ -1,14 +1,15 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?type=tcp&security=tls#UA 🇺🇦 ┇ VLESS-TCP-TLS ┇ 95.133.245.105
-vless://3ebb81df-0e7f-4c2a-98d1-d7f470563259@50.7.249.218:8443?type=ws&security=tls&path=/api/connect&sni=apkav-5.bosx.net#UA 🇺🇦 ┇ VLESS-WS-TLS - COGENT-174 ┇ 50.7.249.218
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?type=tcp&security=tls#UA 🇺🇦 ┇ VLESS-TCP-TLS ┇ 95.133.245.108
+vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?type=tcp&security=reality&sni=es1.hat.onl&fp=chrome&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#UA 🇺🇦 ┇ VLESS-TCP-RLT ┇ 193.238.154.18
 vless://Telegram@46.202.30.8:2096?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#UA 🇺🇦 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 46.202.30.8
 ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@156.146.50.102:50695#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.50.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?type=tcp&security=reality&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 5.34.182.23
-vless://9e27f64b-7ae9-461b-b4c4-99696276633b@ultrapl.scalenot.com:443?type=tcp&security=reality&sni=storage.yandexcloud.net&fp=chrome&flow=xtls-rprx-vision&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36#UA 🇺🇦 ┇ VLESS-TCP-RLT - Okb Progress LLC ┇ 91.196.162.113
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9uZWhvc3RwbGFuZXQgcy5yLm8uIFx1MjUwNyAyLjU5LjIyMy43MiIsImFkZCI6IjIuNTkuMjIzLjcyIiwicG9ydCI6OTIxLCJpZCI6IjJiZWRiYjk5LWFjYjItNGNmYi1iMzgxLWIzY2VhNTA0NWNmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 ss://YWVzLTI1Ni1nY206TkJWSG9hTmVsV1JlTEh5dQ@45.153.229.146:3030#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.153.229.146
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@188.190.26.243:443?type=tcp&security=none&path=/pg/10086-dfc816f117c491730|#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 188.190.26.243
 vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.21
 vless://eec12a0f-7ceb-417d-89c1-1332f703cd10@trt.pasarguardms.ir:5050?type=tcp&security=none&path=/#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.235
+vless://43c62e6e-6c70-45c0-932c-81f15c4f25b3@92.113.124.204:18443?type=ws&security=tls&path=/@Marisa_kristi&sni=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - Yuwan Networks Limited ┇ 92.113.124.204

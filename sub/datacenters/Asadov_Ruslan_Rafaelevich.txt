@@ -1,2 +1,1 @@
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?type=ws&security=tls&path=/&sni=gb1.wba-pn.ru&fp=edge#GB 🇬🇧 ┇ VLESS-WS-TLS - Asadov Ruslan Rafaelevich ┇ 45.150.66.31
-vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?type=tcp&security=reality&sni=www.nvidia.com&flow=xtls-rprx-vision&pbk=CTduQ5Pvex1U2D1ojmFgSF4MQ1N7Yft7EfnEEBK1l1U&sid=c571c801812c#GB 🇬🇧 ┇ VLESS-TCP-RLT - Asadov Ruslan Rafaelevich ┇ 45.150.66.201
+vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@45.150.66.31:443?type=ws&security=tls&path=/&sni=gb1.wba-pn.ru#GB 🇬🇧 ┇ VLESS-WS-TLS - Asadov Ruslan Rafaelevich ┇ 45.150.66.31
