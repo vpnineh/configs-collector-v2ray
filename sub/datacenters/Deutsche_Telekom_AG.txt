@@ -1,1 +1,3 @@
+vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@89.34.90.30:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 89.34.90.30
+vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@89.34.90.25:443?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Deutsche Telekom AG ┇ 89.34.90.25
 vless://419f25c1-bc35-412e-93fb-258efee859b5@nl3.murhost.network:443?type=tcp&security=reality&sni=nl3.murhost.network&fp=chrome&flow=xtls-rprx-vision&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&sid=f41bc0b00ca1a978#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 81.31.210.140

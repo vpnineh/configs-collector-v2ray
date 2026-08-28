@@ -1,5 +1,6 @@
 trojan://TgTrWOUNeU@66.33.22.242:30797?sni=is1-ssl.mzstatic.com&peer=is1-ssl.mzstatic.com&security=reality#US 🇺🇸 ┇ TROJAN-TCP-REALITY - RAILWAY ┇ 66.33.22.242
+vless://ffdfc21d-56ae-4b9e-a29c-1bb9bb43b2a4@altaria.proxy.rlwy.net:54560?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
-vless://2cb2892a-ad0e-443c-abb1-26eab74e025a@switchback.proxy.rlwy.net:11185?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.230
-vless://b19f6b90-52f0-4846-a96f-b67acefadb04@66.33.22.226:50212?type=xhttp&security=reality&path=/&sni=help.steampowered.com&fp=chrome&pbk=XGf1puinir0mL6oxiyEUs97s7gunaD07xy81_-YV4Uc&sid=5a3ff5a13d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.226
+vless://ffce2f5e-780b-4031-8aa7-8ca1efbc36d6@66.33.22.226:50212?type=xhttp&security=reality&path=/&sni=fastnews.app&fp=chrome&pbk=XGf1puinir0mL6oxiyEUs97s7gunaD07xy81_-YV4Uc&sid=5a3ff5a13d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.226
 vless://d029c820-5db5-49fb-801a-8a75679e5bc7@66.33.22.224:57573?type=xhttp&security=reality&path=/&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=AYngv-8Leu8hVhpbj06s-OkrTdPNFNrcQwmEAtB0akY&sid=ef032b#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.224
+vless://d8e6d2ec-3bfe-406e-9d08-69ef980ffc29@sakura.proxy.rlwy.net:20417?type=grpc&security=reality&sni=delivery.mp.microsoft.com&fp=chrome&pbk=LLgbfEYCwGYMRsNZHyiZMwwz2Ebowqfu9NRBcyl8EGA&sid=84d32745a4#US 🇺🇸 ┇ VLESS-GRPC-RLT - RAILWAY ┇ 66.33.22.221

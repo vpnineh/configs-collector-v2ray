@@ -1,6 +1,6 @@
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@lastchance.whit3.net:443?type=tcp&security=reality&sni=lastchance.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=1xq4kMV5MBlwzlXjAI7oFZqtfIPMZfP2_7fTNfjOVjU&sid=4b1b942b4dfcfdf8#FR 🇫🇷 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 77.67.89.180
 vless://c7e9c591-2764-423a-afca-efbd010fd396@212.135.37.169:443?type=ws&security=tls&path=/&sni=forfreeuse.rtqa.ru&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - GTT Communications Inc. ┇ 212.135.37.169
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@birmengham.surup.shop:46142?type=tcp&security=reality&sni=www.yahoo.com&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&sid=39feeba3085c#GB 🇬🇧 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 195.72.166.44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GTT Communications Inc. ┇ 70.39.178.204
+vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 194.77.220.41
 vless://907a940c-bad0-4356-a280-7dec12f1479e@66.253.10.22:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=zVJVCkcnyPjMZvx-GMQnnbkEgNiws80sppKB6A0uqBY&sid=83dee8596e65d99e#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 66.253.10.22
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@64.186.226.124:13779?type=tcp&security=reality&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 64.186.226.124
