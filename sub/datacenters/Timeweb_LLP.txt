@@ -1,5 +1,3 @@
-vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?type=tcp&security=reality&sni=yahoo.com&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&sid=52a6#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.145.127
-vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@nltw8.lckdwn.ru:8443?type=tcp&security=reality&path=/&sni=dzen.ru&fp=chrome&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&sid=dd910a5b30#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.134.184
+vless://e641d6e5-84c9-4acd-b541-7a98b30bdfe7@147.45.173.79:443?type=tcp&security=reality&sni=app.restorium.su&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.173.79
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=wsnl24.wba-pn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 147.45.226.155
-vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?type=ws&security=tls&path=/&sni=wsnl7.wba-pn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 46.19.69.201
-vless://c80a96e8-d4a6-4785-b53b-a475b252c4ed@5.129.210.63:8443?type=grpc&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=Z5WItgtmxxL_umUUIPO72kSTBGjlGg3sUPigtTG6wlI&sid=ac#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Timeweb, LLP ┇ 5.129.210.63
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?type=ws&security=tls&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 46.19.69.201
