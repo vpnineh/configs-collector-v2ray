@@ -1,2 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZell3Wg@193.168.199.192:8388#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - DpkgSoft International Limited ┇ 193.168.199.192
-trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?sni=87.121.218.169&peer=87.121.218.169&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - DpkgSoft International Limited ┇ 87.121.218.169
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - DpkgSoft International Limited ┇ 87.121.218.169
+vless://20c72888-b83e-4309-82a4-aab4a2dda778@185.103.100.209:9443?type=raw&security=reality&sni=api.vkimages.io&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#DE 🇩🇪 ┇ VLESS-RAW-RLT - DpkgSoft International Limited ┇ 185.103.100.209

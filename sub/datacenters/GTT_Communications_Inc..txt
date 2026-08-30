@@ -1,8 +1,6 @@
-trojan://fef70590-17a9-4ddc-a38c-2b7467c083b5@yxsgvl.rvvs.im:55766?sni=yxsgvl.rvvs.im&peer=yxsgvl.rvvs.im&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - GTT Communications Inc. ┇ 87.83.97.5
-vless://881b936b-2591-4ea8-d21d-8215a36d41a3@node.qingyi668.biz:23816?type=tcp&security=tls&sni=node.qingyi668.biz&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - GTT Communications Inc. ┇ 195.172.139.150
 vless://c7e9c591-2764-423a-afca-efbd010fd396@212.135.37.169:443?type=ws&security=tls&path=/&sni=forfreeuse.rtqa.ru&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - GTT Communications Inc. ┇ 212.135.37.169
+vless://881b936b-2591-4ea8-d21d-8215a36d41a3@node.qingyi668.biz:23816?type=tcp&security=tls&path=/&sni=node.qingyi668.biz&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - GTT Communications Inc. ┇ 195.172.139.150
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GTT Communications Inc. ┇ 70.39.178.204
 vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 194.77.220.41
-vless://4856478b-95a8-4417-83e4-3fd51bc6238a@70.39.196.142:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=hdZ4qUCdNtIkIfhb1KPVxxDt4rsseFxaFH093kVfRkE&sid=7efbd378#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 70.39.196.142
 vless://907a940c-bad0-4356-a280-7dec12f1479e@66.253.10.22:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=zVJVCkcnyPjMZvx-GMQnnbkEgNiws80sppKB6A0uqBY&sid=83dee8596e65d99e#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 66.253.10.22
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@64.186.226.124:13779?type=tcp&security=reality&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 64.186.226.124

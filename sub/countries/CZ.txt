@@ -1,13 +1,13 @@
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.58.46.132:443?type=ws&security=tls&path=/danfeng&sni=snippet.sheilabelinda.ndjp.net&fp=random#CZ 🇨🇿 ┇ VLESS-WS-TLS - ASNET ┇ 194.58.46.132
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.235.207.28:989#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - COGENT-174 ┇ 193.235.207.28
-vless://Telegram@109.248.163.191:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#CZ 🇨🇿 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 109.248.163.191
 vless://Telegram@109.248.163.226:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#CZ 🇨🇿 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 109.248.163.226
+vless://Telegram@109.248.163.191:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#CZ 🇨🇿 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 109.248.163.191
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@212.102.38.88:443#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 212.102.38.88
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@212.102.38.41:443#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 212.102.38.41
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.58.102:443#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 143.244.58.102
 vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?type=tcp&security=reality&sni=cz.helper-internet.com&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#CZ 🇨🇿 ┇ VLESS-TCP-RLT - GamerHost s.r.o. ┇ 5.39.202.111
-vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR3JhbnN5IHMuci5vLiBcdTI1MDcgNDYuOC45LjIyMCIsImFkZCI6InN1cGVyc3Rhci5qcDEuc3JheXgueHl6IiwicG9ydCI6ODAsImlkIjoiMjdjNGQ4ZGMtOTY3Ni00YWM0LTk1YmYtNDZhMGUzMzhmODJlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvc3VwZXJzdGFyIn0
-vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR3JhbnN5IHMuci5vLiBcdTI1MDcgNDYuOC44LjIyMCIsImFkZCI6ImRlLXYuc3NobWF4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjU2NjhmZjk3LTYzMWYtNDYwMi1hMTNmLWI1NjU1MmM2N2FiZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR3JhbnN5IHMuci5vLiBcdTI1MDcgNDYuOC44LjIyMCIsImFkZCI6InN1cGVyc3Rhci5qcDEuc3JheXgueHl6IiwicG9ydCI6ODAsImlkIjoiMjdjNGQ4ZGMtOTY3Ni00YWM0LTk1YmYtNDZhMGUzMzhmODJlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvc3VwZXJzdGFyIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR3JhbnN5IHMuci5vLiBcdTI1MDcgNDYuOC45LjIyMCIsImFkZCI6ImRlLXYuc3NobWF4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjU2NjhmZjk3LTYzMWYtNDYwMi1hMTNmLWI1NjU1MmM2N2FiZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.123.246.15
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 92.118.149.85
 vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@195.133.35.63:2096?type=xhttp&security=reality&path=/xh&sni=udemy.com&fp=chrome&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - Host Telecom Ltd ┇ 195.133.35.63
@@ -16,12 +16,11 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@80.211.205.173:8443?type=ws&securit
 vless://7338a824-7335-486b-b05c-8d8962239350@194.182.79.218:19608?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.218
 vless://378d5714-5101-4740-85eb-f42b59ee763d@194.182.79.46:14888?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.46
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.224.3
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?type=tcp&security=reality&sni=eu-west.cendora.ru&flow=xtls-rprx-vision&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.248.50
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.228.161
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@duchland1.vodniki.monster:443?type=tcp&security=reality&sni=duchland1.vodniki.monster&fp=firefox&flow=xtls-rprx-vision&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&sid=0c13e8822e7f58aa#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.232.112
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?type=grpc&security=reality&sni=google.com&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&sid=4b#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - IPXO ┇ 95.85.251.116
-vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@95.85.241.208:443?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - IPXO ┇ 95.85.241.208
-vless://7412605e-18de-4b34-af4e-82e9f544cc24@95.85.231.231:42321?type=tcp&security=reality&sni=www.github.com&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&sid=3f080f861d7f#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.231.231
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.227.142:8443?type=xhttp&security=reality&sni=wikihow.com&fp=chrome&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - IPXO ┇ 95.85.227.142
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?type=grpc&security=reality&sni=c.primarymaster.online&fp=chrome&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - IPXO ┇ 95.85.233.181
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@95.85.228.30:443?type=xhttp&security=reality&path=/&sni=www.google.com&fp=chrome&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - IPXO ┇ 95.85.228.30
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.233.181
+vless://7412605e-18de-4b34-af4e-82e9f544cc24@95.85.231.231:42321?type=tcp&security=reality&sni=www.github.com&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&sid=3f080f861d7f#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.231.231
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?type=tcp&security=reality&sni=eu-west.cendora.ru&fp=chrome&flow=xtls-rprx-vision&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.248.50
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.222.126

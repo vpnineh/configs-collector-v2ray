@@ -1,4 +1,8 @@
 trojan://TgTrWOUNeU@66.33.22.242:30797?sni=is1-ssl.mzstatic.com&peer=is1-ssl.mzstatic.com&security=reality#US 🇺🇸 ┇ TROJAN-TCP-REALITY - RAILWAY ┇ 66.33.22.242
+vless://652eef9f-a99f-4a4d-b6c4-620ebe32cf70@reseau.proxy.rlwy.net:25709?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.224
+vless://17a8e8c4-1b64-4e32-a239-c27b1dd0248a@altaria.proxy.rlwy.net:44224?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
+vless://3df74c50-e0f5-4b72-a826-4e845753aa9d@mainline.proxy.rlwy.net:23360?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.234
+vless://ffd5d710-29f9-4660-a04f-c3240f5030e3@turntable.proxy.rlwy.net:37949?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.229
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
-vless://fce642a3-ace8-4f28-ad9a-c82e45c36f81@altaria.proxy.rlwy.net:49129?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
+vless://8ee40067-e8f1-431b-8109-21eaa82a7a23@shortline.proxy.rlwy.net:31186?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.244
 vless://b19f6b90-52f0-4846-a96f-b67acefadb04@66.33.22.226:50212?type=xhttp&security=reality&path=/&sni=help.steampowered.com&fp=chrome&pbk=XGf1puinir0mL6oxiyEUs97s7gunaD07xy81_-YV4Uc&sid=5a3ff5a13d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.226
