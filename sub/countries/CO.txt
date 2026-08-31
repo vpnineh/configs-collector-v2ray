@@ -1,3 +1,4 @@
-vless://17017109-ae8a-442c-b00c-b712409014ef@sspanel-dashboard.siramtopyo2.ir:443?type=tcp&security=reality&sni=us.demonware.net&fp=chrome&pbk=pfPkmGdr3k9jKAov3mjdc_DXROO9fl4jK1FpBsJqujk&sid=dc1207c510bb4b50#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.75
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.126.244:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.247.126.244
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.13:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - ORACLE-BMC-31898 ┇ 149.130.179.13
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.171.82:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.171.82
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.180.150:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.180.150
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45

@@ -1,3 +1,2 @@
-vless://b584ac42-15cb-d8ad-5338-1d07a4e98a6e@185.215.234.3:443?type=ws&security=tls&path=/?ed=2048&sni=dl.artafarx.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.3
 vless://c7dcddff-ef42-4c58-a36f-8d6c6ea1ac59@185.204.169.32:8080?type=tcp&security=tls&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.32
-vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arvancloud Global Technologies L.L.C ┇ 194.5.207.6
+vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arvancloud Global Technologies L.L.C ┇ 194.5.207.6

@@ -1,3 +1,4 @@
+vless://3c3e3170-fe36-4925-a089-d55f29114f07@193.202.11.201:443?type=tcp&security=reality&sni=usa.orpheous.ru&fp=chrome&flow=xtls-rprx-vision&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4#IL 🇮🇱 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.202.11.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYi1zbndIcUxIRnZfM2RaaFY4czdCODV3anVmUjVGSw@193.233.136.157:1080#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - PUREVOLTAGE-INC ┇ 193.233.136.157
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&security=tls#RU 🇷🇺 ┇ VLESS-GRPC-TLS - PUREVOLTAGE-INC ┇ 45.138.100.226
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?type=tcp&security=none&fp=firefox#US 🇺🇸 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 64.49.38.6
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?type=tcp&security=reality&sni=download.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0#US 🇺🇸 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 64.49.38.6

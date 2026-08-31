@@ -1,31 +1,30 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 217.60.249.112
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 31.56.204.219
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 31.56.204.219
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 31.56.205.186
 vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 193.58.119.134
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.93.62:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 31.57.93.62
 vless://7a31d541-e885-43d4-81f2-62ac29ecd387@151.242.88.47:443?type=tcp&security=reality&sni=cloudflare.com&flow=xtls-rprx-vision&pbk=xl3D_xayL74d7uzlV_1EpEWw0BJ52kzEMF8tUGd7vBM&sid=1f6dffff8a#AE 🇦🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 151.242.88.47
-vless://b584ac42-15cb-d8ad-5338-1d07a4e98a6e@185.215.234.3:443?type=ws&security=tls&path=/?ed=2048&sni=dl.artafarx.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.3
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2dpIEdsb2JhbCBMaW1pdGVkIFx1MjUwNyAzMS41Ny42Mi42OCIsImFkZCI6IjMxLjU3LjYyLjY4IiwicG9ydCI6ODg4MCwiaWQiOiIzMDVkMDI5OC05YjBlLTQwNTctOWU1My1jNGZkNmJjMWEwYmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2dpIEdsb2JhbCBMaW1pdGVkIFx1MjUwNyAzMS41Ny42Mi42OCIsImFkZCI6IjMxLjU3LjYyLjY4IiwicG9ydCI6ODQ0MywiaWQiOiIzYTU3ZWQyNS1kNDg5LTQ0NDktYjJiNy1kMzM0YTk1NDdmOWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuNTcuNDcuMzUiLCJhZGQiOiIzMS41Ny40Ny4zNSIsInBvcnQiOjg4ODAsImlkIjoiMzk4ZTc4OGItOGQ0Yi00NjUyLTkyMGUtY2U1OTA2NzEyYWZiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.59.121.150
-vless://5bdd048f-181a-4508-a5ea-b6ad8bd6953f@31.56.222.189:42292?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.189
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.61.73
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vless://3a3de813-bfaa-4355-bc47-05c7245431d2@94.140.0.1:443?type=ws&security=tls&path=/?ed=2560&sni=Australia.havray2025.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.1
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?type=ws&security=tls&path=?ed=2048&sni=rouwwwfrance.appleseraj.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.100
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?type=ws&security=tls&path=/&sni=aza002.vaslbash.site#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.74
-vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?type=grpc&security=reality&sni=download.nvidia.com&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk#AE 🇦🇪 ┇ VLESS-GRPC-RLT - Fast Servers (Pty) Ltd ┇ 89.47.55.7
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@151.242.160.94:443?type=tcp&security=tls&sni=pl94.mechvpn.online&fp=chrome&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-TLS - Felix Gassan ┇ 151.242.160.94
 vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@pk-play.mobileemdad.top:443?type=tcp&security=reality&sni=delivery.mp.microsoft.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#AE 🇦🇪 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 109.61.42.163
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@ae-google.mobileemdad.top:443?type=tcp&security=reality&sni=token.safebrowsing.apple&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#AE 🇦🇪 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 109.61.42.60
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
 vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.144
 vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:445?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 80.76.60.120
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
+vless://80228f4b-e307-422f-84a2-4302c5312862@ao.plasdomain.ir:32855?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#AE 🇦🇪 ┇ VLESS-TCP-RLT - Kaopu Cloud HK Limited ┇ 38.54.76.166
 ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
 trojan://humanity@176.97.66.175:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - M247 Europe SRL ┇ 176.97.66.175
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?type=tcp&security=reality&sni=ae.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#AE 🇦🇪 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 176.97.78.29
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@fr-po.pngv.top:4999?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.109.99
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 84.235.244.108
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&security=false&path=/&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-FALSE - ORACLE-BMC-31898 ┇ 84.235.244.108
 vless://id_telegram_MimiTdL@31.57.250.65:443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&sid=5b409d9a2b5b8dbf#AE 🇦🇪 ┇ VLESS-GRPC-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.57.250.65
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.134.26.97:443?type=tcp&security=reality&sni=nordic.cendora.ru&fp=chrome&flow=xtls-rprx-vision&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034#AE 🇦🇪 ┇ VLESS-TCP-RLT - Proton66 OOO ┇ 45.134.26.97
 vless://ec537bff-dc14-495c-b65f-65393ad7ee75@188.72.103.3:443?type=tcp&security=tls&sni=cdnapiv4.streamru4.net&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
