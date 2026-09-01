@@ -1,2 +1,1 @@
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl3.meshbeat.online:8444?type=ws&security=tls&path=/api/v1/devices/7c05e2fb91/telemetry&sni=nl3.meshbeat.online&fp=chrome#BH 🇧🇭 ┇ VLESS-WS-TLS ┇ 188.137.235.179
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc#BH 🇧🇭 ┇ VLESS-TCP-RLT ┇ 188.137.230.221
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?type=ws&security=tls&path=/api/v1/devices/7c05e2fb91/telemetry&sni=nl3.meshbeat.online#BH 🇧🇭 ┇ VLESS-WS-TLS ┇ 188.137.235.179

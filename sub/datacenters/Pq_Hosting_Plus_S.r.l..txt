@@ -2,15 +2,15 @@ vmess://eyJ2IjoiMiIsInBzIjoiQUwgXHVkODNjXHVkZGU2XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443?security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.82.245.138
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?type=ws&security=none&path=/vless/#BR 🇧🇷 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.245.173
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.68.88
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?sni=tr-latvia1.unlimited-access.ru&peer=tr-latvia1.unlimited-access.ru&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 138.124.63.106
 vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?type=tcp&security=tls&sni=fi1.hys.braidx.tech&fp=chrome&flow=xtls-rprx-vision#CH 🇨🇭 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 138.124.244.77
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@fin2.helper-internet.com:443?type=tcp&security=reality&path=/&sni=fin2.helper-internet.com&fp=chrome&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.8.117
-vless://1c8fb3f7-c4af-48a5-b886-080a4654b4a6@cdn7-02.cdn-vkvideo.com:443?type=tcp&security=reality&sni=cdn7-02.cdn-vkvideo.com&fp=chrome&flow=xtls-rprx-vision&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&sid=b0d8f964b7ac8ac0#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.9.165
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@138.124.8.117:443?type=tcp&security=reality&sni=fin2.helper-internet.com&fp=chrome&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.8.117
 vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@138.124.126.158:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU&sid=eb0cca7312345678#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.126.158
 vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAxNzEuMjIuMTM0LjEyIiwiYWRkIjoiMTcxLjIyLjEzNC4xMiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwidGxzIjoidGxzIn0
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru&fp=chrome#CY 🇨🇾 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.9.15.206
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru&fp=edge#CY 🇨🇾 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.9.15.206
+vless://c668980f-1ddf-0028-9c9f-de8e68a70d35@45.9.16.213:443?type=tcp&security=reality&sni=ru.convert-flow.net&fp=chrome&flow=xtls-rprx-vision&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885#CY 🇨🇾 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.9.16.213
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@80.92.204.106:9011#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 80.92.204.106
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=tcp&security=none&path=/websocket#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.47.60
+vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&security=tls&path=/websocket&sni=de02.abvpn.ru#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.47.60
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.193:8443?type=ws&security=tls&path=/#FI 🇫🇮 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.15.127.193
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.188:2096?type=ws&security=tls&path=/#FI 🇫🇮 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.15.127.188
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 171.22.114.248
@@ -26,13 +26,15 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2053?type=grpc&securi
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2082?type=ws&security=none&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#GB 🇬🇧 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 91.228.10.202
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:8443?type=ws&security=tls&path=/#GB 🇬🇧 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 77.91.101.228
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.159.248.125
-vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?type=tcp&security=reality&path=/&sni=ru2.skydrgn-online.online&fp=chrome&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&sid=0b#GB 🇬🇧 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.155.52.231
+vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?type=tcp&security=reality&sni=ru2.skydrgn-online.online&fp=chrome&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&sid=0b#GB 🇬🇧 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.155.52.231
 trojan://xxoo@194.156.99.39:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 194.156.99.39
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#HU 🇭🇺 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 5.182.38.91
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 194.62.42.21
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 176.120.72.63
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg@89.221.224.94:1443#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.94
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 176.120.72.63
 vless://1lpxy6haqm@45.15.167.13:443?type=tcp&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&fp=chrome&flow=xtls-rprx-vision#LI 🇱🇮 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.15.167.13
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTQuMTMxLjE0LjE3NyIsImFkZCI6Ijk0LjEzMS4xNC4xNzciLCJwb3J0IjoyMDgyLCJpZCI6IjJjNWZlZTEzLWYwOGItNGJhOC04NmRiLTI3ZGQ1MWNiOTc4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzIn0
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@138.124.255.221:443?type=tcp&security=reality&sni=russia.cendora.ru&fp=chrome&flow=xtls-rprx-vision&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3#LT 🇱🇹 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.255.221
 vmess://eyJ2IjoiMiIsInBzIjoiTFUgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA0NS4xMi4xNDQuNjgiLCJhZGQiOiI0NS4xMi4xNDQuNjgiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3BhdGgvMTY4OTg0OTQ4NzE5MCIsInRscyI6InRscyJ9
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?type=ws&security=tls&path=/dahuqpws#MY 🇲🇾 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.128.54.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 185.242.86.156
@@ -40,8 +42,9 @@ trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debia
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?type=grpc&security=none&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.140.147.74
 vmess://eyJ2IjoiMiIsInBzIjoiUFQgXHVkODNjXHVkZGY1XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTQuMTMxLjEwLjUiLCJhZGQiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJwb3J0Ijo0NDMsImlkIjoiODhkNDc2YzEtNDhmNy00ZDNkLWEwZTYtYWNjY2JmZjAyZGI2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://Telegram@176.125.240.51:2053?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#RU 🇷🇺 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 176.125.240.51
+vless://5643695e-10bf-4260-be2b-719cd3d2cdf7@i---s---r---a.cd2-ger1.ir:2087?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 92.118.124.45
 vless://Telegram@176.125.240.147:2053?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#RU 🇷🇺 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 176.125.240.147
+vless://Telegram@176.125.240.51:2053?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#RU 🇷🇺 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 176.125.240.51
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.89.52.66
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA5NS4xNjQuMzQuMTg0IiwiYWRkIjoiOTUuMTY0LjM0LjE4NCIsInBvcnQiOjQ0MywiaWQiOiIzYWY5NzU0ZS1mMmE4LTQwNmMtYThhMS00NTUzMDY1ZTZkYTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii92bWVzcyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDQ1Ljg5LjUyLjIwNyIsImFkZCI6IjQ1Ljg5LjUyLjIwNyIsInBvcnQiOjM5NjUxLCJpZCI6ImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
@@ -53,10 +56,10 @@ trojan://xxoo@138.124.183.216:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - 
 trojan://xxoo@138.124.183.226:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 138.124.183.226
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgMTAzLjM1LjE4OC4yMjYiLCJhZGQiOiIxMDMuMzUuMTg4LjIyNiIsInBvcnQiOjgwLCJpZCI6IjA5OGU3Y2RkLTAzYjQtNDM1ZC04YzQxLWVhNjA4ZmE2MzdjMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzIn0
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.93
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.123
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.223
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.180
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.189
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.80
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?type=grpc&security=none&sni=pqh25v1.vetdomok.shop#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.114
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.180
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.123
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.141
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.189

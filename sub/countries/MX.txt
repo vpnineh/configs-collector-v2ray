@@ -1,3 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTV5WUVHR011OGpVMnAyNWFXTA@169.57.35.97:8389#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS ┇ 169.57.35.97
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.88.154:8443?type=ws&security=tls&path=/&sni=eded-52n.pages.dev&fp=chrome#MX 🇲🇽 ┇ VLESS-WS-TLS - AS-VULTR ┇ 216.238.88.154
 vless://6aee447d-a7f5-4aa6-be7a-5999ab69e406@digikala.topdigit.ir:34770?type=tcp&security=none#MX 🇲🇽 ┇ VLESS-TCP-NTLS - GCI Network Solutions Limited ┇ 82.152.141.23
+vless://ca9df148-e636-47fe-9af6-fe8fe3eec197@139.177.103.135:8443?type=tcp&security=reality&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4#MX 🇲🇽 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 139.177.103.135
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.179.23
