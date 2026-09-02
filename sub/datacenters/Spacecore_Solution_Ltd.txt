@@ -1,3 +1,3 @@
 vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@195.133.84.198:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Spacecore Solution Ltd ┇ 195.133.84.198
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&security=reality&path=/&sni=www.google.com&fp=chrome&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Spacecore Solution Ltd ┇ 194.58.41.39
-vless://903bb12e-ac86-414c-adf1-b9c41e213da8@80.71.227.44:443?type=xhttp&security=tls&path=/&sni=Brackhollow.lacicasa.website&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Spacecore Solution Ltd ┇ 80.71.227.44
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&security=reality&path=/&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Spacecore Solution Ltd ┇ 194.58.41.39
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?type=xhttp&security=reality&path=/&sni=www.google.com&fp=chrome&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Spacecore Solution Ltd ┇ 80.76.43.245

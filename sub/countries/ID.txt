@@ -1,6 +1,7 @@
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?type=ws&security=tls&path=/cdn/v3/live&sni=cf2.rumedia-cdn.com&fp=chrome#ID 🇮🇩 ┇ VLESS-WS-TLS ┇ 202.155.11.249
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - CV Atha Media Prima ┇ 41.216.177.41
-trojan://idc117okt@103.176.78.153:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.176.78.153
 trojan://idc117okt@103.226.139.201:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.226.139.201
+trojan://idc117okt@103.176.78.153:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.176.78.153
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - PT Herza Digital Indonesia ┇ 103.160.63.199
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUFQgTGF5YW5hbiBJbnRlcm5ldCBTYWt0aSBcdTI1MDcgMjAyLjQ3Ljg5LjEzMyIsImFkZCI6IjIwMi40Ny44OS4xMzMiLCJwb3J0Ijo1MzU0OCwiaWQiOiIzYTAzNjEzYi1iYmFjLTRhMjItYmVlNi0yYzlhNzUxYTI3NjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2RrZmpoMjIyIn0
 trojan://vvip-periantara@38.9.140.66:443?sni=id3tr.jagoan.vip&peer=id3tr.jagoan.vip&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT. Media Antar Nusa ┇ 38.9.140.66

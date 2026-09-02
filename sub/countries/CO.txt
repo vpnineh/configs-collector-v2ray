@@ -1,4 +1,2 @@
-vless://7f1ade4f-86c3-46e2-ba96-4109ae0e33f7@tr5.montago-shop.ir:443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=9ed2fa#CO 🇨🇴 ┇ VLESS-TCP-RLT ┇ 87.120.106.230
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.177:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.172.177
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.13:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 149.130.179.13
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.215:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 158.247.123.215
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45

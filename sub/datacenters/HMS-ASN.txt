@@ -1,5 +1,3 @@
 trojan://humanity@198.62.62.23:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 198.62.62.23
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.212:443?type=ws&security=tls&path=/blue&sni=hkg.ylks.link#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.212
+vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20
 vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.152:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.152
-vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.20
-vless://95b25338-be30-4e0d-9695-d840f0f2d73c@cf-7.bntabriz.ir:443?type=ws&security=tls&path=/&sni=i--t.kingcloud-1.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.100
