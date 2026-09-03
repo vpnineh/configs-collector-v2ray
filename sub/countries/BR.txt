@@ -1,36 +1,35 @@
 trojan://l6R5znJSPJ@179.237.75.190:16350?sni=rd.autos.yahoo.com:40069&peer=rd.autos.yahoo.com:40069&security=reality#BR 🇧🇷 ┇ TROJAN-TCP-REALITY ┇ 179.237.75.190
+vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@186.246.12.85:2053?type=ws&security=tls&path=/&sni=bz2.wba-pn.ru#BR 🇧🇷 ┇ VLESS-WS-TLS ┇ 186.246.12.85
 vless://93ee032f-b67f-4cac-a239-da1295aec528@germanndnew.mamadhpbot.ir:50118?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS ┇ 191.40.5.5
+vless://825c049b-403c-49e0-b60f-379bdb8611e9@189.24.107.174:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gox8U8f-JNoWrH7BLfIRBsw3mKwEjIDUOcgozmi_nzQ&sid=8b36e9b7b3#BR 🇧🇷 ┇ VLESS-TCP-RLT ┇ 189.24.107.174
 vless://t.me.TradeIP@channel.tradeip.store:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&sid=285efec4#BR 🇧🇷 ┇ VLESS-TCP-RLT ┇ 179.237.73.187
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@191.40.32.96:10018?type=tcp&security=reality&sni=www.sap.com&fp=chrome&flow=xtls-rprx-vision&pbk=__YqMje4P5LY575OvzZjKJddTTn3vI6n0tMsMKCgcRY&sid=6cfa2459bb#BR 🇧🇷 ┇ VLESS-TCP-RLT ┇ 191.40.32.96
-vless://825c049b-403c-49e0-b60f-379bdb8611e9@189.24.107.174:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gox8U8f-JNoWrH7BLfIRBsw3mKwEjIDUOcgozmi_nzQ&sid=8b36e9b7b3#BR 🇧🇷 ┇ VLESS-TCP-RLT ┇ 189.24.107.174
-vless://c2564a65-0821-3241-b090-45d49cef58fd@189.24.83.112:10022?type=tcp&security=reality&sni=www.hp.com&fp=chrome&flow=xtls-rprx-vision&pbk=FmSty5DyZmIEu6Yg8KhYmE-JqqWxFaesDlrk9pJweS4&sid=fbb093#BR 🇧🇷 ┇ VLESS-TCP-RLT ┇ 189.24.83.112
-vless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&sid=aa3c#BR 🇧🇷 ┇ VLESS-TCP-RLT ┇ 186.246.21.156
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzMuMTcuNzYiLCJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@181.41.201.242:65443#BR 🇧🇷 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 181.41.201.242
-vless://38222a83-76bd-4420-b3f0-5473a9bb0d6e@206.1.96.49:37430?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg#BR 🇧🇷 ┇ VLESS-TCP-RLT - Equatorial Telecomunicacoes LTDA ┇ 206.1.96.49
+vless://aa6b9a9d-84d4-49e5-93f7-90404b112634@206.1.96.74:8118?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM#BR 🇧🇷 ┇ VLESS-TCP-RLT - Equatorial Telecomunicacoes LTDA ┇ 206.1.96.74
+vless://20660fcf-c99e-4ed5-8cb7-46b6923140ba@206.1.96.49:37430?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg#BR 🇧🇷 ┇ VLESS-TCP-RLT - Equatorial Telecomunicacoes LTDA ┇ 206.1.96.49
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyA3OC4xMTEuMTAyLjIzMiIsImFkZCI6Ijc4LjExMS4xMDIuMjMyIiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6Im5vbmUifQ
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.52:443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 147.45.116.52
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.133.35.168:443?type=ws&security=tls&path=/&sni=vd.ylkszy.eu.org#BR 🇧🇷 ┇ VLESS-WS-TLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.168
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.52:443?type=tcp&security=reality&sni=www.wikihow.com&fp=chrome&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#BR 🇧🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 147.45.116.52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR1dzcUU3R3IzblJNdXVRWmZGYQ@177.54.152.89:8389#BR 🇧🇷 ┇ SHADOWSOCKS-TCP-NTLS - Latitude.sh LTDA ┇ 177.54.152.89
 ss://YWVzLTI1Ni1nY206ZDIxOGU1MWEtMjU4Zi00M2QyLThjZTMtYzg4NzI2MTFiZjI4@20.206.76.37:8080#BR 🇧🇷 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.206.76.37
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443?security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.82.245.138
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?type=ws&security=none&path=/vless/#BR 🇧🇷 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.245.173
-ss://YWVzLTEyOC1nY206T0RKYWVsZzBOMUJ1TWtGTU4xRTRUM05LTjBwaVFVNU5aMU5OU1ZsVE9EbEJUSEUzZEU5dVdtUkdOM2R3Y1VaRFZFcEhZbk4yWkZKWFZtcFdaRVZwZHc9PQ@200.169.178.229:37518#BR 🇧🇷 ┇ SHADOWSOCKS-TCP-NTLS - V tal ┇ 200.169.178.229
-vless://6d662736-24ea-4f8e-9e73-acbc14d09cb1@201.24.49.213:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.213
-vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@177.3.212.127:8443?type=tcp&security=tls&sni=neth6.lckdwn.ru#BR 🇧🇷 ┇ VLESS-TCP-TLS - V tal ┇ 177.3.212.127
-vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?type=ws&security=none&path=/755276b33b6f#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 189.74.97.47
 vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.233
-vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.53
 vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?type=ws&security=tls&path=/&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 201.51.23.5
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.120:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.120
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.69
 vless://09f2e2f4-3225-4342-bc92-cb58ee841f72@201.24.49.228:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.228
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.34.137.15
+vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?type=ws&security=none&path=/755276b33b6f#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 189.74.97.47
+vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 200.165.234.62
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.69
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?type=ws&security=none&path=/v1&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.79
+vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.53
+vless://d46b4fca-2352-4557-a6d5-e8c45b27618c@201.24.124.99:4100?type=ws&security=none&path=/v1&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.124.99
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@177.3.212.127:8443?type=tcp&security=tls&sni=neth6.lckdwn.ru#BR 🇧🇷 ┇ VLESS-TCP-TLS - V tal ┇ 177.3.212.127
+vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@201.51.8.235:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.51.8.235
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.19
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?type=tcp&security=reality&sni=uwu.spectrumproxy.shop&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.3.225.13
-vless://e08ff179-2c35-4a95-a8f8-6b2f7bd315ef@179.255.124.81:50159?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=NBbof3yc52opWMuUywEOj6A5fSCPav3ZzTMhQYwxKXs&sid=55b7664bb39e6886#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.255.124.81
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?type=grpc&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#BR 🇧🇷 ┇ VLESS-GRPC-RLT - V tal ┇ 201.51.1.84
-vless://14be84e2-8b22-42c0-a1ba-3535fc8e9257@179.255.148.66:47588?type=tcp&security=reality&sni=yellowpages.amazon.com&fp=chrome&pbk=ViI3P61PX_g1Qw5isp6C1ZaGqKQO471V9cCEJwHFpE4&sid=8b2730e4eb1313#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.255.148.66
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:2083?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.24.54.210
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@gd-0z.whit3.net:443?type=tcp&security=reality&sni=gd-0z.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=I81tkGsfVOK0JNnjsHRluXcXI-DyV_4mLQ4e8QJuSxU&sid=d7d38e70e3362842#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.212.189
 vless://0dea82cd-a030-4c11-bccd-f3c0be845297@201.24.114.60:443?type=tcp&security=reality&sni=app.prostocalc.com&fp=chrome&flow=xtls-rprx-vision&pbk=RRawEiil652RhrCcf0Oq94mBii7I21eN3YyOo34NrTY&sid=47e4cb670b4e547d#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.24.114.60
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?type=grpc&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#BR 🇧🇷 ┇ VLESS-GRPC-RLT - V tal ┇ 201.51.1.84
+vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:2083?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=GYGRmooJbciRJqgRyAhyuY4taALwvAGNN721zIKA4g0&sid=d2f6787eda1b6fa0#BR 🇧🇷 ┇ VLESS-GRPC-RLT - V tal ┇ 201.24.54.210
 vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@177.3.213.112:443?type=tcp&security=reality&sni=germanika.stopingiphatered.shop&fp=chrome&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.213.112
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@gd-0z.whit3.net:443?type=tcp&security=reality&sni=gd-0z.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=I81tkGsfVOK0JNnjsHRluXcXI-DyV_4mLQ4e8QJuSxU&sid=d7d38e70e3362842#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.212.189
+vless://791a171e-c0af-4bd7-b8ce-43541c7585db@177.3.208.85:443?type=tcp&security=reality&sni=policies.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&sid=e2a4c6b8#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.208.85
+vless://14be84e2-8b22-42c0-a1ba-3535fc8e9257@179.255.148.66:47588?type=tcp&security=reality&sni=yellowpages.amazon.com&fp=chrome&pbk=ViI3P61PX_g1Qw5isp6C1ZaGqKQO471V9cCEJwHFpE4&sid=8b2730e4eb1313#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.255.148.66
