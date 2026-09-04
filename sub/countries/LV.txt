@@ -1,10 +1,8 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.209.7:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.rocks&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 195.123.209.7
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@195.20.208.72:443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ndjp.net&fp=random#LV 🇱🇻 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 195.20.208.72
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.86
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@185.135.86.173:9030#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.173
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?type=grpc&security=tls&sni=laoye.in-gect.fun#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Melbikomas UAB ┇ 89.36.161.222
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?type=ws&security=none#LV 🇱🇻 ┇ VLESS-WS-NTLS - Melbikomas UAB ┇ 89.36.161.222
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.128.32.98:443?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#LV 🇱🇻 ┇ VLESS-WS-TLS - RETN Limited ┇ 31.128.32.98
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 91.218.143.194
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?type=grpc&security=reality&sni=colorlib.com&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#LV 🇱🇻 ┇ VLESS-GRPC-RLT - SIA VEESP ┇ 216.173.71.79
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
-vless://618acefa-2ff1-41b0-a295-f8a08858a897@lv01.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.145.245.96
