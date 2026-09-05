@@ -1,5 +1,2 @@
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@147.45.61.188:443?type=tcp&security=tls&sni=som3.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC RTComm.RU ┇ 147.45.61.188
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@147.45.61.193:443?type=tcp&security=tls&sni=som7.api3-max.ru&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC RTComm.RU ┇ 147.45.61.193
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@147.45.61.190:443?type=tcp&security=tls&sni=som5.api3-max.ru&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC RTComm.RU ┇ 147.45.61.190
-vless://935ed92d-68c3-42c7-8c32-2db2595737e6@147.45.63.117:443?type=xhttp&security=reality&path=/api/v2/telemetry&sni=img.medic-ml.ru&fp=firefox&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - JSC RTComm.RU ┇ 147.45.63.117
 vless://b8356cb0-d2cb-4839-94e3-726a18a1a3eb@147.45.61.81:443?type=tcp&security=reality&sni=nl-02.file-rkat.online&fp=chrome&flow=xtls-rprx-vision&pbk=1KdHB8WjI4E_Qt43QdY0OByHv9CkLjK_cAtVOcnt1Ug&sid=c8eebab189078461#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC RTComm.RU ┇ 147.45.61.81
+vless://935ed92d-68c3-42c7-8c32-2db2595737e6@147.45.63.117:443?type=xhttp&security=reality&path=/api/v2/telemetry&sni=img.medic-ml.ru&fp=firefox&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - JSC RTComm.RU ┇ 147.45.63.117

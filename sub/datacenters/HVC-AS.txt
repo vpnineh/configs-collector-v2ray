@@ -1,6 +1,5 @@
 vless://d9600d11-9b5b-4b25-88b0-851df319a218@192.166.82.182:48915?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HVC-AS ┇ 192.166.82.182
 vless://29417656-42ee-430e-bd15-e95d6a7195cd@192.166.82.29:59050?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HVC-AS ┇ 192.166.82.29
-vless://414b2c7f-26e8-4c08-a357-a4f00043804e@192.166.82.74:8443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=vmfswX2VwSAGOSd9gleiWLfZK8BVyMI7D6oMDPUjpCk&sid=f15240e5244c7ba8#DE 🇩🇪 ┇ VLESS-TCP-RLT - HVC-AS ┇ 192.166.82.74
+vless://414b2c7f-26e8-4c08-a357-a4f00043804e@192.166.82.74:8443?type=tcp&security=reality&sni=www.google.com&fp=ios&flow=xtls-rprx-vision&pbk=vmfswX2VwSAGOSd9gleiWLfZK8BVyMI7D6oMDPUjpCk&sid=f15240e5244c7ba8#DE 🇩🇪 ┇ VLESS-TCP-RLT - HVC-AS ┇ 192.166.82.74
 vless://0a76a766-d141-44b8-944e-dff757d7116f@163.5.153.153:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=aB_2Tcf0A5LoiIEZHztR_l-ZOFeJKxYRH67s_OVQ9C0&sid=a91045bc#FR 🇫🇷 ┇ VLESS-TCP-RLT - HVC-AS ┇ 163.5.153.153
-vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?type=tcp&security=reality&sni=fr2.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=6ed1d644822b2951#GB 🇬🇧 ┇ VLESS-TCP-RLT - HVC-AS ┇ 82.26.66.117
 trojan://AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ@23.227.193.173:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HVC-AS ┇ 23.227.193.173
