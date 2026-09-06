@@ -1,7 +1,6 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5DUi0yNTIgXHUyNTA3IDE1My41Mi45Mi4xMTIiLCJhZGQiOiIxNTMuNTIuOTIuMTEyIiwicG9ydCI6MjA1MDUsImlkIjoiZGVjNGYxYzYtNjRhNy00M2IyLThiMmItMzA3MWE3Nzk4ZGIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://01ce1507-0197-4261-9b91-1baab455dd7f@s---t---o.cd2-ger1.ir:2087?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.168.136
-vless://11992f2b-181b-403a-9521-813fcd7927a8@153.75.87.192:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?type=grpc&security=tls&sni=132-243-223-227.sslip.io&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - NCR-252 ┇ 132.243.223.227
+vless://63b56542-1a48-45ef-9f56-9cab44c6937b@s---t---o.cd2-ger1.ir:2087?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.168.136
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.88.69
 vless://bfb3f06c-e33f-41ac-b101-012c8325a689@gangroot.mrgang.shop:8082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.11
 vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.56.134.149
@@ -9,7 +8,7 @@ vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?type=tcp&securi
 vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@153.52.117.170:2096?type=xhttp&security=reality&path=/xh&sni=udemy.com&fp=chrome&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NCR-252 ┇ 153.52.117.170
 vless://53ffd172-de4c-0032-aa77-1a6830a36cf8@135.106.142.209:443?type=xhttp&security=reality&path=/assets&sni=alfastat.ru&fp=edge&pbk=fz_xpZfQks3oa9c_d1OSokmTgmJuGbvFMkyK0Qt8w3I&sid=0066a7326f06d426#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NCR-252 ┇ 135.106.142.209
 vless://fe1bec5d-e2f7-4d59-9ad9-4765588e8c04@132.243.237.26:443?type=xhttp&security=reality&path=/patch&sni=chek.skysafe.online&fp=chrome&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NCR-252 ┇ 132.243.237.26
-vless://188c0927-b022-4478-86f7-be53449e2d8b@153.52.92.160:2082?type=tcp&security=reality&sni=www.zelnora.ir&fp=chrome&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.160
+vless://188c0927-b022-4478-86f7-be53449e2d8b@153.52.92.160:2082?type=xhttp&security=reality&path=/&sni=varzesh3.com&fp=chrome&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NCR-252 ┇ 153.52.92.160
 vless://48cb335c-2210-4f81-bde9-e9c8d454ed7b@pl154.slovovpn.com:26417?type=tcp&security=reality&sni=github.com&fp=chrome&pbk=UIW5K60pwiph20ht5dLF22CmD68KphGRiYTBK0wBXXw&sid=deff65#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.212.154
 vless://58984fe1-5f01-486b-bb68-c2f8352d7a92@132.243.212.205:41503?type=tcp&security=reality&sni=github.com&fp=chrome&pbk=RIGmegmuEpwjJWkWnJF_woRYpLH5h8d_3uZQrcqgeRs&sid=acabab18bfcf51f4#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.212.205
 vless://aeb09215-7f9f-4d7e-b8a1-666c1c77bcf5@tur.hostingdayam.com.tr:8443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=TRhKuUcgNtOODXlz6zQ8vPX2CCwqGRiV2LoHrQ0WN2U&sid=68d2d5f8#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.100

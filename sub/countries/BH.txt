@@ -1,1 +1,2 @@
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?type=tcp&security=none&path=/api/v1/devices/7c05e2fb91/telemetry#BH 🇧🇭 ┇ VLESS-TCP-NTLS ┇ 188.137.235.179
+vless://d9d0f208-d582-41d5-bb7b-742671402810@eu-central-de-1.hanvpn.biz:443?type=tcp&security=reality&sni=eu-central-de-1.hanvpn.iz&fp=chrome&flow=xtls-rprx-vision&pbk=B2ZW-mosEf8Cz4PYahKxn_B4Qa3yDZ9qFG7uLan-ngQ&sid=0183b7681806bc97#BH 🇧🇭 ┇ VLESS-TCP-RLT ┇ 188.137.230.41

@@ -3,3 +3,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
 vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.221
 vless://b19f6b90-52f0-4846-a96f-b67acefadb04@66.33.22.226:50212?type=xhttp&security=reality&path=/&sni=help.steampowered.com&fp=chrome&pbk=XGf1puinir0mL6oxiyEUs97s7gunaD07xy81_-YV4Uc&sid=5a3ff5a13d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.226
+vless://35235522-7ab3-4491-ab1f-839a34acaf38@66.33.22.224:20463?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=EbZise94_xpghzVLch9cYGxw4IIuP7_j5dmh1qeqch0&sid=7d6a8dd767d14cab#US 🇺🇸 ┇ VLESS-TCP-RLT - RAILWAY ┇ 66.33.22.224

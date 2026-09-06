@@ -3,12 +3,11 @@ vless://634394fa-957c-4e1b-ba31-ec2bc417c356@138.124.90.40:35872?type=xhttp&secu
 vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - BrainStorm Network, Inc ┇ 185.126.236.181
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 151.236.30.184
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.138.55.120:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 83.138.55.120
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@8.6.112.6:2087?type=ws&security=tls&path=/&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.6
+trojan://humanity@8.6.112.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.6
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@146.70.28.93:43893#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.28.93
-trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.136
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@212.183.88.254:8880?type=ws&security=none&path=/&sni=Telegram-channel-WangCai2#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
-vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?type=ws&security=tls&path=/USA1&sni=usa1.pad-service.com&fp=firefox#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.90.42
+vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?type=ws&security=tls&path=/USA1&sni=usa1.pad-service.com&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.90.42
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?type=grpc&security=reality&sni=avstri.plus-hit.ru&fp=firefox&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&sid=92558baf673ab721#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.64.139
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.18.129:8443?type=grpc&security=reality&sni=avstri.plus-hit.ru&fp=chrome&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&sid=92558baf673ab721#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.18.129
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.65.60:8443?type=grpc&security=reality&sni=avstri.plus-hit.ru&fp=chrome&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&sid=92558baf673ab721#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.65.60
