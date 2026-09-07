@@ -1,8 +1,7 @@
 vless://8ac637bf-554e-4902-94d7-baf01780a83c@94.241.174.157:40443?type=tcp&security=reality&sni=deepl.com&flow=xtls-rprx-vision&pbk=mM33xyzf1GPaU2CQXAGYoGkTuYzEZRYT6S-NngyqfHQ&sid=beb4#GR 🇬🇷 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 94.241.174.157
-vless://601fe32b-0c1a-403d-bbb1-2560fa2057ec@89.19.216.74:443?type=ws&security=tls&path=/api/user&sni=chat.taksavps.ru&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 89.19.216.74
 vless://51231507-67c3-4141-ab08-a69eb121c716@yesilove.beer:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&sid=1688#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 212.192.217.236
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@app1.goonars.com:443?type=tcp&security=reality&sni=www.samsung.com&fp=qq&flow=xtls-rprx-vision&pbk=rWpM1YULmwcQynCxVoOo-Nw7BCPlC7LjD1_ou_vWsGo&sid=04e35a9e#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.111.103
-vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?type=tcp&security=reality&sni=yahoo.com&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&sid=52a6#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.145.127
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@147.45.111.103:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=rWpM1YULmwcQynCxVoOo-Nw7BCPlC7LjD1_ou_vWsGo&sid=04e35a9e#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.111.103
+vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&sid=52a6#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.145.127
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@147.45.226.155:8443?type=ws&security=tls&path=/&sni=wsnl24.wba-pn.ru&fp=firefox#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 147.45.226.155
 vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?type=ws&security=tls&path=/&sni=wsnl7.wba-pn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 46.19.69.201
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?type=ws&security=tls&path=/api/user&sni=gaaga.korgivps.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 147.45.229.3

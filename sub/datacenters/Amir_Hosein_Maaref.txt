@@ -1,2 +1,5 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgMTg1LjIxNS4yMzAuNSIsImFkZCI6ImRhc2hib2FyZC5hZnJhY2FmZS50b3AiLCJwb3J0Ijo1Mzg4LCJpZCI6Ijc2Y2VmY2Q3LTZiNTMtNGM2NS1hZDI5LTFhOTI3MzRmYzk2OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgMTg1LjIxNS4yMzAuNSIsImFkZCI6ImRhc2hib2FyZC5hZnJhY2FmZS50b3AiLCJwb3J0Ijo1Mzg4LCJpZCI6IjEzMGIwZmJmLTRmMTktNDRkMC05MTFmLTk1MzU1ZTk2MzJlNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t7.gorsa.ir:443?type=tcp&security=tls&sni=se.apextravis.ir&fp=firefox#IR 🇮🇷 ┇ VLESS-TCP-TLS - Amir Hosein Maaref ┇ 185.215.230.210
+vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t10.gorsa.ir:443?type=tcp&security=tls&sni=tr.apextravis.ir&fp=firefox#IR 🇮🇷 ┇ VLESS-TCP-TLS - Amir Hosein Maaref ┇ 185.215.230.211
+vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t9.gorsa.ir:443?type=tcp&security=tls&sni=fi.apextravis.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Amir Hosein Maaref ┇ 185.215.230.212
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.236.19

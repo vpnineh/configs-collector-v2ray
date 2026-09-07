@@ -3,11 +3,8 @@ vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t10.fdlnw.ir:443?type=tcp&security=
 vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t12.gorsa.ir:443?type=tcp&security=tls&sni=az.apextravis.ir&fp=firefox#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.37
 vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t5.gorsa.ir:443?type=tcp&security=tls&sni=ae.apextravis.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.28
 vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t4.gorsa.ir:443?type=tcp&security=tls&sni=at.apextravis.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.68
-vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t7.gorsa.ir:443?type=tcp&security=tls&sni=se.apextravis.ir&fp=firefox#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.16
 vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t13.fdlnw.ir:443?type=tcp&security=tls&sni=us.fdlnw.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.191
 vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t17.fdlnw.ir:443?type=tcp&security=tls&sni=nl2.fdlnw.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.55
 vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t1.gorsa.ir:443?type=tcp&security=tls&sni=de2.apextravis.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.13
 vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t16.fdlnw.ir:443?type=tcp&security=tls&sni=gb2.fdlnw.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.14
-vless://7af125cd-7177-4571-bdbb-5f04c04f6bf2@t9.gorsa.ir:443?type=tcp&security=tls&sni=fi.apextravis.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.20
-vless://d2bf8658-06dc-4462-80d4-39c5c3bb0dd8@fr.masterpgd.com:6010?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 109.95.70.154
-vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@37.152.175.93:8443?type=tcp&security=reality&sni=parsabr.com&fp=chrome&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&sid=3650a4286bf867e9#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 37.152.175.93
+vless://d2bf8658-06dc-4462-80d4-39c5c3bb0dd8@fr.masterpgd.com:6010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.70.154

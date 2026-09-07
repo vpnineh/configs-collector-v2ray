@@ -1,5 +1,4 @@
 vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - KAMATERA ┇ 185.47.172.174
-vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@itsa.childofarya.ir:1003?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=32R_r7HDUYslCRzhfFhBuipplnVAygudK2a9M_URfmU&sid=a8cf1a1235375630#IT 🇮🇹 ┇ VLESS-TCP-RLT - KAMATERA ┇ 113.30.151.249
-vless://Telegram@185.139.228.126:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SE 🇸🇪 ┇ VLESS-WS-TLS - KAMATERA ┇ 185.139.228.126
 vless://Telegram@45.91.171.146:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SE 🇸🇪 ┇ VLESS-WS-TLS - KAMATERA ┇ 45.91.171.146
+vless://Telegram@185.139.228.126:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#SE 🇸🇪 ┇ VLESS-WS-TLS - KAMATERA ┇ 185.139.228.126
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 45.130.165.90
