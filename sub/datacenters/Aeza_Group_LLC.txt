@@ -1,2 +1,2 @@
-vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 83.147.255.26
+vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 83.147.255.26
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Aeza Group LLC ┇ 85.192.56.3
