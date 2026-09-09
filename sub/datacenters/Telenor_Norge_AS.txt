@@ -1,1 +1,2 @@
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:2053?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - Telenor Norge AS ┇ 159.194.226.13
+vless://da57dfef-d209-45a1-bfd8-56081a9cd85a@159.194.231.222:443?type=tcp&security=reality&sni=ne.scalefou.quest&fp=chrome&flow=xtls-rprx-vision&pbk=8fYnfMNqrNov8YL6ItAjHLgODQDYy32KPQ3dQgoPQXI&sid=bde54127838a9f55#SE 🇸🇪 ┇ VLESS-TCP-RLT - Telenor Norge AS ┇ 159.194.231.222
+vless://da57dfef-d209-45a1-bfd8-56081a9cd85a@159.194.241.4:443?type=tcp&security=reality&sni=api-ne.data-media-social.org&fp=chrome&flow=xtls-rprx-vision&pbk=oPOPR27F5Z7w4xaWcRqrACeRCJhHvNAspVNaesQDVDk&sid=b3a1d910e7c4f722#SE 🇸🇪 ┇ VLESS-TCP-RLT - Telenor Norge AS ┇ 159.194.241.4
