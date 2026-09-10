@@ -1,1 +1,4 @@
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?type=ws&security=tls&path=/api/v2/camera/events/8f4c2d&sni=azs.benz.ink#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.252
+vless://29e5c913-25de-4b56-8789-6e8f7cc163fa@185.178.208.140:443?type=ws&security=tls&path=/api/v3/live/hls/segment&sni=mapgasstation.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 185.178.208.140
+vless://dc5322dd-8f73-44a2-a8c5-60fd4be69319@95.129.236.216:443?type=ws&security=tls&path=/origin/190546791/fetch&sni=cdnguard.org&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.216
+vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@95.129.236.124:443?type=ws&security=tls&path=/gateway/v1/ws/6d50d81f0b49c137b1564bce4760eaee&sni=game-booster.sowt.app&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.124

@@ -1,4 +1,5 @@
 vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@185.174.135.28:443?type=tcp&security=reality&sni=eston8.helper-internet.com&fp=chrome&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#EE 🇪🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.174.135.28
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY#SE 🇸🇪 ┇ VLESS-GRPC-RLT - HZ Hosting Ltd ┇ 79.141.174.147
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743?type=grpc&security=reality&sni=www.google.com&fp=firefox&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY#SE 🇸🇪 ┇ VLESS-GRPC-RLT - HZ Hosting Ltd ┇ 79.141.174.147
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HZ Hosting Ltd ┇ 193.42.38.209
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY#US 🇺🇸 ┇ VLESS-GRPC-RLT - HZ Hosting Ltd ┇ 193.42.39.10
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?type=grpc&security=reality&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY#US 🇺🇸 ┇ VLESS-GRPC-RLT - HZ Hosting Ltd ┇ 193.42.39.10
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.172.154:10453?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc#US 🇺🇸 ┇ VLESS-GRPC-RLT - HZ Hosting Ltd ┇ 79.141.172.154
