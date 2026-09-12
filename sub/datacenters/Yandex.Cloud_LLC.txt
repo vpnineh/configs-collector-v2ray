@@ -1,2 +1,4 @@
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@93.77.188.102:443?type=tcp&security=tls&sni=wde5.whitedeu.org&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 93.77.188.102
 vless://cb2e5fc3-c1bb-4cfc-b18c-69e450fbd017@84.201.172.164:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 84.201.172.164
+vless://Fluffy_VPN-zKZUa4Ie@158.160.162.185:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=xLN7q9XBRYSrIAc10TyEGupgDbCqSuZRQILMw5nqrns#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.162.185
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@158.160.23.110:8443?type=tcp&security=reality&sni=ya.ru&fp=chrome&flow=xtls-rprx-vision&pbk=BVwyZUEoTujbWy-7QczfJyYAsHw2y_H8SMMfbK5AEho&sid=81dd866769f057#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.23.110

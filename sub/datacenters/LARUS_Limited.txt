@@ -1,4 +1,1 @@
-vless://0e3d148e-f75e-41d1-8111-b60c020bd558@154.219.5.64:2083?type=ws&security=tls&path=/Proxy-MTM?ed=2048&sni=Z1.Zemestanil.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.64
-vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.110:2083?type=ws&security=tls&path=/Proxy-MTM?ed=2056&sni=Z1.Zemestanil.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.110
-vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.84:2083?type=ws&security=tls&path=/Proxy-MTM?ed=2056&sni=Z1.Zemestanil.IR&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.84
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.85.99.37:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#US 🇺🇸 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.85.99.37
+vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@154.219.5.125:443?type=grpc&security=tls&sni=fifth.pinocchio1.ir&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.125

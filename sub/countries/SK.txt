@@ -1,3 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
-trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?type=ws&security=tls&path=/proxyip=bpb.yousef.isegaro.comfp=chrome&sni=web-socket.tgdaosheng.ggff.net&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 185.112.249.201
+trojan://humanity@8.47.69.0:443?security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
+vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@8.47.69.9:443?type=ws&security=tls&path=/eyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.9
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?type=ws&security=tls&path=/proxyip&sni=web-socket.tgdaosheng.ggff.net&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 185.112.249.201

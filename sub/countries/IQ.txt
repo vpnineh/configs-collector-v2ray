@@ -1,4 +1,1 @@
-vless://d9d0f208-d582-41d5-bb7b-742671402810@81.90.25.158:443?type=tcp&security=reality&sni=eu-central-de-3.hanvpn.biz&flow=xtls-rprx-vision&pbk=evZScHEcyRLcHnrN8fzp3HtC5hQ_smUHdmCRpCqlwkY&sid=0183b7681806bc97#IQ 🇮🇶 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 81.90.25.158
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkelN4N1c2d0JITzFWUklfR3g0Y2pWTTBuTjQxbThxeA@81.90.21.73:114#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.21.73
-vless://b26b90cd-ae3e-416f-a6a4-5a52b1d4cf87@sweden1.banovano.space:443?type=grpc&security=reality&sni=ai.android&fp=chrome&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&sid=53499a662395#IQ 🇮🇶 ┇ VLESS-GRPC-RLT - TigrisNet ┇ 81.90.21.23
-vless://d9d0f208-d582-41d5-bb7b-742671402810@81.90.21.40:443?type=tcp&security=reality&sni=eu-north-sw-1.hanvpn.biz&fp=chrome&flow=xtls-rprx-vision&pbk=ELFdNdI6NYwuEq5OqCkYwnUInHvIpsUhd4z2ud7pOCM&sid=0172b7681806bc97#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.21.40
+vless://d9d0f208-d582-41d5-bb7b-742671402810@81.90.25.158:443?type=tcp&security=reality#IQ 🇮🇶 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 81.90.25.158

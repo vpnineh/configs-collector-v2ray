@@ -2,4 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:806#CA 🇨�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:808#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.247.59.156
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.134
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.133
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@lv.vmagnum.win:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.240.54.14
+vless://6b03ffdd-6646-410b-b575-6c05eafdaf60@165.231.99.52:8443?type=tcp&security=tls&sni=vusr-6aa2cf2b.adhil.uk&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 165.231.99.52
+vless://6b03ffdd-6646-410b-b575-6c05eafdaf60@165.231.99.43:8443?type=tcp&security=tls&sni=vusr-6aa2cf2b.adhil.uk&fp=firefox&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 165.231.99.43
+vless://6b03ffdd-6646-410b-b575-6c05eafdaf60@nl.alpheratzz.org:8443?type=tcp&security=tls&path=/&sni=vusr-6aa2cf2b.adhil.uk&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 165.231.99.12

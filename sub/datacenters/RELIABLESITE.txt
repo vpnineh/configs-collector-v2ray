@@ -1,2 +1,3 @@
-trojan://e0onp2et8nstqvtm@193.148.253.210:2053?security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - RELIABLESITE ┇ 193.148.253.210
+trojan://yaloxdwa6viz34nx@193.148.253.210:2053?sni=193.148.253.210&peer=193.148.253.210&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - RELIABLESITE ┇ 193.148.253.210
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct2.pngv.top:4999?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - RELIABLESITE ┇ 193.148.253.254
+vless://bb051209-acf7-4655-8a45-8f3d4cd93850@193.148.253.197:443?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - RELIABLESITE ┇ 193.148.253.197

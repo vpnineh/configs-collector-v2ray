@@ -1,3 +1,4 @@
 vless://Telegram@193.148.59.145:8443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io#BG 🇧🇬 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 193.148.59.145
 vless://b761689d-592e-46b2-b704-af7a9110b0ac@shop.theawesomenpl.ru:50715?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=YyF_0swCrKvtCDKmnGhz9UshtvQxUbpemVO8d_Bj6Ro&sid=75#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 193.8.184.115
+vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@de.global-cdn.org:443?type=tcp&security=reality&sni=de.global-cdn.org&fp=chrome&flow=xtls-rprx-vision&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&sid=f7d0420b8ab26060#CZ 🇨🇿 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 194.87.24.106
 vless://10e2817c-9a84-4c42-9eff-a8cfd6ec9283@yt.nl.xanka.best:2761?type=tcp&security=reality&sni=nl.xanka.best&fp=chrome&flow=xtls-rprx-vision&pbk=d9ncsYIjJIiCaqLszDyLhZoZ9-XMYYhBrlHUyuHFxQo&sid=a4e1fd84#SG 🇸🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 94.125.103.77
