@@ -1,4 +1,4 @@
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?type=ws&security=tls&path=/cdn/v3/live&sni=cf2.rumedia-cdn.com&fp=chrome#ID 🇮🇩 ┇ VLESS-WS-TLS ┇ 202.155.11.249
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?type=tcp&security=none&path=/cdn/v3/live#ID 🇮🇩 ┇ VLESS-TCP-NTLS ┇ 202.155.11.249
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - CV Atha Media Prima ┇ 41.216.177.41
 trojan://idc117okt@103.176.78.153:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.176.78.153
 trojan://idc117okt@103.226.139.201:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.226.139.201

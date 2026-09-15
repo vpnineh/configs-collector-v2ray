@@ -1,4 +1,4 @@
-vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 83.147.255.26
 vless://be3a80da-9bda-44b7-97ea-8794b88633d8@mashinbazi.athforce.ir:2376?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 85.192.30.123
+vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 83.147.255.26
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Aeza Group LLC ┇ 85.192.56.3
 vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@79.137.192.241:443?type=tcp&security=reality&sni=pl.sdssv-vid.online&fp=chrome&flow=xtls-rprx-vision&pbk=NuS0Su5ozBXBDDBEeBHc2AaeL4qRxK-w9SN4t0VP8Bs&sid=d74a5340e604148e#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 79.137.192.241
