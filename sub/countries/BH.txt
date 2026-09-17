@@ -1,6 +1,4 @@
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?type=tcp&security=none&path=/api/v1/devices/7c05e2fb91/telemetry#BH 🇧🇭 ┇ VLESS-TCP-NTLS ┇ 188.137.235.179
 vless://ade65899-8d92-457f-ab9c-b7321f919838@188.137.234.78:38699?type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=firefox&pbk=1pN8v_MgmIE2YOgPYvCZTinV2aI4wqAQ6w4gXBN53Hk&sid=a683bd1ccd0c#BH 🇧🇭 ┇ VLESS-TCP-RLT ┇ 188.137.234.78
 vless://33ece698-85ea-49c4-bbd2-f54bceb9d701@188.137.232.57:46519?type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=chrome&pbk=AdgOmPJcyKw1bSrYXMmA-Clfvk4JrrdmrDEEuF42Z2w&sid=bb#BH 🇧🇭 ┇ VLESS-TCP-RLT ┇ 188.137.232.57
-vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&sid=033a8331#BH 🇧🇭 ┇ VLESS-GRPC-RLT ┇ 188.137.234.211
 vless://d9d0f208-d582-41d5-bb7b-742671402810@188.137.242.143:443?type=tcp&security=reality&sni=us-main-1.hanvpn.biz&fp=chrome&flow=xtls-rprx-vision&pbk=RY0VjR_1hwb6oO9FvhRvFOjf4iLfYC95xagmDdk2fCA&sid=54b5a7681806bc97#BH 🇧🇭 ┇ VLESS-TCP-RLT ┇ 188.137.242.143
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.166.103:443#BH 🇧🇭 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 16.24.166.103

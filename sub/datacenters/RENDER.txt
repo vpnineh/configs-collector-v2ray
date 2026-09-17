@@ -1,3 +1,3 @@
 trojan://humanity@render.com:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.1
 trojan://humanity@216.24.57.7:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.7
-vless://cccdb266-e17a-4411-9017-6935bd2a5fbf@hollowcon-6ogo.onrender.com:443?type=ws&security=tls&path=/ws/cccdb266-e17a-4411-9017-6935bd2a5fbf&sni=hollowcon-6ogo.onrender.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.15
+vless://2ee0d2aa-867e-a77e-9538-2edfc0b242aa@216.24.57.15:443?type=ws&security=tls&path=/&sni=four04-rd37.onrender.com#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.15

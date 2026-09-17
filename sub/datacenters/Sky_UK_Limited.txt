@@ -2,5 +2,6 @@ vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.140:2087?type=ws&securit
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.181:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.181
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.224
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.245
+vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?type=ws&security=none&path=/api#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.205.16
 vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@51.194.251.114:61592?type=tcp&security=reality&sni=store.storeimages.cdn-apple.com&flow=xtls-rprx-vision&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5#GB 🇬🇧 ┇ VLESS-TCP-RLT - Sky UK Limited ┇ 51.194.251.114
-vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@51.194.251.172:31068?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Sky UK Limited ┇ 51.194.251.172
+vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@51.194.251.172:31068?type=tcp&security=reality&sni=snapshot.apple-mapkit.com&flow=xtls-rprx-vision&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5#GB 🇬🇧 ┇ VLESS-TCP-RLT - Sky UK Limited ┇ 51.194.251.172
