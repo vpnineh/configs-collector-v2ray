@@ -1,7 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTzhlUWpXQVVWTDYxVG9VS1VjOUJaazBxblBOZko3bw@45.135.194.220:14044#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pfcloud UG ┇ 45.135.194.220
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMalBfOHpVMmFUanZKdGtDeDk0QWFmY0dRVzZPc21iTw@176.65.151.237:49332#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.237
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBmY2xvdWQgVUcgXHUyNTA3IDE3Ni42NS4xNTEuNzYiLCJhZGQiOiJwbHVzLmFwYXJhdHJhdGluZm8uaXIiLCJwb3J0Ijo5NDQzLCJpZCI6IjQ5OWUzNmY0LWU3NWEtNDIxMC04NTNmLThjODQ5NzkwZDI1NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gUGZjbG91ZCBVRyBcdTI1MDcgMTc2LjY1LjE1MS42MSIsImFkZCI6Ik5sLmxpb24tbGlvbi5pciIsInBvcnQiOjgyNDMsImlkIjoiOWYwZDJlYjEtMWI5Ny00YjZhLThmNDktYTUyMTg2NTA4MTcxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiTmwubGlvbi1saW9uLmlyIiwidGxzIjoidGxzIiwic25pIjoiTmwubGlvbi1saW9uLmlyIn0
-vless://1ca43e4d-f65a-4027-a9bf-cfb7eb091661@176.65.151.67:19257?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Pfcloud UG ┇ 176.65.151.67
-vless://28e842ac-b144-4c65-bfbe-03e0f60d4c20@176.65.151.77:53521?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.77
+vless://07434f29-a53e-42ff-a55a-1cb3669e4f84@176.65.151.67:10259?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Pfcloud UG ┇ 176.65.151.67
 vless://@vpn_kurdnet@45.135.194.196:56283?type=ws&security=none&path=/netpath#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pfcloud UG ┇ 45.135.194.196
 vless://fa87edcc-4751-4d28-b53b-3abf7bee7ece@lp.mtcmicserver.ir:8080?type=grpc&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=wegUSBXt8tLaCp7Ze22cuKJa-MQ0KRSe7BX1dDgLRQg&sid=b397faa58de7c5f3#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Pfcloud UG ┇ 176.65.151.101
+vless://103f65b2-c4a7-4afc-aa00-dd67b6904036@176.65.151.240:57828?type=tcp&security=reality&sni=Miro.com&fp=chrome&flow=xtls-rprx-vision&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf#NL 🇳🇱 ┇ VLESS-TCP-RLT - Pfcloud UG ┇ 176.65.151.240

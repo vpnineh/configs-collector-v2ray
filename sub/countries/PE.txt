@@ -1,3 +1,2 @@
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#PE 🇵🇪 ┇ VLESS-TCP-RLT ┇ 45.194.10.68
-vless://dcca1cd9-08da-4756-9e47-ba6c47705fa1@154.219.5.101:2053?type=grpc&security=tls&sni=v2rayb.peymod.com&fp=chrome#PE 🇵🇪 ┇ VLESS-GRPC-TLS - LARUS Limited ┇ 154.219.5.101
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989#PE 🇵🇪 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.229.28

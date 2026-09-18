@@ -1,5 +1,4 @@
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@94.103.2.251:443?type=tcp&security=reality&sni=io.ozone.ru&fp=firefox&flow=xtls-rprx-vision&pbk=a8huhMB5qb3Q0zYwG1QzPjSDTrXufkZMlADT-_EMPhc&sid=00000000#MD 🇲🇩 ┇ VLESS-TCP-RLT ┇ 94.103.2.251
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@193.36.38.17:443?type=ws&security=tls&path=/&sni=eded-52n.pages.dev&fp=chrome#MD 🇲🇩 ┇ VLESS-WS-TLS - ''it Fruit'' S.r.l. ┇ 193.36.38.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@194.33.40.114:33992#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Inovare-Prim SRL ┇ 194.33.40.114
 vless://742ed387-0bf8-4bd5-bebd-8ab7e0379513@ru.srv.safes-infrastructure.com:8443?type=tcp&security=reality&sni=ru.srv.safes-infrastructure.com&fp=chrome&flow=xtls-rprx-vision&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&sid=e7d8f0aa#MD 🇲🇩 ┇ VLESS-TCP-RLT - Inovare-Prim SRL ┇ 80.66.79.19

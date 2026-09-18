@@ -1,9 +1,5 @@
 vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910#CA 🇨🇦 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 86.54.28.75
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.235.207.28:989#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - COGENT-174 ┇ 193.235.207.28
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-dedic-2.failspace.top:443?type=tcp&security=tls&path=/&sni=poland-new-dedic-2.failspace.top&fp=chrome&flow=xtls-rprx-vision#UA 🇺🇦 ┇ VLESS-TCP-TLS - COGENT-174 ┇ 50.7.249.187
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?type=tcp&security=tls&sni=pl-new-dedic.failspace.top&fp=firefox&flow=xtls-rprx-vision#UA 🇺🇦 ┇ VLESS-TCP-TLS - COGENT-174 ┇ 50.7.248.237
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.172:443?type=tcp&security=tls&sni=pl-dedic-3.failspace.top&fp=chrome&flow=xtls-rprx-vision#UA 🇺🇦 ┇ VLESS-TCP-TLS - COGENT-174 ┇ 50.7.249.172
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.181:443?type=tcp&security=tls&sni=pl-dedic-2.failspace.top&fp=chrome&flow=xtls-rprx-vision#UA 🇺🇦 ┇ VLESS-TCP-TLS - COGENT-174 ┇ 50.7.249.181
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - COGENT-174 ┇ 80.91.86.179
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - COGENT-174 ┇ 154.36.162.129
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT0dFTlQtMTc0IFx1MjUwNyAzOC41NC4xODUuMTEyIiwiYWRkIjoiMzguNTQuMTg1LjExMiIsInBvcnQiOjMwMDAwLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9wYXRoLzE3MDEwOTExMzM0MDkiLCJ0bHMiOiJ0bHMifQ
