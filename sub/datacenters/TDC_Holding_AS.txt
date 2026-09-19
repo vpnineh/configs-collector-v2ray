@@ -1,2 +1,4 @@
 vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?type=httpupgrade&security=none&path=/#DK 🇩🇰 ┇ VLESS-HTTPUPGRADE-NTLS - TDC Holding A/S ┇ 87.58.154.128
 vless://awlix_ir@87.58.159.20:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - TDC Holding A/S ┇ 87.58.159.20
+vless://c8d51e6c-7c24-4474-b587-1e75cd2fc00e@87.58.147.66:443?type=tcp&security=reality&sni=Miro.com&fp=chrome&flow=xtls-rprx-vision&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf#DK 🇩🇰 ┇ VLESS-TCP-RLT - TDC Holding A/S ┇ 87.58.147.66
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?type=xhttp&security=reality&path=/&sni=google.com&fp=random&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df#DK 🇩🇰 ┇ VLESS-XHTTP-RLT - TDC Holding A/S ┇ 87.58.205.88

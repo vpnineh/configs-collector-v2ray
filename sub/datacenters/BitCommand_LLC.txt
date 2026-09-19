@@ -1,8 +1,8 @@
-vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.16.211
 vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - BitCommand LLC ┇ 46.249.103.67
 vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@89.106.206.57:443?type=ws&security=tls&path=/6d2fed050b30&sni=fcs013.getdcz.me&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 89.106.206.57
-vless://7bce96a4-555d-42c7-adfe-9e5fe2be95bc@nl.armankhan.shop:8043?type=tcp&security=reality&sni=shield.nvidia.jp&fp=chrome&flow=xtls-rprx-vision&pbk=ZZh7kdIiOal4hm8nkmCdeRDG4hRbhnTFu9XvVpiQuls&sid=78a37a3f51#NL 🇳🇱 ┇ VLESS-TCP-RLT - BitCommand LLC ┇ 45.195.200.4
-trojan://i5lax4a3ninigc7r@t6.malwarewatch.info:8081?security=none#TR 🇹🇷 ┇ TROJAN-TCP-NTLS - BitCommand LLC ┇ 202.133.90.105
-vless://c0e453eb-33ac-4206-8423-3e1286c2ba7a@helixgaming.ir:80?type=ws&security=false&path=/&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-FALSE - BitCommand LLC ┇ 89.251.8.205
+vless://8a5082ab-ccfa-4035-9553-067af387315d@nl.armankhan.shop:8043?type=tcp&security=reality&sni=support-shield.nvidia.no&fp=chrome&pbk=ZZh7kdIiOal4hm8nkmCdeRDG4hRbhnTFu9XvVpiQuls&sid=341b#NL 🇳🇱 ┇ VLESS-TCP-RLT - BitCommand LLC ┇ 45.195.200.4
+vless://bc8e1f67-74bd-40e9-bf09-d048b9c8e7a8@45.195.200.237:443?type=tcp&security=reality&sni=https://www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=sRLaPnZFP3SrcbucyVY5NuJjxBw_iBI8negudwpLCxc&sid=d0#NL 🇳🇱 ┇ VLESS-TCP-RLT - BitCommand LLC ┇ 45.195.200.237
+trojan://betcj3iiz4e0he83@202.133.90.105:1819?security=none#TR 🇹🇷 ┇ TROJAN-TCP-NTLS - BitCommand LLC ┇ 202.133.90.105
 vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?type=tcp&security=tls&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 202.133.90.93
+vless://c0e453eb-33ac-4206-8423-3e1286c2ba7a@helixgaming.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 89.251.8.205
 vless://d9ce62fc-851b-49db-b52a-d015357a2f3a@netsecureteam5.ir:4444?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.90.48
