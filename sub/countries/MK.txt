@@ -1,4 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.37
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
-vless://e3ec2866-96cd-4cc3-86c9-e7336ea2fbc2@185.203.4.218:443?type=tcp&security=none#MK 🇲🇰 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 185.203.4.218
+vless://e3ec2866-96cd-4cc3-86c9-e7336ea2fbc2@185.203.4.218:443?type=xhttp&security=tls&path=/xh&sni=ger-04.hello-there.ru&fp=firefox#MK 🇲🇰 ┇ VLESS-XHTTP-TLS - Pq Hosting Plus S.r.l. ┇ 185.203.4.218
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@185.225.28.85:47121#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - TELEKS DOOEL Skopje ┇ 185.225.28.85

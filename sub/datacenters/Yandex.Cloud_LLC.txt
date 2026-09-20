@@ -1,6 +1,6 @@
-vless://02722550-1915-4629-a653-cbe95e594f70@188.72.103.3:443?type=xhttp&security=tls&path=/api/v68/uptodown&sni=cdnapiv3.streamru2.net&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
-vless://1f959100-a98b-47fb-84fa-359246dc458a@188.72.103.4:443?type=ws&security=tls&path=/apiv1/esa1-asda2jcvnbpseflkn-kjweksad&sni=apicdn.4subnodes.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://1f959100-a98b-47fb-84fa-359246dc458a@apicdn.4subnodes.com:443?type=ws&security=tls&path=/apiv1/esa1-asda2jcvnbpseflkn-kjweksad&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@93.77.188.102:443?type=tcp&security=tls&sni=wde5.whitedeu.org&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 93.77.188.102
+vless://c8912ceb-599c-49c9-9976-a1c26a462366@89.169.186.14:443?type=ws&security=tls&path=/pleasework&sni=cdn.vtb-cdn2.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Yandex.Cloud LLC ┇ 89.169.186.14
 vless://cb2e5fc3-c1bb-4cfc-b18c-69e450fbd017@84.201.172.164:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 84.201.172.164
 vless://0c9f19ac-d2fb-4ddb-81e4-c96501ac964c@158.160.144.108:7443?type=tcp&security=reality&sni=5post-gate.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.144.108
 vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?type=xhttp&security=reality&path=/&sni=max.ru&fp=chrome&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 51.250.106.197
