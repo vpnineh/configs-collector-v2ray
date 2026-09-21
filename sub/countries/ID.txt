@@ -1,6 +1,5 @@
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?type=ws&security=tls&path=/cdn/v3/live&sni=cf2.rumedia-cdn.com&fp=chrome#ID 🇮🇩 ┇ VLESS-WS-TLS ┇ 202.155.11.249
-vless://3b3d3966-59db-4145-8d61-08d2ad559ced@172.232.236.252:443?type=ws&security=tls&path=/t.me/daily_free_vpn&sni=thus-k.netnode.cc.cd&fp=chrome#ID 🇮🇩 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.232.236.252
-vless://3b3d3966-59db-4145-8d61-08d2ad559ced@172.232.240.6:443?type=ws&security=tls&path=/t.me/daily_free_vpn&sni=thus-k.netnode.cc.cd&fp=chrome#ID 🇮🇩 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.232.240.6
+vless://c92e12ca-ea66-4785-8675-652b35134117@172.232.236.252:443?type=ws&security=tls&path=/t.me/daily_free_vpn&sni=thus-k.netnode.cc.cd&fp=chrome#ID 🇮🇩 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.232.236.252
 vless://ad4492d1-6858-4841-bd50-1dff56dedcb7@172.232.250.227:443?type=ws&security=tls&path=/VLESS&sni=id-full.privateip.net#ID 🇮🇩 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.232.250.227
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - CV Atha Media Prima ┇ 41.216.177.41
 trojan://idc117okt@103.176.78.153:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.176.78.153

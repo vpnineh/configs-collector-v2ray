@@ -1,15 +1,15 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 194.87.47.204
-vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?type=tcp&security=reality&sni=www.intel.com&flow=xtls-rprx-vision&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&sid=a0a305ccc8e94aa8#IT 🇮🇹 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.238.232.239
+vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&sid=a0a305ccc8e94aa8#IT 🇮🇹 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.238.232.239
 vless://8fe8109d-6097-4f4b-9957-92d9b9b93b4c@itl.mobileemdad.top:443?type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 195.231.60.104
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
-vless://6f97389a-b42a-4a05-9890-87646eecce48@180.149.46.122:1300?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.46.122
-vless://4d4bfd21-88fc-4de7-87bd-c2ddaedc4078@34.154.47.33:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=jGfJxbIyf2aLRFQyT9NsJBu1CzJmrAa2sF19GNw46z8&sid=29615707650b941d#IT 🇮🇹 ┇ VLESS-TCP-RLT - GOOGLE-CLOUD-PLATFORM ┇ 34.154.47.33
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - KAMATERA ┇ 185.47.172.174
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
+vless://89418511-64f9-4e74-ac6b-ffc1b828106f@ittt.chainmark.ir:1003?type=tcp&security=reality&sni=app.stiga.com&fp=chrome&flow=xtls-rprx-vision&pbk=32R_r7HDUYslCRzhfFhBuipplnVAygudK2a9M_URfmU&sid=a8cf1a1235375630#IT 🇮🇹 ┇ VLESS-TCP-RLT - KAMATERA ┇ 113.30.151.249
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.92
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
+vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@87.120.104.153:8444?type=tcp&security=reality&sni=slfst12.ardor-cloud.ru&fp=chrome&flow=xtls-rprx-vision&pbk=hg6jd3UfeRzy_V02XbyUCuyrgd9TIzaPMwYcdNJ5IDs&sid=eb86eee822af1de0#IT 🇮🇹 ┇ VLESS-TCP-RLT - Neterra Ltd. ┇ 87.120.104.153
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@158.180.231.216:443?type=ws&security=tls&path=/vws/&sni=bab-6.site&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.180.231.216
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 204.216.216.23
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - SEEWEB s.r.l. ┇ 95.174.23.218
