@@ -1,7 +1,5 @@
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.66
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.64
-vless://c92e12ca-ea66-4785-8675-652b35134117@45.147.48.28:443?type=ws&security=tls&path=/t.me/daily_free_vpn&sni=thus-k.netnode.cc.cd&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - xTom GmbH ┇ 45.147.48.28
 trojan://shenmegui@185.49.33.47:8461?sni=$jp.swiftfalcon.app&peer=$jp.swiftfalcon.app&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.49.33.47
-vless://00ea1041-e003-4913-8ae6-2178e1566b7b@185.49.33.34:443?type=ws&security=tls&path=/t.me/daily_free_vpn&sni=thus-k.netnode.cc.cd&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - xTom GmbH ┇ 185.49.33.34
-vless://00ea1041-e003-4913-8ae6-2178e1566b7b@185.49.33.54:443?type=ws&security=tls&path=/t.me/daily_free_vpn&sni=thus-k.netnode.cc.cd&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - xTom GmbH ┇ 185.49.33.54
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 78.142.194.96
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 194.124.216.109

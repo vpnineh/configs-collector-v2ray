@@ -1,9 +1,8 @@
-vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@bridge2.kolhoz.fuck-rkn.xyz:443?type=tcp&security=reality&sni=jobinvest.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#GR 🇬🇷 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 46.20.105.80
-vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@bridge.kolhoz.fuck-rkn.xyz:443?type=tcp&security=reality&sni=jobinvest.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#GR 🇬🇷 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 46.20.105.81
+vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@bridge2.kolhoz.fuck-rkn.xyz:443?type=tcp&security=reality&sni=jobinvest.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#GR 🇬🇷 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 46.20.105.82
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?type=grpc&security=none#GR 🇬🇷 ┇ VLESS-GRPC-NTLS - BrainStorm Network, Inc ┇ 185.126.238.87
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 194.150.167.52
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?type=ws&security=none&path=/v1#GR 🇬🇷 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 83.147.246.153
-vless://824faea9-cafe-5fa1-90dd-46d975d22ca8@38.54.29.113:8553?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=C41m2OJvTIXOIo9KsTstW-4BggXA0BR3p3B7Ve5jkx8&sid=a141e13cdb91e888#GR 🇬🇷 ┇ VLESS-TCP-RLT - Kaopu Cloud HK Limited ┇ 38.54.29.113
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@38.54.29.210:2053?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&fp=chrome#GR 🇬🇷 ┇ VLESS-WS-TLS - Kaopu Cloud HK Limited ┇ 38.54.29.210
 vless://d9600d11-9b5b-4b25-88b0-851df319a218@2a13:9500:3f:8b:::48915?type=tcp&security=none#GR 🇬🇷 ┇ VLESS-TCP-NTLS - Novelcom E.e. ┇ 2a13:9500:3f:8b::
 vless://29417656-42ee-430e-bd15-e95d6a7195cd@2a13:9500:3f:5:::59050?type=tcp&security=none#GR 🇬🇷 ┇ VLESS-TCP-NTLS - Novelcom E.e. ┇ 2a13:9500:3f:5::
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.102

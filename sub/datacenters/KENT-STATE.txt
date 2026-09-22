@@ -1,3 +1,2 @@
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?type=ws&security=none&path=/vless-test#US 🇺🇸 ┇ VLESS-WS-NTLS - KENT-STATE ┇ 131.123.37.199
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.42:443?type=tcp&security=reality&sni=sheetpeek.com&fp=chrome&flow=xtls-rprx-vision&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&sid=84be686ea1d16478#US 🇺🇸 ┇ VLESS-TCP-RLT - KENT-STATE ┇ 131.123.34.42
-vless://0d3cfb92-acc3-1910-32e5-6aa1f2c7e6f3@bg.dl-netprime.com:2025?type=xhttp&security=reality&sni=geo.io&fp=edge&pbk=SG8PHUGNsVxTLj2Q4UcrnMznzUcz4t8e0EfELf7WLig&sid=53bd5a4c#US 🇺🇸 ┇ VLESS-XHTTP-RLT - KENT-STATE ┇ 131.123.39.63

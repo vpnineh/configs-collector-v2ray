@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:803#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.247.59.154
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:804#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.247.59.156
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@finkafsb.finiki.lol:443?type=tcp&security=reality&path=/&sni=finkafsb.finiki.lol&fp=chrome&flow=xtls-rprx-vision&pbk=YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA&sid=d110331f200987ae#FI 🇫🇮 ┇ VLESS-TCP-RLT - Orion Network Limited ┇ 196.196.206.38
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:800#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.247.59.154
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:806#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.247.59.156
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.134
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.133
-vless://6b03ffdd-6646-410b-b575-6c05eafdaf60@165.231.99.52:8443?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 165.231.99.52
+vless://6b03ffdd-6646-410b-b575-6c05eafdaf60@165.231.99.52:8443?type=tcp&security=tls&sni=vusr-6aa2cf2b.adhil.uk&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 165.231.99.52
 vless://6b03ffdd-6646-410b-b575-6c05eafdaf60@165.231.99.43:8443?type=tcp&security=tls&sni=vusr-6aa2cf2b.adhil.uk&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 165.231.99.43
-vless://151077fd-f4a0-4622-bfd2-1ee2c121a544@165.231.99.21:8443?type=tcp&security=tls&sni=file-6aaf59ee.adhil.uk&fp=safari&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 165.231.99.21
