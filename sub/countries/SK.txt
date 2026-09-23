@@ -1,7 +1,6 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
-vless://Join_Bedin@8.47.69.78:443?type=xhttp&security=tls&path=/TelegramChannel:@daredevil_404&sni=daredevil2.manufacturingcity.ir&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.47.69.78
+vless://T.me@8.47.69.78:443?type=xhttp&security=tls&path=/TelegramChannel:@daredevil_404&sni=daredevil2.manufacturingcity.ir&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.47.69.78
 vless://Telegramid@8.47.69.100:443?type=xhttp&security=tls&path=/TelegramChannel:@daredevil_404&sni=daredevil2.manufacturingcity.ir&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.47.69.100
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.46.42.141:2053?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 89.46.42.141
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.46.42.92:2053?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 89.46.42.92
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@5.35.103.185:8443?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 5.35.103.185
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.46.42.141:2053?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 89.46.42.141

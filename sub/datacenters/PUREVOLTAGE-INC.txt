@@ -1,2 +1,5 @@
+vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?type=tcp&security=reality&sni=deepl.com&flow=xtls-rprx-vision&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&sid=db46e2946fc466fd#IL 🇮🇱 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.202.10.2
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&security=tls#RU 🇷🇺 ┇ VLESS-GRPC-TLS - PUREVOLTAGE-INC ┇ 45.138.100.226
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?type=tcp&security=reality&sni=download.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0#US 🇺🇸 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 64.49.38.6
+vless://a1c20e5e-3430-4f7e-b2e8-bdb1f436f796@147.78.181.93:56789?type=tcp&security=reality&sni=h.card-choice.ru&fp=chrome&flow=xtls-rprx-vision&pbk=-3FPglNmTIB-6d9hzVcq5cwiAGv3t4fIwt74UMqdYHs&sid=146fcdd432d98962#RU 🇷🇺 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 147.78.181.93
+vless://a1c20e5e-3430-4f7e-b2e8-bdb1f436f796@185.77.221.123:56789?type=tcp&security=reality&sni=f.card-choice.ru&fp=chrome&flow=xtls-rprx-vision&pbk=uGmggaePEccR1p73U-EgR9ORnH1kAgK0CCMU-3wmkWI&sid=8d034e17ea101b45#US 🇺🇸 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 185.77.221.123
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?type=tcp&security=none&fp=firefox#US 🇺🇸 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 64.49.38.6
