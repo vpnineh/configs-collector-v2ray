@@ -1,1 +1,2 @@
-trojan://humanity@130.250.137.171:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PIC-EXT ┇ 130.250.137.171
+trojan://humanity@130.250.137.171:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PIC-EXT ┇ 130.250.137.171
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.30:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - PIC-EXT ┇ 130.250.137.30
