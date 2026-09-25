@@ -1,3 +1,3 @@
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@91.240.86.12:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 91.240.86.12
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@91.240.86.12:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&sid=7bb730e3e6616d31#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 91.240.86.12
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@91.240.87.166:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&sid=7bb730e3e6616d31#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 91.240.87.166
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@91.240.86.186:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&sid=7bb730e3e6616d31#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 91.240.86.186

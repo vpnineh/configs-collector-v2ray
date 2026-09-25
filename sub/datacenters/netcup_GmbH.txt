@@ -1,5 +1,6 @@
-vless://702d4fab-1a81-4e40-a884-fc0411c6c46c@152.53.48.28:8443?type=ws&security=tls&path=/au1-2&sni=au3.pad-sservice.lat&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.48.28
 vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?type=ws&security=tls&path=/USA1&sni=usa1.pad-service.com&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.90.42
-vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?type=grpc&security=reality&sni=avstri.plus-hit.ru&fp=chrome&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&sid=92558baf673ab721#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.64.139
-vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.66.34:8443?type=grpc&security=reality&sni=avstri.plus-hit.ru&fp=chrome&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&sid=92558baf673ab721#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.66.34
+vless://702d4fab-1a81-4e40-a884-fc0411c6c46c@152.53.48.28:8443?type=ws&security=tls&path=/au1-2&sni=au3.pad-sservice.lat&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.48.28
+vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?type=tcp&security=reality&path=/&sni=at.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.1.40
+vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.66.34:8443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.66.34
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.65.60:8443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.65.60
+vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?type=grpc&security=reality&sni=avstri.plus-hit.ru&fp=chrome&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&sid=92558baf673ab721#AT 🇦🇹 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 152.53.64.139
