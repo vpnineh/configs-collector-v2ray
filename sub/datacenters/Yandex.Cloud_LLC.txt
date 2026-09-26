@@ -1,5 +1,4 @@
-vless://26d493a6-e1fc-4813-8f6d-49010ae97d7f@zd2ma0s.videoruru.shop:443?type=tcp&security=tls&path=/v4/e971f7c9/segments/#AE 🇦🇪 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://26d493a6-e1fc-4813-8f6d-49010ae97d7f@igyeqfz.videoruru.shop:443?type=xhttp&security=tls&path=/v3/b9305903/segments/&sni=igyeqfz.videoruru.shop&fp=firefox#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.72.103.3:443?type=xhttp&security=tls&path=/api/v81/uptodown/&sni=cdnapiv4.streamru9.net#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@93.77.188.102:443?type=tcp&security=tls&sni=wde5.whitedeu.org&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 93.77.188.102
 vless://cb2e5fc3-c1bb-4cfc-b18c-69e450fbd017@84.201.172.164:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 84.201.172.164
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?type=xhttp&security=reality&path=/&sni=max.ru&fp=chrome&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 51.250.106.197
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?type=xhttp&security=reality&path=/&sni=api-maps.yandex.ru&fp=chrome&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 84.201.180.13

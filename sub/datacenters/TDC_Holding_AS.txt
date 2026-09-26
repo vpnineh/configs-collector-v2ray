@@ -1,3 +1,4 @@
 ss://YWVzLTI1Ni1nY206cmcwZzN4cDlyazluazlvMA@87.58.148.70:443#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - TDC Holding A/S ┇ 87.58.148.70
+trojan://19a98e32a1149952a988e1e915306e07@87.58.220.77:8443?sni=yandex.ru&peer=yandex.ru&security=reality#DK 🇩🇰 ┇ TROJAN-TCP-REALITY - TDC Holding A/S ┇ 87.58.220.77
 vless://awlix_ir@87.58.159.20:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - TDC Holding A/S ┇ 87.58.159.20
-vless://e1ebaf83-ba2b-4610-9db6-ecadfd12941f@87.58.147.132:8443?type=xhttp&security=reality&path=/xh&sni=helsinki.orris.wtf&fp=chrome&pbk=mAU-ltjViMytdBUEs2898rU5hPgQjBavUyD-Cb0nCVI&sid=8035a4abee6c837c#DK 🇩🇰 ┇ VLESS-XHTTP-RLT - TDC Holding A/S ┇ 87.58.147.132
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?type=xhttp&security=reality&path=/&sni=google.com&fp=random&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df#DK 🇩🇰 ┇ VLESS-XHTTP-RLT - TDC Holding A/S ┇ 87.58.205.88

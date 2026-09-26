@@ -3,18 +3,15 @@ vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVT
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?type=ws&security=none&path=/4bc027a44532#UA 🇺🇦 ┇ VLESS-WS-NTLS ┇ 178.95.170.115
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?type=ws&security=none&path=/4bc027a44532#UA 🇺🇦 ┇ VLESS-WS-NTLS ┇ 178.95.170.98
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?type=ws&security=none&path=/4bc027a44532#UA 🇺🇦 ┇ VLESS-WS-NTLS ┇ 178.95.170.83
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?type=tcp&security=tls#UA 🇺🇦 ┇ VLESS-TCP-TLS ┇ 95.133.245.163
 vless://3c95901c-10ce-4588-9c23-7684a09839a3@95.133.247.18:8443?type=tcp&security=reality&sni=fr.atlanta-api.com&fp=chrome&flow=xtls-rprx-vision&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&sid=aaa2ba7d45c12957#UA 🇺🇦 ┇ VLESS-TCP-RLT ┇ 95.133.247.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197
 ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@156.146.50.102:50695#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.50.102
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@46.28.69.53:443?type=tcp&security=reality&sni=de2.willo.help&fp=chrome&flow=xtls-rprx-vision&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.69.53
 vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&sid=64c147592a2f84d9#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.64.242
+vless://f2381f29-c724-4491-95a3-a17bd6eea47f@46.28.69.53:443?type=tcp&security=reality&sni=de2.willo.help&fp=chrome&flow=xtls-rprx-vision&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.69.53
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.67.55
-vless://27646222-c92c-4826-ae2f-313e8f92a09d@91.196.162.125:8443?type=xhttp&security=reality&path=/api/v1/updates&sni=www.samsung.com&fp=chrome&pbk=vSVdqyvJE-9wuX4vXQD1LWNe5NyOuC3t81v9KvNwbkw&sid=bdb6527dc796ed0a#UA 🇺🇦 ┇ VLESS-XHTTP-RLT - Okb Progress LLC ┇ 91.196.162.125
 vless://040e129c-f6bc-4f7c-8351-bcbab5078cd1@91.196.161.218:2054?type=grpc&security=reality&sni=www.ibm.com&fp=chrome&pbk=LZEcqc7M6ypBzgtrnT-LjZKCbEQ8m-IgGhz24iezfDc&sid=54b24594713b5f13#UA 🇺🇦 ┇ VLESS-GRPC-RLT - Okb Progress LLC ┇ 91.196.161.218
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9uZWhvc3RwbGFuZXQgcy5yLm8uIFx1MjUwNyAyLjU5LjIyMy43MiIsImFkZCI6IjIuNTkuMjIzLjcyIiwicG9ydCI6OTIxLCJpZCI6IjJiZWRiYjk5LWFjYjItNGNmYi1iMzgxLWIzY2VhNTA0NWNmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 ss://YWVzLTI1Ni1nY206TkJWSG9hTmVsV1JlTEh5dQ@45.153.229.146:3030#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.153.229.146
-vless://cb15d1b0-e48b-4c4c-b98a-fa1103aa3723@87.76.179.117:7443?type=tcp&security=reality&sni=www.samsung.com&flow=xtls-rprx-vision&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1#UA 🇺🇦 ┇ VLESS-TCP-RLT - SATELIT SERVIS Ltd ┇ 87.76.179.117
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - UK Dedicated Servers Limited ┇ 185.164.175.81

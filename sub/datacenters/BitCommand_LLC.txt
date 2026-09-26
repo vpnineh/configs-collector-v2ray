@@ -1,4 +1,4 @@
 vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - BitCommand LLC ┇ 46.249.103.67
-trojan://juo6v8f0celnrhxt@146.19.130.192:441?sni=146.19.130.192&peer=146.19.130.192&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - BitCommand LLC ┇ 146.19.130.192
+vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1YSFRUUC1UTFMgLSBCaXRDb21tYW5kIExMQyBcdTI1MDcgMTQ2LjE5LjEzMC4xOTIiLCJhZGQiOiIxNDYuMTkuMTMwLjE5MiIsInBvcnQiOjgwODAsImlkIjoiY2JjOWQxNmMtZjZiYi00ZTY5LWFkNzYtNWIwNjQ4M2I0OTM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIxNDYuMTkuMTMwLjE5MiIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiMTQ2LjE5LjEzMC4xOTIifQ
 vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@89.106.206.57:443?type=tcp&security=none&path=/6d2fed050b30#GB 🇬🇧 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 89.106.206.57
 vless://d9ce62fc-851b-49db-b52a-d015357a2f3a@netsecureteam5.ir:4444?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.90.48

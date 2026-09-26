@@ -1,4 +1,8 @@
 ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.2.21
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?type=ws&security=false&path=/platform109&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-FALSE - AS-VULTR ┇ 64.176.4.15
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&security=false&path=/platform108&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-FALSE - AS-VULTR ┇ 64.176.21.237
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?type=ws&security=none&path=/platform113#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.24.245
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?type=ws&security=none&path=/platform115#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.23.88
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&security=none&path=/platform102#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.3.179
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?type=ws&security=false&path=/platform109&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-FALSE - AS-VULTR ┇ 64.176.13.207
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&security=false&path=/platform117&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-FALSE - AS-VULTR ┇ 64.176.26.17
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&security=false&path=/platform101&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-FALSE - AS-VULTR ┇ 64.176.5.110
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112

@@ -1,1 +1,2 @@
-trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?sni=87.121.218.169&peer=87.121.218.169&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - DpkgSoft International Limited ┇ 87.121.218.169
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - DpkgSoft International Limited ┇ 87.121.218.169
+vless://a72df1e7-d775-47a9-9000-705c6d8047ce@85.209.135.110:10013?type=xhttp&security=reality&path=/api/v2/search&sni=configuration.apple.com&fp=chrome&pbk=MbbdqiuK_xztERoewK8fTGxgmYUTd-2ppoFHoYOcMCk&sid=a150dff4#BG 🇧🇬 ┇ VLESS-XHTTP-RLT - DpkgSoft International Limited ┇ 85.209.135.110
