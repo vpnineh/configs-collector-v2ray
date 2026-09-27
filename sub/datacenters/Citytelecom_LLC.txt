@@ -1,1 +1,3 @@
-vless://235c7b9f-bb89-4a7d-b550-7f7a2ed7a3c4@185.229.9.231:443?type=xhttp&security=tls&path=/account/profile&sni=status.artspin.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Citytelecom LLC ┇ 185.229.9.231
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@185.229.9.160:443?type=grpc&security=reality&sni=smartcaptcha.yandexcloud.net&fp=chrome&pbk=4Y0QLEasqtkWqfbrRedWqrZSPTnB14FDfI9q1v5SsHs&sid=0afbd1d3#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Citytelecom LLC ┇ 185.229.9.160
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@185.229.9.178:42001?type=tcp&security=reality&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=pGI8gXW4KRSGOR0OPvybRWIHGl4nGCBKysADOnUfcBY&sid=ef52ebf2e7afc7#RU 🇷🇺 ┇ VLESS-TCP-RLT - Citytelecom LLC ┇ 185.229.9.178
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@62.152.58.182:443?type=grpc&security=reality&sni=360.yandex.ru&fp=chrome&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&sid=27e53bbcab7593d7#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Citytelecom LLC ┇ 62.152.58.182
