@@ -4,12 +4,10 @@ vless://cd79e95b-bc0d-444d-a89d-ed3cfa4f2a07@66.33.22.227:38483?type=ws&security
 vless://9bbcd000-55ce-4e37-8282-ec433902bb3b@66.33.22.236:16062?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.236
 vless://99d52e86-fb2d-4e08-9c69-d7a27179a095@66.33.22.226:37200?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.226
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
-vless://42acb35b-0158-4605-9e16-b3743880e160@66.33.22.219:54784?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.219
 vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.221
-vless://5ed3ec4d-6369-4d91-ae64-970fe7bc2e8a@kodama.proxy.rlwy.net:54630?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.228
-vless://8addc3c5-a38a-4afe-b461-b40cdc14fdca@crossover.proxy.rlwy.net:42617?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.252
 vless://aaf616f4-5401-471a-b9c9-d2709e8404c9@66.33.22.234:12403?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.234
-vless://e5d5b4ae-3a71-4cae-a98f-8ae2e6944d28@turntable.proxy.rlwy.net:51473?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.229
+vless://d061b2b7-2ce4-4d64-aae2-7748856fc528@66.33.22.219:32903?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.219
 vless://12148993-e326-4061-809d-d2a24a42bcb8@66.33.22.232:34118?type=xhttp&security=reality&path=/&sni=cam.ac.uk&fp=chrome&pbk=hbNyksag-i4fRqV86HG14fhASaXpl4sYv-1zgrrnUSQ&sid=b5126487#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.232
+vless://4cb23ec6-c295-47b8-800a-315d8e43d1ac@66.33.22.237:54233?type=tcp&security=reality&sni=api.semiconductor.samsung.com&fp=chrome&pbk=ntf3pNCrpc032JJ_Jzxlx22zOHAK8hp8Bokvu1lwECY&sid=42094280bbc2e396#US 🇺🇸 ┇ VLESS-TCP-RLT - RAILWAY ┇ 66.33.22.237
 vless://6db68710-64a6-4f8b-a6e0-7b690d1b0d26@66.33.22.238:16393?type=xhttp&security=reality&path=/&sni=safety.google&fp=chrome&pbk=1aIYAF0QVOXvXWblgwibHmuijtC8PHujI7prUH0U_n0&sid=3b22#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.238
-vless://6f131e6f-c896-4419-8fdc-723913809cdc@66.33.22.250:59449?type=xhttp&security=reality&path=/&sni=coral.ai&fp=chrome&pbk=c0QCBMCayouXdmsjWdutEe10Nn3y-xJMTQUAZjiGziI&sid=805ac11a9e#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.250
+vless://b8d8944b-0ad5-4cb5-9b48-b73c5380b332@66.33.22.229:43332?type=tcp&security=reality&sni=api-stg.semiconductor.samsung.cn&fp=chrome&pbk=UT-idtQ3uOpbcVz2GXAn-9IkNL4Q6mwfqgb_z9JHTVw&sid=7aae950fc7d5#US 🇺🇸 ┇ VLESS-TCP-RLT - RAILWAY ┇ 66.33.22.229

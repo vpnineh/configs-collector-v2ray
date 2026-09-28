@@ -1,14 +1,11 @@
 vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@50.7.33.218:443?type=tcp&security=reality&sni=edge-fr2.mystatic-cdn.ru&flow=xtls-rprx-vision&pbk=ZZwdN1Lt-fIR8A4Y1NbYCCEI6th2YXYHHRLHraVXyn0&sid=72461ccce5373103#FR 🇫🇷 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.33.218
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.105.211
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.42
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.43
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.42
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.105.210
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?type=tcp&security=tls&sni=ireland-new-ded1.failspace.top&flow=xtls-rprx-vision#IE 🇮🇪 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.5.187
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRENTRVJWRVJTIFx1MjUwNyAyMy4yMzcuMzMuMTA2IiwiYWRkIjoiMjMuMjM3LjMzLjEwNiIsInBvcnQiOjQ0MywiaWQiOiIxNzZiNTk4Zi00NDViLTQxYWMtOWQyYS00MzBjNWM0ZGYyNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9kb25ndGFpd2FuZy5jb20iLCJ0bHMiOiJ0bHMifQ
-vless://9d8a55de-70df-44a9-973e-4ffa02d05f32@67.159.43.203:443?type=ws&security=tls&path=/api/connect&sni=cli-q.bosx.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 67.159.43.203
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub.failspace.top:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.197.204
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-at-at.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 66.90.106.194
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@uk-dedic-new-1.failspace.top:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.227.251
 vless://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?type=ws&security=tls&path=/?ed=2048&sni=kosesher2.nayase6031.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.221
+vless://9d8a55de-70df-44a9-973e-4ffa02d05f32@67.159.43.203:443?type=ws&security=tls&path=/api/connect&sni=cli-q.bosx.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 67.159.43.203
 vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?type=tcp&security=reality&sni=filesconvert.org&fp=chrome&flow=xtls-rprx-vision&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=10debbdf94767541#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 67.159.17.62
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@match.betust.net:443?type=tcp&security=reality&sni=apiv12nd.goonars.com&fp=firefox&flow=xtls-rprx-vision&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.193.142
 vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@23.237.192.18:443?type=tcp&security=reality&sni=edge-us2.mystatic-cdn.ru&flow=xtls-rprx-vision&pbk=NvvQrD-Febpqip-6DM7al1RrjlwMzlEJzxCjtlgcu3Y&sid=b9ab7b4fadce963c#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 23.237.192.18
