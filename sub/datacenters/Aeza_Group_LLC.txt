@@ -1,3 +1,5 @@
-vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 83.147.255.26
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@103.71.22.26:443?type=ws&security=tls&path=/&sni=shephe.dpdns.org&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Aeza Group LLC ┇ 103.71.22.26
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@103.71.22.234:8443?type=ws&security=tls&path=/&sni=shephe.dpdns.org&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Aeza Group LLC ┇ 103.71.22.234
+vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 83.147.255.26
 vless://be3a80da-9bda-44b7-97ea-8794b88633d8@mashinbazi.athforce.ir:2376?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 85.192.30.123
-vless://dd4f323a-d7c3-45ef-8036-b1d7ffa27537@de1.obxodvpn.us:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=uOp9IW69PEn-toNzDs9IlCs8sdsMYm4XXjiPerrj41k#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.239.125.28
+vless://2412bd96-925b-43f2-81d1-0ed4f0793699@79.137.192.2:443?type=tcp&security=reality&sni=cdn.cloudflare.steamstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=zcA1E7_aUxhHP1B4po52NeviW16smzEqcyb2qiQYaTc#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 79.137.192.2

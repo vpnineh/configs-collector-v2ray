@@ -1,1 +1,2 @@
-vless://e41603b5-3315-4cbc-acae-dfeeaddc2a4d@217.11.164.92:37430?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg#GE 🇬🇪 ┇ VLESS-TCP-RLT ┇ 217.11.164.92
+vless://323d28ee-0d31-4278-8fe1-b8b157bc342e@xn--rihal-zra.paslanmaz.ir:9696?type=tcp&security=none#GE 🇬🇪 ┇ VLESS-TCP-NTLS ┇ 217.11.164.94
+vless://441a29b2-d9aa-47d5-9209-0a9191479f9f@185.143.179.179:25026?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=RVh0D446O5pKnOqlNkJNxSGGbmzl8swn4YBXYce1HSw&sid=34c465417d7ebca0#GE 🇬🇪 ┇ VLESS-TCP-RLT - LLC Ordunet ┇ 185.143.179.179

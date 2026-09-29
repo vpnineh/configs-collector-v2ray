@@ -1,4 +1,4 @@
 vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - BitCommand LLC ┇ 46.249.103.67
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1YSFRUUC1UTFMgLSBCaXRDb21tYW5kIExMQyBcdTI1MDcgMTQ2LjE5LjEzMC4xOTIiLCJhZGQiOiIxNDYuMTkuMTMwLjE5MiIsInBvcnQiOjgwODAsImlkIjoiY2JjOWQxNmMtZjZiYi00ZTY5LWFkNzYtNWIwNjQ4M2I0OTM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIxNDYuMTkuMTMwLjE5MiIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiMTQ2LjE5LjEzMC4xOTIifQ
 vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@89.106.206.57:443?type=ws&security=tls&path=/6d2fed050b30&sni=fcs013.getdcz.me&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 89.106.206.57
-vless://bfc8cad4-e746-4889-8cfb-dd63fe40bd25@45.195.200.237:443?type=tcp&security=reality&sni=shop-eu-fr.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=UjD58d1X9k9wAGYD1txJlSiOoRyBOw84O2CagazN4jY&sid=4b9d#NL 🇳🇱 ┇ VLESS-TCP-RLT - BitCommand LLC ┇ 45.195.200.237
+vless://9807575f-5b45-4c68-a39d-95fa381e05e1@202.133.90.105:57680?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.90.105
