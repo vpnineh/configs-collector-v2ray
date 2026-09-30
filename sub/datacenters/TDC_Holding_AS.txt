@@ -1,3 +1,1 @@
-vless://3d9daa27-6283-406d-a2d4-c6f22c635a14@nl.astrafic.ru:443?type=grpc&security=tls&sni=nl.astrafic.ru&fp=chrome#DK 🇩🇰 ┇ VLESS-GRPC-TLS - TDC Holding A/S ┇ 87.58.216.189
 vless://awlix_ir@87.58.159.20:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - TDC Holding A/S ┇ 87.58.159.20
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@87.58.201.123:443?type=tcp&security=reality&sni=plugins.jetbrains.com&fp=chrome&flow=xtls-rprx-vision&pbk=3MsL1LYWzUV2hNbfb7xpwIk--T7rVb8iXqCZ2xe1Eno&sid=a4968669b5ed26b8#DK 🇩🇰 ┇ VLESS-TCP-RLT - TDC Holding A/S ┇ 87.58.201.123

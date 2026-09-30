@@ -1,6 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcTV0RE5hOXFFRWpOOUVNNEFyeFF3@p1tun1.greewebservices.ir:2050#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Afranet ┇ 79.175.134.188
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun1.greewebservices.ir:1010#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Afranet ┇ 79.175.134.150
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S0NvbUVRMjhjVlhJelZseGRwVHk2TFhMb2NrWEV4WlVoMXhVSlQ0OS9uaz06aFBxTUltQ3dhNnJkQmJJL3JsQU1pVWVTWkVpNVFwTk5VWkM1Ry84OVpIYz0@aaa.app9.ir:2082#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Afranet ┇ 79.175.134.132
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTFVVVpoZE1KMVhpNFZfMzQ4djJn@p1tun1.greewebservices.ir:2050#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Afranet ┇ 79.175.134.188
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTVJ5bzFla2ZKMGV4R25BVmNLZTZn@p2tun1.greewebservices.ir:1010#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Afranet ┇ 79.175.134.150
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S0NvbUVRMjhjVlhJelZseGRwVHk2TFhMb2NrWEV4WlVoMXhVSlQ0OS9uaz06aFBxTUltQ3dhNnJkQmJJL3JsQU1pVWVTWkVpNVFwTk5VWkM1Ry84OVpIYz0@aaa.app9.ir:2082#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Afranet ┇ 79.175.151.135
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDc5LjE3NS4xMzQuMTkzIiwiYWRkIjoiNzkuMTc1LjEzNC4xOTMiLCJwb3J0Ijo0MTg3LCJpZCI6Ijk4MWUxNGE3LTUwZWMtNGJmYi1hYTk2LTdlYTNmOTIyNjEzNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@tunnel.hosting-96.ir:443?type=ws&security=tls&path=/prooo&sni=tunnel.hosting-96.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 31.14.116.7
-vless://ed25b074-e3ce-41f9-97de-a1c59b34e541@78.109.199.150:55887?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 78.109.199.150
+vless://c6e2dba6-5a81-42f8-ad13-001ac5d834a5@dls2.abrokoh.ir:443?type=tcp&security=tls&sni=dls2.abrokoh.ir#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 78.109.195.137
+vless://c6e2dba6-5a81-42f8-ad13-001ac5d834a5@files.abrokoh.ir:443?type=tcp&security=tls&sni=files.abrokoh.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 78.109.195.133
+vless://c40ac18a-2a2a-4ea8-821b-7a88b11ff20a@www.duravexv.ir:56773?type=xhttp&security=tls&path=/&fp=firefox#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Afranet ┇ 79.175.134.101

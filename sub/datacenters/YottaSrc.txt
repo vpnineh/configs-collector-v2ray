@@ -1,4 +1,4 @@
 vless://64d64c94-79bb-4404-8195-63e2bc4622fb@45.67.139.241:2041?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.139.241
-vless://7fdc74fa-51d3-4a83-8018-e9a8fe53b40e@xn--france-h19cz3dkw57sgucawa090d.netbazshop.ir:33017?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.65
 vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@45.92.219.170:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - YottaSrc ┇ 45.92.219.170
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@usanewspeed1234554321.soft355.ir:33017?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.97
 vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#US 🇺🇸 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.92.219.119
