@@ -1,17 +1,14 @@
 vmess://eyJ2IjoiMiIsInBzIjoiUk8gXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyA0NS44NS4xMTkuMjA3IiwiYWRkIjoiNDUuODUuMTE5LjIwNyIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
-vless://59273321-5dd9-b462-688d-3050f9ef3261@45.12.31.120:2096?type=ws&security=tls&path=/sync&sni=ez-f9d60b.ezaccess118dacd.workers.dev&fp=chrome#RO 🇷🇴 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.12.31.120
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?type=ws&security=none&path=/#RO 🇷🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.12.30.30
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?type=ws&security=false&path=/&fp=chrome#RO 🇷🇴 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 45.85.118.50
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?type=ws&security=false&path=/&fp=chrome#RO 🇷🇴 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 45.12.30.30
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.81:8443?type=ws&security=tls&path=/&sni=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome#RO 🇷🇴 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.12.30.81
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.40:8880?type=ws&security=false&path=/&fp=chrome#RO 🇷🇴 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 45.12.30.40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Dotro Telecom Srl ┇ 154.46.31.106
-vless://d7c94b82-657a-4bb7-9b24-2ae566669835@romania.cdn-europe.org:10443?type=tcp&security=reality&sni=romania.cdn-europe.org&fp=chrome&flow=xtls-rprx-vision&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&sid=624ef62512cfcbef#RO 🇷🇴 ┇ VLESS-TCP-RLT - FlokiNET ehf ┇ 185.100.85.72
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Dotro Telecom Srl ┇ 154.46.31.106
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?type=tcp&security=reality&sni=ro1.hat.onl&fp=chrome&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#RO 🇷🇴 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 85.90.196.203
 vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.37:2053?type=ws&security=tls&path=/&sni=forfreeuse.rtqa.ru#RO 🇷🇴 ┇ VLESS-WS-TLS - HFM S.R.L ┇ 188.241.241.37
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com&fp=chrome#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.178
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?type=tcp&security=reality&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48#RO 🇷🇴 ┇ VLESS-TCP-RLT - Interkvm Host Srl ┇ 195.74.93.254
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?type=tcp&security=reality&sni=ro.getvlessvpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&sid=b9f8f9772217538f#RO 🇷🇴 ┇ VLESS-TCP-RLT - Interkvm Host Srl ┇ 103.126.50.203
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.115:989#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.14.217.115
-vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&flow=xtls-rprx-vision&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&sid=fe24f8a0a560056e#RO 🇷🇴 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 146.70.124.85
 vless://721bacfe-ff09-4e63-a735-686015bc1351@ro-xh02.tcp-reset-club.net:8443?type=xhttp&security=reality&path=/assets/v2/pkg&sni=s3.netavex.com&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0#RO 🇷🇴 ┇ VLESS-XHTTP-RLT - Netrouting B.V. ┇ 37.46.196.85
 vless://6ecee37e-5ba6-4416-8bfc-7c680edd2202@gy.paydar.site:443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - X-zone It Srl ┇ 82.152.132.35
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@194.5.248.93:443?type=tcp&security=tls&sni=roma1.moritech.net&fp=chrome&flow=xtls-rprx-vision#RO 🇷🇴 ┇ VLESS-TCP-TLS - Zergrush Srl ┇ 194.5.248.93

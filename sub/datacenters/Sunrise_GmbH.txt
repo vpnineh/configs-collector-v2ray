@@ -1,4 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFN1bnJpc2UgR21iSCBcdTI1MDcgMTc4LjgzLjQ1LjI5IiwiYWRkIjoiMTc4LjgzLjQ1LjI5IiwicG9ydCI6Mzg5OTgsImlkIjoiNDg0MjIzMDAtNDU4Zi00ZGJiLWIwZjUtOTZmNDU0NTBhYjlmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTdW5yaXNlIEdtYkggXHUyNTA3IDg0Ljc1Ljc2LjE2IiwiYWRkIjoiODQuNzUuNzYuMTYiLCJwb3J0Ijo0NDMsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIn0
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.216
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp&security=false&path=/&fp=chrome#CH 🇨🇭 ┇ VLESS-TCP-FALSE - Sunrise GmbH ┇ 178.83.46.216
+vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1085?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.122.81
 vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?type=tcp&security=reality&sni=sellflow.org&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#CH 🇨🇭 ┇ VLESS-TCP-RLT - Sunrise GmbH ┇ 178.83.226.55
