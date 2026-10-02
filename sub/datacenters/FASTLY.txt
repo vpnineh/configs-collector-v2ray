@@ -1,7 +1,6 @@
-vless://c333e2e7-9832-482d-bfc2-ec1f88ec3130@151.101.213.199:443?type=xhttp&security=tls&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&sni=accounts.fastly.com#CA 🇨🇦 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.213.199
-vless://eb98ab60-f16d-4662-a740-c89307400939@151.101.213.164:443?type=xhttp&security=tls&path=/&sni=accounts.fastly.com#CA 🇨🇦 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.213.164
-vless://b7a9d994-a3cf-4d83-a2d2-f4083c678d6d@u9318abd84c85c48d.tanzora.ir:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.121.194
-vless://dfa4a78a-6170-4924-bf16-a2a7b292e623@146.75.119.82:80?type=ws&security=none&path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.119.82
+vless://07fa06b4-0be2-4c6f-8fa1-5ef7e184cfc0@151.101.215.69:443?type=xhttp&security=tls&path=/&sni=accounts.fastly.com#CA 🇨🇦 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.215.69
+vless://91a6bb47-4c08-4a76-baf7-86bee3b416ac@146.75.119.82:80?type=ws&security=none&path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.119.82
+ss://YWVzLTI1Ni1nY20677+977+9du+/ve+/ve+/ve+/vRzvv73Hu++/ve+/ve+/vXHvv73vv73vv71+77+9@146.75.74.62:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - FASTLY ┇ 146.75.74.62
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net#JP 🇯🇵 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.109.223
 trojan://mitivpn@199.232.78.188:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 199.232.78.188
 trojan://M%69TiVPN@167.82.76.7:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 167.82.76.7
@@ -11,50 +10,53 @@ trojan://MITIVpN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&secur
 trojan://MITIVpN@151.101.56.7:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.7
 trojan://MiTiVPN@151.101.56.9:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.9
 trojan://mitivpn@199.232.78.170:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 199.232.78.170
-trojan://2223970e6a0b8ad289d3c43dd85dd2c9@167.82.101.159:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 167.82.101.159
-trojan://MITIVpN@151.101.56.90:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.90
-trojan://MiTIVPN@151.101.56.56:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.56
-trojan://MiTiVPN@140.248.185.253:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 140.248.185.253
-trojan://MiTiVPN@151.101.56.230:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.230
-trojan://Mitivpn@151.101.0.0:80?security=none#US 🇺🇸 ┇ TROJAN-TCP-NTLS - FASTLY ┇ 151.101.0.0
-trojan://mitivpn@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.6
 trojan://mitivpn@167.82.76.27:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 167.82.76.27
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5My41NyIsImFkZCI6IjE1MS4xMDEuMTkzLjU3IiwicG9ydCI6ODAsImlkIjoiYjdkYWUyMTEtNzQ3Mi00OGJmLTk5NmMtNTdkNjUzOGQxZWY0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoid3MvP2VkPTIwNDgifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuMTkyLjE0NCIsImFkZCI6Imdvdi51ayIsInBvcnQiOjQ0MywiaWQiOiI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvNzc4NDg4MjQiLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjQyLjEzMyIsImFkZCI6ImxpdmUudGhld29ybGR3aWRld29sZi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1Njc1MDUwYS1hNWIwLTQ3NDgtYmU0Ni1jNDU2N2U1ZDRkMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+trojan://2223970e6a0b8ad289d3c43dd85dd2c9@167.82.101.159:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 167.82.101.159
+trojan://MiTiVPN@140.248.185.253:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 140.248.185.253
+trojan://MiTIVPN@151.101.56.56:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.56
+trojan://Mitivpn@151.101.0.0:80?security=none#US 🇺🇸 ┇ TROJAN-TCP-NTLS - FASTLY ┇ 151.101.0.0
+trojan://MITIVpN@151.101.56.90:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.90
+trojan://mitivpn@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.6
+trojan://MiTiVPN@151.101.56.230:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.56.230
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5My4yNDIiLCJhZGQiOiIxNTEuMTAxLjE5My4yNDIiLCJwb3J0Ijo4MCwiaWQiOiJiYmVhM2U4Ni1iZDNhLTRkNzctODQ3OS04OWVhZWRkNjUyMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3RlY2hzb25pYy5zaXRlIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjIyLjEzMyIsImFkZCI6ImxpdmUudGhld29ybGR3aWRld29sZi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1Njc1MDUwYS1hNWIwLTQ3NDgtYmU0Ni1jNDU2N2U1ZDRkMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuNjQuMTQ0IiwiYWRkIjoiZ292LnVrIiwicG9ydCI6NDQzLCJpZCI6Ijc3ODQ4ODI0LTkzYjctNGI4OS1mZmQwLWU5MWFmZmY0MDZjZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii83Nzg0ODgyNCIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1UTFMgLSBGQVNUTFkgXHUyNTA3IDE2Ny44Mi43Ni4zMSIsImFkZCI6Im5pY2UuaXJhbmFwcGxlY2VudGVyLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI2YmE2OGM2OS1lMTA4LTUwMmQtN2IxYy1lODA2ZmJjM2NjY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwiaG9zdCI6ImRlZmF1bHQuc3NsLmZhc3RseS5uZXQiLCJwYXRoIjoiL2NvbmZpZ3VyZS9zZXJ2aWNlcy9MRFZ2aUk5V00wVUdsekFTNVBnRVQ3IiwidGxzIjoidGxzIiwic25pIjoiZGVmYXVsdC5zc2wuZmFzdGx5Lm5ldCJ9
-vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?type=ws&security=tls&path=/&sni=ssl.fastly.com#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.78.159
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5My41NyIsImFkZCI6IjE1MS4xMDEuMTkzLjU3IiwicG9ydCI6ODAsImlkIjoiZDY0YWJkYjctYWVlYS00NzhjLTgxOTctYzMyMTU5ZjQ2MGMwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoid3MvP2VkPTIwNDgifQ
+vless://284dde63-5d87-4df2-a6bb-438f48765b1d@199.232.78.159:443?type=ws&security=tls&sni=ssl.fastly.com#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.78.159
 vless://XpnTeam-11@140.248.186.45:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 140.248.186.45
+vless://692e3be7-ec0b-4256-b91a-1b5ac66e245e@151.101.71.148:443?type=xhttp&security=tls&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&sni=Qr.fastly.com&fp=firefox#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.71.148
+vless://c1acfee1-5199-4a4f-84bb-d14a7b651d0d@199.232.250.122:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.250.122
 vless://ed8e4525-2d90-4a22-aa04-6d08efa0041a@151.101.3.8:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.3.8
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?type=ws&security=tls&path=/vip1&sni=speedtest.net#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 140.248.180.30
-vless://2c091afc-ca2f-4e75-9e05-3941dfb2b1c0@199.232.78.143:443?type=xhttp&security=tls&path=/&sni=edge.microsoft.com&fp=edge#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.78.143
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?type=ws&security=none&path=/download#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.2.219
 vless://turboo-server@199.232.237.79:443?type=ws&security=tls&path=/&sni=turboo-server-telegram.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.237.79
-vless://6f791d88-899d-4740-8bb2-0cf2790f9b00@pinterest.com:80?type=ws&security=none&path=/De-Fast?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.0.84
-vless://3e7e0bfb-52be-43ce-ba99-a082be4c7072@199.232.79.166:443?type=xhttp&security=tls&path=/@UonVPN-/-@UonVPN--@UonVPN---@UonVPN--**-@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN-*--@UonVPN&sni=cdn.fastly.com&fp=ios&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.79.166
-vless://ea8932f2-e630-4bd6-8cdd-57e55d77089c@23.235.33.98:80?type=xhttp&security=none&path=/fast#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 23.235.33.98
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?type=ws&security=none&path=/download#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.66.219
-vless://07447d86-9750-4eab-addf-e6115be229cb@199.232.77.185:443?type=xhttp&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.77.185
+vless://@V2XNET-@V2XNET-@V2XNET@199.232.78.105:443?type=xhttp&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.78.105
+vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.246.236:443?type=ws&security=tls&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.246.236
+vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.21.194
+vless://4f46eb95-a57f-457f-895f-f50e6ad9f164@adheres-scruple.quick-cdn.net:443?type=ws&security=tls&path=/ws&sni=adheres-scruple.quick-cdn.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.21.242
+vless://716f9533-a711-476e-92ce-bb5ffd2529ab@199.232.79.166:443?type=xhttp&security=tls&path=/@UonVPN-/-@UonVPN-*-@UonVPN--*-@UonVPN--**-@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN-*--@UonVPN&sni=cdn.fastly.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.79.166
+vless://40579f01-140c-4c32-b0dc-8873ece50f48@199.232.78.143:443?type=xhttp&security=tls&path=/&sni=edge.microsoft.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.78.143
 vless://0e9f7d2a-2f92-475e-b484-e79568a8a1a2@167.82.101.251:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 167.82.101.251
-vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.245.94:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.245.94
-vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.77.215:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.77.215
-vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.78.150:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.78.150
-vless://3e89df69-7619-4788-9eee-c49c02a69705@199.232.78.155:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.78.155
+vless://6f597b2d-2df5-4f4f-a755-bdb5c10604e9@psf-3.weedly.top:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.131.119
+vless://AlfredConfig@199.232.237.245:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.237.245
+vless://9866995e-7225-4919-8de8-19a3f941c4d4@zmaoz.faculty.ucdavis.edu:443?type=ws&security=tls&path=/@custom_config?ed=2560&sni=Zmaoz.Faculty.Ucdavis.Edu&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.22.228
+vless://V2XNET-V2XNET@151.101.56.11:443?type=xhttp&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.56.11
 vless://40579f01-140c-4c32-b0dc-8873ece50f48@151.101.56.95:443?type=xhttp&security=tls&path=/&sni=apple.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.56.95
-vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@fastly.videobazi.com:443?type=ws&security=tls&sni=ssl.fastly.com#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.245.150
-vless://692e3be7-ec0b-4256-b91a-1b5ac66e245e@151.101.71.148:443?type=xhttp&security=tls&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&sni=Qr.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.71.148
-vless://6def81ac-a46f-4490-a81a-eaaa6b257b1c@151.101.129.194:443?type=xhttp&security=tls&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&sni=2divar-web-site.global.ssl.fastly.net&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.129.194
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@140.248.189.57:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 140.248.189.57
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.41.194
-vless://8e9cbf76-b74a-46b3-8270-9453e281e613@199.232.237.245:443?type=xhttp&security=tls&path=/@Alfred_Config/@Alfred_Config/@Alfred_Config&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.237.245
+vless://b742d8e7-ed7d-4f7d-bb16-bf49bdb4cb44@23.235.33.98:80?type=xhttp&security=none&path=/fast#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 23.235.33.98
+vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?type=tcp&security=none&path=/download#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.128.155
+vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.25.242
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?type=xhttp&security=none&path=/login#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.65.57
-vless://9866995e-7225-4919-8de8-19a3f941c4d4@zmaoz.faculty.ucdavis.edu:443?type=ws&security=tls&path=/@custom_config?ed=2560&sni=Zmaoz.Faculty.Ucdavis.Edu&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.202.228
-vless://@V2XNET-@V2XNET@199.232.78.105:443?type=xhttp&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.78.105
+vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.245.94:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.245.94
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.129.57
 vless://InternetAzadRobot@151.101.1.57:80?type=xhttp&security=none&path=/TignaliSWithYou#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.1.57
-vless://V2XNET-V2XNET@151.101.56.11:443?type=xhttp&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 151.101.56.11
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.2.219
-vless://409f4682-a458-4671-8805-40dfc6978336@grimness-backlogs.cdn-content.com:443?type=ws&security=tls&path=/ws&sni=grimness-backlogs.cdn-content.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.41.242
-vless://e12bb1dc-d315-47e3-9184-cb655afe6421@adheres-scruple.quick-cdn.net:443?type=ws&security=tls&path=/ws&sni=adheres-scruple.quick-cdn.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.201.242
-vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.25.242
+vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.77.215:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.77.215
+vless://07447d86-9750-4eab-addf-e6115be229cb@199.232.77.185:443?type=xhttp&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.77.185
+vless://eace00a6-39df-474d-af49-9ed74d948eba@199.232.245.150:443?type=xhttp&security=tls&path=/&sni=speedtest.net&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.245.150
+vless://3e89df69-7619-4788-9eee-c49c02a69705@199.232.78.155:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.78.155
+vless://dea63487-c6e6-447a-b314-934dd2366d65@hajlab.ucdavis.edu:443?type=ws&security=tls&sni=hajlab.ucdavis.edu&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.194.228
+vless://05681501-701a-428b-baf6-5389564ae6f4@199.232.78.7:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.78.7
 vless://424c2031-1add-4063-8fc0-d57dc8358b21@151.101.0.155:80?type=tcp&security=none&path=/de?ed=1048#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.0.155
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?type=tcp&security=none&path=/download#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.128.155
+vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.78.150:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FASTLY ┇ 199.232.78.150
+vless://cd9e00aa-3581-42e4-a35c-56ae3a521159@151.101.129.242:443?type=ws&security=tls&path=/ws&sni=minimize-evenness.cdn-content.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.129.242
+vless://57a8ea50-1a8d-4e9f-b6e8-e991a9914a8a@151.101.65.242:443?type=ws&security=tls&path=/ws&sni=ghosts-spasm.quick-cdn.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.65.242
