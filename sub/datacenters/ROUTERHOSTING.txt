@@ -1,3 +1,4 @@
-vless://67a171fb-a31d-49f3-a9d6-98de350763e8@107.189.18.145:443?type=tcp&security=tls&sni=restnet.duckdns.org&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - ROUTERHOSTING ┇ 107.189.18.145
+vless://67a171fb-a31d-49f3-a9d6-98de350763e8@107.189.18.145:443?type=tcp&security=tls&path=/&sni=restnet.duckdns.org&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - ROUTERHOSTING ┇ 107.189.18.145
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@107.189.23.153:8443?type=ws&security=tls&path=/archives/note/read?ed=2560&sni=cdn8848.776676.xyz&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - ROUTERHOSTING ┇ 107.189.23.153
+vless://ac0c2945-b758-11f1-8181-54db13ea7d40@107.189.23.247:443?type=tcp&security=reality&sni=tradingview.com&flow=xtls-rprx-vision&pbk=T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY#NL 🇳🇱 ┇ VLESS-TCP-RLT - ROUTERHOSTING ┇ 107.189.23.247
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?type=ws&security=tls&path=تلگرام=https://t.me/V2rayGodVip_bot&sni=namasha.com#US 🇺🇸 ┇ VLESS-WS-TLS - ROUTERHOSTING ┇ 144.172.101.108

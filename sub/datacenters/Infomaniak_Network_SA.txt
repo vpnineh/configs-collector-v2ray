@@ -1,4 +1,4 @@
-trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?security=none#CH 🇨🇭 ┇ TROJAN-TCP-NTLS - Infomaniak Network SA ┇ 195.15.202.111
 trojan://Masir_Sefid@84.234.31.249:443?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#CH 🇨🇭 ┇ TROJAN-TCP-REALITY - Infomaniak Network SA ┇ 84.234.31.249
+trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?security=none#CH 🇨🇭 ┇ TROJAN-TCP-NTLS - Infomaniak Network SA ┇ 195.15.202.111
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#CH 🇨🇭 ┇ VLESS-XHTTP-RLT - Infomaniak Network SA ┇ 84.234.29.132
 vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?type=grpc&security=reality&sni=bunny.net&fp=chrome&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&sid=447abeb4fb111a9c#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Infomaniak Network SA ┇ 83.228.246.83

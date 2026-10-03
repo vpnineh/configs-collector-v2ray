@@ -1,2 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5FVExBQi1TRE4gXHUyNTA3IDE1NC4zNy4yMjMuNTYiLCJhZGQiOiIxNTQuMzcuMjIzLjU2IiwicG9ydCI6NTIwODAsImlkIjoiZjFhYzVjODItMDBhNC00MDBiLWJiMjAtNTMwYzkxYjdjNWJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL1FRcXVuLTczNzgwNTQ0MyJ9
 vless://@Net2ray@38.207.169.83:17396?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NETLAB-SDN ┇ 38.207.169.83
+vless://62fdae06-6692-4b79-8f34-470784e55fd6@154.29.145.196:443?type=ws&security=reality&path=/ws&sni=itunes.apple.com&pbk=h6EW_Y5nW9PRypxaOrSOyiHZDR-kuNfdoy24inGOoB0&sid=33b15a3e#US 🇺🇸 ┇ VLESS-WS-RLT - NETLAB-SDN ┇ 154.29.145.196
+vless://12c465bd-11a3-4fd8-8aa9-19b20a883b9e@154.12.38.159:443?type=ws&security=reality&path=/ws&sni=itunes.apple.com&pbk=iv4XmZKQUC4KEuMaWZxDmjJOlGEnS3rRw-Nk8h93zUU&sid=f61a3a8f#US 🇺🇸 ┇ VLESS-WS-RLT - NETLAB-SDN ┇ 154.12.38.159
+vless://2a9ab69b-26e7-44d0-a325-e5056d849900@154.12.38.202:443?type=ws&security=reality&path=/ws&sni=itunes.apple.com&pbk=iJDZHJQcTGl2VIwbsRmlOG9JGbbmxNY5wmv1hc6OwQM&sid=c31176b6#US 🇺🇸 ┇ VLESS-WS-RLT - NETLAB-SDN ┇ 154.12.38.202

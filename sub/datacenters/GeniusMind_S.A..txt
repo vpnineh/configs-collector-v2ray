@@ -1,6 +1,5 @@
-vless://c6e2dba6-5a81-42f8-ad13-001ac5d834a5@swde2.darreyeasrar.ir:2053?type=tcp&security=tls&sni=sdtwo.darreyeasrar.ir#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 62.60.147.221
-vless://1cc6bd10-e414-4171-9220-09aaba23a6fa@pl-warsaw.masterpgd.com:6014?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 109.95.70.218
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdlbml1c01pbmQgUy5BLiBcdTI1MDcgNjIuNjAuMjE5Ljk1IiwiYWRkIjoiNjIuNjAuMjE5Ljk1IiwicG9ydCI6MTEwLCJpZCI6IjExMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://1cc6bd10-e414-4171-9220-09aaba23a6fa@pl-warsaw.masterpgd.com:6014?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 109.95.70.221
 vless://168d58f6-cb16-427e-88f3-02bc42b23560@62.60.219.25:2096?type=ws&security=tls&path=/&sni=t-1.digikalamagg.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - GeniusMind S.A. ┇ 62.60.219.25
-vless://731fa03b-e4a0-4b4a-b355-3248914bcab2@zx2.nimnewssup.com:1010?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 62.60.147.133
-vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@tun3.phonepanel.ir:8023?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=3VKs9HG9EgsB69ppfvFEJcXiO5MDOvvQOByDD2HceXQ&sid=b7e45d3a65bfc319#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 62.60.144.139
+vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@tun2.app11.ir:8022?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=3VKs9HG9EgsB69ppfvFEJcXiO5MDOvvQOByDD2HceXQ&sid=b7e45d3a65bfc319#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 62.60.144.139
 vless://e6a26f69-5369-4a37-b243-e7869de3e4bf@3mmfl0796s.codesystem.ir:43234?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=A-WcezAbYc6GrL7gqM9Kg89OAgLBp2nxC_wrpenGlDg&sid=b7e45d3a65bfc319#IR 🇮🇷 ┇ VLESS-TCP-RLT - GeniusMind S.A. ┇ 62.60.144.215
