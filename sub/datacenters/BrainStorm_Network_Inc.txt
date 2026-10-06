@@ -1,19 +1,19 @@
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:2053?type=ws&security=tls&path=pyip=bpb.yousef.isegaro.comfp=random&sni=free.cndyw.ggff.net&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - BrainStorm Network, Inc ┇ 147.78.0.186
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJyYWluU3Rvcm0gTmV0d29yaywgSW5jIFx1MjUwNyAzNy4xNDMuMTMxLjIyOSIsImFkZCI6IjM3LjE0My4xMzEuMjI5IiwicG9ydCI6ODA4MCwiaWQiOiJmOGFhYzJiZS00ZDNjLTRmYTMtOWFmYi04OWI2YzdlMTQ1OTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.226.172.8
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.129.230
 vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQnJhaW5TdG9ybSBOZXR3b3JrLCBJbmMgXHUyNTA3IDM3LjE0My4xMjkuMjM4IiwiYWRkIjoiMzcuMTQzLjEyOS4yMzgiLCJwb3J0Ijo2NjE2LCJpZCI6IjQ1OWQyM2Y0LWRjZmQtNGZlZi05YmEzLWVmMGFkMTBmYzMzNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 94.156.250.148
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?type=grpc&security=none#GR 🇬🇷 ┇ VLESS-GRPC-NTLS - BrainStorm Network, Inc ┇ 185.126.238.87
+vless://878fb7f7-fc65-465e-a352-17c7216c6f3d@185.47.254.251:443?type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=6-_ZidygR8PRt4gtHlGCAW-PPmjEIm7Wn7MZqJU1z1Q&sid=6c059ecfddf9b179#GT 🇬🇹 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.47.254.251
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.213.20.133:443?type=tcp&security=reality&sni=example.org&fp=chrome&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#IT 🇮🇹 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.213.20.133
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.75.118.27:989#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 103.75.118.27
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - BrainStorm Network, Inc ┇ 103.75.118.144
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#JP 🇯🇵 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 103.75.118.228
+ss://YWVzLTEyOC1nY206NjdjNTdhZTU4NGVlY2Q3MDM5NmZjZDdjYTc1MjExMzA@147.78.1.234:16673#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.234
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.255.123.90:989#NG 🇳🇬 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.255.123.90
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.226
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.63
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.90.61.153
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.63
 vless://8ee2927b-1be9-404d-9b96-61dcc51bbd37@185.90.61.12:443?type=xhttp&security=reality&path=/api/v1/292b54c0&sni=sberbank.ru&fp=safari&pbk=PlP5L4lWEh_9h53_U-5kqwzl4C-eCrJoA6BF74cdfk8&sid=4164bb3d830b817f#NO 🇳🇴 ┇ VLESS-XHTTP-RLT - BrainStorm Network, Inc ┇ 185.90.61.12
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.90.61.3:443?type=tcp&security=reality&sni=ca9.eu-cdn294.com&fp=firefox&flow=xtls-rprx-vision&pbk=B1g2P-3yW3cQW0WZweSPKUP3lZSQ5pgr8doCYvA0cRg&sid=df3dc12b0b9b0c93#NO 🇳🇴 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.90.61.3
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.219:989#PR 🇵🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.255.219
 ss://YWVzLTEyOC1nY206Y2E0MzgwNTQ3NzE4MjEyNTAwODkzOTlhMmYzMzI3NWU@185.231.233.91:17167#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.231.233.91
