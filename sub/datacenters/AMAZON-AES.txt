@@ -1,12 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@98.89.22.134:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 98.89.22.134
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.173.150.39:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 54.173.150.39
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.208.223.39:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 18.208.223.39
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.205.21.144:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 18.205.21.144
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.208.227.172:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 54.208.227.172
-trojan://telegram-id-directvpn@44.201.217.130:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 44.201.217.130
-trojan://telegram-id-directvpn@44.211.71.82:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 44.211.71.82
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@23.22.158.187:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 23.22.158.187
 trojan://telegram-id-directvpn@3.239.128.106:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 3.239.128.106
 trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?sni=tr7.tgcunzhang.xyz&peer=tr7.tgcunzhang.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 3.85.62.200
+trojan://telegram-id-directvpn@44.211.71.82:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 44.211.71.82
+trojan://telegram-id-directvpn@44.201.217.130:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 44.201.217.130
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLUFFUyBcdTI1MDcgNTQuMjQzLjExNy4xOTciLCJhZGQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMWEucnVpNzcuY29tIiwicG9ydCI6ODAsImlkIjoiZjAwMzhhMzMtNmIyMi00NDQ5LThiZWYtYzE2ODI5YTlkM2FhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.194.78.246:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-AES ┇ 44.194.78.246
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.87.25.133:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-AES ┇ 52.87.25.133

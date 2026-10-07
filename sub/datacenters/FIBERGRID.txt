@@ -1,1 +1,2 @@
-vless://8e63952d-c1ba-41db-a244-254404e12186@196.240.125.254:8443?type=tcp&security=tls&sni=file-6ab4cec0.adhil.uk&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - FIBERGRID ┇ 196.240.125.254
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?type=tcp&security=tls&sni=vusr-6ac431f4.adhil.uk&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - FIBERGRID ┇ 196.240.125.3
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.253:8443?type=tcp&security=tls&path=/&sni=vusr-6ac431f4.adhil.uk&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - FIBERGRID ┇ 196.240.125.253
