@@ -1,14 +1,13 @@
 trojan://TgTrWOUNeU@66.33.22.242:30797?sni=is1-ssl.mzstatic.com&peer=is1-ssl.mzstatic.com&security=reality#US 🇺🇸 ┇ TROJAN-TCP-REALITY - RAILWAY ┇ 66.33.22.242
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIzNSIsImFkZCI6InlhbWFiaWtvLnByb3h5LnJsd3kubmV0IiwicG9ydCI6NDkyMzIsImlkIjoiNzk3YjRlNmQtMGQyNC00OGFlLThmMTAtMzUxZWFhYThlZDg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIyMCIsImFkZCI6ImFsdGFyaWEucHJveHkucmx3eS5uZXQiLCJwb3J0Ijo0NDUxOCwiaWQiOiI2ODUyODQ0OC01YzIzLTRhZGYtOGI5Zi1jMThmZDg4YTQxZGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://0d93e96f-8415-47af-b600-7d22d3231daa@66.33.22.226:42699?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.226
-vless://1bb5ad85-0734-4d67-aba3-acf432dea555@switchback.proxy.rlwy.net:12241?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.230
-vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
-vless://a4235e3d-6549-4298-a2c1-e1e11cce2fc2@zephyr.proxy.rlwy.net:58058?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.227
-vless://aaf616f4-5401-471a-b9c9-d2709e8404c9@66.33.22.234:12403?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.234
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIzNSIsImFkZCI6InlhbWFiaWtvLnByb3h5LnJsd3kubmV0IiwicG9ydCI6NDkyMzIsImlkIjoiNzk3YjRlNmQtMGQyNC00OGFlLThmMTAtMzUxZWFhYThlZDg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://e98595be-6464-410d-9404-eed1979fe2c8@66.33.22.234:26452?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.234
+vless://9efe476c-4fc1-4318-a29a-d03847130a23@shortline.proxy.rlwy.net:22901?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.244
 vless://ab5f068b-a140-4199-a91d-dba6bac46742@centerbeam.proxy.rlwy.net:13860?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.245
-vless://c8abe1d0-63c7-4394-b942-eb99ea385b9a@turntable.proxy.rlwy.net:13465?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.229
-vless://cd0e3ada-a06f-4581-8672-5e134101ff76@66.33.22.239:12717?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.239
-vless://c8ae79a6-3a7c-4829-a4c8-8eadacc2e4ef@caboose.proxy.rlwy.net:44294?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.253
-vless://1ad2b2a1-beaa-4094-b801-843781931021@junction.proxy.rlwy.net:38568?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.241
+vless://d38ebf1f-c040-4566-b402-74d79e2116f1@zephyr.proxy.rlwy.net:48602?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.227
+vless://ed10150a-11cd-4ddc-8247-cf92ab9030ae@reseau.proxy.rlwy.net:50854?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.224
+vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
+vless://0d93e96f-8415-47af-b600-7d22d3231daa@66.33.22.226:42699?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.226
+vless://788863b0-82a3-4d23-887b-bd196f0b3e67@turntable.proxy.rlwy.net:17023?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.229
+vless://cc157a07-8707-4ffa-b53f-0c8d8f5a4073@switchback.proxy.rlwy.net:48444?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.230
 vless://a3524d93-994e-450b-8512-f8eabf1fb127@66.33.22.237:16523?type=xhttp&security=reality&path=/&sni=www.dog.ai&fp=chrome&pbk=fP2Z44XRYFCfmKnYTbJZWQEtMxQacWc21Ocl3qr9kXs&sid=1abab1d586#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.237
