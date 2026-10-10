@@ -1,3 +1,3 @@
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@78.153.155.149:443?type=tcp&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC RTComm.RU ┇ 78.153.155.149
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.61.213:443?type=tcp&security=reality&sni=nl4.nztvpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=fiH8cNK7JlHGz6hHHjmsspRdnjpemaq1Q_xmP8a5FHo&sid=a47d71c75bb8be07#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC RTComm.RU ┇ 147.45.61.213
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.61.213:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC RTComm.RU ┇ 147.45.61.213
 vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@147.45.63.64:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=9J5SrrBYJ4Tz_zpSM3n-EWuin5jmUqEI8LJ5htsGZy8#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC RTComm.RU ┇ 147.45.63.64
