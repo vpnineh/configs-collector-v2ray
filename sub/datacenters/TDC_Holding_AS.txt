@@ -1,5 +1,5 @@
-vmess://eyJ2IjoiMiIsInBzIjoiREsgXHVkODNjXHVkZGU5XHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gVERDIEhvbGRpbmcgQS9TIFx1MjUwNyA4Ny41OC4xNTIuNTQiLCJhZGQiOiJkZS1uaW4ubmVuaW5ldC5pciIsInBvcnQiOjMxMDc0LCJpZCI6IjQ3NWU3OTM0LTQ0MmYtNDBjNS05NzJiLTEyZjZlMGE1YTA1ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRlLW5pbi5uZW5pbmV0LmlyIiwidGxzIjoidGxzIiwic25pIjoiZGUtbmluLm5lbmluZXQuaXIifQ
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?type=grpc&security=tls&sni=d3-nl1.cloud-cdn.xyz&fp=chrome#DK 🇩🇰 ┇ VLESS-GRPC-TLS - TDC Holding A/S ┇ 87.58.201.170
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.211:443?type=grpc&security=tls&sni=d3-nl1.cloud-cdn.xyz&fp=chrome#DK 🇩🇰 ┇ VLESS-GRPC-TLS - TDC Holding A/S ┇ 87.58.201.211
 vless://awlix_ir@87.58.159.20:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - TDC Holding A/S ┇ 87.58.159.20
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?type=tcp&security=reality&sni=dk7.bbobr.win&fp=chrome&flow=xtls-rprx-vision&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&sid=f6985908fcb5612f#DK 🇩🇰 ┇ VLESS-TCP-RLT - TDC Holding A/S ┇ 87.58.158.82
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?type=xhttp&security=reality&path=/&sni=google.com&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df#DK 🇩🇰 ┇ VLESS-XHTTP-RLT - TDC Holding A/S ┇ 87.58.205.88

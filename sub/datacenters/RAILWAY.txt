@@ -1,9 +1,10 @@
 trojan://TgTrWOUNeU@66.33.22.242:30797?sni=is1-ssl.mzstatic.com&peer=is1-ssl.mzstatic.com&security=reality#US 🇺🇸 ┇ TROJAN-TCP-REALITY - RAILWAY ┇ 66.33.22.242
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIyMCIsImFkZCI6ImFsdGFyaWEucHJveHkucmx3eS5uZXQiLCJwb3J0Ijo0NDUxOCwiaWQiOiI2ODUyODQ0OC01YzIzLTRhZGYtOGI5Zi1jMThmZDg4YTQxZGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIzNSIsImFkZCI6InlhbWFiaWtvLnByb3h5LnJsd3kubmV0IiwicG9ydCI6NDkyMzIsImlkIjoiNzk3YjRlNmQtMGQyNC00OGFlLThmMTAtMzUxZWFhYThlZDg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://aaf616f4-5401-471a-b9c9-d2709e8404c9@66.33.22.234:12403?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.234
-vless://d38ebf1f-c040-4566-b402-74d79e2116f1@zephyr.proxy.rlwy.net:48602?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.227
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIyMCIsImFkZCI6ImFsdGFyaWEucHJveHkucmx3eS5uZXQiLCJwb3J0Ijo0NDUxOCwiaWQiOiI2ODUyODQ0OC01YzIzLTRhZGYtOGI5Zi1jMThmZDg4YTQxZGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://77c1794c-ead2-44b3-8d72-07a1e6675a36@reseau.proxy.rlwy.net:25061?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.224
 vless://0d93e96f-8415-47af-b600-7d22d3231daa@66.33.22.226:42699?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.226
-vless://b0ce54dc-00ac-4a21-8168-f93a300cae6c@reseau.proxy.rlwy.net:44062?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.224
-vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?type=ws&security=tls&path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&sni=subgift5.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.36
+vless://aaf616f4-5401-471a-b9c9-d2709e8404c9@66.33.22.234:12403?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.234
+vless://c45ec46f-581f-4a6c-956a-9a5b3eab2107@switchyard.proxy.rlwy.net:49555?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.232
+vless://c8ae79a6-3a7c-4829-a4c8-8eadacc2e4ef@caboose.proxy.rlwy.net:44294?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.253
+vless://d38ebf1f-c040-4566-b402-74d79e2116f1@zephyr.proxy.rlwy.net:48602?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.227
 vless://a3524d93-994e-450b-8512-f8eabf1fb127@66.33.22.237:16523?type=xhttp&security=reality&path=/&sni=www.dog.ai&fp=chrome&pbk=fP2Z44XRYFCfmKnYTbJZWQEtMxQacWc21Ocl3qr9kXs&sid=1abab1d586#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RAILWAY ┇ 66.33.22.237
