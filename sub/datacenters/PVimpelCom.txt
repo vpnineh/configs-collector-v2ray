@@ -1,3 +1,2 @@
 vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?type=ws&security=tls&path=/ws&sni=fbsv6.guardora.pro&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 217.19.122.200
 vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.65:443?type=tcp&security=none&path=/ws?ed#RU 🇷🇺 ┇ VLESS-TCP-NTLS - PVimpelCom ┇ 217.19.122.65
-vless://a2bbb4ba-6d21-4ae0-9682-dacfbea98ae9@217.19.122.214:8448?type=tcp&security=reality&sni=cdp.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=jOBo4R259-p0H2EcHMPO_R1uPZ8hyM_Yj1K5Nejch2U&sid=d681ac08#RU 🇷🇺 ┇ VLESS-TCP-RLT - PVimpelCom ┇ 217.19.122.214

@@ -1,1 +1,2 @@
 vless://23a64225-0119-44ce-a24e-114eae8648a9@62.152.58.96:443?type=ws&security=tls&path=/api/v1/events&sni=adm.ichveter.click&fp=safari#RU 🇷🇺 ┇ VLESS-WS-TLS - Citytelecom LLC ┇ 62.152.58.96
+vless://c5b5ef33-819e-4972-9a5a-4ad91f38507f@185.229.9.234:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=fsyvGBPzzwpnSA0UnJML_cDqviNSEdj9zktpC1EeFhY&sid=743541f932fa3959#RU 🇷🇺 ┇ VLESS-TCP-RLT - Citytelecom LLC ┇ 185.229.9.234
