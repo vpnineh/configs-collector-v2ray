@@ -1,1 +1,2 @@
-vless://974f2c7e-a292-4207-8315-ef4151bdca41@46.247.108.200:443?type=tcp&security=reality&sni=modx-au.bachidze.com&fp=chrome&flow=xtls-rprx-vision&pbk=EVmZyqEbtEI8d93h1MkFjNVj-DVZRATr9C1Dh1OODmE#DE 🇩🇪 ┇ VLESS-TCP-RLT - Florian Kolb ┇ 46.247.108.200
+vless://ab7f0a2b-87ea-4bf9-8c08-3db4ff6e2980@xt.dec.toostep.top:443?type=xhttp&security=tls&path=/api/1ca227be27&sni=xt.dec.toostep.top#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Florian Kolb ┇ 45.133.74.231
+vless://ab7f0a2b-87ea-4bf9-8c08-3db4ff6e2980@xt.ded.toostep.top:443?type=xhttp&security=tls&path=/api/1d824de855&sni=xt.ded.toostep.top#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Florian Kolb ┇ 45.133.74.233

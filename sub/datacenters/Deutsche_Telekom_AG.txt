@@ -1,5 +1,5 @@
 vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?type=ws&security=none&path=/fd5ba98a3970#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.20
 vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087?type=ws&security=none&path=/3bfc3e3ed603#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.10
-vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 82.24.203.37
-vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&sid=ac3342a709db#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 82.29.36.250
+vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?type=ws&security=none&path=/5c62e3c616d8#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.37
+vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&sid=09353d6dc5b789#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 82.29.36.250
 vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?type=grpc&security=reality&sni=360.yandex.ru&fp=chrome&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&sid=6ba85179e30d4fc2#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Deutsche Telekom AG ┇ 89.34.90.68
