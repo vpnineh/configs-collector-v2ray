@@ -1,7 +1,7 @@
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?type=grpc&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#AE 🇦🇪 ┇ VLESS-GRPC-RLT - Fast Servers (Pty) Ltd ┇ 45.88.13.5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMll6TQ@45.138.103.4:1443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 45.138.103.4
 vless://16f78e38-8df9-4658-93e8-e49feababf5b@193.233.130.119:14430?type=ws&security=none&path=/vless&sni=193.233.130.119#RU 🇷🇺 ┇ VLESS-WS-NTLS - Fast Servers (Pty) Ltd ┇ 193.233.130.119
-vless://dfc3077e-b013-4fcb-a500-df3e210e88b0@193.233.130.118:14430?type=ws&security=none&path=/vless&sni=193.233.130.118#RU 🇷🇺 ┇ VLESS-WS-NTLS - Fast Servers (Pty) Ltd ┇ 193.233.130.118
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.181.171.2
 vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?type=tcp&security=reality&sni=maple.hubnori.ink&flow=xtls-rprx-vision&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&sid=d574a560c675152e#US 🇺🇸 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 193.233.216.60
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@cape.flowzari.info:443?type=tcp&security=reality&sni=cape.flowzari.info&fp=chrome&flow=xtls-rprx-vision&pbk=5DdSLIpnYjqYTI4-yC-ulr8PGMA8YML_EWdKvOjdinc&sid=693e339ad3613446#US 🇺🇸 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 193.233.223.248
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.217.20:57443?type=grpc&security=reality&sni=media.polina.lol&fp=chrome&pbk=SPX2Uhw5AAifbNUjZf2zwpfvDUlUw3C7waDNMO48lSE#US 🇺🇸 ┇ VLESS-GRPC-RLT - Fast Servers (Pty) Ltd ┇ 193.233.217.20

@@ -13,5 +13,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 vless://2ec06433-4bde-4282-8199-bdd0327126fd@fl.v2online3.site:24025?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 92.242.196.229
 vless://e4404d90-fdce-4214-a577-325cdba745db@81.12.80.140:4126?type=tcp&security=tls&sni=tun.mitdns.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Respina Networks & Beyond PJSC ┇ 81.12.80.140
 vless://f3ab8321-0c15-4c9a-9917-3f1b6706ab12@netherlands.qelvra.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.83.193
+vless://f9e47c0e-f2ce-46dc-aa01-7fb43181ca71@2.188.254.202:443?type=xhttp&security=tls&path=/&sni=usa2.kevindebroineh.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Respina Networks & Beyond PJSC ┇ 2.188.254.202
+vless://f9e47c0e-f2ce-46dc-aa01-7fb43181ca71@2.189.84.4:443?type=xhttp&security=tls&path=/&sni=german.kevindebroineh.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Respina Networks & Beyond PJSC ┇ 2.189.84.4
 vless://098104de-f68d-434e-adcd-2ab4d1f0759d@5.160.77.199:49429?type=tcp&security=reality&path=/assets&sni=skyroom.online&fp=chrome&pbk=OQsVeM4sKyLRiGKO1QDfyo4C0xBJJhFB54EhFlcvzGM&sid=414b8a385e81910a#IR 🇮🇷 ┇ VLESS-TCP-RLT - Respina Networks & Beyond PJSC ┇ 5.160.77.199
 vless://daa76981-27fb-4943-8311-c46391ff0847@81.12.91.190:443?type=tcp&security=reality&sni=git-scm.com&fp=chrome&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&sid=e081d94bd1f9bd56#IR 🇮🇷 ┇ VLESS-TCP-RLT - Respina Networks & Beyond PJSC ┇ 81.12.91.190
