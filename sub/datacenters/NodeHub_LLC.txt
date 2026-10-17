@@ -1,6 +1,6 @@
-trojan://humanity@31.57.190.34:443?security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.34
-trojan://humanity@31.57.190.40:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.40
-trojan://humanity@31.57.190.71:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.71
+trojan://humanity@31.57.190.34:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.34
+trojan://humanity@31.57.190.40:443?security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.40
 trojan://humanity@31.57.190.73:443?security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.73
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?type=ws&security=tls&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&sni=lucasjow.us.ci#AE 🇦🇪 ┇ VLESS-WS-TLS - NodeHub LLC ┇ 31.57.190.49
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?type=ws&security=tls&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&sni=lucasjow.us.ci&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NodeHub LLC ┇ 31.57.190.17
+trojan://humanity@31.57.190.71:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.71
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?type=tcp&security=tls&path=/cart/docs/www/proxyip=108.160.132.132#AE 🇦🇪 ┇ VLESS-TCP-TLS - NodeHub LLC ┇ 31.57.190.17
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?type=ws&security=tls&path=/cart/docs/www/proxyip=108.160.132.132&sni=lucasjow.us.ci&fp=unsafe#AE 🇦🇪 ┇ VLESS-WS-TLS - NodeHub LLC ┇ 31.57.190.49
