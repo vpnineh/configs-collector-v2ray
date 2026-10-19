@@ -1,6 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.187.46
-vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.180.86
+vless://01113702-2775-41e4-9aab-1277c5c4fc93@pl.grizzlysite.buzz:443?type=tcp&security=tls&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - GHOSTnet GmbH ┇ 94.249.180.241
+vless://b3628ed3-667a-49df-a42e-6887b19100bc@94.249.172.2:1112?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.172.2
 vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?type=grpc&security=reality&sni=tel.free-run.club&fp=safari&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&sid=025f065c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - GHOSTnet GmbH ┇ 87.239.135.112
-vless://fafc7c16-f890-45ee-a856-02df225172dd@94.249.241.154:3408?type=tcp&security=reality&sni=de3.vpvr4ib84nuv6hdkt.ru&fp=random&flow=xtls-rprx-vision&pbk=3eXf94GSzRaECZwUCsF-aQbtxFo5FInM8uUhnyTRjFI&sid=0f56deee14619eb2#DE 🇩🇪 ┇ VLESS-TCP-RLT - GHOSTnet GmbH ┇ 94.249.241.154
 vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?type=tcp&security=reality&sni=94.249.188.202&fp=chrome&flow=xtls-rprx-vision&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d#DE 🇩🇪 ┇ VLESS-TCP-RLT - GHOSTnet GmbH ┇ 94.249.188.202
+vless://fafc7c16-f890-45ee-a856-02df225172dd@94.249.241.154:3408?type=tcp&security=reality&sni=de3.vpvr4ib84nuv6hdkt.ru&fp=chrome&flow=xtls-rprx-vision&pbk=3eXf94GSzRaECZwUCsF-aQbtxFo5FInM8uUhnyTRjFI&sid=0f56deee14619eb2#DE 🇩🇪 ┇ VLESS-TCP-RLT - GHOSTnet GmbH ┇ 94.249.241.154
 vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@w7tjfftjdt.vk-maps.net:52006?type=tcp&security=reality&sni=api5.vk-maps.net&fp=chrome&flow=xtls-rprx-vision&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&sid=08#US 🇺🇸 ┇ VLESS-TCP-RLT - GHOSTnet GmbH ┇ 5.231.19.237
