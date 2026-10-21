@@ -1,1 +1,2 @@
-vless://a5893c8b-28a2-4947-9a1c-708db25506c3@185.229.9.240:443?type=tcp&security=reality&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=YBIVqJtsRjtlEYmEyfRRL_rh5k49rY20jMVGbaQlySI&sid=27e53bbcab7593d7#RU 🇷🇺 ┇ VLESS-TCP-RLT - Citytelecom LLC ┇ 185.229.9.240
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:10443?type=tcp&security=tls&sni=master-proxy.lighthouselabs.online#RU 🇷🇺 ┇ VLESS-TCP-TLS - Citytelecom LLC ┇ 147.45.219.149
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@95.181.213.250:8443?type=tcp&security=tls&sni=master-proxy.lighthouselabs.online#RU 🇷🇺 ┇ VLESS-TCP-TLS - Citytelecom LLC ┇ 95.181.213.250
