@@ -1,11 +1,9 @@
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.5:2003#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.26.5
 ss://YWVzLTI1Ni1nY206YWM5YzBhN2I@211.174.113.172:49642#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 211.174.113.172
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.142.117.160
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.155.27.253
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgNTkuMjQuMy4xNzQiLCJhZGQiOiJkYXRhLWhrLXYyLnNod2pma3cuY24iLCJwb3J0Ijo1MDIwNSwiaWQiOiJiMTQ3OGUyNC00OTE2LTNhYmUtOGYxNy0xNTkzMTAxMmVjYmUiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCJ9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 183.97.197.42
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgMTgzLjEwOS4xMzEuNzUiLCJhZGQiOiIxODMuMTA5LjEzMS43NSIsInBvcnQiOjIwMDg2LCJpZCI6ImIyNmM0ODAzLTBiY2EtNDY3Yy1hMjQ1LWM5YTgwYmRkNzJlYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vless://62357561-a129-4b9e-9614-ce2578020866@211.219.199.21:50000?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /?ed=2048&sni=edg.comorg.us.kg#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 211.219.199.21
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@220.88.3.5:12283?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 220.88.3.5
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@118.42.204.220:12281?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 118.42.204.220
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@119.195.168.105:10973?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&sni=ylnhh.cc.cd#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 119.195.168.105
-vless://bfa5cd1f-1465-4850-b7c9-08e1a63dac2c@220.71.172.2:16034?type=ws&security=tls&path=/@Marisa_kristi&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 220.71.172.2

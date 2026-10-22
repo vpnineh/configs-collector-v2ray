@@ -1,21 +1,19 @@
-trojan://humanity@31.57.190.40:443?security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.40
 trojan://humanity@31.57.190.34:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.34
 trojan://humanity@31.57.190.71:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.71
 trojan://humanity@31.57.190.73:443?security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.73
+trojan://humanity@31.57.190.40:443?security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - NodeHub LLC ┇ 31.57.190.40
 trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.136
 trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?sni=$trxn.ballistics.top&peer=$trxn.ballistics.top&security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 170.64.130.150
-trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 87.121.33.164
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.98.224
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.8.86
 trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.98.30
-trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - Trellian Pty. Limited ┇ 103.224.212.184
+trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - Trellian Pty. Limited ┇ 103.224.212.216
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt.ciscocdn1.live:443?sni=c2mt.ciscocdn1.live&peer=c2mt.ciscocdn1.live&security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - Trellian Pty. Limited ┇ 103.224.212.210
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?sni=87.121.218.169&peer=87.121.218.169&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - DpkgSoft International Limited ┇ 87.121.218.169
 trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?sni=16.img.avito.st&peer=16.img.avito.st&security=reality#BR 🇧🇷 ┇ TROJAN-TCP-REALITY ┇ 191.44.113.95
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443?security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.82.245.138
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - V tal ┇ 179.254.115.148
-trojan://80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut@179.254.80.36:8443?sni=flf.serverstats.ru&peer=flf.serverstats.ru&security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - V tal ┇ 179.254.80.36
 trojan://KiUXpE53Xd@www.7770031.xyz:39493?sni=www.7770031.xyz&peer=www.7770031.xyz&security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - V tal ┇ 179.255.101.209
+trojan://happybirthdaydaniel@179.254.115.148:25267?security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - V tal ┇ 179.254.115.148
 trojan://telegram-id-directvpn@35.182.251.60:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.182.251.60
 trojan://telegram-id-directvpn@35.182.28.167:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.182.28.167
 trojan://telegram-id-directvpn@3.96.217.9:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.96.217.9
@@ -36,18 +34,17 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.38.178
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.38.171
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.38.59
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10823?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.3
 trojan://ba4fedf8c217c146@120.236.197.205:3389?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 120.236.197.205
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10819?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.2
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10821?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.8
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10823?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.7
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10820?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.6
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10822?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.9
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10819?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.3
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10825?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.4
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10826?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 183.236.51.5
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19215?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile communications corporation ┇ 120.226.39.25
 trojan://TNDSJfNv@36.151.195.48:4603?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Mobile communications corporation ┇ 36.151.195.48
-trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59019?sni=iosapps.itunes.apple.com&peer=iosapps.itunes.apple.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Fuzhou ┇ 222.79.111.139
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 92.118.149.85
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN%3DUCe.2Jd@185.137.157.254:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS ┇ 185.137.157.254
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click&peer=fra34.tracker-ws.click&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS ┇ 91.233.8.25
@@ -75,21 +72,20 @@ trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?sni=172.236.220.1
 trojan://humanity@185.255.179.166:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Baykov Ilya Sergeevich ┇ 185.255.179.166
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?sni=zaintest.vuclip.com.cyylr.eu.cc&peer=zaintest.vuclip.com.cyylr.eu.cc&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 89.116.46.68
 trojan://humanity@45.80.111.7:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 45.80.111.7
-trojan://humanity@157.173.97.132:443?sni=wWw.Volumeroot.cOm.&peer=wWw.Volumeroot.cOm.&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Contabo GmbH ┇ 157.173.97.132
-trojan://humanity@161.35.192.122:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 161.35.192.122
-trojan://humanity@46.101.110.34:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 46.101.110.34
-trojan://humanity@164.92.200.68:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 164.92.200.68
+trojan://humanity@161.35.192.122:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 161.35.192.122
+trojan://humanity@46.101.110.34:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 46.101.110.34
 trojan://humanity@209.38.225.64:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 209.38.225.64
+trojan://humanity@164.92.200.68:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 164.92.200.68
 trojan://humanity@185.220.100.168:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - F3 Netze e.V. ┇ 185.220.100.168
-trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 202.78.163.173
+trojan://humanity@46.62.204.134:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Hetzner Online GmbH ┇ 46.62.204.134
 trojan://origin@188.40.251.19:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Hetzner Online GmbH ┇ 188.40.251.19
 trojan://@ZhilaVPN@91.107.174.133:14639?sni=play.google.com&peer=play.google.com&security=reality#DE 🇩🇪 ┇ TROJAN-TCP-REALITY - Hetzner Online GmbH ┇ 91.107.174.133
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?sni=updates.cdn-apple.com&peer=updates.cdn-apple.com&security=reality#DE 🇩🇪 ┇ TROJAN-TCP-REALITY - Hetzner Online GmbH ┇ 78.47.48.44
-trojan://humanity@46.62.204.134:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Hetzner Online GmbH ┇ 46.62.204.134
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@fra13.yukiss.eu.org:18818?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 130.162.230.82
 trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 51.75.76.22
 trojan://Sp3eDVp@51.77.71.131:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 51.77.71.131
 trojan://origin@51.77.71.134:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 51.77.71.134
+trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Team Internet AG ┇ 185.53.179.149
 trojan://q9870219@181.214.99.54:2035?sni=ht.lljllj.buzz&peer=ht.lljllj.buzz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Unesty Company ┇ 181.214.99.54
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@89.163.220.99:28443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - WIIT AG ┇ 89.163.220.99
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.66
@@ -100,10 +96,7 @@ trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russi
 trojan://humanity@185.114.72.31:2053?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - First Server Limited ┇ 185.114.72.31
 trojan://humanity@212.227.144.37:8443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 212.227.144.37
 trojan://humanity@46.8.228.165:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#FI 🇫🇮 ┇ TROJAN-TCP-TLS - Cgi Global Limited ┇ 46.8.228.165
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@nnnmjju.131.pp.ua:443?security=tls#FI 🇫🇮 ┇ TROJAN-TCP-TLS - Hetzner Online GmbH ┇ 135.181.41.169
 trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none#FI 🇫🇮 ┇ TROJAN-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.215.50
-trojan://80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut@ru.federal-usa.com:8443?sni=ru.federal-usa.com&peer=ru.federal-usa.com&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS ┇ 139.100.212.83
-trojan://AE62539071@13.39.249.40:443?security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.39.249.40
 trojan://telegram-id-privatevpns@35.180.36.215:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.180.36.215
 trojan://telegram-id-privatevpns@35.180.202.29:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.180.202.29
 trojan://telegram-id-privatevpns@15.237.50.200:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.237.50.200
@@ -126,7 +119,6 @@ trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?sni=Speedtest.n
 trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&peer=2.27.109.179.sslip.io&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS ┇ 2.27.109.179
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?sni=fi.zhabulik.ru&peer=fi.zhabulik.ru&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS ┇ 31.76.103.140
 trojan://cMCQxnflDO@31.76.10.180:36508?security=none#GB 🇬🇧 ┇ TROJAN-TCP-NTLS ┇ 31.76.10.180
-trojan://humanity@148.253.212.42:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS ┇ 148.253.212.42
 trojan://humanity@31.77.126.2:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS ┇ 31.77.126.2
 trojan://telegram-id-privatevpns@35.177.137.88:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.177.137.88
 trojan://telegram-id-privatevpns@3.8.123.26:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.8.123.26
@@ -135,8 +127,6 @@ trojan://telegram-id-privatevpns@18.132.35.140:22222?sni=trj.rollingnext.co.uk&p
 trojan://telegram-id-directvpn@18.130.204.79:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.130.204.79
 trojan://telegram-id-directvpn@13.40.3.71:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.40.3.71
 trojan://8mjHjiRVsOT5@3.10.143.243:16151?sni=appsvs.shop&peer=appsvs.shop&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.10.143.243
-trojan://humanity@139.59.186.54:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 139.59.186.54
-trojan://80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut@82.163.7.43:7443?sni=node18.overcdn.ru&peer=node18.overcdn.ru&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - GCI Network Solutions Limited ┇ 82.163.7.43
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Hydra Communications Ltd ┇ 185.44.76.188
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 140.238.123.200
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 132.145.51.172
@@ -153,20 +143,16 @@ trojan://BxceQaOe@43.198.13.210:41973?sni=t.me/ripaojiedian&peer=t.me/ripaojiedi
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@103.135.103.229:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 103.135.103.229
 trojan://8A613C3A-E24E-18C2-4B5E-CB104D83C88C@oss-cn-guangzhou.westdatacloud.xyz:20015?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 8.217.195.68
 trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@47.52.101.237:443?sni=httah.freetrade.link&peer=httah.freetrade.link&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.52.101.237
-trojan://fa9a512a-eab5-4cdf-b559-14922eb3948e@aws-hk03.aikun.online:443?sni=cdn-65135431546231.78321.xyz&peer=cdn-65135431546231.78321.xyz&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.91.170.222
+trojan://fa9a512a-eab5-4cdf-b559-14922eb3948e@aws-hk03.aikun.online:443?sni=cdn-65135431546231.78321.xyz&peer=cdn-65135431546231.78321.xyz&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.76.127.217
 trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.103.245.125
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014?sni=telewebion.com&peer=telewebion.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.234.53.23
-trojan://NQ26071394@kind-unicorn.rooster465.autos:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.14.47.56
-trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 91.199.84.204
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HGC Global Communications Limited ┇ 210.0.158.220
 trojan://humanity@219.76.13.177:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.177
-trojan://BxceQaOe@58.152.53.45:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 58.152.53.45
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?sni=arbettp.freetrade.link&peer=arbettp.freetrade.link&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.181
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?sni=stutter.freetrade.link&peer=stutter.freetrade.link&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.180
 trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?sni=golang.protocolbuffer.com&peer=golang.protocolbuffer.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.76.13.175
 trojan://BxceQaOe@219.79.214.159:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKT Limited ┇ 219.79.214.159
 trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@119.247.119.212:443?sni=sg-01.tiktokcdn.top&peer=sg-01.tiktokcdn.top&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Hong Kong Broadband Network Ltd. ┇ 119.247.119.212
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@83.229.121.78:8443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LUCIDACLOUD LIMITED ┇ 83.229.121.78
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?sni=hkt.iamnotagoodman.com&peer=hkt.iamnotagoodman.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.187.85.198
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?sni=uk.liangyuandian.top&peer=uk.liangyuandian.top&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 104.208.100.101
 trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@20.24.192.3:20712?sni=ssl.ssl12.xyz&peer=ssl.ssl12.xyz&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.24.192.3
@@ -186,7 +172,8 @@ trojan://telegram-id-privatevpns@3.252.69.131:22222?sni=trj.rollingnext.co.uk&pe
 trojan://telegram-id-privatevpns@3.249.15.72:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.249.15.72
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - BT Communications Ireland Limited ┇ 78.17.171.62
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.106:443?sni=2.HI-L.IM&peer=2.HI-L.IM&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - BT Communications Ireland Limited ┇ 78.17.171.106
-trojan://Trojan@82164024@in.tronsg.com:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 139.84.132.62
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.137:443?sni=2.HI-L.IM&peer=2.HI-L.IM&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - BT Communications Ireland Limited ┇ 78.17.171.137
+trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&peer=in.tronsg.com&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 139.84.132.62
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 159.65.147.91
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.160.174
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.162.166
@@ -197,9 +184,9 @@ trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?sni=www.ali
 trojan://0c6a3341e8d5ab17@f5465c4.pg.gladns.com:3389?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.196.144.61
 trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?sni=sunmoon02.abzoones.xyz&peer=sunmoon02.abzoones.xyz&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.206.67.76
 trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?sni=wel-usgt.optage.moe&peer=wel-usgt.optage.moe&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.168.28.231
+trojan://UX82473651@43.206.225.188:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.206.225.188
+trojan://UX82473651@54.65.177.190:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.65.177.190
 trojan://JA96378052@52.195.11.84:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.11.84
-trojan://ND91608427@18.179.31.199:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.179.31.199
-trojan://JA96378052@3.112.1.122:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.1.122
 trojan://f389ed926e512e15f382dc3804029474@54.249.53.157:921?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.249.53.157
 trojan://PQ05174892@13.192.168.51:443?sni=learning-leopard.rooster465.autos&peer=learning-leopard.rooster465.autos&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.192.168.51
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?sni=45.32.52.173&peer=45.32.52.173&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.32.52.173
@@ -212,7 +199,6 @@ trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls#JP 🇯🇵 �
 trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 94.177.131.233
 trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 85.234.83.36
 trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 85.234.83.230
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - GMO Internet Group, Inc. ┇ 160.251.64.80
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.69
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - M247 Europe SRL ┇ 45.66.134.219
 trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - MIKU NETWORK LIMITED ┇ 157.254.193.251
@@ -232,17 +218,9 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#JP
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.215.49
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.203.108
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.100.203
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.146.108
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.145.107
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.205.220
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.125.42.51
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.8.129
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.47.114
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.210.166
 trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.125.148.41
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.120.4.221
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.250.108
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp03a.roc-taiwan.net.ua:65013?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.134.182
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.74.146
 trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:4937?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.132.38
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.107.37
@@ -251,7 +229,7 @@ trojan://UX82473651@3.39.225.215:443?sni=kind-stork.rooster465.autos&peer=kind-s
 trojan://UX82473651@43.201.100.203:443?sni=optimum-snapper.rooster465.autos&peer=optimum-snapper.rooster465.autos&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.201.100.203
 trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?sni=swift.protocolbuffer.com&peer=swift.protocolbuffer.com&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - KINX ┇ 121.78.213.3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 125.142.117.160
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 221.155.27.253
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 183.97.197.42
 trojan://moist@116.47.10.236:27335?sni=trojan.freenods.sbs&peer=trojan.freenods.sbs&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - LG POWERCOMM ┇ 116.47.10.236
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.113.248
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?sni=2.hg.kr.cat77.cloud&peer=2.hg.kr.cat77.cloud&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 144.24.76.54
@@ -265,40 +243,36 @@ trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#LT �
 trojan://humanity@188.42.145.180:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#LU 🇱🇺 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.42.145.180
 trojan://humanity@185.22.172.249:443?security=tls#LV 🇱🇻 ┇ TROJAN-TCP-TLS - SIA VEESP ┇ 185.22.172.249
 trojan://humanity@94.158.219.126:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#LV 🇱🇻 ┇ TROJAN-TCP-TLS - SIA VEESP ┇ 94.158.219.126
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?sni=lv1.dedushka.top&peer=lv1.dedushka.top&security=tls#LV 🇱🇻 ┇ TROJAN-TCP-TLS - Sia Nano IT ┇ 94.140.112.22
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#MN 🇲🇳 ┇ TROJAN-TCP-TLS - iTools JSC ┇ 103.168.56.77
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?sni=stutter.freetrade.link&peer=stutter.freetrade.link&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.55
 trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?sni=reooec.freetrade.link&peer=reooec.freetrade.link&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.23
 trojan://humanity@131.196.254.151:443?sni=wWw.Volumeroot.cOm.&peer=wWw.Volumeroot.cOm.&security=tls#MX 🇲🇽 ┇ TROJAN-TCP-TLS ┇ 131.196.254.151
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#MY 🇲🇾 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.250.84.25
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&peer=moltbot.doctoroyy.net&security=tls#MY 🇲🇾 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.250.84.25
 trojan://humanity@95.85.32.57:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 95.85.32.57
 trojan://humanity@209.38.109.222:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 209.38.109.222
 trojan://humanity@209.38.99.120:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 209.38.99.120
-trojan://humanity@188.226.185.55:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 188.226.185.55
-trojan://humanity@188.226.181.61:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 188.226.181.61
 trojan://mitivpn@151.101.38.6:443?sni=www.firefox.com&peer=www.firefox.com&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.38.6
 trojan://mitivpn@151.101.38.7:443?sni=jjl.fastly.com&peer=jjl.fastly.com&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.38.7
-trojan://PD07395842@pro-crane.rooster465.autos:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 89.39.70.120
-trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 193.169.239.14
 trojan://TestingServer@@@94.102.53.19:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - IP Volume inc ┇ 94.102.53.19
 trojan://humanity@45.130.125.160:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 trojan://humanity@45.130.125.112:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.112
-trojan://humanity@45.130.125.75:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.75
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org&peer=ftp.debian.org&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 185.236.233.111
 trojan://humanity@45.87.41.18:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - SpectraIP B.V. ┇ 45.87.41.18
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?sni=ubu.okaoclax.me&peer=ubu.okaoclax.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - WorldStream B.V. ┇ 2.59.170.20
-trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 78.142.194.96
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 194.124.216.109
 trojan://Trojan@82164024@92.118.150.146:443?sni=pl.tronsg.com&peer=pl.tronsg.com&security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 92.118.150.146
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?sni=pl2.dedushka.top&peer=pl2.dedushka.top&security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski ┇ 31.133.0.186
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top&peer=pl1.dedushka.top&security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski ┇ 31.133.0.182
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?sni=pl1.trojanvh.xyz&peer=pl1.trojanvh.xyz&security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 51.83.186.142
-trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?sni=free-v7-09.elbrusway.online&peer=free-v7-09.elbrusway.online&security=tls#PT 🇵🇹 ┇ TROJAN-TCP-TLS - Almouroltec Servicos De Informatica E Internet Lda ┇ 64.188.66.196
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?sni=de7.dedushka.top&peer=de7.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.200
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?sni=de10.dedushka.top&peer=de10.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.236
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?sni=de8.dedushka.top&peer=de8.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.117
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?sni=de2.dedushka.top&peer=de2.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.122
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?sni=de4.dedushka.top&peer=de4.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.102
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?sni=de6.dedushka.top&peer=de6.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.49
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?sni=de8.dedushka.top&peer=de8.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.117
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?sni=de4.dedushka.top&peer=de4.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.102
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?sni=de12.dedushka.top&peer=de12.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.133
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.173
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?sni=de5.dedushka.top&peer=de5.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.116
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?sni=it1.dedushka.top&peer=it1.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - Interkvm Host Srl ┇ 92.42.100.132
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?sni=sbank.ir&peer=sbank.ir&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Moshonkin Ilia Sergeevich ┇ 45.88.148.237
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Moshonkin Ilia Sergeevich ┇ 45.88.148.234
@@ -313,7 +287,7 @@ trojan://telegram-id-directvpn@13.48.105.114:22222?sni=trj.rollingnext.co.uk&pee
 trojan://iyinglong@18.141.8.87:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.141.8.87
 trojan://iyinglong@18.140.67.76:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.140.67.76
 trojan://iyinglong@13.213.69.245:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.213.69.245
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 139.180.146.200
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200&peer=139.180.146.200&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 139.180.146.200
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 139.162.45.139
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.104.51.247
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.104.177.105
@@ -322,16 +296,16 @@ trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 139.59.238.97
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - EN Technologies Pte Ltd ┇ 103.253.24.212
 trojan://IQ68037294@apt-midge.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 91.243.81.248
+trojan://ND91608427@moral-buzzard.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 45.135.228.193
 trojan://IQ68037294@still-mastodon.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 91.243.81.20
 trojan://WG39087154@pet-albacore.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 45.135.228.189
-trojan://FC60532879@helpful-possum.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 91.243.81.128
-trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 81.28.13.180
 trojan://IQ68037294@endless-kiwi.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 91.243.81.78
+trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 81.28.13.180
+trojan://FC60532879@helpful-possum.rooster465.autos:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 91.243.81.128
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Melbikomas UAB ┇ 103.172.116.196
 trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Melbikomas UAB ┇ 5.44.249.43
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.189.17
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?sni=15.235.197.4&peer=15.235.197.4&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 15.235.197.4
-trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.160.197.160
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
 trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@194.93.61.120:443?sni=16.img.avito.st&peer=16.img.avito.st&security=reality#TR 🇹🇷 ┇ TROJAN-TCP-REALITY ┇ 194.93.61.120
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?sni=193.124.46.65&peer=193.124.46.65&security=tls#TR 🇹🇷 ┇ TROJAN-TCP-TLS - ASNET ┇ 193.124.46.65
@@ -340,31 +314,33 @@ trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#TW 🇹🇼 ┇ TROJAN
 trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.125
 trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.157
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.152
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 220.128.135.193
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.250.152.229
 trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.158
 trojan://7ac49a893e0bd10c@60.249.3.227:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.227
 trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.231
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.250.152.229
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.250.80.130
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 220.128.128.151
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.250.80.31
 trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.230
 trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.154
 trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.226
 trojan://7ac49a893e0bd10c@60.249.3.228:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.228
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 220.128.128.151
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.250.80.130
 trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.249.3.229
 trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.153
 trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 211.72.35.156
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 60.250.80.31
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Data Communication Business Group ┇ 220.128.135.193
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 69.164.240.85
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&peer=blog.findlocaljobnetworkandbuildcommunityconnections.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 216.106.186.32
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&peer=resources.findlocaljobnetworkandbuildcommunityconnections.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 216.106.186.33
 trojan://humanity@143.246.136.156:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 143.246.136.156
-trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:12103?sni=m.ctrip.com&peer=m.ctrip.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 147.90.41.75
-trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:10125?sni=m.ctrip.com&peer=m.ctrip.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 147.90.40.95
+trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:12103?sni=m.ctrip.com&peer=m.ctrip.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 147.90.40.76
+trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:10125?sni=m.ctrip.com&peer=m.ctrip.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 147.90.41.96
 trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@173.82.240.199:44301?sni=lav002.jd0001.top&peer=lav002.jd0001.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 173.82.240.199
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?sni=pl.zhabulik.ru&peer=pl.zhabulik.ru&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 13.143.167.3
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?sni=ba24.ir&peer=ba24.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - 1GSERVERS ┇ 206.168.190.219
-trojan://humanity@144.31.205.106:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.205.106
 trojan://humanity@144.31.182.130:443?sni=wWw.Volumeroot.cOm.&peer=wWw.Volumeroot.cOm.&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.182.130
+trojan://humanity@144.31.205.106:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.205.106
+trojan://bad06c3525a6eaee1757b34776b83892@4c2d5151.266nets.com:12001?sni=ixigua.com&peer=ixigua.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 56.10.129.103
 trojan://Sp3eDVp@185.212.200.75:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 185.212.200.75
 trojan://telegram-id-directvpn@3.145.14.67:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.145.14.67
 trojan://telegram-id-directvpn@35.91.162.93:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.91.162.93
@@ -372,7 +348,6 @@ trojan://telegram-id-directvpn@34.210.47.105:22222?sni=trj.rollingnext.co.uk&pee
 trojan://telegram-id-directvpn@18.222.168.7:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.222.168.7
 trojan://telegram-id-directvpn@34.220.74.123:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.220.74.123
 trojan://telegram-id-directvpn@3.129.217.93:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.129.217.93
-trojan://bad06c3525a6eaee1757b34776b83892@4c2d5151.266nets.com:12001?sni=ixigua.com&peer=ixigua.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.196.171.94
 trojan://telegram-id-directvpn@34.219.52.119:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.219.52.119
 trojan://telegram-id-directvpn@3.21.104.170:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.21.104.170
 trojan://euEUAqUnKhIX@18.226.163.196:15349?sni=appsvs.shop&peer=appsvs.shop&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.226.163.196
@@ -382,13 +357,13 @@ trojan://telegram-id-directvpn@44.211.71.82:22222?sni=trj.rollingnext.co.uk&peer
 trojan://telegram-id-directvpn@44.201.217.130:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 44.201.217.130
 trojan://dTjHHw2kDE@23.94.122.66:38505?sni=telewebion.com&peer=telewebion.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-COLOCROSSING ┇ 23.94.122.66
 trojan://Gl123qwe@los2.playstone.info:23443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.60.28
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.234.27.233
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?sni=gstatic.com&peer=gstatic.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 66.228.55.178
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.235.63.252
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai International B.V. ┇ 172.239.194.103
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - COGENT-174 ┇ 154.36.162.129
 trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me&peer=epge.muarua.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 167.68.4.199
 trojan://humanity@141.193.213.172:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 141.193.213.172
-trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - DEDICATED ┇ 66.23.203.21
+trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?sni=66.23.203.21&peer=66.23.203.21&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - DEDICATED ┇ 66.23.203.21
 trojan://xxoo@138.197.5.103:443?sni=telewebion.com&peer=telewebion.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 138.197.5.103
 trojan://mitivpn@199.232.78.188:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 199.232.78.188
 trojan://m%69tivpn@167.82.64.46:443?sni=firefox.com&peer=firefox.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 167.82.64.46
@@ -411,11 +386,13 @@ trojan://OnHLrkVqZVtZyulTwC4bHrIbW7GyUDttKVNGEYVR12Y=@192.236.151.43:443?securit
 trojan://Hu4CFM0wJ3@38.150.13.140:57063?sni=38.150.13.140&peer=38.150.13.140&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Hytron Network Services Limited ┇ 38.150.13.140
 trojan://Gl123qwe@us.playstone.info:23443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IT7NET ┇ 104.224.176.186
 trojan://WpfQAbO2wg@45.9.10.103:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 45.9.10.103
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?sni=sj6.freeguard.org&peer=sj6.freeguard.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-SFO ┇ 23.106.44.14
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@20.163.90.12:443?sni=paydiu.com&peer=paydiu.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.163.90.12
 trojan://3QRCm9YzuvrnPG7sb64xZg@superjinx-production-3aac.up.railway.app:443?sni=superjinx-production-3aac.up.railway.app&peer=superjinx-production-3aac.up.railway.app&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - MPDCOL ┇ 69.46.46.57
 trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.70
 trojan://3c4e10af98c30972@23.247.137.64:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.64
-trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@spkr.1234567890spcloud.com:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETCARRIER ┇ 207.207.210.107
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NCR-252 ┇ 153.52.85.26
+trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@spkr.1234567890spcloud.com:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NETCARRIER ┇ 207.207.210.229
 trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.190.42
 trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.135.157
 trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.242.130
@@ -447,16 +424,18 @@ trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?sni=sbank.ir&p
 trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - VIETNAM POSTS AND TELECOMMUNICATIONS GROUP ┇ 103.173.155.72
 trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443?sni=polo01.kctr2038.icu&peer=polo01.kctr2038.icu&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ 162.4.84.247
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ 162.4.84.241
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18459?sni=hn.xiaohouzi.club&peer=hn.xiaohouzi.club&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos&peer=integral-rodent.rooster465.autos&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://humanity@srv1.khatibirepair.ir:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ 127.0.0.1
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ 127.0.0.1
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://humanity@188.114.97.6:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.6
 trojan://humanity@108.162.194.134:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 108.162.194.134
 trojan://humanity@190.93.245.148:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 190.93.245.148
 trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.98.0
 trojan://humanity@www.speedtest.net:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.17.148.22
+trojan://humanity@172.67.139.14:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.139.14
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.16.7.70
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.18.109.147:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.109.147
 trojan://humanity@188.114.97.7:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.7
@@ -465,28 +444,29 @@ trojan://humanity@104.16.174.36:443?sni=www.ignitelimit.com&peer=www.ignitelimit
 trojan://humanity@104.16.174.12:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.16.174.12
 trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12004?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.197.47
 trojan://humanity@104.19.229.21:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.19.229.21
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?sni=nat3.xxai.dpdns.org&peer=nat3.xxai.dpdns.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.66.57
+trojan://humanity@104.18.35.86:443?sni=www.volumerOot.coM.&peer=www.volumerOot.coM.&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.35.86
+trojan://bd85f5fe32d9446a8b1f59e4f710455b@104.21.82.155:443?sni=BpB-PAnEL-62c3.mlM-eE9A3b83.wOrKErS.dev&peer=BpB-PAnEL-62c3.mlM-eE9A3b83.wOrKErS.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.82.155
+trojan://mitivpn@b2n.ir:443?sni=de.mitivpn.in.net&peer=de.mitivpn.in.net&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.93.182
+trojan://31794262-b429-4f35-8ffe-c1fa8a43b8d7@x.com:2087?sni=au3.yang-1989.xyz&peer=au3.yang-1989.xyz&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.66.0.227
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?sni=zi.you.usdtvfk.top&peer=zi.you.usdtvfk.top&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.17.218
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?sni=cdn-21.gsmxreality.com&peer=cdn-21.gsmxreality.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.204.84
-trojan://430b6895-2e0f-4716-9410-e1339d0f9af6@uk01.clashzone.xyz:54122?sni=filimo.com&peer=filimo.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.52.168
-trojan://f1963001-20c7-464b-8a66-c15ba6f798d0@tw01.henet.top:30000?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.132.199
+trojan://430b6895-2e0f-4716-9410-e1339d0f9af6@uk01.clashzone.xyz:54122?sni=filimo.com&peer=filimo.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.201.142
+trojan://f1963001-20c7-464b-8a66-c15ba6f798d0@tw01.henet.top:30000?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.5.27
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443?sni=hk1.sanfen001.pics&peer=hk1.sanfen001.pics&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.215.250
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.91.112
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.217.89
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.91.112
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.24.68
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.217.89
 trojan://humanity@172.67.149.60:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.149.60
 trojan://MiTiVPN@104.16.71.213:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.16.71.213
-trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:2053?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.64.53.89
+trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:2053?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.28.99
 trojan://humanity@104.26.14.137:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.26.14.137
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hazz.win:12340?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.24.68
-trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36501?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.65.243
-trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@series-v1.samanehha.co:443?sni=series-v1.samanehha.co&peer=series-v1.samanehha.co&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.131.245
+trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36501?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.195.84
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@series-v1.samanehha.co:443?sni=series-v1.samanehha.co&peer=series-v1.samanehha.co&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.12.87
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?sni=notdirect.howhealthyistoomajreally.homes&peer=notdirect.howhealthyistoomajreally.homes&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.79.246
-trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?sni=series-v1.samanehha.co&peer=series-v1.samanehha.co&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.12.87
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?sni=tws23.kallepache.store&peer=tws23.kallepache.store&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.16.183.101
 trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.32.47
 trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv&peer=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.29.250
-trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?sni=WaYSi.wAYsI6688.WOrkeRS.deV&peer=WaYSi.wAYsI6688.WOrkeRS.deV&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.42.129
-trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?sni=uwu.dianaw.cc.cd&peer=uwu.dianaw.cc.cd&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.140.126
+trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?sni=WaYSi.wAYsI6688.WOrkeRS.deV&peer=WaYSi.wAYsI6688.WOrkeRS.deV&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.205.222
 trojan://1111@172.67.214.154:2096?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.214.154
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?sni=uk1.test3.net&peer=uk1.test3.net&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.64.152.23
 trojan://50414e45-4c5f-5a45-5553-a0ce99682025@104.21.200.224:443?sni=7pzcmuemuf6s.mahdi1395ra.workers.dev&peer=7pzcmuemuf6s.mahdi1395ra.workers.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.200.224
@@ -496,37 +476,34 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?sni=space.byu.id
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?sni=mfyousheng.nl.eu.org&peer=mfyousheng.nl.eu.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.3
 trojan://Telegram-Config0plus@104.17.108.189:443?sni=go.appsflyer.com.r3xxe.eu.cc&peer=go.appsflyer.com.r3xxe.eu.cc&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.17.108.189
 trojan://bpb-trojan@190.93.244.202:443?sni=fcspring.ggff.net&peer=fcspring.ggff.net&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 190.93.244.202
-trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?sni=nimm.mpd.cc.cd&peer=nimm.mpd.cc.cd&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.176.3
 trojan://fB+w_VgFFzpA-i_d@XbO@172.66.47.199:443?sni=UlP3TYoRmvE1zVo8UVtVwEcwg.pAGES.DeV&peer=UlP3TYoRmvE1zVo8UVtVwEcwg.pAGES.DeV&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.66.47.199
 trojan://h3ilje76tkhrajug@172.67.182.229:2083?sni=nl1.xnetaro.ir&peer=nl1.xnetaro.ir&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.182.229
 trojan://humanity@104.16.174.44:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.16.174.44
+trojan://humanity@104.16.72.41:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.16.72.41
 trojan://humanity@104.18.152.229:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.152.229
 trojan://humanity@104.18.152.233:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.152.233
-trojan://humanity@104.18.35.86:443?sni=www.volumerOot.coM.&peer=www.volumerOot.coM.&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.35.86
-trojan://humanity@104.21.33.59:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.33.59
 trojan://humanity@104.21.37.56:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.37.56
 trojan://humanity@104.21.57.25:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.57.25
 trojan://humanity@162.159.38.119:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 162.159.38.119
-trojan://humanity@172.64.145.133:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.64.145.133
+trojan://humanity@172.64.145.133:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.64.145.133
 trojan://humanity@172.66.40.99:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.66.40.99
-trojan://humanity@172.67.139.14:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.139.14
 trojan://humanity@www.gossipglove.com:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.1.55
 trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.10.110
-trojan://humanity@www.pleadcourt.org:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.25.120
+trojan://humanity@www.pleadcourt.org:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.25.120
 trojan://mitivpn@104.16.72.70:443?sni=gamingdll.ir&peer=gamingdll.ir&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.16.72.70
-trojan://mitivpn@b2n.ir:443?sni=de.mitivpn.in.net&peer=de.mitivpn.in.net&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.93.182
 trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.154.96
 trojan://nzrc4ma4087c1ukr@188.114.96.1:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.96.1
 trojan://nzrc4ma4087c1ukr@188.114.96.4:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.96.4
 trojan://nzrc4ma4087c1ukr@188.114.96.5:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.96.5
-trojan://humanity@104.16.72.41:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.16.72.41
+trojan://humanity@104.21.33.59:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.33.59
 trojan://humanity@188.114.97.5:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.5
-trojan://humanity@188.114.97.1:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.1
-trojan://humanity@188.114.97.8:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.8
-trojan://humanity@104.18.4.5:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.4.5
-trojan://humanity@188.114.97.4:443?sni=wWw.Volumeroot.cOm.&peer=wWw.Volumeroot.cOm.&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.4
-trojan://humanity@188.114.97.2:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.2
-trojan://e309e031-991e-4656-9934-44d10deb8fd8@172.67.74.2:2053?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.74.2
+trojan://humanity@188.114.97.2:443?sni=wWw.Volumeroot.cOm.&peer=wWw.Volumeroot.cOm.&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.2
+trojan://humanity@188.114.97.8:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.8
+trojan://humanity@188.114.97.1:443?sni=wWw.Volumeroot.cOm.&peer=wWw.Volumeroot.cOm.&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.1
+trojan://humanity@188.114.97.4:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.97.4
 trojan://humanity@104.17.44.17:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.17.44.17
+trojan://humanity@104.18.4.5:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.4.5
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.48.18
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@172.67.74.2:2053?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.74.2
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - PacketHub S.A. ┇ 212.90.123.133
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - PacketHub S.A. ┇ 212.90.123.130

@@ -1,4 +1,4 @@
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?type=grpc&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#AE 🇦🇪 ┇ VLESS-GRPC-RLT - Fast Servers (Pty) Ltd ┇ 45.88.13.5
-vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@212.119.42.120:8445?type=grpc&security=tls&sni=master-proxy.lighthouselabs.online&fp=chrome#IL 🇮🇱 ┇ VLESS-GRPC-TLS - Fast Servers (Pty) Ltd ┇ 212.119.42.120
+vless://348daee0-e494-4e96-aa93-884c2079c7ef@212.119.42.120:8445?type=grpc&security=tls&sni=master-proxy.lighthouselabs.online&fp=chrome#IL 🇮🇱 ┇ VLESS-GRPC-TLS - Fast Servers (Pty) Ltd ┇ 212.119.42.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMll6TQ@45.138.103.4:1443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 45.138.103.4
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.181.171.2
