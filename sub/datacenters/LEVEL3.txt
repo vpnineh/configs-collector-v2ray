@@ -1,6 +1,8 @@
-trojan://humanity@8.6.112.206:443?security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.206
+trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.206
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@8.6.112.6:2087?type=ws&security=tls&path=/&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.6
-vless://64726966-0000-4000-8000-740000000000@8.6.112.242:443?type=ws&security=tls&path=/drift?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.242
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@8.6.112.4:443?type=ws&security=tls&path=/&sni=snip.edgeoneai.cc.cd&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.4
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.30:8880?type=ws&security=none&path=/#KR 🇰🇷 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.34.70.30
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?type=ws&security=tls&path=/vlessws&sni=vpn.cintaku.qzz.io#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.242
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
 trojan://humanity@8.47.69.60:443?security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.60
