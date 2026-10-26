@@ -1,1 +1,2 @@
-vless://2b173b69-8045-4fb8-b713-6db630337970@62.83.11.211:2087?type=grpc&security=reality&sni=at3.tsumshop.org&fp=random&pbk=RNE9785FGHj63g_Dht-Cx0FzOPpdTPXgMFIYHurOVys#ES 🇪🇸 ┇ VLESS-GRPC-RLT - Vodafone Spain ┇ 62.83.11.211
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?type=ws&security=tls&path=/AU6W&sni=au6.pad-sservice.lat#ES 🇪🇸 ┇ VLESS-WS-TLS - Vodafone Spain ┇ 62.83.41.69
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?type=ws&security=tls&path=/AU5W&sni=au5.pad-sservice.lat#ES 🇪🇸 ┇ VLESS-WS-TLS - Vodafone Spain ┇ 62.83.19.127
