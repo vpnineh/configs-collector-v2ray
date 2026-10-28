@@ -4,15 +4,10 @@ trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.cl
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 151.236.30.184
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvaGwgSVQgZS5VLiBcdTI1MDcgOTQuMTc3LjkuNjYiLCJhZGQiOiI5NC4xNzcuOS42NiIsInBvcnQiOjI5ODI1LCJpZCI6IjE5MzNhNDI1LTI4NDItNGQyYi04NTg5LTljYTIyNDJkNzQxNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIn0
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.138.55.120:2053?type=ws&security=tls&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 83.138.55.120
-trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.206
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.30:8880?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.30
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.50:8880?type=ws&security=none&path=/?ed=2560#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.50
+trojan://humanity@8.6.112.206:443?security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.206
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@8.6.112.6:2087?type=ws&security=tls&path=/&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.6
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@146.70.28.93:43893#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.28.93
 trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.136
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@212.183.88.254:8880?type=ws&security=none&path=/&sni=Telegram-channel-WangCai2#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
 vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?type=ws&security=tls&path=/USA1&sni=usa1.pad-service.com&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.90.42
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?type=ws&security=tls&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=au2.pad-sservice.lat#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 89.58.20.210
-vless://4138c499-f6fe-48b8-a7cc-56c315e94ff7@152.53.229.84:443?type=ws&security=tls&path=/ws/4138c499-f6fe-48b8-a7cc-56c315e94ff7&sni=jvnsvntui5.dev.onappjet.com&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.229.84
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.1.40:8443?type=ws&security=tls&path=/A14U&sni=au4.pad-sservice.lat&fp=firefox#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.1.40

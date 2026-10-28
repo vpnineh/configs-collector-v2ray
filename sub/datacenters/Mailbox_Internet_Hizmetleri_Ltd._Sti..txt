@@ -1,1 +1,2 @@
-vless://e6b8d3a0-2cb0-48f7-a6b2-0e252eab9a77@sub2.silen3eux.ir:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 154.53.164.206
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@31.210.43.142:443?type=tcp&security=tls&sni=flooraccount.net&fp=firefox&flow=xtls-rprx-vision#TR 🇹🇷 ┇ VLESS-TCP-TLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 31.210.43.142
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@93.180.132.116:443?type=tcp&security=tls&sni=flooraccount.net&fp=chrome&flow=xtls-rprx-vision#TR 🇹🇷 ┇ VLESS-TCP-TLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 93.180.132.116

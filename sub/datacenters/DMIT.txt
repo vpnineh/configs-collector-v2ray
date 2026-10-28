@@ -11,3 +11,4 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.228.36:443?sni=tjsp.hhxaf.c
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.6.184:443?sni=tjsp.hhxaf.cc.cd&peer=tjsp.hhxaf.cc.cd&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - DMIT ┇ 154.17.6.184
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.225.54:443?sni=hhcm.hhxaf.cc.cd&peer=hhcm.hhxaf.cc.cd&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - DMIT ┇ 154.17.225.54
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRE1JVCBcdTI1MDcgMTU0LjE3LjIyLjU2IiwiYWRkIjoiMTU0LjE3LjIyLjU2IiwicG9ydCI6ODA4MywiaWQiOiJjYjQ0ODljNy1hOTY2LTMyMGMtOTEyMC1mMTdhN2RmYjQ5OTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9nYW1lIn0
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@154.26.188.52:443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=Njwb7fCl8PXKOs3owDB-gjzbmEyEewlL6JlMKwMTUQc&sid=b46b142b#US 🇺🇸 ┇ VLESS-TCP-RLT - DMIT ┇ 154.26.188.52
