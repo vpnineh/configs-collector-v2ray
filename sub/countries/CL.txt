@@ -1,4 +1,5 @@
 ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.2.21
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&peer=advanceyouremploymentskillsandcareerdevelopmenthub.com&security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 64.176.7.205
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.36.199
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.38.197
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.38.196
@@ -7,4 +8,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.38.29
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.36.200
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#CL 🇨🇱 ┇ TROJAN-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.36.197
+vless://99fa1d27-b252-4cba-b04d-50c3d0873700@hk013.zestapp778.com:59746?type=tcp&security=tls&sni=hk013.zestapp778.com&fp=chrome#CL 🇨🇱 ┇ VLESS-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.8.52
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?type=tcp&security=tls&sni=hk010.zestapp778.com&fp=chrome#CL 🇨🇱 ┇ VLESS-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.6.229
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us6.zestapp778.com:33069?type=tcp&security=tls&sni=us6.zestapp778.com&fp=chrome#CL 🇨🇱 ┇ VLESS-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.97.100
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112
