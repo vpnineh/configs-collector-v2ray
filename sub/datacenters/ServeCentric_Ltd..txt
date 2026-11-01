@@ -1,1 +1,2 @@
-vless://7754cb06-ca81-46c0-8d8d-801cf9e9d78c@sw--nn.bntabriz.ir:3389?type=tcp&security=none&path=/#IE 🇮🇪 ┇ VLESS-TCP-NTLS - ServeCentric Ltd. ┇ 212.147.245.144
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?type=ws&security=tls&sni=vp5.1145678.xyz&fp=chrome#IE 🇮🇪 ┇ VLESS-WS-TLS - ServeCentric Ltd. ┇ 212.147.234.124
+vless://7754cb06-ca81-46c0-8d8d-801cf9e9d78c@sw--nn.bntabriz.ir:3389?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - ServeCentric Ltd. ┇ 212.147.245.144
