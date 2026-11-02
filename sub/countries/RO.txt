@@ -1,7 +1,9 @@
+vless://dde64e50-7aad-4e66-ada9-40956bfeb668@dpoc.altheora.ir:6077?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS ┇ 89.44.80.76
 vless://fbaa413d-2ffb-4e36-8444-e1b1ab829fe1@188.241.54.208:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=qlVZ2ehdXHCxIADkf5swgXT2ZHrpSP7HM6SKTBMQXRU&sid=456bf62e2b728b97#RO 🇷🇴 ┇ VLESS-TCP-RLT ┇ 188.241.54.208
 vmess://eyJ2IjoiMiIsInBzIjoiUk8gXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyA0NS44NS4xMTkuMjA3IiwiYWRkIjoiNDUuODUuMTE5LjIwNyIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.81:8443?type=ws&security=tls&path=/&sni=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome#RO 🇷🇴 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.12.30.81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Dotro Telecom Srl ┇ 154.46.31.106
+vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=0QDBHaCRO2dPeeSVy3B3R_U12ZOvbvWl1JTFW_ZcpD0&sid=31e91d43e553bf32#RO 🇷🇴 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 82.117.255.174
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?sni=de2.dedushka.top&peer=de2.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.122
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?sni=de9.dedushka.top&peer=de9.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.235
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?sni=de10.dedushka.top&peer=de10.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.236
@@ -10,7 +12,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?sni=de5.dedushka.
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?sni=de6.dedushka.top&peer=de6.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.49
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?sni=de7.dedushka.top&peer=de7.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.200
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?sni=de8.dedushka.top&peer=de8.dedushka.top&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - HFM S.R.L ┇ 188.241.241.117
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?type=tcp&security=tls#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.177
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?type=tcp&security=reality&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48#RO 🇷🇴 ┇ VLESS-TCP-RLT - Interkvm Host Srl ┇ 195.74.93.254
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?type=tcp&security=reality&sni=ro.getvlessvpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&sid=b9f8f9772217538f#RO 🇷🇴 ┇ VLESS-TCP-RLT - Interkvm Host Srl ┇ 103.126.50.203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.68.44.42

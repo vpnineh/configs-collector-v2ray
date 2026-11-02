@@ -1,1 +1,2 @@
-vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083?type=tcp&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-TLS - TradeZone LLC ┇ 89.36.137.35
+trojan://humanity@89.36.137.173:443?sni=www.cordweave.com&peer=www.cordweave.com&security=tls#AE 🇦🇪 ┇ TROJAN-TCP-TLS - TradeZone LLC ┇ 89.36.137.173
+trojan://humanity@194.135.119.82:2053?sni=www.cordweave.com&peer=www.cordweave.com&security=tls#GE 🇬🇪 ┇ TROJAN-TCP-TLS - TradeZone LLC ┇ 194.135.119.82

@@ -1,1 +1,1 @@
-trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@id2-trojan.bonds.id:443?sni=id2-trojan.bonds.id&peer=id2-trojan.bonds.id&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Biznet Gio Nusantara ┇ 103.93.59.208
+vless://74df8abe-b176-4256-87be-e25a88aaee7e@103.150.192.28:443?type=ws&security=tls&path=/ws?ip=103.150.192.28:443&sni=link-vista-mua55s.pages.dev&fp=chrome#ID 🇮🇩 ┇ VLESS-WS-TLS - PT Biznet Gio Nusantara ┇ 103.150.192.28

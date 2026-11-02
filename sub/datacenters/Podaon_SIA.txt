@@ -1,1 +1,1 @@
-vless://a44768a4-f613-4083-a76d-0df966efdd7e@194.62.105.40:37387?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 194.62.105.40
+vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@77.220.213.244:8444?type=ws&security=tls&path=/api/v1/devices/d63ac7ea89/telemetry&sni=nl11.meshbeat.online&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Podaon SIA ┇ 77.220.213.244
