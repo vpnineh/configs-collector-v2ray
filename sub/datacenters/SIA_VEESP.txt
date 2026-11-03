@@ -5,5 +5,4 @@ vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?type=grpc&securi
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSUEgVkVFU1AgXHUyNTA3IDE4OC4yNTMuMjUuMTcyIiwiYWRkIjoiMTg4LjI1My4yNS4xNzIiLCJwb3J0Ijo0NDMsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIn0
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@188.253.26.216:443?type=tcp&security=reality&sni=nl3.nztvpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=noszGxmy754-TNyz9eM8EyHiaCRF2T4cu3El6GKb6n0&sid=0da7e14db353e7d0#NL 🇳🇱 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 188.253.26.216
-trojan://humanity@62.182.198.47:8443?sni=www.cordweave.com&peer=www.cordweave.com&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - SIA VEESP ┇ 62.182.198.47
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?type=tcp&security=none&path=/fdip#SI 🇸🇮 ┇ VLESS-TCP-NTLS - SIA VEESP ┇ 62.182.192.195
