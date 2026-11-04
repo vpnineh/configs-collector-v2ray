@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
-vless://bdebb0d0-1ac7-4d3a-8f18-99171d74affd@yan10.aliboba.shop:443?type=xhttp&security=tls&path=/api/api_v2/mediaupload_process&sni=yan10.aliboba.shop&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS ┇ 188.72.112.1
-trojan://humanity@8.47.69.0:443?security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
+trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
 trojan://humanity@8.47.69.60:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.60
 vless://Telegramid@8.47.69.100:443?type=xhttp&security=tls&path=/TelegramChannel:@daredevil_404&sni=daredevil2.manufacturingcity.ir&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.47.69.100
