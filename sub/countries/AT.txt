@@ -12,4 +12,5 @@ trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&peer=www.calmlunch.co
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@212.183.88.254:8880?type=ws&security=none&path=/&sni=Telegram-channel-WangCai2#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.1.57
+vless://1f61ccc1-cd38-49cd-97aa-a71771433976@cctvhikvision.center:2052?type=ws&security=none&path=api-v1#AT 🇦🇹 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 152.53.36.14
 vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?type=ws&security=tls&path=/USA1&sni=usa1.pad-service.com&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.90.42

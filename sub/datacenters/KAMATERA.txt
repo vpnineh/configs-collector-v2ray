@@ -1,4 +1,5 @@
 vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - KAMATERA ┇ 185.47.172.174
+vless://ba93c8f2-2936-4f73-9775-343acf92fed6@dcvv.chainmark.ir:22222?type=tcp&security=reality&sni=primevideo.com&fp=chrome&pbk=kZDvkY7Oyct6TL6FsoRLbPsF3ldMpbilDTRCOG0bd3U&sid=cf15d1c059a349b9#IT 🇮🇹 ┇ VLESS-TCP-RLT - KAMATERA ┇ 113.30.151.249
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KAMATERA ┇ 103.125.216.18
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KAMATERA ┇ 103.125.216.68
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?sni=103.125.216.11&peer=103.125.216.11&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KAMATERA ┇ 103.125.216.11
