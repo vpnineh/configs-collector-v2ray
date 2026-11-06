@@ -2,14 +2,15 @@ vmess://eyJ2IjoiMiIsInBzIjoiQUwgXHVkODNjXHVkZGU2XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443?security=tls#BR 🇧🇷 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.82.245.138
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?type=ws&security=none&path=/vless/#BR 🇧🇷 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.245.173
-vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1IVFRQVVBHUkFERS1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgMTk0Ljc2LjEzNi4xNDgiLCJhZGQiOiJkbC5wcmlzdHl0b29scy5jb20iLCJwb3J0IjoyMDk2LCJpZCI6IjU2MjNkOTVlLTRjN2MtNDFiNC1iMWVmLTg1MzhiOGU4OTVlYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Ii0tLSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDE5NC43Ni4xMzYuMTQ4IiwiYWRkIjoiZGwucHJpc3R5dG9vbHMuY29tIiwicG9ydCI6MjA4MywiaWQiOiI1NjIzZDk1ZS00YzdjLTQxYjQtYjFlZi04NTM4YjhlODk1ZWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=false&path=/vless&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-FALSE - Pq Hosting Plus S.r.l. ┇ 138.124.70.41
 vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?type=tcp&security=tls&sni=fi1.hys.braidx.tech&fp=chrome&flow=xtls-rprx-vision#CH 🇨🇭 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 138.124.244.77
-vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.39.251:443?type=tcp&security=reality&sni=nl-modx-prime.storagedirectguide.com&fp=firefox&flow=xtls-rprx-vision&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.39.251
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&sni=138-124-86-230.sslip.io&fp=chrome#CH 🇨🇭 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 138.124.86.230
 vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.32.139:443?type=tcp&security=reality&sni=nl-modx-prime.storagedirectguide.com&fp=chrome&flow=xtls-rprx-vision&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.32.139
 vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@138.124.126.158:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU&sid=eb0cca7312345678#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.126.158
 vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAxNzEuMjIuMTM0LjEyIiwiYWRkIjoiMTcxLjIyLjEzNC4xMiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwidGxzIjoidGxzIn0
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?type=tcp&security=false&path=/&fp=chrome#CY 🇨🇾 ┇ VLESS-TCP-FALSE - Pq Hosting Plus S.r.l. ┇ 45.86.60.174
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?type=tcp&security=reality&sni=ee2.japancase.site&flow=xtls-rprx-vision&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#CY 🇨🇾 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.86.60.190
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@80.92.204.106:9011#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 80.92.204.106
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&security=tls&path=/websocket&sni=de02.abvpn.ru#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.47.60
 vless://5b754a1a-11aa-4df9-a8ba-44af9a579fe1@2.56.122.52:8443?type=tcp&security=reality&sni=usa.b2ai.top&fp=chrome&flow=xtls-rprx-vision&pbk=upiiUpzV7q4L6pUmbgzB5r3zL957r17FuFDng3ip7R8#DE 🇩🇪 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 2.56.122.52
@@ -56,10 +57,10 @@ trojan://xxoo@138.124.183.222:443?sni=138.124.183.222&peer=138.124.183.222&secur
 trojan://xxoo@138.124.183.216:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 138.124.183.216
 trojan://xxoo@138.124.183.226:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 138.124.183.226
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgMTAzLjM1LjE4OC4yMjYiLCJhZGQiOiIxMDMuMzUuMTg4LjIyNiIsInBvcnQiOjgwLCJpZCI6IjA5OGU3Y2RkLTAzYjQtNDM1ZC04YzQxLWVhNjA4ZmE2MzdjMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzIn0
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.223
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.80
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.189
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?type=grpc&security=none&sni=pqh25v1.vetdomok.shop#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.114
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.80
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.223
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.189
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.180
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.123
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.141
