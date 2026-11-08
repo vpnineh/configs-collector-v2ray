@@ -35,4 +35,3 @@ vless://Default@69.46.46.46:443?type=ws&security=tls&path=/ws/vless/Default?ed=2
 vless://ef6ee78f23c29cffcff543f4cbaa17da@69.46.46.71:443?type=ws&security=tls&path=/ws/ef6ee78f23c29cffcff543f4cbaa17da&sni=sys-ce7a4a-c99e95-production.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.71
 vless://18758b47-442c-ce87-982f-95da64c3228b@69.46.46.123:443?type=ws&security=tls&path=/ws/18758b47-442c-ce87-982f-95da64c3228b&sni=sr-production-c685.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.123
 vless://3b4fb8d7-e166-93b1-55e5-076250c77a19@69.46.46.100:443?type=ws&security=tls&path=/ws/3b4fb8d7-e166-93b1-55e5-076250c77a19&sni=hidden-glacier-c2dd-production.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.100
-vless://12fd7f55-88f3-4e92-9e1a-d323dcb64e93@69.46.46.190:443?type=ws&security=tls&path=/api/b_pE1m&sni=siderail-production-0a00.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.190
