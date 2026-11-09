@@ -1,10 +1,10 @@
 trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.6.112.206
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@8.6.112.4:2082?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.4
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@8.6.112.6:2087?type=ws&security=tls&path=/&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.6
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?type=ws&security=tls&path=/item&sni=pagescm.freen20.cc.cd#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.138
 vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?type=ws&security=tls&path=/vlessws&sni=vpn.cintaku.qzz.io&fp=unsafe#MY 🇲🇾 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.35.211.242
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
-vless://d342d11e-d224-4463-b982-532309285094@8.47.69.60:443?type=ws&security=tls&path=/&sni=ccc.010304.xyz&fp=unsafe#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.60
 vless://Telegramid@8.47.69.100:443?type=xhttp&security=tls&path=/TelegramChannel:@daredevil_404&sni=daredevil2.manufacturingcity.ir&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.47.69.100
+vless://d342d11e-d224-4463-b982-532309285094@8.47.69.60:443?type=ws&security=tls&path=/&sni=ccc.010304.xyz&fp=unsafe#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.60
+ss://YWVzLTI1Ni1nY206MTIzNDU2@4.1.1.2:3#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEVEL3 ┇ 4.1.1.2
 ss://YWVzLTI1Ni1nY206MTIzNDU2@4.1.8.2:2#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEVEL3 ┇ 4.1.8.2
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.7.8.8:0#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEVEL3 ┇ 8.7.8.8
