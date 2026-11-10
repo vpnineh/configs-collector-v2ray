@@ -1,2 +1,2 @@
 vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@188.137.237.14:8444?type=ws&security=tls&path=/api/v1/devices/317eb6a07b/telemetry&sni=nl16.meshbeat.online&fp=chrome#BH 🇧🇭 ┇ VLESS-WS-TLS ┇ 188.137.237.14
-vless://616f823c-dec8-450e-8312-349d41fb240e@suq.deev-guard.ir:5444?type=tcp&security=none#BH 🇧🇭 ┇ VLESS-TCP-NTLS ┇ 188.137.252.137
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@188.137.178.174:8443?type=ws&security=tls&path=/fp=chrome&sni=fs.qicai99.com#BH 🇧🇭 ┇ VLESS-WS-TLS ┇ 188.137.178.174
