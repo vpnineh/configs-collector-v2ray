@@ -1,1 +1,2 @@
-vless://d9cc5c37-b53c-1131-b4e1-1b9f7fbea1b1@79.174.92.254:443?type=grpc&security=reality&sni=cdn.selectel.ru&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Domain names registrar REG.RU, Ltd ┇ 79.174.92.254
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.232.240:443?type=ws&security=tls&path=/api/generate&sni=files.neurixai.app&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Domain names registrar REG.RU, Ltd ┇ 95.163.232.240
+vless://930fa247-a708-454d-a463-a5562cee642f@194.67.125.188:443?type=tcp&security=reality&sni=us1.serverslocal.ru&fp=chrome&flow=xtls-rprx-vision&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Domain names registrar REG.RU, Ltd ┇ 194.67.125.188
