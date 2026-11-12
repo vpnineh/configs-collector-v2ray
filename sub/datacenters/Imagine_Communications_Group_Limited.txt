@@ -1,3 +1,3 @@
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@api-austria.locallynet.org:6443?type=tcp&security=tls&sni=api-austria.locallynet.org&fp=firefox&flow=xtls-rprx-vision#IE 🇮🇪 ┇ VLESS-TCP-TLS - Imagine Communications Group Limited ┇ 83.141.81.118
-vless://e2e0de8b-c926-4f64-8e81-99acc66ea0a0@unix1tbilion.wizardxray.net:443?type=tcp&security=tls&sni=unix1tbilion.wizardxray.net&fp=chrome&flow=xtls-rprx-vision#IE 🇮🇪 ┇ VLESS-TCP-TLS - Imagine Communications Group Limited ┇ 83.141.80.132
+vless://232fa5fc-f8af-4c96-a6cf-f69d3c60fa33@83.141.88.177:443?type=xhttp&security=tls&sni=vector-gate.ru&fp=ios#IE 🇮🇪 ┇ VLESS-XHTTP-TLS - Imagine Communications Group Limited ┇ 83.141.88.177
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@api-austria.locallynet.org:6443?type=tcp&security=tls&sni=api-austria.locallynet.org&fp=chrome&flow=xtls-rprx-vision#IE 🇮🇪 ┇ VLESS-TCP-TLS - Imagine Communications Group Limited ┇ 83.141.80.242
 vless://8f719b99-8ee2-4402-8dc0-b37ad5b49ee1@devlayer.ru:8444?type=grpc&security=reality&sni=devlayer.ru&fp=chrome&pbk=itcnYaywQAH3lmUITBTSInap8hSw53mx8sA-TDwRU0c&sid=c46a27f4595db3d4#IE 🇮🇪 ┇ VLESS-GRPC-RLT - Imagine Communications Group Limited ┇ 83.141.71.200

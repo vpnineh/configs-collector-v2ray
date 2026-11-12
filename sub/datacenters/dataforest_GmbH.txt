@@ -1,2 +1,1 @@
-vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?type=ws&security=tls&path=/merky-connect/de6/&sni=sub.merky.top&fp=firefox#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 94.143.231.146
-vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@45.157.235.218:443?type=grpc&security=reality&sni=a566d1g.de18.h1clayd.click&fp=ios&pbk=C_DlyXDDS4fWcAlxb-6O7LBKtq28fg2slCrH5tPaTQ4&sid=16cea10606a4e401#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 45.157.235.218
+vless://ba4e5cac-7af3-4fd3-9e0b-9020773d3dda@45.157.235.170:443?type=xhttp&security=reality&sni=89c231x.de18.h1clayd.click&fp=chrome&pbk=KpRFjR-9PKEVEi6QpAUeVInXsQrFQjMSdQLOCDKZqXE&sid=584c33c4837e2db0#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - dataforest GmbH ┇ 45.157.235.170
