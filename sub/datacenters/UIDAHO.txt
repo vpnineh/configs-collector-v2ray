@@ -1,1 +1,2 @@
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?type=ws&security=tls&path=/static/js/runtime.9d03c7.js&sni=lte-v2-ws.gacvpn.site&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - UIDAHO ┇ 129.101.100.126
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@129.101.100.126:8443?type=ws&security=tls&path=/static/js/runtime.9d03c7.js&sni=lte-v2-ws.gacvpn.site&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - UIDAHO ┇ 129.101.100.126
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@ru7e2bab87cc39.eu-cdn539.com:443?type=tcp&security=reality&sni=ru7e2bab87cc39.eu-cdn539.com&fp=chrome&flow=xtls-rprx-vision&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&sid=3992cc7fb9fcbe58#US 🇺🇸 ┇ VLESS-TCP-RLT - UIDAHO ┇ 129.101.98.60

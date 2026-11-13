@@ -1,2 +1,2 @@
-vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@188.137.237.14:8444?type=tcp&security=none&path=/api/v1/devices/317eb6a07b/telemetry#BH 🇧🇭 ┇ VLESS-TCP-NTLS ┇ 188.137.237.14
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@188.137.178.174:8443?type=ws&security=tls&path=/fp=chrome&sni=fs.qicai99.com#BH 🇧🇭 ┇ VLESS-WS-TLS ┇ 188.137.178.174
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@188.137.178.174:8443?type=ws&security=tls&path=/&sni=fs.qicai99.com&fp=chrome#BH 🇧🇭 ┇ VLESS-WS-TLS ┇ 188.137.178.174
+vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@188.137.237.14:8444?type=ws&security=tls&path=/api/v1/devices/317eb6a07b/telemetry&sni=nl16.meshbeat.online&fp=chrome#BH 🇧🇭 ┇ VLESS-WS-TLS ┇ 188.137.237.14

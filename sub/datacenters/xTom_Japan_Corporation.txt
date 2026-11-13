@@ -1,4 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSB4VG9tIEphcGFuIENvcnBvcmF0aW9uIFx1MjUwNyAxNDcuNzguMjQ0LjciLCJhZGQiOiIxNDcuNzguMjQ0LjciLCJwb3J0Ijo0NDMsImlkIjoiYzI5MDdhOWEtNTAyNC00MWZkLWJlM2MtMzA4ODU1ODVlM2VmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.66.129.12:443?type=ws&security=tls&path=/tyxyws&sni=jp3.yohototo.top&fp=unsafe#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 45.66.129.12
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.66.129.225:443?type=ws&security=tls&path=/tyxyws&sni=jp3.yohototo.top&fp=unsafe#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 45.66.129.225
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@193.111.30.37:443?type=ws&security=tls&path=/tyxyws&sni=jp3.yohototo.top&fp=unsafe#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 193.111.30.37
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.66.129.12:443?type=tcp&security=none&path=/tyxyws#JP 🇯🇵 ┇ VLESS-TCP-NTLS - xTom Japan Corporation ┇ 45.66.129.12
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.142.126.184:443?type=ws&security=tls&path=/tyxyws&sni=jp3.yohototo.top&fp=unsafe#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 45.142.126.184

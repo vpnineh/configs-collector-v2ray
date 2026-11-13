@@ -1,4 +1,4 @@
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?type=tcp&security=reality&sni=no.gacvpn.site&fp=firefox&flow=xtls-rprx-vision&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&sid=08d12dce#IL 🇮🇱 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.203.10.214
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&security=tls#RU 🇷🇺 ┇ VLESS-GRPC-TLS - PUREVOLTAGE-INC ┇ 45.138.100.226
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@194.104.9.44:443?type=tcp&security=reality&sni=tradingview.com&flow=xtls-rprx-vision&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09#RU 🇷🇺 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 194.104.9.44
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?type=tcp&security=none&fp=firefox#US 🇺🇸 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 64.49.38.6
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?type=tcp&security=none&path=/&sni=45.138.100.248#RU 🇷🇺 ┇ VLESS-TCP-NTLS - PUREVOLTAGE-INC ┇ 45.138.100.248
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?type=tcp&security=reality&sni=download.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0#US 🇺🇸 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 64.49.38.6
