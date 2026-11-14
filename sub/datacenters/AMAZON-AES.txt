@@ -1,7 +1,8 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.196.238.241:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 54.196.238.241
+trojan://telegram-id-directvpn@3.239.128.106:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 3.239.128.106
 trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?sni=tr7.tgcunzhang.xyz&peer=tr7.tgcunzhang.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 3.85.62.200
 trojan://telegram-id-directvpn@44.211.71.82:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 44.211.71.82
-trojan://telegram-id-directvpn@3.239.128.106:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 3.239.128.106
 trojan://telegram-id-directvpn@44.201.217.130:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 44.201.217.130
+trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:44370?sni=www.yahoo.com&peer=www.yahoo.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-AES ┇ 54.243.25.220
+vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?type=ws&security=tls&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-AES ┇ 34.194.194.228
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@44.198.180.112:65532?type=tcp&security=reality&sni=apple.com&fp=edge&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-AES ┇ 44.198.180.112
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@100.31.159.227:1114?type=tcp&security=reality&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-AES ┇ 100.31.159.227
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@100.31.159.227:1114?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-AES ┇ 100.31.159.227
