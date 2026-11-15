@@ -1,1 +1,3 @@
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@196.240.125.250:8443?type=tcp&security=tls&path=/&sni=api-v1-6af87527.vmagnum.win&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - FIBERGRID ┇ 196.240.125.250
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@196.240.125.10:8443?type=tcp&security=tls&sni=api-v1-6af86a96.vmagnum.win&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - FIBERGRID ┇ 196.240.125.10
 vless://97fd7807-7e2b-49da-8a0e-e40197088f97@196.240.125.6:8443?type=tcp&security=tls&sni=api-v2-6af3f40b.vmagnum.win&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - FIBERGRID ┇ 196.240.125.6
