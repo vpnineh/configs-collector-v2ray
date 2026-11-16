@@ -1,3 +1,2 @@
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?sni=87.121.218.169&peer=87.121.218.169&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - DpkgSoft International Limited ┇ 87.121.218.169
-vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?type=tcp&security=reality&path=/&fp=chrome&flow=xtls-rprx-vision&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15#DE 🇩🇪 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 147.45.66.60
-vless://0281a320-21e8-434f-86b7-a7c0db58c0db@150.241.123.99:443?type=ws&security=tls&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&sni=je8r21hqax.dev.onappjet.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - DpkgSoft International Limited ┇ 150.241.123.99
+vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15#DE 🇩🇪 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 147.45.66.60

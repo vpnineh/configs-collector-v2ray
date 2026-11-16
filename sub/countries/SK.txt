@@ -3,4 +3,5 @@ vless://00018846-513b-6e3b-5301-9c9ff2d375a3@decdn.fius.dev:443?type=xhttp&secur
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
 vless://Telegramid@8.47.69.100:443?type=xhttp&security=tls&path=/TelegramChannel:@daredevil_404&sni=daredevil2.manufacturingcity.ir&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.47.69.100
 vless://d342d11e-d224-4463-b982-532309285094@8.47.69.60:443?type=ws&security=tls&path=/&sni=ccc.010304.xyz&fp=unsafe#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.60
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?type=xhttp&security=reality&path=/d20896a4ce30&sni=e60833x.nl7.h1clayd.click&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&sid=2d2598d60447a967#SK 🇸🇰 ┇ VLESS-XHTTP-RLT - Orion Network Limited ┇ 196.245.153.104
+vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@196.245.153.112:443?type=tcp&security=reality&sni=bbcdd4t.de-p2.h1clayd.click&fp=chrome&pbk=n9cdr2Qf9h3S_jf5Rcd15fl-4fxuztHvlexE7G-QvW8&sid=1aab0b827885a8b4#SK 🇸🇰 ┇ VLESS-TCP-RLT - Orion Network Limited ┇ 196.245.153.112
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?type=tcp&security=reality&sni=5d0319t.nl7.h1clayd.click&fp=chrome&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f#SK 🇸🇰 ┇ VLESS-TCP-RLT - Orion Network Limited ┇ 196.245.153.104
