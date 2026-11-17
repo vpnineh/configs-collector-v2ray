@@ -1,1 +1,1 @@
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?sni=sj6.freeguard.org&peer=sj6.freeguard.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-SFO ┇ 23.106.44.14
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@172.255.210.24:443?type=tcp&security=reality&sni=net-cfg-api.galioncc.com&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-SFO ┇ 172.255.210.24
