@@ -1,6 +1,5 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
-vless://00018846-513b-6e3b-5301-9c9ff2d375a3@188.72.112.1:443?type=xhttp&security=tls&path=/api-test&sni=nlcdn.fius.dev#SK 🇸🇰 ┇ VLESS-XHTTP-TLS ┇ 188.72.112.1
-vless://00018891-e375-37b9-ff84-0937406780e7@188.72.112.2:443?type=xhttp&security=tls&sni=secdn.fius.dev&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS ┇ 188.72.112.2
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@eecdn.fius.dev:443?type=xhttp&security=tls&path=/api-test&sni=eecdn.fius.dev&fp=firefox#SK 🇸🇰 ┇ VLESS-XHTTP-TLS ┇ 188.72.112.1
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#SK 🇸🇰 ┇ TROJAN-TCP-TLS - LEVEL3 ┇ 8.47.69.0
 vless://Telegramid@8.47.69.100:443?type=xhttp&security=tls&path=/TelegramChannel:@daredevil_404&sni=daredevil2.manufacturingcity.ir&fp=chrome#SK 🇸🇰 ┇ VLESS-XHTTP-TLS - LEVEL3 ┇ 8.47.69.100
 vless://d342d11e-d224-4463-b982-532309285094@8.47.69.60:443?type=ws&security=tls&path=/&sni=ccc.010304.xyz&fp=unsafe#SK 🇸🇰 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.47.69.60

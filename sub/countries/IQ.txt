@@ -2,4 +2,4 @@ vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@194.150.166.228:9443?type=tcp&secur
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@178.17.60.97:5443?sni=fi1.nebulaguard.org&peer=fi1.nebulaguard.org&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - MADGEN-01 ┇ 178.17.60.97
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@178.17.52.31:2087?type=xhttp&security=reality&sni=maps.blog-forme.ru&fp=chrome&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23#IQ 🇮🇶 ┇ VLESS-XHTTP-RLT - MADGEN-01 ┇ 178.17.52.31
 vless://ea1bee20-9217-42c0-acee-d12bf0c42602@178.17.53.154:48982?type=xhttp&security=reality&sni=cdn6-91.yahoo.com&fp=chrome&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE#IQ 🇮🇶 ┇ VLESS-XHTTP-RLT - MADGEN-01 ┇ 178.17.53.154
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?type=ws&security=tls&path=/cdn/v3/live&sni=stb71e5.rumedia-cdn.com&fp=chrome#IQ 🇮🇶 ┇ VLESS-WS-TLS - TigrisNet ┇ 81.90.21.163
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?type=tcp&security=none&path=/cdn/v3/live?ed#IQ 🇮🇶 ┇ VLESS-TCP-NTLS - TigrisNet ┇ 81.90.21.163

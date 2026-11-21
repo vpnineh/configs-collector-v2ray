@@ -1,4 +1,5 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.64:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.64
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.61
 trojan://humanity@213.182.199.137:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#HR 🇭🇷 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 213.182.199.137
+vless://bc93a03d-13b5-0006-8ee7-d50c11459dab@89.18.60.230:443?type=tcp&security=reality&sni=diffoscope.com&fp=chrome&flow=xtls-rprx-vision&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9#HR 🇭🇷 ┇ VLESS-TCP-RLT - Felix Gassan ┇ 89.18.60.230
 vless://71b6bbe3-08a7-4769-9f7a-ba294e462ebc@185.156.110.35:777?type=grpc&security=reality&sni=it.nvidia.com&fp=chrome&pbk=KxQXSYLnV2yk8j9kDcMXYddtE_3jvI_t9nqUKgZ0DC8&sid=0279388c#HR 🇭🇷 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 185.156.110.35
